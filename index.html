@@ -353,7 +353,6 @@
             timerInterval: null,
             timeLeft: 1800, // 30 minutes in seconds
             
-            cheatWarnings: 0,
             isTesting: false,
             retryMode: false // true if user is re-doing wrong answers
         };
@@ -596,8 +595,6 @@
             renderQuestion(0);
             startTimer();
             updateProgress();
-            
-            window.addEventListener('blur', cheatWarning);
         }
 
         function renderQuestionList() {
@@ -794,32 +791,12 @@
 
         function stopTimer() {
             clearInterval(appState.timerInterval);
-            window.removeEventListener('blur', cheatWarning);
-            
+
             try {
                 if (document.fullscreenElement) {
                     document.exitFullscreen();
                 }
             } catch(e) {}
-        }
-
-        function cheatWarning() {
-            if (appState.isTeacher) return;
-            
-            appState.cheatWarnings++;
-            if (appState.cheatWarnings >= 3) {
-                stopTimer();
-                modal.show('Đình chỉ thi!', 'Bạn đã rời khỏi màn hình làm bài quá 3 lần. Bài thi bị hủy kết quả.', [{
-                    text: 'Nộp bài ngay',
-                    class: 'bg-red-600 text-white',
-                    onClick: submitQuiz
-                }], 'fa-ban', 'text-red-600');
-            } else {
-                modal.show('Cảnh báo!', `Bạn đã rời khỏi màn hình thi (${appState.cheatWarnings}/3 lần). Nếu vi phạm quá 3 lần sẽ bị hủy bài!`, [{
-                    text: 'Tôi đã hiểu',
-                    class: 'bg-yellow-500 text-white'
-                }], 'fa-exclamation-triangle', 'text-yellow-500');
-            }
         }
 
         function confirmSubmit() {
