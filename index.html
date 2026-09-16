@@ -462,7 +462,6 @@
             try {
                 modal.show('Đang tải dữ liệu...', 'Vui lòng chờ trong giây lát...', [], 'fa-spinner fa-spin', 'text-blue-500');
                 
-                // Đổi thành ./ để có thể test trực tiếp trên máy tính mà không bị lỗi đường dẫn
                 const fetchUrl = `./${fileName}`; 
                 const response = await fetch(fetchUrl);
                 
@@ -475,11 +474,9 @@
 
                 let processedData = [];
 
-                // Xử lý cấu trúc JSON mới (chỉ lấy phần Trắc nghiệm part_A cho giao diện nút bấm)
                 if (rawData.part_A) {
                     rawData.part_A.forEach(item => {
                         let optsArray = [];
-                        // Tự động tách chuỗi "A. camping, B. shops..." thành 4 nút đáp án riêng lẻ
                         if (typeof item.options === 'string') {
                             optsArray = item.options.split(/,\s*(?=[A-D]\.)/);
                         } else {
@@ -494,18 +491,15 @@
                         });
                     });
                 } else {
-                    // Dự phòng nếu bạn tải cấu trúc JSON cũ lên
                     processedData = rawData;
                 }
 
-                // Trộn câu hỏi ngẫu nhiên
                 processedData = shuffleArray(processedData);
 
                 if (count && count > 0) {
                     processedData = processedData.slice(0, count);
                 }
 
-                // Gắn dữ liệu vào cấu trúc hiển thị của giao diện
                 return processedData.map((item, index) => {
                     let finalOpts = item.opts ? shuffleArray([...item.opts]) : [];
                     return {
