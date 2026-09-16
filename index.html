@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IOE PRACTICE TEST - Ruby School</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        ruby: {
+                            light: '#ffe5e5',
+                            DEFAULT: '#e60000', // Ruby School Red
+                            dark: '#b30000',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            overflow-x: hidden;
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #e60000; }
+
+        /* Aspect Ratio Container for Quiz */
+        .quiz-container {
+            width: 100%;
+            max-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background: white;
+            transition: all 0.3s ease;
+        }
+
+        .ratio-4-3 {
+            aspect-ratio: 4/3;
+            max-width: 1200px;
+            margin: 0 auto;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .ratio-tablet {
+            max-width: 100%;
+            height: 100vh;
+            border-radius: 0;
+            font-size: 110%;
+        }
+
+        /* Glassmorphism Modals */
+        .modal-overlay {
+            background: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(4px);
+        }
+
+        /* Hide elements dynamically */
+        .hidden { display: none !important; }
+        
+        .tab-btn.active {
+            border-bottom: 3px solid #e60000;
+            color: #e60000;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body class="h-screen w-screen flex items-center justify-center relative">
+
+    <!-- Modal Container -->
+    <div id="global-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center modal-overlay p-4">
+        <div class="bg-white rounded-2xl shadow-2xl max-w-md w-full overflow-hidden transform transition-all scale-100 p-6 flex flex-col items-center text-center">
+            <div id="modal-icon" class="text-5xl mb-4 text-ruby">
+                <i class="fas fa-exclamation-circle"></i>
+            </div>
+            <h3 id="modal-title" class="text-2xl font-bold text-gray-800 mb-2">Title</h3>
+            <p id="modal-desc" class="text-gray-600 mb-6">Description goes here.</p>
+            <div id="modal-actions" class="flex gap-3 w-full justify-center">
+                <!-- Buttons injected via JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- SCREEN: START -->
+    <div id="screen-start" class="w-full h-full flex items-center justify-center bg-ruby-light/30 relative">
+        <div class="bg-white rounded-3xl shadow-xl w-full max-w-lg p-10 border-t-8 border-ruby relative">
+            <div class="text-center mb-8">
+                <div class="w-20 h-20 bg-ruby text-white rounded-full flex items-center justify-center mx-auto mb-4 text-3xl shadow-lg shadow-ruby/40">
+                    <i class="fas fa-graduation-cap"></i>
+                </div>
+                <h1 class="text-3xl font-extrabold text-gray-800 tracking-tight">IOE PRACTICE TEST</h1>
+                <p class="text-ruby font-semibold mt-1">Ruby School</p>
+            </div>
+
+            <form id="start-form" class="space-y-5">
+                <div>
+                    <label class="block text-sm font-semibold text-gray-700 mb-1">Full Name</label>
+                    <input type="text" id="student-name" required placeholder="Enter your name" class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-ruby focus:border-ruby outline-none transition-all">
+                </div>
+                
+                <div class="flex gap-4">
+                    <div class="flex-1">
+                        <label class="block text-sm font-semibold text-gray-700 mb-1">Select Grade</label>
+                        <select id="student-grade" required class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-ruby focus:border-ruby outline-none transition-all bg-white">
+                            <option value="" disabled selected>Choose Class...</option>
+                            <option value="3">Grade 3</option>
+                            <option value="4">Grade 4</option>
+                            <option value="5">Grade 5</option>
+                            <option value="6">Grade 6</option>
+                            <option value="7">Grade 7</option>
+                            <option value="8">Grade 8</option>
+                            <option value="9">Grade 9</option>
+                        </select>
+                    </div>
+                    <div class="flex-1 flex flex-col justify-end">
+                        <label class="block text-sm font-semibold text-gray-700 mb-1">Questions</label>
+                        <select id="test-mode" class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-ruby focus:border-ruby outline-none transition-all bg-white mb-2">
+                            <optgroup label="Full Test">
+                                <option value="full-1">Full Test - Chuyên đề 1</option>
+                                <option value="full-2">Full Test - Chuyên đề 2</option>
+                                <option value="full-3">Full Test - Chuyên đề 3</option>
+                                <option value="full-4">Full Test - Chuyên đề 4</option>
+                                <option value="full-5">Full Test - Chuyên đề 5</option>
+                                <option value="full-6">Full Test - Chuyên đề 6</option>
+                                <option value="full-7">Full Test - Chuyên đề 7</option>
+                                <option value="full-8">Full Test - Chuyên đề 8</option>
+                                <option value="full-9">Full Test - Chuyên đề 9</option>
+                                <option value="full-10">Full Test - Chuyên đề 10</option>
+                            </optgroup>
+                            <option value="custom">Custom Number</option>
+                        </select>
+                        <select id="custom-topic" class="hidden w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-ruby focus:border-ruby outline-none transition-all bg-white mb-2">
+                            <option value="1">Chọn Chuyên đề 1</option>
+                            <option value="2">Chọn Chuyên đề 2</option>
+                            <option value="3">Chọn Chuyên đề 3</option>
+                            <option value="4">Chọn Chuyên đề 4</option>
+                            <option value="5">Chọn Chuyên đề 5</option>
+                            <option value="6">Chọn Chuyên đề 6</option>
+                            <option value="7">Chọn Chuyên đề 7</option>
+                            <option value="8">Chọn Chuyên đề 8</option>
+                            <option value="9">Chọn Chuyên đề 9</option>
+                            <option value="10">Chọn Chuyên đề 10</option>
+                        </select>
+                        <input type="number" id="question-count" min="1" max="199" placeholder="Số câu (Max 199)" class="hidden w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-ruby focus:border-ruby outline-none transition-all bg-white">
+                    </div>
+                </div>
+
+                <div>
+                    <label class="block text-sm font-semibold text-gray-700 mb-1">Passcode</label>
+                    <input type="password" id="passcode" required placeholder="Enter passcode" class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-ruby focus:border-ruby outline-none transition-all">
+                </div>
+
+                <button type="submit" class="w-full bg-ruby hover:bg-ruby-dark text-white font-bold py-4 rounded-xl shadow-lg transform transition-all active:scale-95 text-lg mt-4">
+                    START TEST <i class="fas fa-arrow-right ml-2"></i>
+                </button>
+            </form>
+            
+            <!-- Secret Teacher Key Input (Discreet) -->
+            <input type="password" id="teacher-key" placeholder="Key" class="absolute bottom-2 right-2 w-16 text-[10px] p-1 border-none bg-transparent text-gray-300 focus:text-gray-700 focus:bg-gray-100 outline-none rounded text-center opacity-30 hover:opacity-100 transition-opacity">
+        </div>
+    </div>
+
+    <!-- SCREEN: QUIZ -->
+    <div id="screen-quiz" class="hidden w-full h-full bg-gray-900 flex items-center justify-center">
+        <!-- Main Quiz Container (Ratio handled by JS based on device) -->
+        <div id="quiz-wrapper" class="quiz-container ratio-4-3 relative flex flex-col">
+            
+            <!-- Header -->
+            <header class="bg-white border-b border-gray-200 px-6 py-4 flex justify-between items-center shrink-0">
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 bg-ruby text-white rounded-lg flex items-center justify-center font-bold">
+                        IOE
+                    </div>
+                    <div>
+                        <h2 class="font-bold text-gray-800 leading-tight">Practice Test</h2>
+                        <div class="text-xs text-gray-500 font-medium" id="quiz-student-info">Name - Grade</div>
+                    </div>
+                </div>
+                
+                <div class="flex items-center gap-6">
+                    <div class="text-center">
+                        <div class="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-1">Time Left</div>
+                        <div id="timer" class="font-mono text-xl font-bold text-gray-800">30:00</div>
+                    </div>
+                    <button id="btn-submit-top" class="bg-ruby text-white px-6 py-2 rounded-lg font-bold hover:bg-ruby-dark transition-colors shadow-md flex items-center gap-2">
+                        <i class="fas fa-paper-plane"></i> SUBMIT
+                    </button>
+                </div>
+            </header>
+            
+            <!-- Progress Bar -->
+            <div class="w-full bg-gray-200 h-2 shrink-0">
+                <div id="progress-bar" class="bg-ruby h-full transition-all duration-500 ease-out w-0"></div>
+            </div>
+
+            <!-- Body Area -->
+            <div class="flex-1 flex overflow-hidden flex-col md:flex-row bg-gray-50">
+                
+                <!-- Left Sidebar (Navigator) -->
+                <aside class="w-full md:w-64 bg-white border-r border-gray-200 flex flex-col shrink-0">
+                    <div class="p-4 bg-gray-50 border-b border-gray-200">
+                        <h3 class="font-bold text-sm text-gray-700 uppercase tracking-wider flex items-center justify-between">
+                            Navigator <span id="answered-count" class="text-ruby bg-ruby-light px-2 py-0.5 rounded-full text-xs">0/0</span>
+                        </h3>
+                    </div>
+                    
+                    <!-- Tabs for Parts -->
+                    <div id="part-tabs" class="flex md:flex-col overflow-x-auto border-b md:border-b-0 border-gray-200">
+                        <!-- Tabs injected via JS -->
+                    </div>
+
+                    <!-- Question Grid for Current Part -->
+                    <div class="flex-1 overflow-y-auto p-4">
+                        <div id="question-grid" class="grid grid-cols-5 md:grid-cols-4 gap-2">
+                            <!-- Number buttons injected via JS -->
+                        </div>
+                    </div>
+                </aside>
+
+                <!-- Right Main Content (Question & Answers Side-by-Side) -->
+                <main class="flex-1 flex flex-col h-full relative p-6 md:p-8">
+                    
+                    <div class="flex-1 flex flex-col lg:flex-row gap-8 overflow-y-auto">
+                        <!-- Question Side -->
+                        <div class="flex-1 bg-white p-6 rounded-2xl shadow-sm border border-gray-100 flex flex-col justify-center relative">
+                            <span class="absolute top-4 left-4 bg-gray-100 text-gray-500 font-bold px-3 py-1 rounded-md text-sm" id="current-q-label">Question 1</span>
+                            <div id="question-text" class="text-2xl md:text-3xl font-semibold text-gray-800 leading-snug mt-8 text-center lg:text-left">
+                                <!-- Question text injected here -->
+                            </div>
+                        </div>
+                        
+                        <!-- Answers Side -->
+                        <div class="flex-1 flex flex-col justify-center gap-4" id="options-container">
+                            <!-- Options injected here -->
+                        </div>
+                    </div>
+
+                    <!-- Bottom Controls -->
+                    <div class="pt-6 mt-4 border-t border-gray-200 flex justify-between items-center shrink-0">
+                        <button id="btn-prev" class="px-5 py-2.5 rounded-lg font-semibold text-gray-600 hover:bg-gray-200 transition-colors invisible">
+                            <i class="fas fa-arrow-left mr-2"></i> Previous
+                        </button>
+                        <button id="btn-next" class="px-5 py-2.5 rounded-lg font-semibold bg-gray-800 text-white hover:bg-black shadow-md transition-colors">
+                            Next <i class="fas fa-arrow-right ml-2"></i>
+                        </button>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCREEN: RESULT -->
+    <div id="screen-result" class="hidden w-full h-full overflow-y-auto bg-gray-50 flex items-center justify-center p-4">
+        <div class="bg-white max-w-3xl w-full rounded-3xl shadow-2xl overflow-hidden">
+            <!-- Header Pattern -->
+            <div class="bg-ruby p-8 text-center relative overflow-hidden">
+                <div class="absolute inset-0 opacity-10" style="background-image: radial-gradient(circle at 2px 2px, white 1px, transparent 0); background-size: 20px 20px;"></div>
+                <h1 class="text-4xl font-extrabold text-white relative z-10 mb-2">Test Completed!</h1>
+                <p id="result-name-class" class="text-ruby-light font-medium relative z-10 text-lg">Student Name - Grade X</p>
+            </div>
+            
+            <div class="p-8 md:p-12">
+                <div class="flex flex-col md:flex-row items-center justify-around mb-10 gap-8">
+                    <!-- Score Circle -->
+                    <div class="relative w-48 h-48 flex items-center justify-center">
+                        <svg class="w-full h-full transform -rotate-90" viewBox="0 0 100 100">
+                            <circle cx="50" cy="50" r="45" fill="none" stroke="#f1f5f9" stroke-width="8"></circle>
+                            <circle id="score-circle" cx="50" cy="50" r="45" fill="none" stroke="#e60000" stroke-width="8" stroke-dasharray="283" stroke-dashoffset="283" class="transition-all duration-1000 ease-out"></circle>
+                        </svg>
+                        <div class="absolute inset-0 flex flex-col items-center justify-center text-center">
+                            <span id="score-percent" class="text-4xl font-black text-gray-800">0%</span>
+                            <span id="score-text" class="text-sm font-semibold text-gray-500 mt-1">0 / 0 points</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Stats Grid -->
+                    <div class="grid grid-cols-2 gap-4 w-full md:w-auto">
+                        <div class="bg-green-50 rounded-xl p-4 border border-green-100 text-center">
+                            <div class="text-green-500 text-xl mb-1"><i class="fas fa-check-circle"></i></div>
+                            <div class="text-2xl font-bold text-green-700" id="stat-correct">0</div>
+                            <div class="text-xs font-semibold text-green-600 uppercase">Correct</div>
+                        </div>
+                        <div class="bg-red-50 rounded-xl p-4 border border-red-100 text-center">
+                            <div class="text-red-500 text-xl mb-1"><i class="fas fa-times-circle"></i></div>
+                            <div class="text-2xl font-bold text-red-700" id="stat-wrong">0</div>
+                            <div class="text-xs font-semibold text-red-600 uppercase">Incorrect</div>
+                        </div>
+                        <div class="bg-blue-50 rounded-xl p-4 border border-blue-100 text-center col-span-2">
+                            <div class="text-blue-500 text-xl mb-1"><i class="fas fa-clock"></i></div>
+                            <div class="text-2xl font-bold text-blue-700" id="stat-time">00:00</div>
+                            <div class="text-xs font-semibold text-blue-600 uppercase">Total Time</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Actions -->
+                <div class="flex flex-col sm:flex-row gap-4 justify-center mt-8">
+                    <button id="btn-review" class="flex-1 py-4 px-6 bg-gray-100 hover:bg-gray-200 text-gray-800 font-bold rounded-xl transition-colors flex items-center justify-center gap-2 border border-gray-200">
+                        <i class="fas fa-list-check"></i> Review Answers
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- SCREEN: REVIEW -->
+    <div id="screen-review" class="hidden w-full h-full overflow-hidden bg-gray-100 flex flex-col">
+        <header class="bg-white border-b border-gray-200 px-6 py-4 flex justify-between items-center shrink-0 shadow-sm z-10">
+            <div class="flex items-center gap-3">
+                <button id="btn-back-result" class="w-10 h-10 bg-gray-100 hover:bg-gray-200 text-gray-600 rounded-full flex items-center justify-center transition-colors">
+                    <i class="fas fa-arrow-left"></i>
+                </button>
+                <h2 class="font-bold text-gray-800 text-xl">Review Answers</h2>
+            </div>
+            <div class="text-ruby font-bold">IOE PRACTICE TEST</div>
+        </header>
+        <main class="flex-1 overflow-y-auto p-4 md:p-8">
+            <div class="max-w-4xl mx-auto space-y-6" id="review-container">
+                <!-- Review cards injected here -->
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // --- STATE VARIABLES ---
+        let appState = {
+            studentName: '',
+            grade: '',
+            targetCount: 0,
+            isTeacher: false,
+            deviceType: 'laptop', // laptop or tablet
+            
+            questions: [],
+            answers: {}, // { questionId: selectedOption }
+            currentQuestionIndex: 0,
+            currentTab: 0, // grouping 5 questions per tab
+            
+            startTime: null,
+            timerInterval: null,
+            timeLeft: 1800, // 30 minutes in seconds
+            
+            cheatWarnings: 0,
+            isTesting: false,
+            retryMode: false // true if user is re-doing wrong answers
+        };
+
+        const POINTS_PER_QUESTION = 10;
+        const QUESTIONS_PER_TAB = 5;
+
+        // --- MOCK DATA GENERATOR ---
+        // Generates realistic mock questions for grades 3-9
+        function getMockQuestions(grade, count) {
+            const gradeData = {
+                3: [
+                    { q: "What is this?", opts: ["Apple", "Banana", "Cat", "Dog"], ans: "Apple", exp: "Đây là quả táo. Apple nghĩa là quả táo." },
+                    { q: "What color is the sky?", opts: ["Red", "Green", "Blue", "Yellow"], ans: "Blue", exp: "Bầu trời màu xanh dương (Blue)." },
+                    { q: "How many legs does a dog have?", opts: ["Two", "Three", "Four", "Five"], ans: "Four", exp: "Con chó có 4 (Four) chân." },
+                    { q: "Which animal says 'Meow'?", opts: ["Dog", "Cat", "Bird", "Cow"], ans: "Cat", exp: "Con mèo (Cat) kêu meow." },
+                    { q: "Choose the odd one out:", opts: ["Apple", "Banana", "Orange", "Car"], ans: "Car", exp: "Car là xe hơi, các từ còn lại là trái cây." }
+                ],
+                6: [
+                    { q: "He ___ a student.", opts: ["am", "is", "are", "be"], ans: "is", exp: "Ngôi thứ 3 số ít (He) đi với động từ to be 'is'." },
+                    { q: "___ do you live? - I live in Hanoi.", opts: ["What", "Where", "When", "How"], ans: "Where", exp: "Hỏi về nơi chốn dùng từ để hỏi 'Where'." },
+                    { q: "My father works in a hospital. He is a ___.", opts: ["teacher", "farmer", "doctor", "worker"], ans: "doctor", exp: "Làm việc ở bệnh viện (hospital) thì là bác sĩ (doctor)." },
+                    { q: "They usually ___ football after school.", opts: ["play", "plays", "playing", "played"], ans: "play", exp: "Thì hiện tại đơn với chủ ngữ số nhiều (They) động từ giữ nguyên." }
+                ],
+                9: [
+                    { q: "If it rains tomorrow, we ___ at home.", opts: ["stay", "will stay", "stayed", "would stay"], ans: "will stay", exp: "Câu điều kiện loại 1: If + HTĐ, S + will + V." },
+                    { q: "The boy ___ is wearing a blue shirt is my brother.", opts: ["who", "whom", "which", "whose"], ans: "who", exp: "Đại từ quan hệ chỉ người làm chủ ngữ dùng 'who'." },
+                    { q: "She asked me where I ___ from.", opts: ["come", "came", "to come", "coming"], ans: "came", exp: "Câu tường thuật lùi một thì, hiện tại thành quá khứ (came)." },
+                    { q: "I wish I ___ a lot of money.", opts: ["have", "had", "will have", "can have"], ans: "had", exp: "Câu ước ở hiện tại, động từ lùi về quá khứ đơn (had)." }
+                ]
+            };
+
+            // Generic pool for grades that don't have specific data above to save code space
+            const genericPool = [
+                { q: "Select the correct synonym for 'Happy':", opts: ["Sad", "Joyful", "Angry", "Tired"], ans: "Joyful", exp: "Joyful có nghĩa là vui vẻ, đồng nghĩa với Happy." },
+                { q: "What is the opposite of 'Big'?", opts: ["Large", "Huge", "Small", "Tall"], ans: "Small", exp: "Trái nghĩa với Big (to lớn) là Small (nhỏ bé)." },
+                { q: "Choose the correct spelling:", opts: ["Beautiful", "Beutiful", "Beaytiful", "Bietiful"], ans: "Beautiful", exp: "Từ viết đúng chính tả là Beautiful." },
+                { q: "I have ___ apples.", opts: ["a", "an", "some", "any"], ans: "some", exp: "Câu khẳng định danh từ đếm được số nhiều dùng 'some'." },
+                { q: "Can you ___ me the salt, please?", opts: ["give", "pass", "send", "take"], ans: "pass", exp: "Cụm từ thông dụng: pass the salt (đưa lọ muối)." },
+                { q: "He is good ___ playing chess.", opts: ["in", "on", "at", "with"], ans: "at", exp: "Cấu trúc: be good at + V-ing (giỏi về việc gì)." },
+                { q: "___ time is it? - It's 5 o'clock.", opts: ["What", "Which", "When", "How"], ans: "What", exp: "Hỏi giờ dùng cụm 'What time'." }
+            ];
+
+            let pool = gradeData[grade] || [];
+            // Fill up with generic questions if pool is small
+            while (pool.length < 200) {
+                pool = pool.concat(genericPool.map(q => ({...q, q: q.q + " (G" + grade + ")" })));
+            }
+
+            // Shuffle pool
+            pool = pool.sort(() => Math.random() - 0.5);
+
+            // Select count
+            let selected = pool.slice(0, parseInt(count) || 199);
+            
+            // Format to standard structure
+            return selected.map((item, index) => {
+                // Shuffle options
+                let opts = [...item.opts].sort(() => Math.random() - 0.5);
+                return {
+                    id: index + 1,
+                    text: item.q,
+                    options: opts,
+                    correct: item.ans,
+                    explanation: item.exp,
+                    part: Math.floor(index / QUESTIONS_PER_TAB) + 1
+                };
+            });
+        }
+
+        // --- STREAMING_CHUNK:Utility Functions & Modals ---
+        
+        function formatTime(seconds) {
+            const m = Math.floor(seconds / 60).toString().padStart(2, '0');
+            const s = (seconds % 60).toString().padStart(2, '0');
+            return `${m}:${s}`;
+        }
+
+        const modal = {
+            show: (title, desc, buttons, icon = 'fa-exclamation-circle', iconColor = 'text-ruby') => {
+                document.getElementById('modal-title').textContent = title;
+                document.getElementById('modal-desc').innerHTML = desc;
+                
+                const iconEl = document.getElementById('modal-icon');
+                iconEl.className = `text-5xl mb-4 ${iconColor}`;
+                iconEl.innerHTML = `<i class="fas ${icon}"></i>`;
+                
+                const actionsEl = document.getElementById('modal-actions');
+                actionsEl.innerHTML = '';
+                
+                buttons.forEach(btn => {
+                    const b = document.createElement('button');
+                    b.className = `flex-1 py-3 px-4 rounded-xl font-bold transition-all transform active:scale-95 ${btn.class}`;
+                    b.textContent = btn.text;
+                    b.onclick = () => {
+                        if(btn.onClick) btn.onClick();
+                        if(btn.close !== false) modal.hide();
+                    };
+                    actionsEl.appendChild(b);
+                });
+                
+                document.getElementById('global-modal').classList.remove('hidden');
+            },
+            hide: () => {
+                document.getElementById('global-modal').classList.add('hidden');
+            }
+        };
+
+        // Screen Navigation
+        function showScreen(screenId) {
+            ['screen-start', 'screen-quiz', 'screen-result', 'screen-review'].forEach(id => {
+                document.getElementById(id).classList.add('hidden');
+            });
+            document.getElementById(screenId).classList.remove('hidden');
+        }
+
+        // --- STREAMING_CHUNK:App Initialization & Start Logic ---
+        
+        document.getElementById('test-mode').addEventListener('change', (e) => {
+            const countInput = document.getElementById('question-count');
+            const customTopic = document.getElementById('custom-topic');
+            if (e.target.value === 'custom') {
+                countInput.classList.remove('hidden');
+                countInput.required = true;
+                customTopic.classList.remove('hidden');
+            } else {
+                countInput.classList.add('hidden');
+                countInput.required = false;
+                countInput.value = '';
+                customTopic.classList.add('hidden');
+            }
+        });
+
+        document.getElementById('teacher-key').addEventListener('input', (e) => {
+            if (e.target.value === '968903') {
+                appState.isTeacher = true;
+                e.target.style.backgroundColor = '#dcfce7'; // green success
+                setTimeout(() => e.target.value = '', 1000);
+            }
+        });
+
+        // --- DATA FETCHING ---
+        // Đọc dữ liệu từ file JSON theo chuẩn json[lớp].[chuyên_đề].json (VD: json3.1.json)
+        async function fetchQuestions(grade, topic, count, isFullTest) {
+            const fileName = `json${grade}.${topic}.json`;
+            try {
+                modal.show('Đang tải dữ liệu...', 'Vui lòng chờ trong giây lát...', [], 'fa-spinner fa-spin', 'text-blue-500');
+                
+                const response = await fetch(fileName);
+                if (!response.ok) throw new Error(`Không tìm thấy file ${fileName}`);
+                
+                let data = await response.json();
+                modal.hide();
+
+                // Trộn câu hỏi
+                data = data.sort(() => Math.random() - 0.5);
+
+                // Cắt số lượng nếu là custom
+                if (!isFullTest && count) {
+                    data = data.slice(0, count);
+                }
+
+                // Format dữ liệu theo cấu trúc của app
+                return data.map((item, index) => {
+                    let opts = [...item.opts].sort(() => Math.random() - 0.5);
+                    return {
+                        id: index + 1,
+                        text: item.q,
+                        options: opts,
+                        correct: item.ans,
+                        explanation: item.exp,
+                        part: Math.floor(index / QUESTIONS_PER_TAB) + 1
+                    };
+                });
+            } catch (error) {
+                console.error("Error loading JSON:", error);
+                modal.hide();
+                modal.show(
+                    'Lỗi tải dữ liệu', 
+                    `Không thể tải đề thi. Vui lòng đảm bảo file <b>${fileName}</b> đang nằm cùng thư mục với ứng dụng.<br><br><span class="text-sm text-gray-500">${error.message}</span>`, 
+                    [{text: 'Đóng', class: 'bg-ruby text-white'}]
+                );
+                return null;
+            }
+        }
+
+        document.getElementById('start-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const passcode = document.getElementById('passcode').value;
+            if (passcode !== '1235' && !appState.isTeacher) {
+                modal.show('Incorrect Passcode', 'Please enter the correct passcode to start the test.', [{text: 'OK', class: 'bg-ruby text-white'}]);
+                return;
+            }
+            
+            appState.studentName = document.getElementById('student-name').value;
+            appState.grade = document.getElementById('student-grade').value;
+            
+            const testMode = document.getElementById('test-mode').value;
+            let topic = "1";
+            let isFullTest = true;
+            
+            if (testMode === 'custom') {
+                isFullTest = false;
+                appState.targetCount = parseInt(document.getElementById('question-count').value);
+                if (appState.targetCount > 199) appState.targetCount = 199;
+                topic = document.getElementById('custom-topic').value;
+            } else {
+                appState.targetCount = null;
+                topic = testMode.split('-')[1]; // Lấy số chuyên đề từ "full-1", "full-2", v.v.
+            }
+            
+            // Gọi API đọc file JSON tương ứng
+            const fetchedQuestions = await fetchQuestions(appState.grade, topic, appState.targetCount, isFullTest);
+            
+            if (!fetchedQuestions || fetchedQuestions.length === 0) return;
+
+            appState.questions = fetchedQuestions;
+            appState.answers = {};
+            appState.currentQuestionIndex = 0;
+            appState.cheatWarnings = 0;
+            appState.retryMode = false;
+            
+            // Bắt đầu làm bài
+            initQuizEnvironment('laptop');
+        });
+
+        function initQuizEnvironment(device) {
+            appState.deviceType = device;
+            const wrapper = document.getElementById('quiz-wrapper');
+            
+            if (device === 'tablet') {
+                wrapper.classList.remove('ratio-4-3');
+                wrapper.classList.add('ratio-tablet');
+            } else {
+                wrapper.classList.add('ratio-4-3');
+                wrapper.classList.remove('ratio-tablet');
+            }
+
+            // Setup UI
+            document.getElementById('quiz-student-info').textContent = `${appState.studentName} - Grade ${appState.grade}`;
+            
+            // Render Nav & Initial Question
+            renderNavigation();
+            loadQuestion(0);
+            
+            // Start State
+            appState.isTesting = true;
+            appState.timeLeft = 1800; // Reset to 30 minutes
+            startTimer();
+            
+            // Request Fullscreen
+            try {
+                if (document.documentElement.requestFullscreen) {
+                    document.documentElement.requestFullscreen().catch(err => console.log("Fullscreen blocked"));
+                }
+            } catch(e){}
+
+            showScreen('screen-quiz');
+        }
+
+        // --- STREAMING_CHUNK:Quiz Engine & Rendering ---
+
+        function startTimer() {
+            clearInterval(appState.timerInterval);
+            document.getElementById('timer').textContent = formatTime(appState.timeLeft);
+            appState.timerInterval = setInterval(() => {
+                appState.timeLeft--;
+                document.getElementById('timer').textContent = formatTime(appState.timeLeft);
+                
+                if (appState.timeLeft <= 0) {
+                    clearInterval(appState.timerInterval);
+                    appState.isTesting = false; // Prevent anti-cheat from triggering
+                    modal.show(
+                        'Time Up!',
+                        'Đã hết thời gian 30 phút! Bài làm của bạn sẽ tự động được nộp.',
+                        [{ text: 'Xem Kết Quả', class: 'bg-ruby text-white', onClick: processResult }],
+                        'fa-clock',
+                        'text-red-500'
+                    );
+                }
+            }, 1000);
+        }
+
+        function updateProgress() {
+            const answered = Object.keys(appState.answers).length;
+            const total = appState.questions.length;
+            const percent = (answered / total) * 100;
+            
+            document.getElementById('progress-bar').style.width = `${percent}%`;
+            document.getElementById('answered-count').textContent = `${answered}/${total}`;
+            
+            // Update grid colors
+            appState.questions.forEach((q, idx) => {
+                const btn = document.getElementById(`nav-btn-${idx}`);
+                if (btn) {
+                    if (appState.answers[q.id]) {
+                        btn.classList.remove('bg-gray-100', 'text-gray-600', 'border-gray-200');
+                        btn.classList.add('bg-ruby', 'text-white', 'border-ruby');
+                    }
+                }
+            });
+        }
+
+        function renderNavigation() {
+            // Group by parts
+            const numParts = Math.ceil(appState.questions.length / QUESTIONS_PER_TAB);
+            const tabsContainer = document.getElementById('part-tabs');
+            tabsContainer.innerHTML = '';
+            
+            for (let i = 1; i <= numParts; i++) {
+                const btn = document.createElement('button');
+                btn.className = `tab-btn px-4 py-3 text-sm font-medium text-gray-500 whitespace-nowrap md:w-full md:text-left transition-colors hover:bg-gray-100 ${i === 1 ? 'active' : ''}`;
+                btn.textContent = `Part ${i}`;
+                btn.onclick = (e) => {
+                    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                    e.target.classList.add('active');
+                    renderGridForPart(i);
+                };
+                tabsContainer.appendChild(btn);
+            }
+            
+            renderGridForPart(1);
+        }
+
+        function renderGridForPart(partNum) {
+            const grid = document.getElementById('question-grid');
+            grid.innerHTML = '';
+            
+            appState.questions.forEach((q, index) => {
+                if (q.part === partNum) {
+                    const btn = document.createElement('button');
+                    btn.id = `nav-btn-${index}`;
+                    
+                    let classes = 'w-10 h-10 rounded-lg flex items-center justify-center font-bold text-sm transition-all border shadow-sm ';
+                    if (appState.answers[q.id]) {
+                        classes += 'bg-ruby text-white border-ruby ';
+                    } else {
+                        classes += 'bg-white text-gray-600 border-gray-200 hover:border-ruby hover:text-ruby ';
+                    }
+                    if (index === appState.currentQuestionIndex) {
+                        classes += 'ring-2 ring-ruby ring-offset-2 ';
+                    }
+                    
+                    btn.className = classes;
+                    btn.textContent = index + 1;
+                    btn.onclick = () => loadQuestion(index);
+                    grid.appendChild(btn);
+                }
+            });
+        }
+
+        function loadQuestion(index) {
+            appState.currentQuestionIndex = index;
+            const q = appState.questions[index];
+            
+            // Sync Tab Active state
+            const targetPart = q.part;
+            const tabs = document.querySelectorAll('.tab-btn');
+            tabs.forEach((t, i) => {
+                if (i + 1 === targetPart) {
+                    if(!t.classList.contains('active')){
+                        t.click(); // switch tab visually
+                    }
+                }
+            });
+            
+            // Render Grid Highlight
+            document.querySelectorAll('#question-grid button').forEach(b => b.classList.remove('ring-2', 'ring-ruby', 'ring-offset-2'));
+            const activeBtn = document.getElementById(`nav-btn-${index}`);
+            if (activeBtn) activeBtn.classList.add('ring-2', 'ring-ruby', 'ring-offset-2');
+
+            // Render Content
+            document.getElementById('current-q-label').textContent = `Question ${index + 1}`;
+            document.getElementById('question-text').innerHTML = q.text;
+            
+            const optionsContainer = document.getElementById('options-container');
+            optionsContainer.innerHTML = '';
+            
+            q.options.forEach(opt => {
+                const btn = document.createElement('button');
+                const isSelected = appState.answers[q.id] === opt;
+                
+                btn.className = `w-full text-left p-5 md:p-6 rounded-xl border-2 transition-all transform active:scale-[0.98] text-lg font-medium shadow-sm flex items-center justify-between group ${isSelected ? 'border-ruby bg-ruby-light/40 text-ruby-dark' : 'border-gray-200 bg-white hover:border-ruby/50 text-gray-700 hover:bg-gray-50'}`;
+                
+                btn.innerHTML = `
+                    <span>${opt}</span>
+                    <div class="w-6 h-6 rounded-full border-2 flex items-center justify-center ${isSelected ? 'border-ruby bg-ruby' : 'border-gray-300 group-hover:border-ruby/50'}">
+                        ${isSelected ? '<i class="fas fa-check text-white text-xs"></i>' : ''}
+                    </div>
+                `;
+                
+                btn.onclick = () => {
+                    appState.answers[q.id] = opt;
+                    loadQuestion(index); // re-render options and progress
+                };
+                
+                optionsContainer.appendChild(btn);
+            });
+
+            // Footer Buttons
+            const btnPrev = document.getElementById('btn-prev');
+            const btnNext = document.getElementById('btn-next');
+            
+            if (index === 0) {
+                btnPrev.classList.add('invisible');
+            } else {
+                btnPrev.classList.remove('invisible');
+                btnPrev.onclick = () => loadQuestion(index - 1);
+            }
+            
+            if (index === appState.questions.length - 1) {
+                btnNext.innerHTML = `<i class="fas fa-check-circle mr-2"></i> Finish`;
+                btnNext.className = "px-5 py-2.5 rounded-lg font-semibold bg-ruby text-white hover:bg-ruby-dark shadow-md transition-colors";
+                btnNext.onclick = handleSubmit;
+            } else {
+                btnNext.innerHTML = `Next <i class="fas fa-arrow-right ml-2"></i>`;
+                btnNext.className = "px-5 py-2.5 rounded-lg font-semibold bg-gray-800 text-white hover:bg-black shadow-md transition-colors";
+                btnNext.onclick = () => loadQuestion(index + 1);
+            }
+            
+            updateProgress();
+        }
+
+        // --- STREAMING_CHUNK:Submission & Anti-Cheat Logic ---
+
+        document.getElementById('btn-submit-top').addEventListener('click', handleSubmit);
+
+        function handleSubmit() {
+            const answered = Object.keys(appState.answers).length;
+            const total = appState.questions.length;
+            
+            if (appState.isTeacher) {
+                processResult();
+                return;
+            }
+            
+            if (answered < total) {
+                modal.show(
+                    'Incomplete Test',
+                    `You have answered <b>${answered}</b> out of <b>${total}</b> questions.<br><br>Are you sure you want to submit?`,
+                    [
+                        { text: 'Cancel', class: 'bg-gray-200 text-gray-800 hover:bg-gray-300' },
+                        { text: 'Submit Anyway', class: 'bg-ruby text-white hover:bg-ruby-dark', onClick: processResult }
+                    ],
+                    'fa-question-circle',
+                    'text-yellow-500'
+                );
+            } else {
+                processResult();
+            }
+        }
+
+        // Anti-Cheat
+        document.addEventListener('visibilitychange', () => {
+            if (!appState.isTesting || appState.isTeacher) return;
+            
+            if (document.visibilityState === 'hidden') {
+                appState.cheatWarnings++;
+                if (appState.cheatWarnings >= 3) {
+                    modal.show(
+                        'Test Confiscated',
+                        'You have left the test screen too many times. Your test has been automatically submitted.',
+                        [{ text: 'View Results', class: 'bg-ruby text-white', onClick: processResult }],
+                        'fa-ban',
+                        'text-red-600'
+                    );
+                } else {
+                    modal.show(
+                        'Warning!',
+                        `Please do not leave the test screen. Warning ${appState.cheatWarnings}/3.<br><br><span class="text-sm text-gray-500">Cảnh báo: Học sinh không được thoát khỏi màn hình làm bài.</span>`,
+                        [{ text: 'I Understand', class: 'bg-ruby text-white' }],
+                        'fa-triangle-exclamation',
+                        'text-yellow-500'
+                    );
+                }
+            }
+        });
+
+        // --- STREAMING_CHUNK:Result Processing & Review ---
+
+        function processResult() {
+            appState.isTesting = false;
+            clearInterval(appState.timerInterval);
+            
+            // Exit fullscreen safely
+            try {
+                if (document.fullscreenElement) {
+                    document.exitFullscreen().catch(()=>{});
+                }
+            } catch(e) {}
+            
+            let correctCount = 0;
+            appState.questions.forEach(q => {
+                if (appState.answers[q.id] === q.correct) correctCount++;
+            });
+            
+            const total = appState.questions.length;
+            const percentage = (correctCount / total) * 100;
+            const totalScore = correctCount * POINTS_PER_QUESTION;
+            
+            // Populate Result Screen
+            document.getElementById('result-name-class').textContent = `${appState.studentName} - Grade ${appState.grade}`;
+            document.getElementById('score-percent').textContent = `${Math.round(percentage)}%`;
+            document.getElementById('score-text').textContent = `${totalScore} / ${total * POINTS_PER_QUESTION} pts`;
+            
+            document.getElementById('stat-correct').textContent = correctCount;
+            document.getElementById('stat-wrong').textContent = total - correctCount;
+            
+            const timeSpent = Math.max(0, 1800 - appState.timeLeft);
+            document.getElementById('stat-time').textContent = formatTime(timeSpent);
+            
+            // Animate Circle (283 is circumference)
+            setTimeout(() => {
+                const offset = 283 - (283 * percentage) / 100;
+                document.getElementById('score-circle').style.strokeDashoffset = offset;
+            }, 100);
+
+            showScreen('screen-result');
+            
+            // Retry Prompt Logic (> 85%)
+            if (percentage >= 85 && percentage < 100 && !appState.retryMode) {
+                setTimeout(() => {
+                    modal.show(
+                        'Great Job!',
+                        'You scored over 85%! Do you want to retry the incorrect questions to get a maximum score?',
+                        [
+                            { text: 'No Thanks', class: 'bg-gray-200 text-gray-800' },
+                            { text: 'Retry Incorrect', class: 'bg-ruby text-white', onClick: setupRetry }
+                        ],
+                        'fa-star',
+                        'text-yellow-400'
+                    );
+                }, 1000);
+            }
+        }
+
+        function setupRetry() {
+            // Filter questions to only wrong ones
+            const wrongQuestions = appState.questions.filter(q => appState.answers[q.id] !== q.correct);
+            
+            // Reset parts for new set
+            wrongQuestions.forEach((q, idx) => {
+                q.part = Math.floor(idx / QUESTIONS_PER_TAB) + 1;
+            });
+            
+            appState.questions = wrongQuestions;
+            appState.answers = {};
+            appState.retryMode = true;
+            appState.currentQuestionIndex = 0;
+            
+            initQuizEnvironment(appState.deviceType);
+        }
+
+        document.getElementById('btn-review').addEventListener('click', () => {
+            const container = document.getElementById('review-container');
+            container.innerHTML = '';
+            
+            appState.questions.forEach((q, idx) => {
+                const studentAns = appState.answers[q.id];
+                const isCorrect = studentAns === q.correct;
+                
+                const card = document.createElement('div');
+                card.className = "bg-white p-6 rounded-2xl shadow-sm border border-gray-200";
+                
+                let optionsHTML = '';
+                q.options.forEach(opt => {
+                    let optClass = "p-3 rounded-lg border mb-2 text-sm ";
+                    let icon = "";
+                    
+                    if (opt === q.correct) {
+                        optClass += "bg-green-50 border-green-500 text-green-700 font-bold";
+                        icon = "<i class='fas fa-check-circle float-right text-green-500 mt-0.5'></i>";
+                    } else if (opt === studentAns && !isCorrect) {
+                        optClass += "bg-red-50 border-red-500 text-red-700";
+                        icon = "<i class='fas fa-times-circle float-right text-red-500 mt-0.5'></i>";
+                    } else {
+                        optClass += "bg-gray-50 border-gray-200 text-gray-600";
+                    }
+                    
+                    optionsHTML += `<div class="${optClass}">${opt} ${icon}</div>`;
+                });
+                
+                card.innerHTML = `
+                    <div class="flex items-start justify-between mb-4 border-b pb-4">
+                        <div class="font-bold text-gray-800 text-lg flex-1 mr-4">
+                            <span class="text-gray-400 mr-2">Q${idx+1}.</span> ${q.text}
+                        </div>
+                        <div class="px-3 py-1 rounded-full text-xs font-bold whitespace-nowrap ${isCorrect ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}">
+                            ${isCorrect ? '+10 Pts' : '0 Pts'}
+                        </div>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div>
+                            <h4 class="text-xs font-bold text-gray-400 uppercase mb-2">Options</h4>
+                            ${optionsHTML}
+                        </div>
+                        <div class="bg-blue-50/50 p-4 rounded-xl border border-blue-100 h-fit">
+                            <h4 class="text-xs font-bold text-blue-500 uppercase mb-2 flex items-center gap-1"><i class="fas fa-lightbulb"></i> Explanation</h4>
+                            <p class="text-sm text-gray-700 leading-relaxed">${q.explanation}</p>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+            
+            showScreen('screen-review');
+        });
+
+        document.getElementById('btn-back-result').addEventListener('click', () => {
+            showScreen('screen-result');
+        });
+
+    </script>
+</body>
+</html>
