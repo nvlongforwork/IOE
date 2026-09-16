@@ -1,210 +1,1090 @@
 {
-  "title": "IOE KHỐI 6 - CHUYÊN ĐỀ 1 (TỪ VỰNG THEO CHỦ ĐIỂM VÀ CỤM TỪ THƯỜNG GẶP)[cite: 1, 2]",
-  "time": "30 PHÚT[cite: 2]",
+  "title": "IOE KHỐI 6 - CHUYÊN ĐỀ 1 (TỪ VỰNG THEO CHỦ ĐIỂM VÀ CỤM TỪ THƯỜNG GẶP)",
+  "time": "30 PHÚT",
   "part_A": [
-    {"id": 1, "question": "I want to go ... this Sunday.[cite: 2]", "options": "A. camping, B. shops, C. fish, D. walk[cite: 2]", "answer": "A. camping[cite: 1]"},
-    {"id": 2, "question": "Odd one out:[cite: 2]", "options": "A. village, B. town, C. city, D. ocean[cite: 2]", "answer": "D. ocean[cite: 1]"},
-    {"id": 3, "question": "Do you feel ...? – No, I feel cold.[cite: 2]", "options": "A. happily, B. strongly, C. hot, D. sadly[cite: 2]", "answer": "C. hot[cite: 1]"},
-    {"id": 4, "question": "David and Mary ... their teeth every evening.[cite: 2]", "options": "A. brushes, B. washes, C. brush, D. wash[cite: 2]", "answer": "C. brush[cite: 1]"},
-    {"id": 5, "question": "’’Reduce’’ means using something … .[cite: 2]", "options": "A. again, B. new, C. less, D. old[cite: 2]", "answer": "C. less[cite: 1]"},
-    {"id": 6, "question": "Your favorite food is fish. It means ....[cite: 2]", "options": "A. you like fish very much, B. you would like some fish now, C. you hate eating fish, D. you never eat fish[cite: 2]", "answer": "A. you like fish very much[cite: 1]"},
-    {"id": 7, "question": "The day after Saturday is ... .[cite: 2]", "options": "A. Sunday, B. Friday, C. Thursday, D. Tuesday[cite: 2]", "answer": "A. Sunday[cite: 1]"},
-    {"id": 8, "question": "A ... works on a farm and grows crops.[cite: 2]", "options": "A. farmer, B. engineer, C. mechanic, D. hairdresser[cite: 2]", "answer": "A. farmer[cite: 1]"},
-    {"id": 9, "question": "Choose the odd one out:[cite: 2]", "options": "A. playground, B. ball, C. bat, D. racket[cite: 2]", "answer": "A. playground[cite: 1]"},
-    {"id": 10, "question": "We say “a piece of ...”.[cite: 2]", "options": "A. paper, B. milk, C. soda, D. water[cite: 2]", "answer": "A. paper[cite: 1]"},
-    {"id": 11, "question": "He is a weight .... He is very strong.[cite: 2]", "options": "A. lighter, B. lifter, C. man, D. waiter[cite: 2]", "answer": "B. lifter[cite: 1]"},
-    {"id": 12, "question": "Odd one out:[cite: 2]", "options": "A. tea, B. milk, C. bread, D. juice[cite: 2]", "answer": "C. bread[cite: 1]"},
-    {"id": 13, "question": "“She is a truck driver” means ....[cite: 2]", "options": "A. she can’t drive a truck, B. she drives a coach, C. she can drive a truck, D. she is driving truck now[cite: 2]", "answer": "C. she can drive a truck[cite: 1]"},
-    {"id": 14, "question": "... the second street and then turn right.[cite: 2]", "options": "A. Get, B. Take, C. Have, D. Turn[cite: 2]", "answer": "B. Take[cite: 1]"},
-    {"id": 15, "question": "Go ... ahead. You can’t turn left here.[cite: 2]", "options": "A. slow, B. down, C. straight, D. load[cite: 2]", "answer": "C. straight[cite: 1]"},
-    {"id": 16, "question": "Are her ... full or thin?[cite: 2]", "options": "A. teeth, B. legs, C. feet, D. lips[cite: 2]", "answer": "D. lips[cite: 1]"},
-    {"id": 17, "question": "I like to watch motor ______ on TV. It’s really interesting.[cite: 2]", "options": "A. driving, B. racing, C. riding, D. playing[cite: 2]", "answer": "B. racing[cite: 1]"},
-    {"id": 18, "question": "Do you go to school on ... or by bike?[cite: 2]", "options": "A. foot, B. leg, C. knee, D. feet[cite: 2]", "answer": "A. foot[cite: 1]"},
-    {"id": 19, "question": "She takes her children out ....[cite: 2]", "options": "A. for the walk, B. for a walk, C. for walk, D. walk[cite: 2]", "answer": "B. for a walk[cite: 1]"},
-    {"id": 20, "question": "Would you like a ... of tea?[cite: 2]", "options": "A. glasses, B. cup, C. cans, D. bottles[cite: 2]", "answer": "B. cup[cite: 1]"},
-    {"id": 21, "question": "’’Awful’’ means ’’...’’.[cite: 2]", "options": "A. very good, B. very nice, C. very bad, D. very well[cite: 2]", "answer": "C. very bad[cite: 1]"},
-    {"id": 22, "question": "Odd one out:[cite: 2]", "options": "A. swimmer, B. football player, C. weightlifter, D. driver[cite: 2]", "answer": "D. driver[cite: 1]"},
-    {"id": 23, "question": "The people here are … .[cite: 2]", "options": "A. friendly, B. delicious, C. polluted, D. long[cite: 2]", "answer": "A. friendly[cite: 1]"},
-    {"id": 24, "question": "We say a ... of toothpaste and a ... of chocolate.[cite: 2]", "options": "A. packet / tube, B. bar / tube, C. dozen / packet, D. tube / bar[cite: 2]", "answer": "D. tube / bar[cite: 1]"},
-    {"id": 25, "question": "We are from France. We ... French.[cite: 2]", "options": "A. say, B. speak, C. talk, D. tell[cite: 2]", "answer": "B. speak[cite: 1]"},
-    {"id": 26, "question": "I have a … to surf the Internet.[cite: 2]", "options": "A. computer, B. fridge, C. washing machine, D. robot[cite: 2]", "answer": "A. computer[cite: 1]"},
-    {"id": 27, "question": "The doctor often checks my teeth at a ....[cite: 2]", "options": "A. library, B. bookstore, C. clinic, D. bakery[cite: 2]", "answer": "C. clinic[cite: 1]"},
-    {"id": 28, "question": "Odd one out:[cite: 2]", "options": "A. bottle, B. cup, C. glass, D. knife[cite: 2]", "answer": "D. knife[cite: 1]"},
-    {"id": 29, "question": "Mr. Baker grows ....[cite: 2]", "options": "A. some vegetables, B. some eggs, C. some pork, D. some beef[cite: 2]", "answer": "A. some vegetables[cite: 1]"},
-    {"id": 30, "question": "I listen to ... in the evening.[cite: 2]", "options": "A. homework, B. television, C. music, D. games[cite: 2]", "answer": "C. music[cite: 1]"},
-    {"id": 31, "question": "He is a taxi driver. It means ... .[cite: 2]", "options": "A. He can’t drive a taxi, B. He can drive a taxi, C. He is going to drive a taxi, D. He is driving a taxi[cite: 2]", "answer": "B. He can drive a taxi[cite: 1]"},
-    {"id": 32, "question": "My father tells me to buy two ... of tea.[cite: 2]", "options": "A. bars, B. pieces, C. packets, D. tubes[cite: 2]", "answer": "C. packets[cite: 1]"},
-    {"id": 33, "question": "We go to school in the morning and ... our homework in the afternoon.[cite: 2]", "options": "A. do, B. play, C. wash, D. does[cite: 2]", "answer": "A. do[cite: 1]"},
-    {"id": 34, "question": "His favorite vegetables are ....[cite: 2]", "options": "A. apples and oranges, B. apples and peas, C. cabbages and tomatoes, D. lemonade and milk[cite: 2]", "answer": "C. cabbages and tomatoes[cite: 1]"},
-    {"id": 35, "question": "This is an emergency, please send … to Tran Hung Ðao street.[cite: 2]", "options": "A. an ambulance, B. a tank, C. a cart, D. an engine[cite: 2]", "answer": "A. an ambulance[cite: 1]"},
-    {"id": 36, "question": "Let me ... my uniform. Then we can go to school.[cite: 2]", "options": "A. put on, B. put off, C. put in, D. put over[cite: 2]", "answer": "A. put on[cite: 1]"},
-    {"id": 37, "question": "Odd one out:[cite: 2]", "options": "A. Monday, B. Friday, C. September, D. Thursday[cite: 2]", "answer": "C. September[cite: 1]"},
-    {"id": 38, "question": "Which … is he in? - 6.[cite: 2]", "options": "A. class, B. classes, C. grade, D. the school[cite: 2]", "answer": "C. grade[cite: 1]"},
-    {"id": 39, "question": "“Right” has similar meaning to “...”.[cite: 2]", "options": "A. correct, B. wrong, C. false, D. left[cite: 2]", "answer": "A. correct[cite: 1]"},
-    {"id": 40, "question": "Miss Kerry needs half a ... of oranges.[cite: 2]", "options": "A. kilo, B. tube, C. bar, D. bottle[cite: 2]", "answer": "A. kilo[cite: 1]"},
-    {"id": 41, "question": "The opposite of ’’healthy’’ is ’’...’’.[cite: 2]", "options": "A. happy, B. serious, C. sick, D. thin[cite: 2]", "answer": "C. sick[cite: 1]"},
-    {"id": 42, "question": "Playing football, skipping rope and swimming are ... activities.[cite: 2]", "options": "A. after-schools, B. school-after, C. schooling-after, D. after-school[cite: 2]", "answer": "D. after-school[cite: 1]"},
-    {"id": 43, "question": "We say “... picnic”.[cite: 2]", "options": "A. have a, B. have, C. have the, D. has[cite: 2]", "answer": "A. have a[cite: 1]"},
-    {"id": 44, "question": "Odd one out:[cite: 2]", "options": "A. gift, B. present, C. store, D. souvenir[cite: 2]", "answer": "C. store[cite: 1]"},
-    {"id": 45, "question": "Odd one out[cite: 2]", "options": "A. Bus stop, B. Post office, C. Hospital, D. Mobile phone[cite: 2]", "answer": "D. Mobile phone[cite: 1]"},
-    {"id": 46, "question": "The opposite of “noisy” is “...”.[cite: 2]", "options": "A. terrible, B. horrible, C. quiet, D. awful[cite: 2]", "answer": "C. quiet[cite: 1]"},
-    {"id": 47, "question": "I’m very .... I need some lemonade now.[cite: 2]", "options": "A. hungry, B. thirsty, C. weak, D. strong[cite: 2]", "answer": "B. thirsty[cite: 1]"},
-    {"id": 48, "question": "The child is ... because she wants to go to bed now.[cite: 2]", "options": "A. thirsty, B. hungry, C. sleepy, D. sleep[cite: 2]", "answer": "C. sleepy[cite: 1]"},
-    {"id": 49, "question": "The opposite of ’’late’’ is ’’...’’.[cite: 2]", "options": "A. early, B. fine, C. sure, D. worried[cite: 2]", "answer": "A. early[cite: 1]"},
-    {"id": 50, "question": "Which is a kind of vegetable?[cite: 2]", "options": "A. cabbage, B. bread, C. apple, D. banana[cite: 2]", "answer": "A. cabbage[cite: 1]"},
-    {"id": 51, "question": "There are ... on the feet.[cite: 2]", "options": "A. fingers, B. toes, C. knees, D. cheeks[cite: 2]", "answer": "B. toes[cite: 1]"},
-    {"id": 52, "question": "A ... can fix your tooth.[cite: 2]", "options": "A. dentist, B. mechanic, C. author, D. engineer[cite: 2]", "answer": "A. dentist[cite: 1]"},
-    {"id": 53, "question": "In ________ lessons, we learn about writers, poems and write essays.[cite: 2]", "options": "A. History, B. Literature, C. Science, D. Geography[cite: 2]", "answer": "B. Literature[cite: 1]"},
-    {"id": 54, "question": "I don’t often take a taxi because it’s very ... .[cite: 2]", "options": "A. cheap, B. busy, C. cheaper, D. expensive[cite: 2]", "answer": "D. expensive[cite: 1]"},
-    {"id": 55, "question": "Our classes ... at half past eleven a.m.[cite: 2]", "options": "A. starts, B. finish, C. get up, D. are[cite: 2]", "answer": "B. finish[cite: 1]"},
-    {"id": 56, "question": "He ... his truck to the factory every morning.[cite: 2]", "options": "A. rides, B. walks, C. drives, D. travels[cite: 2]", "answer": "C. drives[cite: 1]"},
-    {"id": 57, "question": "Odd one out[cite: 2]", "options": "A. newspaper, B. television, C. radio, D. workbook[cite: 2]", "answer": "D. workbook[cite: 1]"},
-    {"id": 58, "question": "We can collect and … waste paper.[cite: 2]", "options": "A. burn, B. empty, C. recycle, D. damage[cite: 2]", "answer": "C. recycle[cite: 1]"},
-    {"id": 59, "question": "Badminton, soccer and table tennis are ....[cite: 2]", "options": "A. pastime, B. sporty, C. sports, D. work[cite: 2]", "answer": "C. sports[cite: 1]"},
-    {"id": 60, "question": "He takes a ... every morning.[cite: 2]", "options": "A. breakfast, B. shower, C. dressed, D. teeth[cite: 2]", "answer": "B. shower[cite: 1]"},
-    {"id": 61, "question": "How will we travel to the moon? - … .[cite: 2]", "options": "A. Yes, we will, B. By spaceship, C. Under the ocean, D. Next decade[cite: 2]", "answer": "B. By spaceship[cite: 1]"},
-    {"id": 62, "question": "This box is .... I can’t lift it myself.[cite: 2]", "options": "A. light, B. strong, C. heavy, D. weak[cite: 2]", "answer": "C. heavy[cite: 1]"},
-    {"id": 63, "question": "I need a ... of paper to write a note.[cite: 2]", "options": "A. dozen, B. tube, C. loaf, D. piece[cite: 2]", "answer": "D. piece[cite: 1]"},
-    {"id": 64, "question": "Choose the word(s) CLOSEST in meaning to ’’fall’’ in the following sentence: ’’What’s the weather like in the fall?’’[cite: 2]", "options": "A. spring, B. summer, C. autumn, D. winter[cite: 2]", "answer": "C. autumn[cite: 1]"},
-    {"id": 65, "question": "Lan promises to … her best in learning English.[cite: 2]", "options": "A. try, B. make, C. work, D. learn[cite: 2]", "answer": "A. try[cite: 1]"},
-    {"id": 66, "question": "The menu shows us ....[cite: 2]", "options": "A. dishes in a restaurant, B. how to cook a meal, C. what the matter is, D. how many fruits a restaurant has[cite: 2]", "answer": "A. dishes in a restaurant[cite: 1]"},
-    {"id": 67, "question": "My daughters like going to the ....They love dolls.[cite: 2]", "options": "A. toy store, B. bookstore, C. drugstore, D. post office[cite: 2]", "answer": "A. toy store[cite: 1]"},
-    {"id": 68, "question": "Plants and flowers are in the ... behind my house.[cite: 2]", "options": "A. farmhouse, B. garden, C. kitchen, D. rice paddy[cite: 2]", "answer": "B. garden[cite: 1]"},
-    {"id": 69, "question": "The bookstore is to the left of the movie ... .[cite: 2]", "options": "A. station, B. theater, C. home, D. school[cite: 2]", "answer": "B. theater[cite: 1]"},
-    {"id": 70, "question": "We should go to school by bike to … energy.[cite: 2]", "options": "A. save, B. protect, C. pollute, D. make[cite: 2]", "answer": "A. save[cite: 1]"},
-    {"id": 71, "question": "My parents watch ... in the evening.[cite: 2]", "options": "A. music, B. stereo, C. television, D. radio[cite: 2]", "answer": "C. television[cite: 1]"},
-    {"id": 72, "question": "We are … a play for our school anniversary.[cite: 2]", "options": "A. rehearsing, B. doing, C. playing, D. getting[cite: 2]", "answer": "A. rehearsing[cite: 1]"},
-    {"id": 73, "question": "Can you give me a ... for a fruit cake.[cite: 2]", "options": "A. prescription, B. recipe, C. description, D. receipt[cite: 2]", "answer": "B. recipe[cite: 1]"},
-    {"id": 74, "question": "We learn English songs in ... class.[cite: 2]", "options": "A. Literature, B. History, C. Geography, D. Music[cite: 2]", "answer": "D. Music[cite: 1]"},
-    {"id": 75, "question": "My mother is a nurse. She works in a … .[cite: 2]", "options": "A. bookstore, B. hospital, C. factory, D. school[cite: 2]", "answer": "B. hospital[cite: 1]"},
-    {"id": 76, "question": "“Enjoy” has similar meaning to “...”.[cite: 2]", "options": "A. like, B. hate, C. need, D. want[cite: 2]", "answer": "A. like[cite: 1]"},
-    {"id": 77, "question": "We need a tent to go ______.[cite: 2]", "options": "A. fishing, B. swimming, C. camping, D. skiing[cite: 2]", "answer": "C. camping[cite: 1]"},
-    {"id": 78, "question": "I want to ... you more about my family.[cite: 2]", "options": "A. say, B. tell, C. speak, D. warn[cite: 2]", "answer": "B. tell[cite: 1]"},
-    {"id": 79, "question": "A ... brings meals to customers in a restaurant.[cite: 2]", "options": "A. tailor, B. farmer, C. businessman, D. waiter[cite: 2]", "answer": "D. waiter[cite: 1]"},
-    {"id": 80, "question": "The 3Rs ... for Reduce, Reuse and Recycle.[cite: 2]", "options": "A. stand, B. sit, C. make, D. explain[cite: 2]", "answer": "A. stand[cite: 1]"}
+    {
+      "id": 1,
+      "question": "I want to go ... this Sunday.",
+      "options": "A. camping, B. shops, C. fish, D. walk",
+      "answer": "A. camping"
+    },
+    {
+      "id": 2,
+      "question": "Odd one out:",
+      "options": "A. village, B. town, C. city, D. ocean",
+      "answer": "D. ocean"
+    },
+    {
+      "id": 3,
+      "question": "Do you feel ...? – No, I feel cold.",
+      "options": "A. happily, B. strongly, C. hot, D. sadly",
+      "answer": "C. hot"
+    },
+    {
+      "id": 4,
+      "question": "David and Mary ... their teeth every evening.",
+      "options": "A. brushes, B. washes, C. brush, D. wash",
+      "answer": "C. brush"
+    },
+    {
+      "id": 5,
+      "question": "’’Reduce’’ means using something … .",
+      "options": "A. again, B. new, C. less, D. old",
+      "answer": "C. less"
+    },
+    {
+      "id": 6,
+      "question": "Your favorite food is fish. It means ....",
+      "options": "A. you like fish very much, B. you would like some fish now, C. you hate eating fish, D. you never eat fish",
+      "answer": "A. you like fish very much"
+    },
+    {
+      "id": 7,
+      "question": "The day after Saturday is ... .",
+      "options": "A. Sunday, B. Friday, C. Thursday, D. Tuesday",
+      "answer": "A. Sunday"
+    },
+    {
+      "id": 8,
+      "question": "A ... works on a farm and grows crops.",
+      "options": "A. farmer, B. engineer, C. mechanic, D. hairdresser",
+      "answer": "A. farmer"
+    },
+    {
+      "id": 9,
+      "question": "Choose the odd one out:",
+      "options": "A. playground, B. ball, C. bat, D. racket",
+      "answer": "A. playground"
+    },
+    {
+      "id": 10,
+      "question": "We say “a piece of ...”.",
+      "options": "A. paper, B. milk, C. soda, D. water",
+      "answer": "A. paper"
+    },
+    {
+      "id": 11,
+      "question": "He is a weight .... He is very strong.",
+      "options": "A. lighter, B. lifter, C. man, D. waiter",
+      "answer": "B. lifter"
+    },
+    {
+      "id": 12,
+      "question": "Odd one out:",
+      "options": "A. tea, B. milk, C. bread, D. juice",
+      "answer": "C. bread"
+    },
+    {
+      "id": 13,
+      "question": "“She is a truck driver” means ....",
+      "options": "A. she can’t drive a truck, B. she drives a coach, C. she can drive a truck, D. she is driving truck now",
+      "answer": "C. she can drive a truck"
+    },
+    {
+      "id": 14,
+      "question": "... the second street and then turn right.",
+      "options": "A. Get, B. Take, C. Have, D. Turn",
+      "answer": "B. Take"
+    },
+    {
+      "id": 15,
+      "question": "Go ... ahead. You can’t turn left here.",
+      "options": "A. slow, B. down, C. straight, D. load",
+      "answer": "C. straight"
+    },
+    {
+      "id": 16,
+      "question": "Are her ... full or thin?",
+      "options": "A. teeth, B. legs, C. feet, D. lips",
+      "answer": "D. lips"
+    },
+    {
+      "id": 17,
+      "question": "I like to watch motor ______ on TV. It’s really interesting.",
+      "options": "A. driving, B. racing, C. riding, D. playing",
+      "answer": "B. racing"
+    },
+    {
+      "id": 18,
+      "question": "Do you go to school on ... or by bike?",
+      "options": "A. foot, B. leg, C. knee, D. feet",
+      "answer": "A. foot"
+    },
+    {
+      "id": 19,
+      "question": "She takes her children out ....",
+      "options": "A. for the walk, B. for a walk, C. for walk, D. walk",
+      "answer": "B. for a walk"
+    },
+    {
+      "id": 20,
+      "question": "Would you like a ... of tea?",
+      "options": "A. glasses, B. cup, C. cans, D. bottles",
+      "answer": "B. cup"
+    },
+    {
+      "id": 21,
+      "question": "’’Awful’’ means ’’...’’.",
+      "options": "A. very good, B. very nice, C. very bad, D. very well",
+      "answer": "C. very bad"
+    },
+    {
+      "id": 22,
+      "question": "Odd one out:",
+      "options": "A. swimmer, B. football player, C. weightlifter, D. driver",
+      "answer": "D. driver"
+    },
+    {
+      "id": 23,
+      "question": "The people here are … .",
+      "options": "A. friendly, B. delicious, C. polluted, D. long",
+      "answer": "A. friendly"
+    },
+    {
+      "id": 24,
+      "question": "We say a ... of toothpaste and a ... of chocolate.",
+      "options": "A. packet / tube, B. bar / tube, C. dozen / packet, D. tube / bar",
+      "answer": "D. tube / bar"
+    },
+    {
+      "id": 25,
+      "question": "We are from France. We ... French.",
+      "options": "A. say, B. speak, C. talk, D. tell",
+      "answer": "B. speak"
+    },
+    {
+      "id": 26,
+      "question": "I have a … to surf the Internet.",
+      "options": "A. computer, B. fridge, C. washing machine, D. robot",
+      "answer": "A. computer"
+    },
+    {
+      "id": 27,
+      "question": "The doctor often checks my teeth at a ....",
+      "options": "A. library, B. bookstore, C. clinic, D. bakery",
+      "answer": "C. clinic"
+    },
+    {
+      "id": 28,
+      "question": "Odd one out:",
+      "options": "A. bottle, B. cup, C. glass, D. knife",
+      "answer": "D. knife"
+    },
+    {
+      "id": 29,
+      "question": "Mr. Baker grows ....",
+      "options": "A. some vegetables, B. some eggs, C. some pork, D. some beef",
+      "answer": "A. some vegetables"
+    },
+    {
+      "id": 30,
+      "question": "I listen to ... in the evening.",
+      "options": "A. homework, B. television, C. music, D. games",
+      "answer": "C. music"
+    },
+    {
+      "id": 31,
+      "question": "He is a taxi driver. It means ... .",
+      "options": "A. He can’t drive a taxi, B. He can drive a taxi, C. He is going to drive a taxi, D. He is driving a taxi",
+      "answer": "B. He can drive a taxi"
+    },
+    {
+      "id": 32,
+      "question": "My father tells me to buy two ... of tea.",
+      "options": "A. bars, B. pieces, C. packets, D. tubes",
+      "answer": "C. packets"
+    },
+    {
+      "id": 33,
+      "question": "We go to school in the morning and ... our homework in the afternoon.",
+      "options": "A. do, B. play, C. wash, D. does",
+      "answer": "A. do"
+    },
+    {
+      "id": 34,
+      "question": "His favorite vegetables are ....",
+      "options": "A. apples and oranges, B. apples and peas, C. cabbages and tomatoes, D. lemonade and milk",
+      "answer": "C. cabbages and tomatoes"
+    },
+    {
+      "id": 35,
+      "question": "This is an emergency, please send … to Tran Hung Ðao street.",
+      "options": "A. an ambulance, B. a tank, C. a cart, D. an engine",
+      "answer": "A. an ambulance"
+    },
+    {
+      "id": 36,
+      "question": "Let me ... my uniform. Then we can go to school.",
+      "options": "A. put on, B. put off, C. put in, D. put over",
+      "answer": "A. put on"
+    },
+    {
+      "id": 37,
+      "question": "Odd one out:",
+      "options": "A. Monday, B. Friday, C. September, D. Thursday",
+      "answer": "C. September"
+    },
+    {
+      "id": 38,
+      "question": "Which … is he in? - 6.",
+      "options": "A. class, B. classes, C. grade, D. the school",
+      "answer": "C. grade"
+    },
+    {
+      "id": 39,
+      "question": "“Right” has similar meaning to “...”.",
+      "options": "A. correct, B. wrong, C. false, D. left",
+      "answer": "A. correct"
+    },
+    {
+      "id": 40,
+      "question": "Miss Kerry needs half a ... of oranges.",
+      "options": "A. kilo, B. tube, C. bar, D. bottle",
+      "answer": "A. kilo"
+    },
+    {
+      "id": 41,
+      "question": "The opposite of ’’healthy’’ is ’’...’’.",
+      "options": "A. happy, B. serious, C. sick, D. thin",
+      "answer": "C. sick"
+    },
+    {
+      "id": 42,
+      "question": "Playing football, skipping rope and swimming are ... activities.",
+      "options": "A. after-schools, B. school-after, C. schooling-after, D. after-school",
+      "answer": "D. after-school"
+    },
+    {
+      "id": 43,
+      "question": "We say “... picnic”.",
+      "options": "A. have a, B. have, C. have the, D. has",
+      "answer": "A. have a"
+    },
+    {
+      "id": 44,
+      "question": "Odd one out:",
+      "options": "A. gift, B. present, C. store, D. souvenir",
+      "answer": "C. store"
+    },
+    {
+      "id": 45,
+      "question": "Odd one out",
+      "options": "A. Bus stop, B. Post office, C. Hospital, D. Mobile phone",
+      "answer": "D. Mobile phone"
+    },
+    {
+      "id": 46,
+      "question": "The opposite of “noisy” is “...”.",
+      "options": "A. terrible, B. horrible, C. quiet, D. awful",
+      "answer": "C. quiet"
+    },
+    {
+      "id": 47,
+      "question": "I’m very .... I need some lemonade now.",
+      "options": "A. hungry, B. thirsty, C. weak, D. strong",
+      "answer": "B. thirsty"
+    },
+    {
+      "id": 48,
+      "question": "The child is ... because she wants to go to bed now.",
+      "options": "A. thirsty, B. hungry, C. sleepy, D. sleep",
+      "answer": "C. sleepy"
+    },
+    {
+      "id": 49,
+      "question": "The opposite of ’’late’’ is ’’...’’.",
+      "options": "A. early, B. fine, C. sure, D. worried",
+      "answer": "A. early"
+    },
+    {
+      "id": 50,
+      "question": "Which is a kind of vegetable?",
+      "options": "A. cabbage, B. bread, C. apple, D. banana",
+      "answer": "A. cabbage"
+    },
+    {
+      "id": 51,
+      "question": "There are ... on the feet.",
+      "options": "A. fingers, B. toes, C. knees, D. cheeks",
+      "answer": "B. toes"
+    },
+    {
+      "id": 52,
+      "question": "A ... can fix your tooth.",
+      "options": "A. dentist, B. mechanic, C. author, D. engineer",
+      "answer": "A. dentist"
+    },
+    {
+      "id": 53,
+      "question": "In ________ lessons, we learn about writers, poems and write essays.",
+      "options": "A. History, B. Literature, C. Science, D. Geography",
+      "answer": "B. Literature"
+    },
+    {
+      "id": 54,
+      "question": "I don’t often take a taxi because it’s very ... .",
+      "options": "A. cheap, B. busy, C. cheaper, D. expensive",
+      "answer": "D. expensive"
+    },
+    {
+      "id": 55,
+      "question": "Our classes ... at half past eleven a.m.",
+      "options": "A. starts, B. finish, C. get up, D. are",
+      "answer": "B. finish"
+    },
+    {
+      "id": 56,
+      "question": "He ... his truck to the factory every morning.",
+      "options": "A. rides, B. walks, C. drives, D. travels",
+      "answer": "C. drives"
+    },
+    {
+      "id": 57,
+      "question": "Odd one out",
+      "options": "A. newspaper, B. television, C. radio, D. workbook",
+      "answer": "D. workbook"
+    },
+    {
+      "id": 58,
+      "question": "We can collect and … waste paper.",
+      "options": "A. burn, B. empty, C. recycle, D. damage",
+      "answer": "C. recycle"
+    },
+    {
+      "id": 59,
+      "question": "Badminton, soccer and table tennis are ....",
+      "options": "A. pastime, B. sporty, C. sports, D. work",
+      "answer": "C. sports"
+    },
+    {
+      "id": 60,
+      "question": "He takes a ... every morning.",
+      "options": "A. breakfast, B. shower, C. dressed, D. teeth",
+      "answer": "B. shower"
+    },
+    {
+      "id": 61,
+      "question": "How will we travel to the moon? - … .",
+      "options": "A. Yes, we will, B. By spaceship, C. Under the ocean, D. Next decade",
+      "answer": "B. By spaceship"
+    },
+    {
+      "id": 62,
+      "question": "This box is .... I can’t lift it myself.",
+      "options": "A. light, B. strong, C. heavy, D. weak",
+      "answer": "C. heavy"
+    },
+    {
+      "id": 63,
+      "question": "I need a ... of paper to write a note.",
+      "options": "A. dozen, B. tube, C. loaf, D. piece",
+      "answer": "D. piece"
+    },
+    {
+      "id": 64,
+      "question": "Choose the word(s) CLOSEST in meaning to ’’fall’’ in the following sentence: ’’What’s the weather like in the fall?’’",
+      "options": "A. spring, B. summer, C. autumn, D. winter",
+      "answer": "C. autumn"
+    },
+    {
+      "id": 65,
+      "question": "Lan promises to … her best in learning English.",
+      "options": "A. try, B. make, C. work, D. learn",
+      "answer": "A. try"
+    },
+    {
+      "id": 66,
+      "question": "The menu shows us ....",
+      "options": "A. dishes in a restaurant, B. how to cook a meal, C. what the matter is, D. how many fruits a restaurant has",
+      "answer": "A. dishes in a restaurant"
+    },
+    {
+      "id": 67,
+      "question": "My daughters like going to the ....They love dolls.",
+      "options": "A. toy store, B. bookstore, C. drugstore, D. post office",
+      "answer": "A. toy store"
+    },
+    {
+      "id": 68,
+      "question": "Plants and flowers are in the ... behind my house.",
+      "options": "A. farmhouse, B. garden, C. kitchen, D. rice paddy",
+      "answer": "B. garden"
+    },
+    {
+      "id": 69,
+      "question": "The bookstore is to the left of the movie ... .",
+      "options": "A. station, B. theater, C. home, D. school",
+      "answer": "B. theater"
+    },
+    {
+      "id": 70,
+      "question": "We should go to school by bike to … energy.",
+      "options": "A. save, B. protect, C. pollute, D. make",
+      "answer": "A. save"
+    },
+    {
+      "id": 71,
+      "question": "My parents watch ... in the evening.",
+      "options": "A. music, B. stereo, C. television, D. radio",
+      "answer": "C. television"
+    },
+    {
+      "id": 72,
+      "question": "We are … a play for our school anniversary.",
+      "options": "A. rehearsing, B. doing, C. playing, D. getting",
+      "answer": "A. rehearsing"
+    },
+    {
+      "id": 73,
+      "question": "Can you give me a ... for a fruit cake.",
+      "options": "A. prescription, B. recipe, C. description, D. receipt",
+      "answer": "B. recipe"
+    },
+    {
+      "id": 74,
+      "question": "We learn English songs in ... class.",
+      "options": "A. Literature, B. History, C. Geography, D. Music",
+      "answer": "D. Music"
+    },
+    {
+      "id": 75,
+      "question": "My mother is a nurse. She works in a … .",
+      "options": "A. bookstore, B. hospital, C. factory, D. school",
+      "answer": "B. hospital"
+    },
+    {
+      "id": 76,
+      "question": "“Enjoy” has similar meaning to “...”.",
+      "options": "A. like, B. hate, C. need, D. want",
+      "answer": "A. like"
+    },
+    {
+      "id": 77,
+      "question": "We need a tent to go ______.",
+      "options": "A. fishing, B. swimming, C. camping, D. skiing",
+      "answer": "C. camping"
+    },
+    {
+      "id": 78,
+      "question": "I want to ... you more about my family.",
+      "options": "A. say, B. tell, C. speak, D. warn",
+      "answer": "B. tell"
+    },
+    {
+      "id": 79,
+      "question": "A ... brings meals to customers in a restaurant.",
+      "options": "A. tailor, B. farmer, C. businessman, D. waiter",
+      "answer": "D. waiter"
+    },
+    {
+      "id": 80,
+      "question": "The 3Rs ... for Reduce, Reuse and Recycle.",
+      "options": "A. stand, B. sit, C. make, D. explain",
+      "answer": "A. stand"
+    }
   ],
   "part_B": [
-    {"id": 81, "question": "Hoa is filling in her medi_ _ _ report.[cite: 2]", "answer": "cal (medical)[cite: 1]"},
-    {"id": 82, "question": "He is going to _ _ _ _ some photos.[cite: 2]", "answer": "take[cite: 1]"},
-    {"id": 83, "question": "My family often has _ _ _ _ _ at 12:00.[cite: 2]", "answer": "lunch[cite: 1]"},
-    {"id": 84, "question": "A person who watches and protects children at the pool is a _ _ _ _ guard.[cite: 2]", "answer": "life (lifeguard)[cite: 1]"},
-    {"id": 85, "question": "Many people say that Japanese is the most difficult la_ _ _ _ _ _ in the world.[cite: 2]", "answer": "nguage (language)[cite: 1]"},
-    {"id": 86, "question": "It’s chewing gum. Chew it. Don’t _ _ _ _ _ _ _ it.[cite: 2]", "answer": "swallow[cite: 1]"},
-    {"id": 87, "question": "What’s Mary’s _ _ _ _ _ _ _ _ _ _ _ ? - She’s British.[cite: 2]", "answer": "nationality[cite: 1]"},
-    {"id": 88, "question": "Four _ _ _ _ _ _ _ in a year are spring, summer, autumn and winter.[cite: 2]", "answer": "seasons[cite: 1]"},
-    {"id": 89, "question": "The meal we have in the evening is called _ _ _ _ _ _ .[cite: 2]", "answer": "dinner[cite: 1]"},
-    {"id": 90, "question": "What’s the matter, Mike? – I have a t_ _ thache.[cite: 2]", "answer": "oo (toothache)[cite: 1]"},
-    {"id": 91, "question": "I’m _ _ _ _ _ _ . I’d like some biscuits.[cite: 2]", "answer": "hungry[cite: 1]"},
-    {"id": 92, "question": "Mary _ _ _ _ aerobics every day.[cite: 2]", "answer": "does (does aerobics)[cite: 1]"},
-    {"id": 93, "question": "First, I need to take your tem_ _ _ _ ture.[cite: 2]", "answer": "pera (temperature)[cite: 1]"},
-    {"id": 94, "question": "A: Which _ _ _ _ _ _ does Jane play? - B: She swims and plays badminton.[cite: 2]", "answer": "sports[cite: 1]"},
-    {"id": 95, "question": "VTV7 is an educational _ _ _ _ _ _ _ . We can learn much from its programs.[cite: 2]", "answer": "channel[cite: 1]"},
-    {"id": 96, "question": "At an intersection, you should _ _ _ _ down.[cite: 2]", "answer": "slow (slow down)[cite: 1]"},
-    {"id": 97, "question": "When you see a dripping faucet, turn it _ _ _ .[cite: 2]", "answer": "off (turn it off)[cite: 1]"},
-    {"id": 98, "question": "These children like su_ _ _ weather.[cite: 2]", "answer": "nny (sunny)[cite: 1]"},
-    {"id": 99, "question": "You have a _ _ _ _ _ _ leg. You should go to see the doctor soon.[cite: 2]", "answer": "broken[cite: 1]"},
-    {"id": 100, "question": "Are there any lakes in the coun_ _ _ side? – A lot![cite: 2]", "answer": "try (countryside)[cite: 1]"},
-    {"id": 101, "question": "They want to _ _ _ you a few questions before they leave.[cite: 2]", "answer": "ask (ask questions)[cite: 1]"},
-    {"id": 102, "question": "What’s your _ _ _ _ of birth? - June 23rd.[cite: 2]", "answer": "date (date of birth)[cite: 1]"},
-    {"id": 103, "question": "I like swimming very much. There is a swimming _ _ _ _ near my school.[cite: 2]", "answer": "pool (swimming pool)[cite: 1]"},
-    {"id": 104, "question": "3Rs stands for Reduce, Reuse and _ _ _ _ _ _ _ .[cite: 2]", "answer": "Recycle (Reduce, Reuse and Recycle)[cite: 1]"},
-    {"id": 105, "question": "The opposite of ’’start’’ is ’’_ _ _ ’’.[cite: 2]", "answer": "end[cite: 1]"},
-    {"id": 106, "question": "VTV7 is a new edu_ _ _ _ _ _ _ _ channel with lots of interesting programmes for students.[cite: 2]", "answer": "cational (educational)[cite: 1]"},
-    {"id": 107, "question": "Would you like a g_ _ _ _ of milk? – No, thanks.[cite: 2]", "answer": "lass (glass)[cite: 1]"},
-    {"id": 108, "question": "We should not _ _ _ _ _ electricity and water.[cite: 2]", "answer": "waste[cite: 1]"},
-    {"id": 109, "question": "There are 5 _ _ _ _ on each foot.[cite: 2]", "answer": "toes[cite: 1]"},
-    {"id": 110, "question": "Sports and games _ _ _ _ an important role in our lives.[cite: 2]", "answer": "play (play an important role)[cite: 1]"},
-    {"id": 111, "question": "Which _ _ _ _ _ are you in? - Class 6A.[cite: 2]", "answer": "class[cite: 1]"},
-    {"id": 112, "question": "In a _ _ _ _ Year, February has 29 days.[cite: 2]", "answer": "Leap (Leap Year)[cite: 1]"},
-    {"id": 113, "question": "Would you like to go to Penny Flea Market with me? We will _ _ _ _ a lot of fun.[cite: 2]", "answer": "have (have a lot of fun)[cite: 1]"},
-    {"id": 114, "question": "A: How do you _ _ _ _ _ your name? – B: L-A-N, Lan.[cite: 2]", "answer": "spell[cite: 1]"},
-    {"id": 115, "question": "There’re 4 seasons in a year: _ _ _ _ _ _ , summer, autumn and winter.[cite: 2]", "answer": "spring[cite: 1]"},
-    {"id": 116, "question": "I’d like a sandw_ _ _ and a glass of lemonade.[cite: 2]", "answer": "ich (sandwich)[cite: 1]"},
-    {"id": 117, "question": "My mother is a _ _ _ _ _ _ . She works in a hospital.[cite: 2]", "answer": "doctor[cite: 1]"},
-    {"id": 118, "question": "Does he _ _ _ _ soccer in his free time?[cite: 2]", "answer": "play (play soccer)[cite: 1]"},
-    {"id": 119, "question": "We need a tent to go _ _ _ _ _ _ _ .[cite: 2]", "answer": "camping[cite: 1]"},
-    {"id": 120, "question": "She plays badminton three _ _ _ _ _ a week.[cite: 2]", "answer": "times (three times a week)[cite: 1]"},
-    {"id": 121, "question": "Can you repair household applian_ _ _ ?[cite: 2]", "answer": "ces (appliances)[cite: 1]"},
-    {"id": 122, "question": "The opposite of ’’hard-working’’ is ’’_ _ _ _ ’’.[cite: 2]", "answer": "lazy[cite: 1]"},
-    {"id": 123, "question": "’’Repair’’ has similar meaning to ’’_ _ _ ’’.[cite: 2]", "answer": "fix[cite: 1]"},
-    {"id": 124, "question": "Xuan Bac and Tran Thanh are famous co_ _ _ _ _ _ _ in Vietnam.[cite: 2]", "answer": "medians (comedians)[cite: 1]"},
-    {"id": 125, "question": "The meal we have in the morning is called _ _ _ _ _ _ _ _ _ .[cite: 2]", "answer": "breakfast[cite: 1]"},
-    {"id": 126, "question": "F_ _ _ play is important in sports.[cite: 2]", "answer": "air (Fair play)[cite: 1]"},
-    {"id": 127, "question": "A person who joins a club is also a partici_ _ _ _ .[cite: 2]", "answer": "pant (participant)[cite: 1]"},
-    {"id": 128, "question": "My gr_ _ _ father often helps my parents on the farm.[cite: 2]", "answer": "and (grandfather)[cite: 1]"},
-    {"id": 129, "question": "Cabbages, spinach and beans are vege_ _ _ _ _ _ .[cite: 2]", "answer": "tables (vegetables)[cite: 1]"},
-    {"id": 130, "question": "She is from France. She speaks _ _ _ _ _ _ .[cite: 2]", "answer": "French[cite: 1]"},
-    {"id": 131, "question": "I want to turn on the TV but I can’t find the _ _ _ _ _ _ control.[cite: 2]", "answer": "remote (remote control)[cite: 1]"},
-    {"id": 132, "question": "Mr. Ronald is very strong. He’s a weightlif_ _ _ .[cite: 2]", "answer": "ter (weightlifter)[cite: 1]"},
-    {"id": 133, "question": "My sister feels _ _ _ _ _ _ _ . She wants a glass of water.[cite: 2]", "answer": "thirsty[cite: 1]"},
-    {"id": 134, "question": "We can see wild animals in the _ _ _ .[cite: 2]", "answer": "zoo[cite: 1]"},
-    {"id": 135, "question": "She has to use a cal_ _ _ _ tor to do Math exercises.[cite: 2]", "answer": "cula (calculator)[cite: 1]"},
-    {"id": 136, "question": "Vietnamese people often use chop_ _ _ _ _ _ to take food from dishes.[cite: 2]", "answer": "sticks (chopsticks)[cite: 1]"},
-    {"id": 137, "question": "They are playing bad_ _ _ _ _ _ in the yard.[cite: 2]", "answer": "minton (badminton)[cite: 1]"},
-    {"id": 138, "question": "It’s necessary to protect the _ _ _ _ ronment now.[cite: 2]", "answer": "envi (environment)[cite: 1]"},
-    {"id": 139, "question": "Guitar and piano are musical instru_ _ _ _ _ .[cite: 2]", "answer": "ments (instruments)[cite: 1]"},
-    {"id": 140, "question": "We can _ _ _ _ _ food from the restaurant by calling at its hotline.[cite: 2]", "answer": "order (order food)[cite: 1]"}
+    {
+      "id": 81,
+      "question": "Hoa is filling in her medi_ _ _ report.",
+      "answer": "cal (medical)"
+    },
+    {
+      "id": 82,
+      "question": "He is going to _ _ _ _ some photos.",
+      "answer": "take"
+    },
+    {
+      "id": 83,
+      "question": "My family often has _ _ _ _ _ at 12:00.",
+      "answer": "lunch"
+    },
+    {
+      "id": 84,
+      "question": "A person who watches and protects children at the pool is a _ _ _ _ guard.",
+      "answer": "life (lifeguard)"
+    },
+    {
+      "id": 85,
+      "question": "Many people say that Japanese is the most difficult la_ _ _ _ _ _ in the world.",
+      "answer": "nguage (language)"
+    },
+    {
+      "id": 86,
+      "question": "It’s chewing gum. Chew it. Don’t _ _ _ _ _ _ _ it.",
+      "answer": "swallow"
+    },
+    {
+      "id": 87,
+      "question": "What’s Mary’s _ _ _ _ _ _ _ _ _ _ _ ? - She’s British.",
+      "answer": "nationality"
+    },
+    {
+      "id": 88,
+      "question": "Four _ _ _ _ _ _ _ in a year are spring, summer, autumn and winter.",
+      "answer": "seasons"
+    },
+    {
+      "id": 89,
+      "question": "The meal we have in the evening is called _ _ _ _ _ _ .",
+      "answer": "dinner"
+    },
+    {
+      "id": 90,
+      "question": "What’s the matter, Mike? – I have a t_ _ thache.",
+      "answer": "oo (toothache)"
+    },
+    {
+      "id": 91,
+      "question": "I’m _ _ _ _ _ _ . I’d like some biscuits.",
+      "answer": "hungry"
+    },
+    {
+      "id": 92,
+      "question": "Mary _ _ _ _ aerobics every day.",
+      "answer": "does (does aerobics)"
+    },
+    {
+      "id": 93,
+      "question": "First, I need to take your tem_ _ _ _ ture.",
+      "answer": "pera (temperature)"
+    },
+    {
+      "id": 94,
+      "question": "A: Which _ _ _ _ _ _ does Jane play? - B: She swims and plays badminton.",
+      "answer": "sports"
+    },
+    {
+      "id": 95,
+      "question": "VTV7 is an educational _ _ _ _ _ _ _ . We can learn much from its programs.",
+      "answer": "channel"
+    },
+    {
+      "id": 96,
+      "question": "At an intersection, you should _ _ _ _ down.",
+      "answer": "slow (slow down)"
+    },
+    {
+      "id": 97,
+      "question": "When you see a dripping faucet, turn it _ _ _ .",
+      "answer": "off (turn it off)"
+    },
+    {
+      "id": 98,
+      "question": "These children like su_ _ _ weather.",
+      "answer": "nny (sunny)"
+    },
+    {
+      "id": 99,
+      "question": "You have a _ _ _ _ _ _ leg. You should go to see the doctor soon.",
+      "answer": "broken"
+    },
+    {
+      "id": 100,
+      "question": "Are there any lakes in the coun_ _ _ side? – A lot!",
+      "answer": "try (countryside)"
+    },
+    {
+      "id": 101,
+      "question": "They want to _ _ _ you a few questions before they leave.",
+      "answer": "ask (ask questions)"
+    },
+    {
+      "id": 102,
+      "question": "What’s your _ _ _ _ of birth? - June 23rd.",
+      "answer": "date (date of birth)"
+    },
+    {
+      "id": 103,
+      "question": "I like swimming very much. There is a swimming _ _ _ _ near my school.",
+      "answer": "pool (swimming pool)"
+    },
+    {
+      "id": 104,
+      "question": "3Rs stands for Reduce, Reuse and _ _ _ _ _ _ _ .",
+      "answer": "Recycle (Reduce, Reuse and Recycle)"
+    },
+    {
+      "id": 105,
+      "question": "The opposite of ’’start’’ is ’’_ _ _ ’’.",
+      "answer": "end"
+    },
+    {
+      "id": 106,
+      "question": "VTV7 is a new edu_ _ _ _ _ _ _ _ channel with lots of interesting programmes for students.",
+      "answer": "cational (educational)"
+    },
+    {
+      "id": 107,
+      "question": "Would you like a g_ _ _ _ of milk? – No, thanks.",
+      "answer": "lass (glass)"
+    },
+    {
+      "id": 108,
+      "question": "We should not _ _ _ _ _ electricity and water.",
+      "answer": "waste"
+    },
+    {
+      "id": 109,
+      "question": "There are 5 _ _ _ _ on each foot.",
+      "answer": "toes"
+    },
+    {
+      "id": 110,
+      "question": "Sports and games _ _ _ _ an important role in our lives.",
+      "answer": "play (play an important role)"
+    },
+    {
+      "id": 111,
+      "question": "Which _ _ _ _ _ are you in? - Class 6A.",
+      "answer": "class"
+    },
+    {
+      "id": 112,
+      "question": "In a _ _ _ _ Year, February has 29 days.",
+      "answer": "Leap (Leap Year)"
+    },
+    {
+      "id": 113,
+      "question": "Would you like to go to Penny Flea Market with me? We will _ _ _ _ a lot of fun.",
+      "answer": "have (have a lot of fun)"
+    },
+    {
+      "id": 114,
+      "question": "A: How do you _ _ _ _ _ your name? – B: L-A-N, Lan.",
+      "answer": "spell"
+    },
+    {
+      "id": 115,
+      "question": "There’re 4 seasons in a year: _ _ _ _ _ _ , summer, autumn and winter.",
+      "answer": "spring"
+    },
+    {
+      "id": 116,
+      "question": "I’d like a sandw_ _ _ and a glass of lemonade.",
+      "answer": "ich (sandwich)"
+    },
+    {
+      "id": 117,
+      "question": "My mother is a _ _ _ _ _ _ . She works in a hospital.",
+      "answer": "doctor"
+    },
+    {
+      "id": 118,
+      "question": "Does he _ _ _ _ soccer in his free time?",
+      "answer": "play (play soccer)"
+    },
+    {
+      "id": 119,
+      "question": "We need a tent to go _ _ _ _ _ _ _ .",
+      "answer": "camping"
+    },
+    {
+      "id": 120,
+      "question": "She plays badminton three _ _ _ _ _ a week.",
+      "answer": "times (three times a week)"
+    },
+    {
+      "id": 121,
+      "question": "Can you repair household applian_ _ _ ?",
+      "answer": "ces (appliances)"
+    },
+    {
+      "id": 122,
+      "question": "The opposite of ’’hard-working’’ is ’’_ _ _ _ ’’.",
+      "answer": "lazy"
+    },
+    {
+      "id": 123,
+      "question": "’’Repair’’ has similar meaning to ’’_ _ _ ’’.",
+      "answer": "fix"
+    },
+    {
+      "id": 124,
+      "question": "Xuan Bac and Tran Thanh are famous co_ _ _ _ _ _ _ in Vietnam.",
+      "answer": "medians (comedians)"
+    },
+    {
+      "id": 125,
+      "question": "The meal we have in the morning is called _ _ _ _ _ _ _ _ _ .",
+      "answer": "breakfast"
+    },
+    {
+      "id": 126,
+      "question": "F_ _ _ play is important in sports.",
+      "answer": "air (Fair play)"
+    },
+    {
+      "id": 127,
+      "question": "A person who joins a club is also a partici_ _ _ _ .",
+      "answer": "pant (participant)"
+    },
+    {
+      "id": 128,
+      "question": "My gr_ _ _ father often helps my parents on the farm.",
+      "answer": "and (grandfather)"
+    },
+    {
+      "id": 129,
+      "question": "Cabbages, spinach and beans are vege_ _ _ _ _ _ .",
+      "answer": "tables (vegetables)"
+    },
+    {
+      "id": 130,
+      "question": "She is from France. She speaks _ _ _ _ _ _ .",
+      "answer": "French"
+    },
+    {
+      "id": 131,
+      "question": "I want to turn on the TV but I can’t find the _ _ _ _ _ _ control.",
+      "answer": "remote (remote control)"
+    },
+    {
+      "id": 132,
+      "question": "Mr. Ronald is very strong. He’s a weightlif_ _ _ .",
+      "answer": "ter (weightlifter)"
+    },
+    {
+      "id": 133,
+      "question": "My sister feels _ _ _ _ _ _ _ . She wants a glass of water.",
+      "answer": "thirsty"
+    },
+    {
+      "id": 134,
+      "question": "We can see wild animals in the _ _ _ .",
+      "answer": "zoo"
+    },
+    {
+      "id": 135,
+      "question": "She has to use a cal_ _ _ _ tor to do Math exercises.",
+      "answer": "cula (calculator)"
+    },
+    {
+      "id": 136,
+      "question": "Vietnamese people often use chop_ _ _ _ _ _ to take food from dishes.",
+      "answer": "sticks (chopsticks)"
+    },
+    {
+      "id": 137,
+      "question": "They are playing bad_ _ _ _ _ _ in the yard.",
+      "answer": "minton (badminton)"
+    },
+    {
+      "id": 138,
+      "question": "It’s necessary to protect the _ _ _ _ ronment now.",
+      "answer": "envi (environment)"
+    },
+    {
+      "id": 139,
+      "question": "Guitar and piano are musical instru_ _ _ _ _ .",
+      "answer": "ments (instruments)"
+    },
+    {
+      "id": 140,
+      "question": "We can _ _ _ _ _ food from the restaurant by calling at its hotline.",
+      "answer": "order (order food)"
+    }
   ],
   "part_C": [
-    {"id": 141, "question": "a lot of / cows and / buffaloes. / My uncle / raises[cite: 2]", "answer": "My uncle raises a lot of cows and buffaloes.[cite: 1]"},
-    {"id": 142, "question": "Minh's / works / father / in / the factory.[cite: 2]", "answer": "Minh's father works in the factory.[cite: 1]"},
-    {"id": 143, "question": "a big / restaurant. / eat / We / in[cite: 2]", "answer": "We eat in a big restaurant.[cite: 1]"},
-    {"id": 144, "question": "has lunch / his bike / home and / He rides / at 12.[cite: 2]", "answer": "He rides his bike home and has lunch at 12.[cite: 1]"},
-    {"id": 145, "question": "Breakfast is / we have / the morning. / in / the meal[cite: 2]", "answer": "Breakfast is the meal we have in the morning.[cite: 1]"},
-    {"id": 146, "question": "stories in / me some fairy / My grandmother / often tells / the evening.[cite: 2]", "answer": "My grandmother often tells me some fairy stories in the evening.[cite: 1]"},
-    {"id": 147, "question": "on / They / are / the farm. / working[cite: 2]", "answer": "They are working on the farm.[cite: 1]"},
-    {"id": 148, "question": "have to / uniforms / on Mondays. / They / wear[cite: 2]", "answer": "They have to wear uniforms on Mondays.[cite: 1]"},
-    {"id": 149, "question": "every / a / bath / morning. / She takes[cite: 2]", "answer": "She takes a bath every morning.[cite: 1]"},
-    {"id": 150, "question": "on / a / My grandparents / farm. / live[cite: 2]", "answer": "My grandparents live on a farm.[cite: 1]"},
-    {"id": 151, "question": "We / the market / some shopping. / to do / go to[cite: 2]", "answer": "We go to the market to do some shopping.[cite: 1]"},
-    {"id": 152, "question": "football matches / watching important / on TV. / Britain enjoy / People in[cite: 2]", "answer": "People in Britain enjoy watching important football matches on TV.[cite: 1]"},
-    {"id": 153, "question": "two / There are / stadiums / new / in town.[cite: 2]", "answer": "There are two new stadiums in town.[cite: 1]"},
-    {"id": 154, "question": "often / Lan / the housework / does / after dinner.[cite: 2]", "answer": "Lan often does the housework after dinner.[cite: 1]"},
-    {"id": 155, "question": "Edward loves / on / with his family. / going / holiday[cite: 2]", "answer": "Edward loves going on holiday with his family.[cite: 1]"},
-    {"id": 156, "question": "be / strong. / very / must / A weight lifter[cite: 2]", "answer": "A weight lifter must be very strong.[cite: 1]"},
-    {"id": 157, "question": "This is / classmate. / our / English / new[cite: 2]", "answer": "This is our new English classmate.[cite: 1]"},
-    {"id": 158, "question": "a teacher. / to / is / Her dream / become[cite: 2]", "answer": "Her dream is to become a teacher.[cite: 1]"},
-    {"id": 159, "question": "in / music / his free time. / listens to / Kyle often[cite: 2]", "answer": "Kyle often listens to music in his free time.[cite: 1]"},
-    {"id": 160, "question": "plays / badminton / in the morning. / sometimes / He[cite: 2]", "answer": "He sometimes plays badminton in the morning.[cite: 1]"},
-    {"id": 161, "question": "My father / Tet. / repaint our / house before / and I will[cite: 2]", "answer": "My father and I will repaint our house before Tet.[cite: 1]"},
-    {"id": 162, "question": "goes to / On Sunday evening, / bed / she / early.[cite: 2]", "answer": "On Sunday evening, she goes to bed early.[cite: 1]"},
-    {"id": 163, "question": "flowers. / not / wild / pick / Do[cite: 2]", "answer": "Do not pick wild flowers.[cite: 1]"},
-    {"id": 164, "question": "History / on / Monday. / have / We[cite: 2]", "answer": "We have History on Monday.[cite: 1]"},
-    {"id": 165, "question": "sailing. / but sometimes / plays volleyball / Richard usually / goes[cite: 2]", "answer": "Richard usually plays volleyball but sometimes goes sailing.[cite: 1]"},
-    {"id": 166, "question": "Mr. Ba / travels / by plane. / China / to[cite: 2]", "answer": "Mr. Ba travels to China by plane.[cite: 1]"},
-    {"id": 167, "question": "Rivers / usually / flow / the sea. / to[cite: 2]", "answer": "Rivers usually flow to the sea.[cite: 1]"},
-    {"id": 168, "question": "football match / this / afternoon. / There is / an exciting[cite: 2]", "answer": "There is an exciting football match this afternoon.[cite: 1]"},
-    {"id": 169, "question": "the / a house / in / country. / I live in[cite: 2]", "answer": "I live in a house in the country.[cite: 1]"},
-    {"id": 170, "question": "housework. / 2 hours / It takes Hoa / each day / to do[cite: 2]", "answer": "It takes Hoa 2 hours each day to do housework.[cite: 1]"},
-    {"id": 171, "question": "a week. / English / times / I have / three[cite: 2]", "answer": "I have English three times a week.[cite: 1]"},
-    {"id": 172, "question": "a bottle / needs / cooking oil. / My mother / of[cite: 2]", "answer": "My mother needs a bottle of cooking oil.[cite: 1]"},
-    {"id": 173, "question": "important / It’s very / clean. / to keep / the environment[cite: 2]", "answer": "It’s very important to keep the environment clean.[cite: 1]"},
-    {"id": 174, "question": "before / Don’t / lock the door / forget to / going to school.[cite: 2]", "answer": "Don’t forget to lock the door before going to school.[cite: 1]"},
-    {"id": 175, "question": "the school / meet in / front of / gate. / We can[cite: 2]", "answer": "We can meet in front of the school gate.[cite: 1]"},
-    {"id": 176, "question": "tonight? / go out / Why / for a walk / don’t we[cite: 2]", "answer": "Why don’t we go out for a walk tonight?[cite: 1]"},
-    {"id": 177, "question": "a river. / to / next / Their house / is[cite: 2]", "answer": "Their house is next to a river.[cite: 1]"},
-    {"id": 178, "question": "you have / lifestyle? / Do you / think / a healthy[cite: 2]", "answer": "Do you think you have a healthy lifestyle?[cite: 1]"},
-    {"id": 179, "question": "books. / a lot of / have / interesting / They[cite: 2]", "answer": "They have a lot of interesting books.[cite: 1]"},
-    {"id": 180, "question": "my mother / the housework. / My sister / helps / with[cite: 2]", "answer": "My sister helps my mother with the housework.[cite: 1]"},
-    {"id": 181, "question": "Helen / has / collection / a fine / of stamps.[cite: 2]", "answer": "Helen has a fine collection of stamps.[cite: 1]"},
-    {"id": 182, "question": "I / often / on Sundays. / fishing / go[cite: 2]", "answer": "I often go fishing on Sundays.[cite: 1]"},
-    {"id": 183, "question": "in / the fridge. / We have / food / a lot of[cite: 2]", "answer": "We have a lot of food in the fridge.[cite: 1]"},
-    {"id": 184, "question": "orange / is / drink / juice. / My favourite[cite: 2]", "answer": "My favourite drink is orange juice.[cite: 1]"},
-    {"id": 185, "question": "viewers / around the world. / The program / of / attracts / millions[cite: 2]", "answer": "The program attracts millions of viewers around the world.[cite: 1]"},
-    {"id": 186, "question": "My mother / usually / in the early / morning. / goes jogging[cite: 2]", "answer": "My mother usually goes jogging in the early morning.[cite: 1]"},
-    {"id": 187, "question": "the mechanic / I hope / can repair / our / car quickly.[cite: 2]", "answer": "I hope the mechanic can repair our car quickly.[cite: 1]"},
-    {"id": 188, "question": "guitar. / me how / taught / My dad / to play the[cite: 2]", "answer": "My dad taught me how to play the guitar.[cite: 1]"},
-    {"id": 189, "question": "two hours / I spend / doing / my homework. / each day[cite: 2]", "answer": "I spend two hours each day doing my homework.[cite: 1]"},
-    {"id": 190, "question": "A painter / pictures / a studio. / in / paints[cite: 2]", "answer": "A painter paints pictures in a studio.[cite: 1]"},
-    {"id": 191, "question": "often / People / travel to / Singapore / by plane.[cite: 2]", "answer": "People often travel to Singapore by plane.[cite: 1]"},
-    {"id": 192, "question": "her brother / go to / on foot. / She and / school[cite: 2]", "answer": "She and her brother go to school on foot.[cite: 1]"},
-    {"id": 193, "question": "be safe / We can / if / we follow / traffic rules.[cite: 2]", "answer": "We can be safe if we follow traffic rules.[cite: 1]"},
-    {"id": 194, "question": "once a / week. / goes / camping / She[cite: 2]", "answer": "She goes camping once a week.[cite: 1]"},
-    {"id": 195, "question": "She’s / for / a picture / her younger brother. / drawing[cite: 2]", "answer": "She’s drawing a picture for her younger brother.[cite: 1]"},
-    {"id": 196, "question": "We / trash. / not / should / drop[cite: 2]", "answer": "We should not drop trash.[cite: 1]"},
-    {"id": 197, "question": "bread and milk / breakfast. / some / I have / for[cite: 2]", "answer": "I have some bread and milk for breakfast.[cite: 1]"},
-    {"id": 198, "question": "clean. / keep / class / We must / our[cite: 2]", "answer": "We must keep our class clean.[cite: 1]"},
-    {"id": 199, "question": "the housework. / robots / We might / do / have[cite: 2]", "answer": "We might have robots do the housework.[cite: 1]"},
-    {"id": 200, "question": "some / They / taking / photos. / are[cite: 2]", "answer": "They are taking some photos.[cite: 1]"}
+    {
+      "id": 141,
+      "question": "a lot of / cows and / buffaloes. / My uncle / raises",
+      "answer": "My uncle raises a lot of cows and buffaloes."
+    },
+    {
+      "id": 142,
+      "question": "Minh's / works / father / in / the factory.",
+      "answer": "Minh's father works in the factory."
+    },
+    {
+      "id": 143,
+      "question": "a big / restaurant. / eat / We / in",
+      "answer": "We eat in a big restaurant."
+    },
+    {
+      "id": 144,
+      "question": "has lunch / his bike / home and / He rides / at 12.",
+      "answer": "He rides his bike home and has lunch at 12."
+    },
+    {
+      "id": 145,
+      "question": "Breakfast is / we have / the morning. / in / the meal",
+      "answer": "Breakfast is the meal we have in the morning."
+    },
+    {
+      "id": 146,
+      "question": "stories in / me some fairy / My grandmother / often tells / the evening.",
+      "answer": "My grandmother often tells me some fairy stories in the evening."
+    },
+    {
+      "id": 147,
+      "question": "on / They / are / the farm. / working",
+      "answer": "They are working on the farm."
+    },
+    {
+      "id": 148,
+      "question": "have to / uniforms / on Mondays. / They / wear",
+      "answer": "They have to wear uniforms on Mondays."
+    },
+    {
+      "id": 149,
+      "question": "every / a / bath / morning. / She takes",
+      "answer": "She takes a bath every morning."
+    },
+    {
+      "id": 150,
+      "question": "on / a / My grandparents / farm. / live",
+      "answer": "My grandparents live on a farm."
+    },
+    {
+      "id": 151,
+      "question": "We / the market / some shopping. / to do / go to",
+      "answer": "We go to the market to do some shopping."
+    },
+    {
+      "id": 152,
+      "question": "football matches / watching important / on TV. / Britain enjoy / People in",
+      "answer": "People in Britain enjoy watching important football matches on TV."
+    },
+    {
+      "id": 153,
+      "question": "two / There are / stadiums / new / in town.",
+      "answer": "There are two new stadiums in town."
+    },
+    {
+      "id": 154,
+      "question": "often / Lan / the housework / does / after dinner.",
+      "answer": "Lan often does the housework after dinner."
+    },
+    {
+      "id": 155,
+      "question": "Edward loves / on / with his family. / going / holiday",
+      "answer": "Edward loves going on holiday with his family."
+    },
+    {
+      "id": 156,
+      "question": "be / strong. / very / must / A weight lifter",
+      "answer": "A weight lifter must be very strong."
+    },
+    {
+      "id": 157,
+      "question": "This is / classmate. / our / English / new",
+      "answer": "This is our new English classmate."
+    },
+    {
+      "id": 158,
+      "question": "a teacher. / to / is / Her dream / become",
+      "answer": "Her dream is to become a teacher."
+    },
+    {
+      "id": 159,
+      "question": "in / music / his free time. / listens to / Kyle often",
+      "answer": "Kyle often listens to music in his free time."
+    },
+    {
+      "id": 160,
+      "question": "plays / badminton / in the morning. / sometimes / He",
+      "answer": "He sometimes plays badminton in the morning."
+    },
+    {
+      "id": 161,
+      "question": "My father / Tet. / repaint our / house before / and I will",
+      "answer": "My father and I will repaint our house before Tet."
+    },
+    {
+      "id": 162,
+      "question": "goes to / On Sunday evening, / bed / she / early.",
+      "answer": "On Sunday evening, she goes to bed early."
+    },
+    {
+      "id": 163,
+      "question": "flowers. / not / wild / pick / Do",
+      "answer": "Do not pick wild flowers."
+    },
+    {
+      "id": 164,
+      "question": "History / on / Monday. / have / We",
+      "answer": "We have History on Monday."
+    },
+    {
+      "id": 165,
+      "question": "sailing. / but sometimes / plays volleyball / Richard usually / goes",
+      "answer": "Richard usually plays volleyball but sometimes goes sailing."
+    },
+    {
+      "id": 166,
+      "question": "Mr. Ba / travels / by plane. / China / to",
+      "answer": "Mr. Ba travels to China by plane."
+    },
+    {
+      "id": 167,
+      "question": "Rivers / usually / flow / the sea. / to",
+      "answer": "Rivers usually flow to the sea."
+    },
+    {
+      "id": 168,
+      "question": "football match / this / afternoon. / There is / an exciting",
+      "answer": "There is an exciting football match this afternoon."
+    },
+    {
+      "id": 169,
+      "question": "the / a house / in / country. / I live in",
+      "answer": "I live in a house in the country."
+    },
+    {
+      "id": 170,
+      "question": "housework. / 2 hours / It takes Hoa / each day / to do",
+      "answer": "It takes Hoa 2 hours each day to do housework."
+    },
+    {
+      "id": 171,
+      "question": "a week. / English / times / I have / three",
+      "answer": "I have English three times a week."
+    },
+    {
+      "id": 172,
+      "question": "a bottle / needs / cooking oil. / My mother / of",
+      "answer": "My mother needs a bottle of cooking oil."
+    },
+    {
+      "id": 173,
+      "question": "important / It’s very / clean. / to keep / the environment",
+      "answer": "It’s very important to keep the environment clean."
+    },
+    {
+      "id": 174,
+      "question": "before / Don’t / lock the door / forget to / going to school.",
+      "answer": "Don’t forget to lock the door before going to school."
+    },
+    {
+      "id": 175,
+      "question": "the school / meet in / front of / gate. / We can",
+      "answer": "We can meet in front of the school gate."
+    },
+    {
+      "id": 176,
+      "question": "tonight? / go out / Why / for a walk / don’t we",
+      "answer": "Why don’t we go out for a walk tonight?"
+    },
+    {
+      "id": 177,
+      "question": "a river. / to / next / Their house / is",
+      "answer": "Their house is next to a river."
+    },
+    {
+      "id": 178,
+      "question": "you have / lifestyle? / Do you / think / a healthy",
+      "answer": "Do you think you have a healthy lifestyle?"
+    },
+    {
+      "id": 179,
+      "question": "books. / a lot of / have / interesting / They",
+      "answer": "They have a lot of interesting books."
+    },
+    {
+      "id": 180,
+      "question": "my mother / the housework. / My sister / helps / with",
+      "answer": "My sister helps my mother with the housework."
+    },
+    {
+      "id": 181,
+      "question": "Helen / has / collection / a fine / of stamps.",
+      "answer": "Helen has a fine collection of stamps."
+    },
+    {
+      "id": 182,
+      "question": "I / often / on Sundays. / fishing / go",
+      "answer": "I often go fishing on Sundays."
+    },
+    {
+      "id": 183,
+      "question": "in / the fridge. / We have / food / a lot of",
+      "answer": "We have a lot of food in the fridge."
+    },
+    {
+      "id": 184,
+      "question": "orange / is / drink / juice. / My favourite",
+      "answer": "My favourite drink is orange juice."
+    },
+    {
+      "id": 185,
+      "question": "viewers / around the world. / The program / of / attracts / millions",
+      "answer": "The program attracts millions of viewers around the world."
+    },
+    {
+      "id": 186,
+      "question": "My mother / usually / in the early / morning. / goes jogging",
+      "answer": "My mother usually goes jogging in the early morning."
+    },
+    {
+      "id": 187,
+      "question": "the mechanic / I hope / can repair / our / car quickly.",
+      "answer": "I hope the mechanic can repair our car quickly."
+    },
+    {
+      "id": 188,
+      "question": "guitar. / me how / taught / My dad / to play the",
+      "answer": "My dad taught me how to play the guitar."
+    },
+    {
+      "id": 189,
+      "question": "two hours / I spend / doing / my homework. / each day",
+      "answer": "I spend two hours each day doing my homework."
+    },
+    {
+      "id": 190,
+      "question": "A painter / pictures / a studio. / in / paints",
+      "answer": "A painter paints pictures in a studio."
+    },
+    {
+      "id": 191,
+      "question": "often / People / travel to / Singapore / by plane.",
+      "answer": "People often travel to Singapore by plane."
+    },
+    {
+      "id": 192,
+      "question": "her brother / go to / on foot. / She and / school",
+      "answer": "She and her brother go to school on foot."
+    },
+    {
+      "id": 193,
+      "question": "be safe / We can / if / we follow / traffic rules.",
+      "answer": "We can be safe if we follow traffic rules."
+    },
+    {
+      "id": 194,
+      "question": "once a / week. / goes / camping / She",
+      "answer": "She goes camping once a week."
+    },
+    {
+      "id": 195,
+      "question": "She’s / for / a picture / her younger brother. / drawing",
+      "answer": "She’s drawing a picture for her younger brother."
+    },
+    {
+      "id": 196,
+      "question": "We / trash. / not / should / drop",
+      "answer": "We should not drop trash."
+    },
+    {
+      "id": 197,
+      "question": "bread and milk / breakfast. / some / I have / for",
+      "answer": "I have some bread and milk for breakfast."
+    },
+    {
+      "id": 198,
+      "question": "clean. / keep / class / We must / our",
+      "answer": "We must keep our class clean."
+    },
+    {
+      "id": 199,
+      "question": "the housework. / robots / We might / do / have",
+      "answer": "We might have robots do the housework."
+    },
+    {
+      "id": 200,
+      "question": "some / They / taking / photos. / are",
+      "answer": "They are taking some photos."
+    }
   ]
 }
