@@ -1,0 +1,1409 @@
+{
+  "title": "IOE Lớp 6 - Chuyên đề 3 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: were/ Wish/ you/ here!",
+      "options": [],
+      "answer": "Wish you were here!",
+      "explanation": "Câu hoàn chỉnh: “Wish you were here!”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 2,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Singapore./ from/ is/ Meimei",
+      "options": [],
+      "answer": "Meimei is from Singapore",
+      "explanation": "Câu hoàn chỉnh: “Meimei is from Singapore”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 3,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: beautifully./ soccer/ He/ plays",
+      "options": [],
+      "answer": "He plays soccer beautifully",
+      "explanation": "Câu hoàn chỉnh: “He plays soccer beautifully”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 4,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Wuhan./ COVID-19/ in/ started",
+      "options": [],
+      "answer": "COVID-19 started in Wuhan",
+      "explanation": "Câu hoàn chỉnh: “COVID-19 started in Wuhan”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 5,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: It/ is/ eight/ o’clock.",
+      "options": [],
+      "answer": "It is eight o’clock",
+      "explanation": "Câu hoàn chỉnh: “It is eight o’clock”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 6,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: likes/ beer./ My father/ drinking",
+      "options": [],
+      "answer": "My father likes drinking beer",
+      "explanation": "Câu hoàn chỉnh: “My father likes drinking beer”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 7,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: My/ mother/ understands/ deeply./ me",
+      "options": [],
+      "answer": "My mother understands me deeply",
+      "explanation": "Câu hoàn chỉnh: “My mother understands me deeply”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 8,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: They/ are/ school./ for/ late",
+      "options": [],
+      "answer": "They are late for school",
+      "explanation": "Câu hoàn chỉnh: “They are late for school”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 9,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: want/ 200 grams/ I/ of/ beef.",
+      "options": [],
+      "answer": "I want 200 grams of beef",
+      "explanation": "Câu hoàn chỉnh: “I want 200 grams of beef”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 10,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: They/ taking/ some/ are/ photos.",
+      "options": [],
+      "answer": "They are taking some photos",
+      "explanation": "Câu hoàn chỉnh: “They are taking some photos”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 11,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: my/ is/ living/ room./ This",
+      "options": [],
+      "answer": "This is my living room",
+      "explanation": "Câu hoàn chỉnh: “This is my living room”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 12,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: favorite/ Pink/ my/ is/ color.",
+      "options": [],
+      "answer": "Pink is my favorite color",
+      "explanation": "Câu hoàn chỉnh: “Pink is my favorite color”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 13,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: are/ Elephants/ bigger/ lions./ than",
+      "options": [],
+      "answer": "Elephants are bigger than lions",
+      "explanation": "Câu hoàn chỉnh: “Elephants are bigger than lions”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 14,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: again./ see/ you/ to/ Nice",
+      "options": [],
+      "answer": "Nice to see you again",
+      "explanation": "Câu hoàn chỉnh: “Nice to see you again”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 15,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: week./ 40 hours/ a/ Peter/ works",
+      "options": [],
+      "answer": "Peter works 40 hours a week",
+      "explanation": "Câu hoàn chỉnh: “Peter works 40 hours a week”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 16,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: and/ are/ elephants/ animals./ Tiger",
+      "options": [],
+      "answer": "Tiger and elephants are animals",
+      "explanation": "Câu hoàn chỉnh: “Tiger and elephants are animals”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 17,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: outdoor/ Most/ activities./ love/ children",
+      "options": [],
+      "answer": "Most children love outdoor activities",
+      "explanation": "Câu hoàn chỉnh: “Most children love outdoor activities”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 18,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: These/ milk./ some/ children/ want",
+      "options": [],
+      "answer": "These children want some milk",
+      "explanation": "Câu hoàn chỉnh: “These children want some milk”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 19,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: a/ is/ AIDS/ dangerous/ disease.",
+      "options": [],
+      "answer": "AIDS is a dangerous disease",
+      "explanation": "Câu hoàn chỉnh: “AIDS is a dangerous disease”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 20,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: ten/ years/ old./ Quan/ is",
+      "options": [],
+      "answer": "Quan is ten years old",
+      "explanation": "Câu hoàn chỉnh: “Quan is ten years old”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 21,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: my/ is/ elder/ He/ brother.",
+      "options": [],
+      "answer": "He is my elder brother",
+      "explanation": "Câu hoàn chỉnh: “He is my elder brother”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 22,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: give/ Birds/ information./ to/ sing",
+      "options": [],
+      "answer": "Birds sing to give information",
+      "explanation": "Câu hoàn chỉnh: “Birds sing to give information”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 23,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: long./ 6,000/ over/ It’s/ meters",
+      "options": [],
+      "answer": "It’s over 6,000 meters long",
+      "explanation": "Câu hoàn chỉnh: “It’s over 6,000 meters long”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 24,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: are from/ These green/ apples/ my garden.",
+      "options": [],
+      "answer": "These green apples are from my garden",
+      "explanation": "Câu hoàn chỉnh: “These green apples are from my garden”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 25,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: listening/ Nam/ to/ is/ music.",
+      "options": [],
+      "answer": "Nam is listening to music",
+      "explanation": "Câu hoàn chỉnh: “Nam is listening to music”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 26,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: often/ Lan/ does/ the/ housework.",
+      "options": [],
+      "answer": "Lan often does the housework",
+      "explanation": "Câu hoàn chỉnh: “Lan often does the housework”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 27,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Chinese/ Mr./ Quang/ fluently./ speaks",
+      "options": [],
+      "answer": "Mr. Quang speaks Chinese fluently",
+      "explanation": "Câu hoàn chỉnh: “Mr. Quang speaks Chinese fluently”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 28,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: an/ My/ is/ father/ engineer.",
+      "options": [],
+      "answer": "My father is an engineer",
+      "explanation": "Câu hoàn chỉnh: “My father is an engineer”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 29,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: born/ was/ 1916./ Xuan Dieu/ in",
+      "options": [],
+      "answer": "Xuan Dieu was born in 1916",
+      "explanation": "Câu hoàn chỉnh: “Xuan Dieu was born in 1916”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 30,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: turn/ then/ right./ straight,/ Keep",
+      "options": [],
+      "answer": "Keep straight, then turn right",
+      "explanation": "Câu hoàn chỉnh: “Keep straight, then turn right”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 31,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: him/ His/ curiosity/ helps/ succeed.",
+      "options": [],
+      "answer": "His curiosity helps him succeed",
+      "explanation": "Câu hoàn chỉnh: “His curiosity helps him succeed”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 32,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: orange/ is/ drink/ juice./ My favourite",
+      "options": [],
+      "answer": "My favourite drink is orange juice",
+      "explanation": "Câu hoàn chỉnh: “My favourite drink is orange juice”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 33,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: our/ new/ English/ classmate./ This is",
+      "options": [],
+      "answer": "This is our new English classmate",
+      "explanation": "Câu hoàn chỉnh: “This is our new English classmate”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 34,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: do/ little/ karate./ a/ I can",
+      "options": [],
+      "answer": "I can do a little karate",
+      "explanation": "Câu hoàn chỉnh: “I can do a little karate”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 35,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: a new/ dress./ She/ yellow/ wants",
+      "options": [],
+      "answer": "She wants a new yellow dress",
+      "explanation": "Câu hoàn chỉnh: “She wants a new yellow dress”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 36,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: are/ working/ on/ They/ the farm.",
+      "options": [],
+      "answer": "They are working on the farm",
+      "explanation": "Câu hoàn chỉnh: “They are working on the farm”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 37,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: flow/ to/ usually/ the sea./ Rivers",
+      "options": [],
+      "answer": "Rivers usually flow to the sea",
+      "explanation": "Câu hoàn chỉnh: “Rivers usually flow to the sea”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 38,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: aren’t/ There/ here./ stores/ any",
+      "options": [],
+      "answer": "There aren’t any stores here",
+      "explanation": "Câu hoàn chỉnh: “There aren’t any stores here”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 39,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: parents/ misses/ and friends./ She/ her",
+      "options": [],
+      "answer": "She misses her parents and friends",
+      "explanation": "Câu hoàn chỉnh: “She misses her parents and friends”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 40,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: listen to/ book and/ Close your/ my questions.",
+      "options": [],
+      "answer": "Close your book and listen to my questions",
+      "explanation": "Câu hoàn chỉnh: “Close your book and listen to my questions”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 41,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: fishing/ on Sundays./ I/ often/ go",
+      "options": [],
+      "answer": "I often go fishing on Sundays",
+      "explanation": "Câu hoàn chỉnh: “I often go fishing on Sundays”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 42,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: once a/ week./ goes/ camping/ She",
+      "options": [],
+      "answer": "She goes camping once a week",
+      "explanation": "Câu hoàn chỉnh: “She goes camping once a week”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 43,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is/ It/ business trip./ exciting/ an",
+      "options": [],
+      "answer": "It is an exciting business trip",
+      "explanation": "Câu hoàn chỉnh: “It is an exciting business trip”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 44,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: careful/ a/ is/ Mr. Han/ driver.",
+      "options": [],
+      "answer": "Mr. Han is a careful driver",
+      "explanation": "Câu hoàn chỉnh: “Mr. Han is a careful driver”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 45,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: everyone./ very/ important/ to/ Health is",
+      "options": [],
+      "answer": "Health is very important to everyone",
+      "explanation": "Câu hoàn chỉnh: “Health is very important to everyone”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 46,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is/ Canada’s/ Toronto/ city./ largest",
+      "options": [],
+      "answer": "Toronto is Canada’s largest city",
+      "explanation": "Câu hoàn chỉnh: “Toronto is Canada’s largest city”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 47,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: clean./ keep/ class/ We must/ our",
+      "options": [],
+      "answer": "We must keep our class clean",
+      "explanation": "Câu hoàn chỉnh: “We must keep our class clean”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 48,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: the/ meet/ theater./ Let’s/ outside",
+      "options": [],
+      "answer": "Let’s meet outside the theater",
+      "explanation": "Câu hoàn chỉnh: “Let’s meet outside the theater”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 49,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is/ It/ first floor./ on/ the",
+      "options": [],
+      "answer": "It is on the first floor",
+      "explanation": "Câu hoàn chỉnh: “It is on the first floor”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 50,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: her/ I think/ is/ daughter/ lovely.",
+      "options": [],
+      "answer": "I think her daughter is lovely",
+      "explanation": "Câu hoàn chỉnh: “I think her daughter is lovely”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 51,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: live/ a/ on/ My grandparents/ farm.",
+      "options": [],
+      "answer": "My grandparents live on a farm",
+      "explanation": "Câu hoàn chỉnh: “My grandparents live on a farm”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 52,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: sports/ two separate/ teams./ Team/ require",
+      "options": [],
+      "answer": "Team sports require two separate teams",
+      "explanation": "Câu hoàn chỉnh: “Team sports require two separate teams”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 53,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: My house/ bakery./ is/ the/ opposite",
+      "options": [],
+      "answer": "My house is opposite the bakery",
+      "explanation": "Câu hoàn chỉnh: “My house is opposite the bakery”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 54,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: This pencil/ belongs/ brother./ my/ to",
+      "options": [],
+      "answer": "This pencil belongs to my brother",
+      "explanation": "Câu hoàn chỉnh: “This pencil belongs to my brother”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 55,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: meters/ over/ long./ 6,000/ This river is",
+      "options": [],
+      "answer": "This river is over 6,000 meters long",
+      "explanation": "Câu hoàn chỉnh: “This river is over 6,000 meters long”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 56,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: train./ for/ waiting/ They’re/ a",
+      "options": [],
+      "answer": "They’re waiting for a train",
+      "explanation": "Câu hoàn chỉnh: “They’re waiting for a train”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 57,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: It is/ learn/ English./ to/ necessary",
+      "options": [],
+      "answer": "It is necessary to learn English",
+      "explanation": "Câu hoàn chỉnh: “It is necessary to learn English”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 58,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: eat/ We/ a big/ restaurant./ in",
+      "options": [],
+      "answer": "We eat in a big restaurant",
+      "explanation": "Câu hoàn chỉnh: “We eat in a big restaurant”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 59,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: dollars./ six/ Six bananas/ me/ cost",
+      "options": [],
+      "answer": "Six bananas cost me six dollars",
+      "explanation": "Câu hoàn chỉnh: “Six bananas cost me six dollars”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 60,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: bath/ every/ a/ She takes/ morning.",
+      "options": [],
+      "answer": "She takes a bath every morning",
+      "explanation": "Câu hoàn chỉnh: “She takes a bath every morning”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 61,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: 263/ is/ Street./ Tran Phu/ My address",
+      "options": [],
+      "answer": "My address is 263 Tran Phu Street",
+      "explanation": "Câu hoàn chỉnh: “My address is 263 Tran Phu Street”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 62,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in/ my class./ are/ 20 students/ There",
+      "options": [],
+      "answer": "There are 20 students in my class",
+      "explanation": "Câu hoàn chỉnh: “There are 20 students in my class”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 63,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: 1st/ Day./ Children’s/ June/ is",
+      "options": [],
+      "answer": "June 1st is Children’s Day",
+      "explanation": "Câu hoàn chỉnh: “June 1st is Children’s Day”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 64,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Rain/ often comes/ with/ hot/ weather.",
+      "options": [],
+      "answer": "Rain often comes with hot weather",
+      "explanation": "Câu hoàn chỉnh: “Rain often comes with hot weather”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 65,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: forgetting/ always/ Van is/ his/ homework.",
+      "options": [],
+      "answer": "Van is always forgetting his homework",
+      "explanation": "Câu hoàn chỉnh: “Van is always forgetting his homework”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 66,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: country./ the/ My house/ in/ is",
+      "options": [],
+      "answer": "My house is in the country",
+      "explanation": "Câu hoàn chỉnh: “My house is in the country”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 67,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: time./ first/ I won/ for/ the",
+      "options": [],
+      "answer": "I won for the first time",
+      "explanation": "Câu hoàn chỉnh: “I won for the first time”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 68,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: of/ He/ takes/ sick people./ care",
+      "options": [],
+      "answer": "He takes care of sick people",
+      "explanation": "Câu hoàn chỉnh: “He takes care of sick people”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 69,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Mai/ Lan’s/ older/ sister./ is",
+      "options": [],
+      "answer": "Mai is Lan’s older sister",
+      "explanation": "Câu hoàn chỉnh: “Mai is Lan’s older sister”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 70,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: two/ vacation/ months./ lasts/ Our summer",
+      "options": [],
+      "answer": "Our summer vacation lasts two months",
+      "explanation": "Câu hoàn chỉnh: “Our summer vacation lasts two months”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 71,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: very/ heavy./ and/ strong/ Mary is",
+      "options": [],
+      "answer": "Mary is very strong and heavy",
+      "explanation": "Câu hoàn chỉnh: “Mary is very strong and heavy”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 72,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: very/ can/ well./ Those elephants/ dance",
+      "options": [],
+      "answer": "Those elephants can dance very well",
+      "explanation": "Câu hoàn chỉnh: “Those elephants can dance very well”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 73,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Oliver Twist/ published/ in 1838./ was/ first",
+      "options": [],
+      "answer": "Oliver Twist was first published in 1838",
+      "explanation": "Câu hoàn chỉnh: “Oliver Twist was first published in 1838”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 74,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: I/ on August/ 13th/ was born/ 1994.",
+      "options": [],
+      "answer": "I was born on August 13th 1994",
+      "explanation": "Câu hoàn chỉnh: “I was born on August 13th 1994”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 75,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is/ by/ travelling/ bus now./ She",
+      "options": [],
+      "answer": "She is travelling by bus now",
+      "explanation": "Câu hoàn chỉnh: “She is travelling by bus now”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 76,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: every/ to/ school/ day./ Huy walks",
+      "options": [],
+      "answer": "Huy walks to school every day",
+      "explanation": "Câu hoàn chỉnh: “Huy walks to school every day”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 77,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: People/ drink/ tea./ in Asia/ often",
+      "options": [],
+      "answer": "People in Asia often drink tea",
+      "explanation": "Câu hoàn chỉnh: “People in Asia often drink tea”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 78,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: refrigerator./ the/ nothing/ in/ There is",
+      "options": [],
+      "answer": "There is nothing in the refrigerator",
+      "explanation": "Câu hoàn chỉnh: “There is nothing in the refrigerator”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 79,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: your hands/ before/ Wash/ meals./ eating",
+      "options": [],
+      "answer": "Wash your hands before eating meals",
+      "explanation": "Câu hoàn chỉnh: “Wash your hands before eating meals”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 80,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: any water/ There isn’t/ bottle./ in the",
+      "options": [],
+      "answer": "There isn’t any water in the bottle",
+      "explanation": "Câu hoàn chỉnh: “There isn’t any water in the bottle”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 81,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: very much./ Exercises/ strengthen/ health/ your",
+      "options": [],
+      "answer": "Exercises strengthen your health very much",
+      "explanation": "Câu hoàn chỉnh: “Exercises strengthen your health very much”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 82,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: The deep/ and/ is cold/ dark./ ocean",
+      "options": [],
+      "answer": "The deep ocean is cold and dark",
+      "explanation": "Câu hoàn chỉnh: “The deep ocean is cold and dark”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 83,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: my family./ in/ are/ There/ four people",
+      "options": [],
+      "answer": "There are four people in my family",
+      "explanation": "Câu hoàn chỉnh: “There are four people in my family”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 84,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Her dream/ is/ become/ a teacher./ to",
+      "options": [],
+      "answer": "Her dream is to become a teacher",
+      "explanation": "Câu hoàn chỉnh: “Her dream is to become a teacher”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 85,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: A painter/ pictures/ a studio./ in/ paints",
+      "options": [],
+      "answer": "A painter paints pictures in a studio",
+      "explanation": "Câu hoàn chỉnh: “A painter paints pictures in a studio”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 86,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: often/ People/ travel to/ Singapore/ by plane.",
+      "options": [],
+      "answer": "People often travel to Singapore by plane",
+      "explanation": "Câu hoàn chỉnh: “People often travel to Singapore by plane”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 87,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in/ watching/ My sister/ TV./ is interested",
+      "options": [],
+      "answer": "My sister is interested in watching TV",
+      "explanation": "Câu hoàn chỉnh: “My sister is interested in watching TV”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 88,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: plays/ badminton/ He/ in the morning./ sometimes",
+      "options": [],
+      "answer": "He sometimes plays badminton in the morning",
+      "explanation": "Câu hoàn chỉnh: “He sometimes plays badminton in the morning”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 89,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: gives/ difficult question./ Our teacher/ us/ a",
+      "options": [],
+      "answer": "Our teacher gives us a difficult question",
+      "explanation": "Câu hoàn chỉnh: “Our teacher gives us a difficult question”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 90,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: from a/ tank./ air/ An astronaut/ breathes",
+      "options": [],
+      "answer": "An astronaut breathes air from a tank",
+      "explanation": "Câu hoàn chỉnh: “An astronaut breathes air from a tank”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 91,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is/ Their house/ a river./ to/ next",
+      "options": [],
+      "answer": "Their house is next to a river",
+      "explanation": "Câu hoàn chỉnh: “Their house is next to a river”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 92,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: dreams/ My brother/ of/ a pilot./ being",
+      "options": [],
+      "answer": "My brother dreams of being a pilot",
+      "explanation": "Câu hoàn chỉnh: “My brother dreams of being a pilot”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 93,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in/ Most/ Nobel Prizes/ are awarded/ Stockholm.",
+      "options": [],
+      "answer": "Most Nobel Prizes are awarded in Stockholm",
+      "explanation": "Câu hoàn chỉnh: “Most Nobel Prizes are awarded in Stockholm”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 94,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: sister/ My little/ very much./ candy/ likes",
+      "options": [],
+      "answer": "My little sister likes candy very much",
+      "explanation": "Câu hoàn chỉnh: “My little sister likes candy very much”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 95,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: interesting./ a vacation/ Having/ is very/ abroad",
+      "options": [],
+      "answer": "Having a vacation abroad is very interesting",
+      "explanation": "Câu hoàn chỉnh: “Having a vacation abroad is very interesting”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 96,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Wash/ after/ coughing/ or sneezing./ your hands",
+      "options": [],
+      "answer": "Wash your hands after coughing or sneezing",
+      "explanation": "Câu hoàn chỉnh: “Wash your hands after coughing or sneezing”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 97,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: cheered/ Football fans/ their side./ for/ loudly",
+      "options": [],
+      "answer": "Football fans cheered loudly for their side",
+      "explanation": "Câu hoàn chỉnh: “Football fans cheered loudly for their side”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 98,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: new/ stadiums/ in town./ two/ There are",
+      "options": [],
+      "answer": "There are two new stadiums in town",
+      "explanation": "Câu hoàn chỉnh: “There are two new stadiums in town”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 99,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: too./ need fresh/ air,/ Plants/ and animals",
+      "options": [],
+      "answer": "Plants and animals need fresh air, too",
+      "explanation": "Câu hoàn chỉnh: “Plants and animals need fresh air, too”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 100,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: We/ trash behind./ our/ leave/ shouldn’t",
+      "options": [],
+      "answer": "We shouldn’t leave our trash behind",
+      "explanation": "Câu hoàn chỉnh: “We shouldn’t leave our trash behind”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 101,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in/ the factory./ works/ Minh's/ father",
+      "options": [],
+      "answer": "Minh's father works in the factory",
+      "explanation": "Câu hoàn chỉnh: “Minh's father works in the factory”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 102,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: twelve/ There are/ a year./ months/ in",
+      "options": [],
+      "answer": "There are twelve months in a year",
+      "explanation": "Câu hoàn chỉnh: “There are twelve months in a year”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 103,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: year/ starts on/ school/ Our/ September 5th.",
+      "options": [],
+      "answer": "Our school year starts on September 5th",
+      "explanation": "Câu hoàn chỉnh: “Our school year starts on September 5th”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 104,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: three bookstores/ near/ There are/ house./ my",
+      "options": [],
+      "answer": "There are three bookstores near my house",
+      "explanation": "Câu hoàn chỉnh: “There are three bookstores near my house”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 105,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: made/ excitedly./ The comedy program/ him/ laugh",
+      "options": [],
+      "answer": "The comedy program made him laugh excitedly",
+      "explanation": "Câu hoàn chỉnh: “The comedy program made him laugh excitedly”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 106,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: ridden/ an/ I haven’t/ before./ elephant",
+      "options": [],
+      "answer": "I haven’t ridden an elephant before",
+      "explanation": "Câu hoàn chỉnh: “I haven’t ridden an elephant before”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 107,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: friendship./ of/ our/ very proud/ We are",
+      "options": [],
+      "answer": "We are very proud of our friendship",
+      "explanation": "Câu hoàn chỉnh: “We are very proud of our friendship”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 108,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: at/ past six./ gets up/ half/ Mai",
+      "options": [],
+      "answer": "Mai gets up at half past six",
+      "explanation": "Câu hoàn chỉnh: “Mai gets up at half past six”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 109,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: must/ be/ A weight lifter/ strong./ very",
+      "options": [],
+      "answer": "A weight lifter must be very strong",
+      "explanation": "Câu hoàn chỉnh: “A weight lifter must be very strong”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 110,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is a singer./ My/ younger/ sister/ Janet",
+      "options": [],
+      "answer": "My younger sister Janet is a singer",
+      "explanation": "Câu hoàn chỉnh: “My younger sister Janet is a singer”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 111,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: to/ her friends/ come./ She expects/ all",
+      "options": [],
+      "answer": "She expects all her friends to come",
+      "explanation": "Câu hoàn chỉnh: “She expects all her friends to come”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 112,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: There is/ a/ coming/ exam next/ week.",
+      "options": [],
+      "answer": "There is a coming exam next week",
+      "explanation": "Câu hoàn chỉnh: “There is a coming exam next week”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 113,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: to school/ by/ bus./ We’re/ traveling",
+      "options": [],
+      "answer": "We’re traveling to school by bus",
+      "explanation": "Câu hoàn chỉnh: “We’re traveling to school by bus”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 114,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in her/ She/ looks/ attractive/ new coat.",
+      "options": [],
+      "answer": "She looks attractive in her new coat",
+      "explanation": "Câu hoàn chỉnh: “She looks attractive in her new coat”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 115,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: are/ There/ tables/ three/ in the kitchen.",
+      "options": [],
+      "answer": "There are three tables in the kitchen",
+      "explanation": "Câu hoàn chỉnh: “There are three tables in the kitchen”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 116,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: a week./ watch/ Americans/ TV about/ 35 hours",
+      "options": [],
+      "answer": "Americans watch TV about 35 hours a week",
+      "explanation": "Câu hoàn chỉnh: “Americans watch TV about 35 hours a week”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 117,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: need/ to know/ Peter./ We/ your weight,",
+      "options": [],
+      "answer": "We need to know your weight, Peter",
+      "explanation": "Câu hoàn chỉnh: “We need to know your weight, Peter”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 118,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Mary likes/ attending/ speaking/ contests./ the English",
+      "options": [],
+      "answer": "Mary likes attending the English speaking contests",
+      "explanation": "Câu hoàn chỉnh: “Mary likes attending the English speaking contests”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 119,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: by plane./ to/ travels/ Mr. Ba/ China",
+      "options": [],
+      "answer": "Mr. Ba travels to China by plane",
+      "explanation": "Câu hoàn chỉnh: “Mr. Ba travels to China by plane”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 120,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: tables/ There are/ three/ in/ the room.",
+      "options": [],
+      "answer": "There are three tables in the room",
+      "explanation": "Câu hoàn chỉnh: “There are three tables in the room”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 121,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: on/ My classroom/ the/ first floor./ is",
+      "options": [],
+      "answer": "My classroom is on the first floor",
+      "explanation": "Câu hoàn chỉnh: “My classroom is on the first floor”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 122,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: the post/ My house/ behind/ office./ is",
+      "options": [],
+      "answer": "My house is behind the post office",
+      "explanation": "Câu hoàn chỉnh: “My house is behind the post office”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 123,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: It's/ deep/ dark/ in the/ ocean.",
+      "options": [],
+      "answer": "It's dark in the deep ocean",
+      "explanation": "Câu hoàn chỉnh: “It's dark in the deep ocean”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 124,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: the table./ book/ My Geography/ is/ on",
+      "options": [],
+      "answer": "My Geography book is on the table",
+      "explanation": "Câu hoàn chỉnh: “My Geography book is on the table”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 125,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: six/ years/ Janet is/ than me./ older",
+      "options": [],
+      "answer": "Janet is six years older than me",
+      "explanation": "Câu hoàn chỉnh: “Janet is six years older than me”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 126,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is a/ for students./ robot/ Robocon/ competition",
+      "options": [],
+      "answer": "Robocon is a robot competition for students",
+      "explanation": "Câu hoàn chỉnh: “Robocon is a robot competition for students”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 127,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: rice./ Please give/ kilo of/ me/ a",
+      "options": [],
+      "answer": "Please give me a kilo of rice",
+      "explanation": "Câu hoàn chỉnh: “Please give me a kilo of rice”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 128,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in town./ apartment/ live in/ I/ an",
+      "options": [],
+      "answer": "I live in an apartment in town",
+      "explanation": "Câu hoàn chỉnh: “I live in an apartment in town”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 129,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: on the wall./ landscape/ A/ painting/ hung",
+      "options": [],
+      "answer": "A landscape painting hung on the wall",
+      "explanation": "Câu hoàn chỉnh: “A landscape painting hung on the wall”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 130,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: with Mai./ went/ the cinema/ I/ to",
+      "options": [],
+      "answer": "I went to the cinema with Mai",
+      "explanation": "Câu hoàn chỉnh: “I went to the cinema with Mai”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 131,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: their farms./ Farmers/ working hard/ are/ on",
+      "options": [],
+      "answer": "Farmers are working hard on their farms",
+      "explanation": "Câu hoàn chỉnh: “Farmers are working hard on their farms”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 132,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: must slow/ down./ a cross,/ At/ we",
+      "options": [],
+      "answer": "At a cross, we must slow down",
+      "explanation": "Câu hoàn chỉnh: “At a cross, we must slow down”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 133,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: milk./ produce/ cows/ Mr. Hoang’s/ much",
+      "options": [],
+      "answer": "Mr. Hoang’s cows produce much milk",
+      "explanation": "Câu hoàn chỉnh: “Mr. Hoang’s cows produce much milk”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 134,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: dining room./ going/ I am/ to/ the",
+      "options": [],
+      "answer": "I am going to the dining room",
+      "explanation": "Câu hoàn chỉnh: “I am going to the dining room”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 135,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: He greets/ in/ a friendly/ way./ me",
+      "options": [],
+      "answer": "He greets me in a friendly way",
+      "explanation": "Câu hoàn chỉnh: “He greets me in a friendly way”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 136,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is on/ Independence Day/ September/ Our/ 2nd.",
+      "options": [],
+      "answer": "Our Independence Day is on September 2nd",
+      "explanation": "Câu hoàn chỉnh: “Our Independence Day is on September 2nd”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 137,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: It’s/ going/ fun/ there./ by bike",
+      "options": [],
+      "answer": "It’s fun going by bike there",
+      "explanation": "Câu hoàn chỉnh: “It’s fun going by bike there”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 138,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: often/ the housework/ does/ Lan/ after dinner.",
+      "options": [],
+      "answer": "Lan often does the housework after dinner",
+      "explanation": "Câu hoàn chỉnh: “Lan often does the housework after dinner”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 139,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: him laugh./ loves/ Bob/ make/ programmes that",
+      "options": [],
+      "answer": "Bob loves programmes that make him laugh",
+      "explanation": "Câu hoàn chỉnh: “Bob loves programmes that make him laugh”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 140,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: are/ These/ pink/ dresses/ my sister’s.",
+      "options": [],
+      "answer": "These pink dresses are my sister’s",
+      "explanation": "Câu hoàn chỉnh: “These pink dresses are my sister’s”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 141,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: they/ to Australia./ Next week,/ are/ flying",
+      "options": [],
+      "answer": "Next week, they are flying to Australia",
+      "explanation": "Câu hoàn chỉnh: “Next week, they are flying to Australia”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 142,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: milk./ cows/ little/ Mr. Hanh’s/ produce",
+      "options": [],
+      "answer": "Mr. Hanh’s cows produce little milk",
+      "explanation": "Câu hoàn chỉnh: “Mr. Hanh’s cows produce little milk”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 143,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: business./ Mr. Lee usually/ abroad/ for/ goes",
+      "options": [],
+      "answer": "Mr. Lee usually goes abroad for business",
+      "explanation": "Câu hoàn chỉnh: “Mr. Lee usually goes abroad for business”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 144,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: dishes./ are my/ chicken/ favorite/ Fish and",
+      "options": [],
+      "answer": "Fish and chicken are my favorite dishes",
+      "explanation": "Câu hoàn chỉnh: “Fish and chicken are my favorite dishes”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 145,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: hard/ till night./ work/ They/ from morning",
+      "options": [],
+      "answer": "They work hard from morning till night",
+      "explanation": "Câu hoàn chỉnh: “They work hard from morning till night”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 146,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: express/ singing./ their/ Many people/ happiness by",
+      "options": [],
+      "answer": "Many people express their happiness by singing",
+      "explanation": "Câu hoàn chỉnh: “Many people express their happiness by singing”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 147,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: under the/ Baker is/ table to/ find his keys.",
+      "options": [],
+      "answer": "Baker is under the table to find his keys",
+      "explanation": "Câu hoàn chỉnh: “Baker is under the table to find his keys”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 148,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: a kilo of/ needs half/ fresh oranges./ Miss Kim",
+      "options": [],
+      "answer": "Miss Kim needs half a kilo of fresh oranges",
+      "explanation": "Câu hoàn chỉnh: “Miss Kim needs half a kilo of fresh oranges”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 149,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: live and/ work in London./ More than/ 7 million people",
+      "options": [],
+      "answer": "More than 7 million people live and work in London",
+      "explanation": "Câu hoàn chỉnh: “More than 7 million people live and work in London”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 150,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: She puts/ in the box/ pink pencils/ over there.",
+      "options": [],
+      "answer": "She puts pink pencils in the box over there",
+      "explanation": "Câu hoàn chỉnh: “She puts pink pencils in the box over there”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 151,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: is!/ she/ beautiful/ How",
+      "options": [],
+      "answer": "How beautiful she is!",
+      "explanation": "Câu hoàn chỉnh: “How beautiful she is!”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 152,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: my grandparents’/ be at/ Tomorrow/ I’ll/ house.",
+      "options": [],
+      "answer": "Tomorrow I’ll be at my grandparents’ house",
+      "explanation": "Câu hoàn chỉnh: “Tomorrow I’ll be at my grandparents’ house”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 153,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: cooking oil./ needs/ My mother/ of/ a bottle",
+      "options": [],
+      "answer": "My mother needs a bottle of cooking oil",
+      "explanation": "Câu hoàn chỉnh: “My mother needs a bottle of cooking oil”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 154,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: important/ of the most/ inventions./ is one/ Internet",
+      "options": [],
+      "answer": "Internet is one of the most important inventions",
+      "explanation": "Câu hoàn chỉnh: “Internet is one of the most important inventions”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 155,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: the/ end/ Le Loi Street./ Go to/ of",
+      "options": [],
+      "answer": "Go to the end of Le Loi Street",
+      "explanation": "Câu hoàn chỉnh: “Go to the end of Le Loi Street”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 156,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: They/ playing/ at the moment./ games/ aren't",
+      "options": [],
+      "answer": "They aren't playing games at the moment",
+      "explanation": "Câu hoàn chỉnh: “They aren't playing games at the moment”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 157,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: the egg-shaped/ to visit/ I/ building./ want",
+      "options": [],
+      "answer": "I want to visit the egg-shaped building",
+      "explanation": "Câu hoàn chỉnh: “I want to visit the egg-shaped building”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 158,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: woman is/ in the rain./ An/ old/ walking",
+      "options": [],
+      "answer": "An old woman is walking in the rain",
+      "explanation": "Câu hoàn chỉnh: “An old woman is walking in the rain”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 159,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Ha Long Bay/ tourist destination./ attractive/ an/ is",
+      "options": [],
+      "answer": "Ha Long Bay is an attractive tourist destination",
+      "explanation": "Câu hoàn chỉnh: “Ha Long Bay is an attractive tourist destination”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 160,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: series./ “Along the Coast”/ famous/ is a/ TV",
+      "options": [],
+      "answer": "“Along the Coast” is a famous TV series",
+      "explanation": "Câu hoàn chỉnh: ““Along the Coast” is a famous TV series”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 161,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Her sister/ her/ there with/ grandparents./ still lives",
+      "options": [],
+      "answer": "Her sister still lives there with her grandparents",
+      "explanation": "Câu hoàn chỉnh: “Her sister still lives there with her grandparents”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 162,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: after every/ brush/ meal./ I always/ my tooth",
+      "options": [],
+      "answer": "I always brush my tooth after every meal",
+      "explanation": "Câu hoàn chỉnh: “I always brush my tooth after every meal”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 163,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: My father/ matches/ on TV./ sometimes/ watches football",
+      "options": [],
+      "answer": "My father sometimes watches football matches on TV",
+      "explanation": "Câu hoàn chỉnh: “My father sometimes watches football matches on TV”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 164,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: of/ is/ December/ the year./ the last month",
+      "options": [],
+      "answer": "December is the last month of the year",
+      "explanation": "Câu hoàn chỉnh: “December is the last month of the year”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 165,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: million visitors/ Almost 7/ Eiffel Tower/ visit/ a year.",
+      "options": [],
+      "answer": "Almost 7 million visitors visit Eiffel Tower a year",
+      "explanation": "Câu hoàn chỉnh: “Almost 7 million visitors visit Eiffel Tower a year”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 166,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: laugh/ at/ Bach’s friend/ always/ his jokes.",
+      "options": [],
+      "answer": "Bach’s friend always laugh at his jokes",
+      "explanation": "Câu hoàn chỉnh: “Bach’s friend always laugh at his jokes”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 167,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: time/ in Stockholm./ a/ great/ We’re having",
+      "options": [],
+      "answer": "We’re having a great time in Stockholm",
+      "explanation": "Câu hoàn chỉnh: “We’re having a great time in Stockholm”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 168,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Times Square/ This must/ New York./ in/ be",
+      "options": [],
+      "answer": "This must be Times Square in New York",
+      "explanation": "Câu hoàn chỉnh: “This must be Times Square in New York”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 169,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: their relatives./ news/ of/ They are waiting/ for",
+      "options": [],
+      "answer": "They are waiting for news of their relatives",
+      "explanation": "Câu hoàn chỉnh: “They are waiting for news of their relatives”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 170,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Ba’s/ there is/ apartment,/ Near/ a market.",
+      "options": [],
+      "answer": "Near Ba’s apartment, there is a market",
+      "explanation": "Câu hoàn chỉnh: “Near Ba’s apartment, there is a market”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 171,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: like/ I’d/ a glass/ juice./ of lemon",
+      "options": [],
+      "answer": "I’d like a glass of lemon juice",
+      "explanation": "Câu hoàn chỉnh: “I’d like a glass of lemon juice”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 172,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: often/ news programs/ My father/ watches/ on TV.",
+      "options": [],
+      "answer": "My father often watches news programs on TV",
+      "explanation": "Câu hoàn chỉnh: “My father often watches news programs on TV”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 173,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: with/ the hole/ The child/ is filling/ water.",
+      "options": [],
+      "answer": "The child is filling the hole with water",
+      "explanation": "Câu hoàn chỉnh: “The child is filling the hole with water”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 174,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: my mother/ My sister/ with/ helps/ the housework.",
+      "options": [],
+      "answer": "My sister helps my mother with the housework",
+      "explanation": "Câu hoàn chỉnh: “My sister helps my mother with the housework”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 175,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Watching TV/ to/ harmful/ a lot is/ children.",
+      "options": [],
+      "answer": "Watching TV a lot is harmful to children",
+      "explanation": "Câu hoàn chỉnh: “Watching TV a lot is harmful to children”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 176,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: short/ her students/ She teaches/ to write/ stories.",
+      "options": [],
+      "answer": "She teaches her students to write short stories",
+      "explanation": "Câu hoàn chỉnh: “She teaches her students to write short stories”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 177,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: We shouldn’t/ trash/ throw/ the street./ in",
+      "options": [],
+      "answer": "We shouldn’t throw trash in the street",
+      "explanation": "Câu hoàn chỉnh: “We shouldn’t throw trash in the street”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 178,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in/ She/ Hanoi./ a small village/ lives in",
+      "options": [],
+      "answer": "She lives in a small village in Hanoi",
+      "explanation": "Câu hoàn chỉnh: “She lives in a small village in Hanoi”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 179,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: Vietnamese./ and he/ He is/ from Vietnam/ speaks",
+      "options": [],
+      "answer": "He is from Vietnam and he speaks Vietnamese",
+      "explanation": "Câu hoàn chỉnh: “He is from Vietnam and he speaks Vietnamese”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 180,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: in/ a house/ the/ I live in/ country.",
+      "options": [],
+      "answer": "I live in a house in the country",
+      "explanation": "Câu hoàn chỉnh: “I live in a house in the country”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 181,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: world./ My sister/ undersea/ is interested/ in the",
+      "options": [],
+      "answer": "My sister is interested in the undersea world",
+      "explanation": "Câu hoàn chỉnh: “My sister is interested in the undersea world”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 182,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: an exciting/ this/ There is/ football match/ afternoon.",
+      "options": [],
+      "answer": "There is an exciting football match this afternoon",
+      "explanation": "Câu hoàn chỉnh: “There is an exciting football match this afternoon”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 183,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: clubs/ There are/ at my school./ different/ music",
+      "options": [],
+      "answer": "There are different music clubs at my school",
+      "explanation": "Câu hoàn chỉnh: “There are different music clubs at my school”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 184,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: full/ The house/ paintings and sculptures./ is/ of",
+      "options": [],
+      "answer": "The house is full of paintings and sculptures",
+      "explanation": "Câu hoàn chỉnh: “The house is full of paintings and sculptures”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 185,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: school bag./ This is/ old/ brother’s/ my",
+      "options": [],
+      "answer": "This is my brother’s old school bag",
+      "explanation": "Câu hoàn chỉnh: “This is my brother’s old school bag”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 186,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: to the/ wardrobe./ There/ desk next/ is a",
+      "options": [],
+      "answer": "There is a desk next to the wardrobe",
+      "explanation": "Câu hoàn chỉnh: “There is a desk next to the wardrobe”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    },
+    {
+      "id": 187,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: after/ my house/ come to/ Let’s/ school.",
+      "options": [],
+      "answer": "Let’s come to my house after school",
+      "explanation": "Câu hoàn chỉnh: “Let’s come to my house after school”. Đây là câu mệnh lệnh hoặc lời đề nghị: động từ nguyên mẫu đứng đầu câu, sau đó là tân ngữ hoặc cụm chỉ nơi chốn/thời gian."
+    },
+    {
+      "id": 188,
+      "question": "Sắp xếp các từ/cụm từ sau thành câu đúng: way he/ at the/ surprised/ behaved./ I was",
+      "options": [],
+      "answer": "I was surprised at the way he behaved",
+      "explanation": "Câu hoàn chỉnh: “I was surprised at the way he behaved”. Đặt chủ ngữ trước động từ chính, rồi đến tân ngữ/bổ ngữ; các cụm nơi chốn và thời gian thường đứng sau để câu tự nhiên."
+    }
+  ],
+  "part_B": [
+    {
+      "id": 189,
+      "question": "What about _ _ _ _ _ to the movies?",
+      "options": [],
+      "answer": "going",
+      "explanation": "Lượt lời hoàn chỉnh: “What about going to the movies?”. Sau “What/How about” dùng V-ing để đưa ra gợi ý."
+    },
+    {
+      "id": 190,
+      "question": "Thanks a _ _ _ ! – You’re welcome!",
+      "options": [],
+      "answer": "lot",
+      "explanation": "Lượt lời hoàn chỉnh: “Thanks a lot ! – You’re welcome!”. Cụm “Thank(s) + for + V-ing/danh từ” nêu rõ lý do cảm ơn; chọn từ làm câu hoàn chỉnh tự nhiên."
+    },
+    {
+      "id": 191,
+      "question": "Thanks for helping me! – You're _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "welcome",
+      "explanation": "Lượt lời hoàn chỉnh: “Thanks for helping me! – You're welcome .”. Sau lời cảm ơn, đáp lời lịch sự thông dụng là “You’re welcome”."
+    },
+    {
+      "id": 192,
+      "question": "Thank you _ _ _ inviting me to the party.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Lượt lời hoàn chỉnh: “Thank you for inviting me to the party.”. Cụm “Thank(s) + for + V-ing/danh từ” nêu rõ lý do cảm ơn; chọn từ làm câu hoàn chỉnh tự nhiên."
+    },
+    {
+      "id": 193,
+      "question": "I must _ _ to bed. See you tomorrow!",
+      "options": [],
+      "answer": "go",
+      "explanation": "Lượt lời hoàn chỉnh: “I must go to bed. See you tomorrow!”. Lời chào, tạm biệt hoặc hỏi thăm cần được đáp lại bằng cụm giao tiếp quen thuộc, lịch sự và phù hợp ngữ cảnh."
+    },
+    {
+      "id": 194,
+      "question": "Take _ _ _ _ , John. Hope to see you soon.",
+      "options": [],
+      "answer": "care",
+      "explanation": "Lượt lời hoàn chỉnh: “Take care , John. Hope to see you soon.”. Lời chào, tạm biệt hoặc hỏi thăm cần được đáp lại bằng cụm giao tiếp quen thuộc, lịch sự và phù hợp ngữ cảnh."
+    },
+    {
+      "id": 195,
+      "question": "Thanks for the present! – Do you like _ _ ?",
+      "options": [],
+      "answer": "it",
+      "explanation": "Lượt lời hoàn chỉnh: “Thanks for the present! – Do you like it ?”. Cụm “Thank(s) + for + V-ing/danh từ” nêu rõ lý do cảm ơn; chọn từ làm câu hoàn chỉnh tự nhiên."
+    },
+    {
+      "id": 196,
+      "question": "Do you want a _ _ _ of tea? – No, thanks.",
+      "options": [],
+      "answer": "cup",
+      "explanation": "Lượt lời hoàn chỉnh: “Do you want a cup of tea? – No, thanks.”. Dựa vào lượt lời trước và mục đích giao tiếp để chọn cách đáp phù hợp, lịch sự và tự nhiên."
+    },
+    {
+      "id": 197,
+      "question": "Will you come _ _ my party? - Sure, I’ll.",
+      "options": [],
+      "answer": "to",
+      "explanation": "Lượt lời hoàn chỉnh: “Will you come to my party? - Sure, I’ll.”. Dựa vào lượt lời trước và mục đích giao tiếp để chọn cách đáp phù hợp, lịch sự và tự nhiên."
+    },
+    {
+      "id": 198,
+      "question": "What about _ _ _ _ _ _ _ football? - It’s a nice idea.",
+      "options": [],
+      "answer": "playing",
+      "explanation": "Lượt lời hoàn chỉnh: “What about playing football? - It’s a nice idea.”. Sau “What/How about” dùng V-ing để đưa ra gợi ý."
+    },
+    {
+      "id": 199,
+      "question": "A: How are you? – B: I’m fine, _ _ _ _ _ you.",
+      "options": [],
+      "answer": "thank",
+      "explanation": "Lượt lời hoàn chỉnh: “A: How are you? – B: I’m fine, thank you.”. “How are you?” là lời hỏi thăm; câu trả lời tự nhiên thường dùng “I’m fine/well, thank you”."
+    },
+    {
+      "id": 200,
+      "question": "_ _ _ are you doing at school? – I’m doing fine, thanks!",
+      "options": [],
+      "answer": "How",
+      "explanation": "Lượt lời hoàn chỉnh: “How are you doing at school? – I’m doing fine, thanks!”. Dựa vào lượt lời trước và mục đích giao tiếp để chọn cách đáp phù hợp, lịch sự và tự nhiên."
+    }
+  ],
+  "part_C": []
+}
