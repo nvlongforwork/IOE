@@ -1,0 +1,1960 @@
+{
+  "title": "IOE Lớp 6 - Chuyên đề 1 - Vòng Quốc Gia",
+  "vong": "Vòng Quốc Gia",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "What’s your ...? – I’m Korean.",
+      "options": [
+        "A. nation",
+        "B. national",
+        "C. nationally",
+        "D. nationality"
+      ],
+      "answer": "D. nationality",
+      "explanation": "Trong câu “What’s your ...? – I’m Korean”, sau tính từ sở hữu cần danh từ phù hợp; dạng số ít/số nhiều phải dựa vào ngữ cảnh. Vì vậy chọn “nationality”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 2,
+      "question": "- What’s your …? - I’m Canadian.",
+      "options": [
+        "A. nationality",
+        "B. country",
+        "C. language",
+        "D. subject"
+      ],
+      "answer": "A. nationality",
+      "explanation": "Trong câu “- What’s your …? - I’m Canadian”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “nationality”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 3,
+      "question": "“Right” has similar meaning to “...”.",
+      "options": [
+        "A. correct",
+        "B. wrong",
+        "C. false",
+        "D. left"
+      ],
+      "answer": "A. correct",
+      "explanation": "Trong câu ““Right” has similar meaning to “...””, Đề kiểm tra nghĩa tương đương; “correct” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “correct”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 4,
+      "question": "They ... your help.",
+      "options": [
+        "A. don’t would like",
+        "B. would like not",
+        "C. aren’t have",
+        "D. don’t have"
+      ],
+      "answer": "D. don’t have",
+      "explanation": "Trong câu “They ... your help”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “don’t have”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 5,
+      "question": "Cinderella lost _______ when running away from the ball.",
+      "options": [
+        "A. an earing",
+        "B. a ring",
+        "C. a glove",
+        "D. a shoe"
+      ],
+      "answer": "D. a shoe",
+      "explanation": "Trong câu “Cinderella lost _______ when running away from the ball”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “a shoe”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 6,
+      "question": "We don’t have much time now. We ... you later.",
+      "options": [
+        "A. see",
+        "B. sees",
+        "C. will see",
+        "D. will sees"
+      ],
+      "answer": "C. will see",
+      "explanation": "Trong câu “We don’t have much time now. We ... you later”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “will see”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 7,
+      "question": "I ... it to you if you don’t have one.",
+      "options": [
+        "A. give",
+        "B. gave",
+        "C. will give",
+        "D. would give"
+      ],
+      "answer": "C. will give",
+      "explanation": "Trong câu “I ... it to you if you don’t have one”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “will give”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 8,
+      "question": "I _____ tired now. I _____ some water.",
+      "options": [
+        "A. is – want",
+        "B. am – am wanting",
+        "C. am – want",
+        "D. am – will want"
+      ],
+      "answer": "C. am – want",
+      "explanation": "Trong câu “I _____ tired now. I _____ some water”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “am – want”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 9,
+      "question": "Trash is ... the land, the river and the oceans.",
+      "options": [
+        "A. polluting",
+        "B. burning",
+        "C. wasting",
+        "D. producing"
+      ],
+      "answer": "A. polluting",
+      "explanation": "Trong câu “Trash is ... the land, the river and the oceans”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “polluting”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 10,
+      "question": "I ... out alone at night.",
+      "options": [
+        "A. am never going",
+        "B. go never",
+        "C. am going never",
+        "D. never go"
+      ],
+      "answer": "D. never go",
+      "explanation": "Trong câu “I ... out alone at night”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “never go”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 11,
+      "question": "My daughters like going to the ....They love dolls.",
+      "options": [
+        "A. toy store",
+        "B. bookstore",
+        "C. drugstore",
+        "D. post office"
+      ],
+      "answer": "A. toy store",
+      "explanation": "Trong câu “My daughters like going to the ....They love dolls”, ngữ cảnh yêu cầu dạng so sánh nhất, thường đi với “the”. Vì vậy chọn “toy store”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 12,
+      "question": "How many members ... in this English club?",
+      "options": [
+        "A. are there",
+        "B. there are",
+        "C. is there",
+        "D. there is"
+      ],
+      "answer": "A. are there",
+      "explanation": "Trong câu “How many members ... in this English club?”, “How many” dùng với danh từ đếm được số nhiều và cần mẫu câu hỏi phù hợp. Vì vậy chọn “are there”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 13,
+      "question": "We are … a play for our school anniversary.",
+      "options": [
+        "A. rehearsing",
+        "B. doing",
+        "C. playing",
+        "D. getting"
+      ],
+      "answer": "A. rehearsing",
+      "explanation": "Trong câu “We are … a play for our school anniversary”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “rehearsing”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 14,
+      "question": "Let me ... my uniform. Then we can go to school.",
+      "options": [
+        "A. put on",
+        "B. put off",
+        "C. put in",
+        "D. put over"
+      ],
+      "answer": "A. put on",
+      "explanation": "Trong câu “Let me ... my uniform. Then we can go to school”, sau động từ khuyết thiếu dùng động từ nguyên mẫu. Vì vậy chọn “put on”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 15,
+      "question": "My aunt and uncle are arriving tomorrow for a ______ visit.",
+      "options": [
+        "A. two-day",
+        "B. two-days",
+        "C. two days",
+        "D. two day"
+      ],
+      "answer": "A. two-day",
+      "explanation": "Trong câu “My aunt and uncle are arriving tomorrow for a ______ visit”, dấu hiệu tương lai yêu cầu cấu trúc diễn tả dự định hoặc hành động sắp tới. Vì vậy chọn “two-day”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 16,
+      "question": "’’Awful’’ means ’’...’’.",
+      "options": [
+        "A. very good",
+        "B. very nice",
+        "C. very bad",
+        "D. very well"
+      ],
+      "answer": "C. very bad",
+      "explanation": "Trong câu “’’Awful’’ means ’’...’’”, Đề kiểm tra nghĩa tương đương; “very bad” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “very bad”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 17,
+      "question": "What ... now?",
+      "options": [
+        "A. do you eat",
+        "B. are you eating",
+        "C. would you eating",
+        "D. will you eating"
+      ],
+      "answer": "B. are you eating",
+      "explanation": "Trong câu “What ... now?”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “are you eating”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 18,
+      "question": "The population of the world is always ... .",
+      "options": [
+        "A. growing",
+        "B. damaging",
+        "C. destroying",
+        "D. doing"
+      ],
+      "answer": "A. growing",
+      "explanation": "Trong câu “The population of the world is always”, dấu hiệu thói quen yêu cầu thì hiện tại đơn và dạng động từ phù hợp với chủ ngữ. Vì vậy chọn “growing”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 19,
+      "question": "I like playing badminton very much. I … play badminton in my free time.",
+      "options": [
+        "A. want",
+        "B. don’t",
+        "C. never",
+        "D. always"
+      ],
+      "answer": "D. always",
+      "explanation": "Trong câu “I like playing badminton very much. I … play badminton in my free time”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “always”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 20,
+      "question": "We go to school at ten to seven and go ... at half past eleven.",
+      "options": [
+        "A. home",
+        "B. our home",
+        "C. the home",
+        "D. to home"
+      ],
+      "answer": "A. home",
+      "explanation": "Trong câu “We go to school at ten to seven and go ... at half past eleven”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “home”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 21,
+      "question": "John is speaking to his teacher ....",
+      "options": [
+        "A. present",
+        "B. at moment",
+        "C. at present",
+        "D. the moment"
+      ],
+      "answer": "C. at present",
+      "explanation": "Trong câu “John is speaking to his teacher”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “at present”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 22,
+      "question": "Would you mind ... the window? It’s too hot in here.",
+      "options": [
+        "A. closing",
+        "B. opening",
+        "C. to close",
+        "D. to open"
+      ],
+      "answer": "B. opening",
+      "explanation": "Trong câu “Would you mind ... the window? It’s too hot in here”, sau động từ này, dạng V-ing là lựa chọn đúng trong cấu trúc câu. Vì vậy chọn “opening”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 23,
+      "question": "That man is ... me.",
+      "options": [
+        "A. stronger",
+        "B. stronger than",
+        "C. more strong",
+        "D. more strong than"
+      ],
+      "answer": "B. stronger than",
+      "explanation": "Trong câu “That man is ... me”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “stronger than”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 24,
+      "question": "Be quiet! She ....",
+      "options": [
+        "A. sleeps",
+        "B. is sleeping",
+        "C. doesn’t sleep",
+        "D. didn’t sleep"
+      ],
+      "answer": "B. is sleeping",
+      "explanation": "Trong câu “Be quiet! She”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “is sleeping”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 25,
+      "question": "Look! They ... the road!",
+      "options": [
+        "A. crossing",
+        "B. are crossing",
+        "C. will crossing",
+        "D. going to cross"
+      ],
+      "answer": "B. are crossing",
+      "explanation": "Trong câu “Look! They ... the road!”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “are crossing”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 26,
+      "question": "… eat too much candy. It’s not good for your health.",
+      "options": [
+        "A. Won’t",
+        "B. Can’t",
+        "C. Don’t",
+        "D. Mustn’t"
+      ],
+      "answer": "C. Don’t",
+      "explanation": "Trong câu “… eat too much candy. It’s not good for your health”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Don’t”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 27,
+      "question": "Kate works … other students in her class.",
+      "options": [
+        "A. more harder than",
+        "B. more hard",
+        "C. harder",
+        "D. harder than"
+      ],
+      "answer": "D. harder than",
+      "explanation": "Trong câu “Kate works … other students in her class”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “harder than”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 28,
+      "question": "Our classroom is on ... .",
+      "options": [
+        "A. the two floor",
+        "B. the second floor",
+        "C. the floor two",
+        "D. second floor"
+      ],
+      "answer": "B. the second floor",
+      "explanation": "Trong câu “Our classroom is on”, cần giới từ đúng trong cụm từ hoặc mốc thời gian/nơi chốn. Vì vậy chọn “the second floor”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 29,
+      "question": "My new table is ... the old one.",
+      "options": [
+        "A. taller",
+        "B. taller than",
+        "C. more tall",
+        "D. as taller as"
+      ],
+      "answer": "B. taller than",
+      "explanation": "Trong câu “My new table is ... the old one”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “taller than”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 30,
+      "question": "I don’t often take a taxi because it’s very ... .",
+      "options": [
+        "A. cheap",
+        "B. busy",
+        "C. cheaper",
+        "D. expensive"
+      ],
+      "answer": "D. expensive",
+      "explanation": "Trong câu “I don’t often take a taxi because it’s very”, sau “very/so/too” thường dùng tính từ hoặc trạng từ đúng dạng. Vì vậy chọn “expensive”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 31,
+      "question": "What is it? - It is ... picture book.",
+      "options": [
+        "A. a English",
+        "B. the English",
+        "C. English",
+        "D. an English"
+      ],
+      "answer": "D. an English",
+      "explanation": "Trong câu “What is it? - It is ... picture book”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “an English”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 32,
+      "question": "What ... now? – She’s sleeping.",
+      "options": [
+        "A. is Lucy doing",
+        "B. Lucy is doing",
+        "C. does Lucy do",
+        "D. do Lucy do"
+      ],
+      "answer": "A. is Lucy doing",
+      "explanation": "Trong câu “What ... now? – She’s sleeping”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “is Lucy doing”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 33,
+      "question": "In ________ lessons, we learn about writers, poems and write essays.",
+      "options": [
+        "A. History",
+        "B. Literature",
+        "C. Science",
+        "D. Geography"
+      ],
+      "answer": "B. Literature",
+      "explanation": "Trong câu “In ________ lessons, we learn about writers, poems and write essays”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Literature”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 34,
+      "question": "She speaks French ... than you.",
+      "options": [
+        "A. more faster",
+        "B. well",
+        "C. the most fluently",
+        "D. more fluently"
+      ],
+      "answer": "D. more fluently",
+      "explanation": "Trong câu “She speaks French ... than you”, sau “than” cần dạng so sánh hơn đúng. Vì vậy chọn “more fluently”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 35,
+      "question": "She isn’t doing ______ in the garden, just walking with her dog.",
+      "options": [
+        "A. something",
+        "B. one thing",
+        "C. nothing",
+        "D. anything"
+      ],
+      "answer": "D. anything",
+      "explanation": "Trong câu “She isn’t doing ______ in the garden, just walking with her dog”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “anything”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 36,
+      "question": "’’Great’’ has similar meaning to ’’...’’.",
+      "options": [
+        "A. wonderful",
+        "B. nice",
+        "C. good",
+        "D. friendly"
+      ],
+      "answer": "A. wonderful",
+      "explanation": "Trong câu “’’Great’’ has similar meaning to ’’...’’”, Đề kiểm tra nghĩa tương đương; “wonderful” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “wonderful”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 37,
+      "question": "My watch is old, and ... is, too.",
+      "options": [
+        "A. my sister",
+        "B. my sister’s",
+        "C. mine sister",
+        "D. my sisters"
+      ],
+      "answer": "B. my sister’s",
+      "explanation": "Trong câu “My watch is old, and ... is, too”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “my sister’s”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 38,
+      "question": "Playing football, skipping rope and swimming are ... activities.",
+      "options": [
+        "A. after-schools",
+        "B. school-after",
+        "C. schooling-after",
+        "D. after-school"
+      ],
+      "answer": "D. after-school",
+      "explanation": "Trong câu “Playing football, skipping rope and swimming are ... activities”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “after-school”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 39,
+      "question": "My watch is old, and ... is, too.",
+      "options": [
+        "A. my sister",
+        "B. mine sister",
+        "C. my sisters",
+        "D. my sister’s"
+      ],
+      "answer": "D. my sister’s",
+      "explanation": "Trong câu “My watch is old, and ... is, too”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “my sister’s”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 40,
+      "question": "How is your new roommate? – He’s ....",
+      "options": [
+        "A. interesting",
+        "B. well",
+        "C. good at",
+        "D. fond of"
+      ],
+      "answer": "A. interesting",
+      "explanation": "Trong câu “How is your new roommate? – He’s”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “interesting”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 41,
+      "question": "I’d like a cake and a glass of milk. – ....",
+      "options": [
+        "A. Yes, please",
+        "B. Yes, thanks",
+        "C. No, thanks",
+        "D. Here you are"
+      ],
+      "answer": "D. Here you are",
+      "explanation": "Trong câu “I’d like a cake and a glass of milk. –”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Here you are”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 42,
+      "question": "Where are the students? – They are ....",
+      "options": [
+        "A. from library",
+        "B. in the library",
+        "C. at library",
+        "D. on library"
+      ],
+      "answer": "B. in the library",
+      "explanation": "Trong câu “Where are the students? – They are”, sau động từ “be” cần tính từ để miêu tả chủ ngữ. Vì vậy chọn “in the library”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 43,
+      "question": "Quan likes ….",
+      "options": [
+        "A. reading English novels",
+        "B. to reading English novels",
+        "C. reads English novels",
+        "D. read English novels"
+      ],
+      "answer": "A. reading English novels",
+      "explanation": "Trong câu “Quan likes …”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “reading English novels”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 44,
+      "question": "Can I help you? – Yes, I ... some meat.",
+      "options": [
+        "A. want",
+        "B. would like",
+        "C. need",
+        "D. all are correct"
+      ],
+      "answer": "D. all are correct",
+      "explanation": "Trong câu “Can I help you? – Yes, I ... some meat”, sau động từ khuyết thiếu dùng động từ nguyên mẫu. Vì vậy chọn “all are correct”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 45,
+      "question": "Mr. Baker grows ....",
+      "options": [
+        "A. some vegetables",
+        "B. some eggs",
+        "C. some pork",
+        "D. some beef"
+      ],
+      "answer": "A. some vegetables",
+      "explanation": "Trong câu “Mr. Baker grows”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “some vegetables”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 46,
+      "question": "Water boils at _______.",
+      "options": [
+        "A. 100 degree Fahrenheit",
+        "B. 200 degree Fahrenheit",
+        "C. 212 degree Fahrenheit",
+        "D. 212 degree Celsius"
+      ],
+      "answer": "C. 212 degree Fahrenheit",
+      "explanation": "Trong câu “Water boils at _______”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “212 degree Fahrenheit”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 47,
+      "question": "Is this your car? – No, it’s ....",
+      "options": [
+        "A. of Mr. Brown",
+        "B. to Mr. Brown",
+        "C. Mr. Brown’s",
+        "D. Mr. Brown"
+      ],
+      "answer": "C. Mr. Brown’s",
+      "explanation": "Trong câu “Is this your car? – No, it’s”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Mr. Brown’s”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 48,
+      "question": "Can you go to the store and buy some bread home? “Buy” here means ....",
+      "options": [
+        "A. choose",
+        "B. get",
+        "C. pick",
+        "D. bring"
+      ],
+      "answer": "B. get",
+      "explanation": "Trong câu “Can you go to the store and buy some bread home? “Buy” here means”, Đề kiểm tra nghĩa tương đương; “get” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “get”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 49,
+      "question": "Tomorrow we ... a treasure hunt in the field.",
+      "options": [
+        "A. are doing",
+        "B. is going",
+        "C. are going to go",
+        "D. are finding"
+      ],
+      "answer": "A. are doing",
+      "explanation": "Trong câu “Tomorrow we ... a treasure hunt in the field”, dấu hiệu tương lai yêu cầu cấu trúc diễn tả dự định hoặc hành động sắp tới. Vì vậy chọn “are doing”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 50,
+      "question": "I don’t like brown rice. Don’t you have …?",
+      "options": [
+        "A. white ones",
+        "B. any white",
+        "C. no white",
+        "D. a white"
+      ],
+      "answer": "B. any white",
+      "explanation": "Trong câu “I don’t like brown rice. Don’t you have …?”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “any white”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 51,
+      "question": "What is your date of birth? - ....",
+      "options": [
+        "A. February 8th",
+        "B. February 8",
+        "C. February and 8th",
+        "D. February and 8"
+      ],
+      "answer": "A. February 8th",
+      "explanation": "Trong câu “What is your date of birth? -”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “February 8th”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 52,
+      "question": "It began to rain while we… soundly.",
+      "options": [
+        "A. slept",
+        "B. have slept",
+        "C. were sleeping",
+        "D. are sleeping"
+      ],
+      "answer": "C. were sleeping",
+      "explanation": "Trong câu “It began to rain while we… soundly”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “were sleeping”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 53,
+      "question": "A: ... is it from Hanoi to Ho Chi Minh City? – B: About 1,700 kilometres.",
+      "options": [
+        "A. How long",
+        "B. How high",
+        "C. How far",
+        "D. How deep"
+      ],
+      "answer": "C. How far",
+      "explanation": "Trong câu “A: ... is it from Hanoi to Ho Chi Minh City? – B: About 1,700 kilometres”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “How far”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 54,
+      "question": "My classroom is very big. It’s ... this room.",
+      "options": [
+        "A. as big to",
+        "B. as big that",
+        "C. as big as",
+        "D. as big so"
+      ],
+      "answer": "C. as big as",
+      "explanation": "Trong câu “My classroom is very big. It’s ... this room”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “as big as”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 55,
+      "question": "English is the_______ language on one- fifth of the land area of the world.",
+      "options": [
+        "A. office",
+        "B. official",
+        "C. officer",
+        "D. officially"
+      ],
+      "answer": "B. official",
+      "explanation": "Trong câu “English is the_______ language on one- fifth of the land area of the world”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “official”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 56,
+      "question": "______ Adele sings!",
+      "options": [
+        "A. What beautifully",
+        "B. What beautiful",
+        "C. How beautiful",
+        "D. How beautifully"
+      ],
+      "answer": "D. How beautifully",
+      "explanation": "Trong câu “______ Adele sings!”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “How beautifully”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 57,
+      "question": "That is ... book I have ever read.",
+      "options": [
+        "A. the borest",
+        "B. the boring",
+        "C. the most boring",
+        "D. the most bored"
+      ],
+      "answer": "C. the most boring",
+      "explanation": "Trong câu “That is ... book I have ever read”, ngữ cảnh yêu cầu dạng so sánh nhất, thường đi với “the”. Vì vậy chọn “the most boring”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 58,
+      "question": "My classes … at 7.30 a.m. and … at 11 a.m.",
+      "options": [
+        "A. starts – end",
+        "B. start – end",
+        "C. start – ends",
+        "D. starts – ends"
+      ],
+      "answer": "D. starts – ends",
+      "explanation": "Trong câu “My classes … at 7.30 a.m. and … at 11 a.m”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “starts – ends”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 59,
+      "question": "I am going ... around the world with my family this summer.",
+      "options": [
+        "A. to traveling",
+        "B. traveled",
+        "C. traveling",
+        "D. to travel"
+      ],
+      "answer": "D. to travel",
+      "explanation": "Trong câu “I am going ... around the world with my family this summer”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “to travel”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 60,
+      "question": "We should use reusable water bottles … of using plastic ones.",
+      "options": [
+        "A. instead",
+        "B. because",
+        "C. despite",
+        "D. however"
+      ],
+      "answer": "A. instead",
+      "explanation": "Trong câu “We should use reusable water bottles … of using plastic ones”, sau động từ khuyết thiếu dùng động từ nguyên mẫu. Vì vậy chọn “instead”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 61,
+      "question": "He drives ... than his brother.",
+      "options": [
+        "A. more carefully",
+        "B. most carefully",
+        "C. is carefully",
+        "D. does carefully"
+      ],
+      "answer": "A. more carefully",
+      "explanation": "Trong câu “He drives ... than his brother”, sau “than” cần dạng so sánh hơn đúng. Vì vậy chọn “more carefully”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 62,
+      "question": "A: ...? – B: This is Nga calling.",
+      "options": [
+        "A. Who’s calling?",
+        "B. Who calling?",
+        "C. What calling?",
+        "D. What’s calling?"
+      ],
+      "answer": "A. Who’s calling?",
+      "explanation": "Trong câu “A: ...? – B: This is Nga calling”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Who’s calling?”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 63,
+      "question": "Avoid touching your eyes, nose and mouth with your _______ hands.",
+      "options": [
+        "A. unclean",
+        "B. dirty",
+        "C. unwashed",
+        "D. All are correct"
+      ],
+      "answer": "D. All are correct",
+      "explanation": "Trong câu “Avoid touching your eyes, nose and mouth with your _______ hands”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “All are correct”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 64,
+      "question": "Russia is ... country in the world.",
+      "options": [
+        "A. the largest",
+        "B. the most large",
+        "C. the most largest",
+        "D. the larger"
+      ],
+      "answer": "A. the largest",
+      "explanation": "Trong câu “Russia is ... country in the world”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “the largest”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 65,
+      "question": "Where is the ... post office? – Go ahead about 500 meters. It’s on your right.",
+      "options": [
+        "A. near",
+        "B. most near",
+        "C. nearest",
+        "D. near’s"
+      ],
+      "answer": "C. nearest",
+      "explanation": "Trong câu “Where is the ... post office? – Go ahead about 500 meters. It’s on your right”, ngữ cảnh yêu cầu dạng so sánh nhất, thường đi với “the”. Vì vậy chọn “nearest”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 66,
+      "question": "There’s a big yard ... my house.",
+      "options": [
+        "A. in front of",
+        "B. front of",
+        "C. is front of",
+        "D. is in front of"
+      ],
+      "answer": "A. in front of",
+      "explanation": "Trong câu “There’s a big yard ... my house”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “in front of”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 67,
+      "question": "Near the bank, ... a post office, a bookstore and a clinic.",
+      "options": [
+        "A. are there",
+        "B. there is",
+        "C. is there",
+        "D. there are"
+      ],
+      "answer": "B. there is",
+      "explanation": "Trong câu “Near the bank, ... a post office, a bookstore and a clinic”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “there is”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 68,
+      "question": "They don’t like durians. They ... them.",
+      "options": [
+        "A. don’t never eat",
+        "B. eat never",
+        "C. never eat",
+        "D. aren’t never eat"
+      ],
+      "answer": "C. never eat",
+      "explanation": "Trong câu “They don’t like durians. They ... them”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “never eat”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 69,
+      "question": "your homework yet?",
+      "options": [
+        "A. Did you finished",
+        "B. Are you finishing",
+        "C. Do you finish",
+        "D. Have you finished"
+      ],
+      "answer": "D. Have you finished",
+      "explanation": "Trong câu “your homework yet?”, dấu hiệu của hiện tại hoàn thành yêu cầu “have/has + V3”. Vì vậy chọn “Have you finished”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 70,
+      "question": "Amsterdam is one of the _______ cities in the world.",
+      "options": [
+        "A. peacefulest",
+        "B. peacefuler",
+        "C. most peacefully",
+        "D. most peaceful"
+      ],
+      "answer": "D. most peaceful",
+      "explanation": "Trong câu “Amsterdam is one of the _______ cities in the world”, ngữ cảnh yêu cầu dạng so sánh nhất, thường đi với “the”. Vì vậy chọn “most peaceful”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 71,
+      "question": "On ... we often go out.",
+      "options": [
+        "A. Saturday’s nights",
+        "B. Saturday nights",
+        "C. nights Saturday",
+        "D. all are correct"
+      ],
+      "answer": "B. Saturday nights",
+      "explanation": "Trong câu “On ... we often go out”, dấu hiệu thói quen yêu cầu thì hiện tại đơn và dạng động từ phù hợp với chủ ngữ. Vì vậy chọn “Saturday nights”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 72,
+      "question": "Susan ... at the moment.",
+      "options": [
+        "A. has a bath",
+        "B. is having a bath",
+        "C. has the bath",
+        "D. is having the bath"
+      ],
+      "answer": "B. is having a bath",
+      "explanation": "Trong câu “Susan ... at the moment”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “is having a bath”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 73,
+      "question": "We ... a big party at the moment.",
+      "options": [
+        "A. are having",
+        "B. don’t have",
+        "C. won’t have",
+        "D. wouldn’t have"
+      ],
+      "answer": "A. are having",
+      "explanation": "Trong câu “We ... a big party at the moment”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “are having”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 74,
+      "question": "Would you like ______ you ______ your English project?",
+      "options": [
+        "A. me helping – with",
+        "B. that I help – for",
+        "C. me help – for",
+        "D. me to help – with"
+      ],
+      "answer": "D. me to help – with",
+      "explanation": "Trong câu “Would you like ______ you ______ your English project?”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “me to help – with”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 75,
+      "question": "We … part in a cooking competition tomorrow.",
+      "options": [
+        "A. are taking",
+        "B. are take",
+        "C. takes",
+        "D. took"
+      ],
+      "answer": "A. are taking",
+      "explanation": "Trong câu “We … part in a cooking competition tomorrow”, dấu hiệu tương lai yêu cầu cấu trúc diễn tả dự định hoặc hành động sắp tới. Vì vậy chọn “are taking”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 76,
+      "question": "Mother told me ... too much time on playing games.",
+      "options": [
+        "A. to not spend",
+        "B. to spend not",
+        "C. not to spend",
+        "D. not spend"
+      ],
+      "answer": "C. not to spend",
+      "explanation": "Trong câu “Mother told me ... too much time on playing games”, sau “tell/ask + tân ngữ” dùng “(not) to + động từ nguyên mẫu”. Vì vậy chọn “not to spend”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 77,
+      "question": "His favorite vegetables are ....",
+      "options": [
+        "A. apples and oranges",
+        "B. apples and peas",
+        "C. cabbages and tomatoes",
+        "D. lemonade and milk"
+      ],
+      "answer": "C. cabbages and tomatoes",
+      "explanation": "Trong câu “His favorite vegetables are”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “cabbages and tomatoes”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 78,
+      "question": "Choose the part that needs correction in the following sentence: Nam don’t like milk. He likes chocolate.",
+      "options": [
+        "A. don’t",
+        "B. like",
+        "C. He",
+        "D. likes"
+      ],
+      "answer": "A. don’t",
+      "explanation": "Trong câu “Choose the part that needs correction in the following sentence: Nam don’t like milk. He likes chocolate”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “don’t”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 79,
+      "question": "If you _______ away I’ll send for the police.",
+      "options": [
+        "A. won’t go",
+        "B. don’t go",
+        "C. aren’t going to go",
+        "D. haven’t gone"
+      ],
+      "answer": "B. don’t go",
+      "explanation": "Trong câu “If you _______ away I’ll send for the police”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “don’t go”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 80,
+      "question": "Choose the part that needs correction in the following sentence: People should stop to use so much energy.",
+      "options": [
+        "A. stop",
+        "B. to use",
+        "C. much",
+        "D. energy"
+      ],
+      "answer": "B. to use",
+      "explanation": "Trong câu “Choose the part that needs correction in the following sentence: People should stop to use so much energy”, sau động từ khuyết thiếu dùng động từ nguyên mẫu. Vì vậy chọn “to use”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 81,
+      "question": "Peter’s house is not near her school so she goes to school ... .",
+      "options": [
+        "A. on foot",
+        "B. by bike",
+        "C. by a bike",
+        "D. on bus"
+      ],
+      "answer": "B. by bike",
+      "explanation": "Trong câu “Peter’s house is not near her school so she goes to school”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “by bike”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 82,
+      "question": "I ... fishing.",
+      "options": [
+        "A. don’t usually go",
+        "B. don’t go usually",
+        "C. aren’t go usually",
+        "D. aren’t usually go"
+      ],
+      "answer": "A. don’t usually go",
+      "explanation": "Trong câu “I ... fishing”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “don’t usually go”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 83,
+      "question": "? – Yes, I’d like some bananas.",
+      "options": [
+        "A. Can I help you",
+        "B. Do you want some apples",
+        "C. What do you want",
+        "D. How do you feel"
+      ],
+      "answer": "A. Can I help you",
+      "explanation": "Trong câu “? – Yes, I’d like some bananas”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Can I help you”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 84,
+      "question": "Ho Chi Minh City has a ___________ of about 8.5 million.",
+      "options": [
+        "A. city",
+        "B. capital",
+        "C. population",
+        "D. country"
+      ],
+      "answer": "C. population",
+      "explanation": "Trong câu “Ho Chi Minh City has a ___________ of about 8.5 million”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “population”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 85,
+      "question": "Is she going to clean the floor or not? – ....",
+      "options": [
+        "A. Yes, she is",
+        "B. No, she doesn’t",
+        "C. Yes, she is going",
+        "D. Yes, she is going to"
+      ],
+      "answer": "A. Yes, she is",
+      "explanation": "Trong câu “Is she going to clean the floor or not? –”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “Yes, she is”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 86,
+      "question": "Choose the word(s) OPPOSITE in meaning to ’’free’’ in the following sentence: ’’Are you free tonight?’’",
+      "options": [
+        "A. busy",
+        "B. tired",
+        "C. relaxed",
+        "D. expensive"
+      ],
+      "answer": "A. busy",
+      "explanation": "Trong câu “Choose the word(s) OPPOSITE in meaning to ’’free’’ in the following sentence: ’’Are you free tonight?’’”, Đề hỏi từ trái nghĩa: “busy” trái nghĩa với “từ đã cho” trong ngữ cảnh này. Vì vậy chọn “busy”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 87,
+      "question": "Vietnam Independence Day is on _______.",
+      "options": [
+        "A. April the thirtieth",
+        "B. September the second",
+        "C. March the tenth",
+        "D. November the twentieth"
+      ],
+      "answer": "B. September the second",
+      "explanation": "Trong câu “Vietnam Independence Day is on _______”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “September the second”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 88,
+      "question": "How will we travel to the moon? - … .",
+      "options": [
+        "A. Yes, we will",
+        "B. By spaceship",
+        "C. Under the ocean",
+        "D. Next decade"
+      ],
+      "answer": "B. By spaceship",
+      "explanation": "Trong câu “How will we travel to the moon? - …”, sau động từ khuyết thiếu dùng động từ nguyên mẫu. Vì vậy chọn “By spaceship”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 89,
+      "question": "A: Thanks in advance. - B: … .",
+      "options": [
+        "A. You’re welcome",
+        "B. No, you can’t",
+        "C. Not at all",
+        "D. Yes, I’d love to"
+      ],
+      "answer": "A. You’re welcome",
+      "explanation": "Trong câu “A: Thanks in advance. - B: …”, sau “than” cần dạng so sánh hơn đúng. Vì vậy chọn “You’re welcome”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 90,
+      "question": "Choose the part that needs correction in the following sentence: Remember to wash and ironing your clothes every day.",
+      "options": [
+        "A. Remember",
+        "B. wash",
+        "C. ironing",
+        "D. every day"
+      ],
+      "answer": "C. ironing",
+      "explanation": "Trong câu “Choose the part that needs correction in the following sentence: Remember to wash and ironing your clothes every day”, dấu hiệu thói quen yêu cầu thì hiện tại đơn và dạng động từ phù hợp với chủ ngữ. Vì vậy chọn “ironing”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 91,
+      "question": "Five thirty also means ....",
+      "options": [
+        "A. half past five",
+        "B. half past four",
+        "C. a quarter past five",
+        "D. a quarter past four"
+      ],
+      "answer": "A. half past five",
+      "explanation": "Trong câu “Five thirty also means”, Đề kiểm tra nghĩa tương đương; “half past five” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “half past five”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 92,
+      "question": "The city has a ... 3.6 millions.",
+      "options": [
+        "A. person",
+        "B. people",
+        "C. population of",
+        "D. population’s"
+      ],
+      "answer": "C. population of",
+      "explanation": "Trong câu “The city has a ... 3.6 millions”, vị trí này cần danh từ hoặc cụm danh từ phù hợp sau mạo từ. Vì vậy chọn “population of”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 93,
+      "question": "Choose the word(s) OPPOSITE in meaning to ’’beautiful’’ in the following sentence: ’’What a beautiful day!’’",
+      "options": [
+        "A. nice",
+        "B. awful",
+        "C. cozy",
+        "D. normal"
+      ],
+      "answer": "B. awful",
+      "explanation": "Trong câu “Choose the word(s) OPPOSITE in meaning to ’’beautiful’’ in the following sentence: ’’What a beautiful day!’’”, Đề hỏi từ trái nghĩa: “awful” trái nghĩa với “từ đã cho” trong ngữ cảnh này. Vì vậy chọn “awful”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 94,
+      "question": "You go by plane to Hanoi. It means you go to Hanoi ....",
+      "options": [
+        "A. by train",
+        "B. by coach",
+        "C. on foot",
+        "D. by air"
+      ],
+      "answer": "D. by air",
+      "explanation": "Trong câu “You go by plane to Hanoi. It means you go to Hanoi”, Đề kiểm tra nghĩa tương đương; “by air” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “by air”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 95,
+      "question": "I ______ trekking before because I’m not healthy enough to do it.",
+      "options": [
+        "A. don’t go",
+        "B. won’t go",
+        "C. didn’t go",
+        "D. haven’t gone"
+      ],
+      "answer": "D. haven’t gone",
+      "explanation": "Trong câu “I ______ trekking before because I’m not healthy enough to do it”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “haven’t gone”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 96,
+      "question": "Choose the part that needs correction in the following sentence: They won’t going to Times Squareto welcomethe New Year.",
+      "options": [
+        "A. won’t",
+        "B. Times Square",
+        "C. to welcome",
+        "D. the"
+      ],
+      "answer": "A. won’t",
+      "explanation": "Trong câu “Choose the part that needs correction in the following sentence: They won’t going to Times Squareto welcomethe New Year”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “won’t”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 97,
+      "question": "_______ I’m one meter forty five centimeters.",
+      "options": [
+        "A. How hight are you?",
+        "B. How height are you?",
+        "C. What is your high?",
+        "D. What is your height?"
+      ],
+      "answer": "D. What is your height?",
+      "explanation": "Trong câu “_______ I’m one meter forty five centimeters”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “What is your height?”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 98,
+      "question": "This is an emergency, please send … to Tran Hung Ðao street.",
+      "options": [
+        "A. an ambulance",
+        "B. a tank",
+        "C. a cart",
+        "D. an engine"
+      ],
+      "answer": "A. an ambulance",
+      "explanation": "Trong câu “This is an emergency, please send … to Tran Hung Ðao street”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “an ambulance”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 99,
+      "question": "Where _____ you ______ since you ______ from your high school?",
+      "options": [
+        "A. do – work – have graduated",
+        "B. have – worked – graduated",
+        "C. are – working – graduated",
+        "D. do – work – graduated"
+      ],
+      "answer": "B. have – worked – graduated",
+      "explanation": "Trong câu “Where _____ you ______ since you ______ from your high school?”, dấu hiệu của hiện tại hoàn thành yêu cầu “have/has + V3”. Vì vậy chọn “have – worked – graduated”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 100,
+      "question": "He has a small garden and grows some vegetables there. ’’There’’ here means ... .",
+      "options": [
+        "A. the vegetables",
+        "B. grows",
+        "C. the garden",
+        "D. he"
+      ],
+      "answer": "C. the garden",
+      "explanation": "Trong câu “He has a small garden and grows some vegetables there. ’’There’’ here means”, Đề kiểm tra nghĩa tương đương; “the garden” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “the garden”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 101,
+      "question": "Choose the word(s) CLOSEST in meaning to ’’starts’’ in the following sentence: ’’The meeting starts at 2 p.m.’’",
+      "options": [
+        "A. finishes",
+        "B. begins",
+        "C. happens",
+        "D. takes"
+      ],
+      "answer": "B. begins",
+      "explanation": "Trong câu “Choose the word(s) CLOSEST in meaning to ’’starts’’ in the following sentence: ’’The meeting starts at 2 p.m.’’”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “begins”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 102,
+      "question": "You have a tooth that hurts. It means you have a ....",
+      "options": [
+        "A. teethache",
+        "B. toothache",
+        "C. tooth’s ache",
+        "D. teeth’s ache"
+      ],
+      "answer": "B. toothache",
+      "explanation": "Trong câu “You have a tooth that hurts. It means you have a”, Đề kiểm tra nghĩa tương đương; “toothache” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “toothache”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 103,
+      "question": "I ______ her five times last night, but she ______.",
+      "options": [
+        "A. have phoned – hasn’t answered",
+        "B. phoned – doesn’t answer",
+        "C. have phoned – didn’t answer",
+        "D. phoned – didn’t answer"
+      ],
+      "answer": "D. phoned – didn’t answer",
+      "explanation": "Trong câu “I ______ her five times last night, but she ______”, dấu hiệu thời gian quá khứ yêu cầu động từ ở quá khứ đơn. Vì vậy chọn “phoned – didn’t answer”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 104,
+      "question": "You … a light when you don’t need it.shouldn’t switch off.",
+      "options": [
+        "A. should turn off",
+        "B. shouldn’t switch off",
+        "C. should turn on",
+        "D. should switch on"
+      ],
+      "answer": "A. should turn off",
+      "explanation": "Trong câu “You … a light when you don’t need it.shouldn’t switch off”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “should turn off”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 105,
+      "question": "Hurry up! We must get to the station on time. – Don’t worry, we have ... to go to the station.",
+      "options": [
+        "A. enough time",
+        "B. time enough",
+        "C. enough",
+        "D. time"
+      ],
+      "answer": "A. enough time",
+      "explanation": "Trong câu “Hurry up! We must get to the station on time. – Don’t worry, we have ... to go to the station”, sau động từ khuyết thiếu dùng động từ nguyên mẫu. Vì vậy chọn “enough time”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 106,
+      "question": "We have Maths on Tuesday, Thursday, and Friday. It means we have Maths ... a week.",
+      "options": [
+        "A. once",
+        "B. twice",
+        "C. three times",
+        "D. four times"
+      ],
+      "answer": "C. three times",
+      "explanation": "Trong câu “We have Maths on Tuesday, Thursday, and Friday. It means we have Maths ... a week”, Đề kiểm tra nghĩa tương đương; “three times” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “three times”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 107,
+      "question": "Choose the word(s) CLOSEST in meaning to ’’unhealthy’’ in the following sentence: ’’Mai was absent from school this morning because she was unhealthy.’’",
+      "options": [
+        "A. well",
+        "B. ill",
+        "C. fine",
+        "D. healthy"
+      ],
+      "answer": "B. ill",
+      "explanation": "Trong câu “Choose the word(s) CLOSEST in meaning to ’’unhealthy’’ in the following sentence: ’’Mai was absent from school this morning because she was unhealthy.’’”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “ill”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 108,
+      "question": "Choose the word(s) OPPOSITE in meaning to ’’interesting’’ in the following sentence: ’’I watched an interesting film last night.’’",
+      "options": [
+        "A. wonderful",
+        "B. crazy",
+        "C. boring",
+        "D. stupid"
+      ],
+      "answer": "C. boring",
+      "explanation": "Trong câu “Choose the word(s) OPPOSITE in meaning to ’’interesting’’ in the following sentence: ’’I watched an interesting film last night.’’”, Đề hỏi từ trái nghĩa: “boring” trái nghĩa với “từ đã cho” trong ngữ cảnh này. Vì vậy chọn “boring”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 109,
+      "question": "Choose the word(s) CLOSEST in meaning to ’’fall’’ in the following sentence: ’’What’s the weather like in the fall?’’",
+      "options": [
+        "A. spring",
+        "B. summer",
+        "C. autumn",
+        "D. winter"
+      ],
+      "answer": "C. autumn",
+      "explanation": "Trong câu “Choose the word(s) CLOSEST in meaning to ’’fall’’ in the following sentence: ’’What’s the weather like in the fall?’’”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “autumn”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 110,
+      "question": "Choose the word(s) OPPOSITE in meaning to ’’dark’’ in the following sentence: ’’Please turn on the light. The room is so dark.’’",
+      "options": [
+        "A. white",
+        "B. bright",
+        "C. brilliant",
+        "D. colourful"
+      ],
+      "answer": "B. bright",
+      "explanation": "Trong câu “Choose the word(s) OPPOSITE in meaning to ’’dark’’ in the following sentence: ’’Please turn on the light. The room is so dark.’’”, Đề hỏi từ trái nghĩa: “bright” trái nghĩa với “từ đã cho” trong ngữ cảnh này. Vì vậy chọn “bright”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 111,
+      "question": "Choose the word(s) OPPOSITE in meaning to ’’narrow’’ in the following sentence: ’’The road is so narrow that there are often traffic jams there.’’",
+      "options": [
+        "A. small",
+        "B. dangerous",
+        "C. dirty",
+        "D. large"
+      ],
+      "answer": "D. large",
+      "explanation": "Trong câu “Choose the word(s) OPPOSITE in meaning to ’’narrow’’ in the following sentence: ’’The road is so narrow that there are often traffic jams there.’’”, Đề hỏi từ trái nghĩa: “large” trái nghĩa với “từ đã cho” trong ngữ cảnh này. Vì vậy chọn “large”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 112,
+      "question": "Choose the word(s) CLOSEST in meaning to ’’returned to’’ in the following sentence: ’’Phuong returned to Hanoi yesterday.",
+      "options": [
+        "A. came back",
+        "B. arrived in",
+        "C. left for",
+        "D. went to"
+      ],
+      "answer": "A. came back",
+      "explanation": "Trong câu “Choose the word(s) CLOSEST in meaning to ’’returned to’’ in the following sentence: ’’Phuong returned to Hanoi yesterday”, dấu hiệu thời gian quá khứ yêu cầu động từ ở quá khứ đơn. Vì vậy chọn “came back”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 113,
+      "question": "Choose the word(s) CLOSEST in meaning to the underlined word/phrase in the following sentence: He began his career as a newsreader at the age of twenty-five.",
+      "options": [
+        "A. working",
+        "B. company",
+        "C. exercise",
+        "D. job"
+      ],
+      "answer": "D. job",
+      "explanation": "Trong câu “Choose the word(s) CLOSEST in meaning to the underlined word/phrase in the following sentence: He began his career as a newsreader at the age of twenty-fi…”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “job”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 114,
+      "question": "“Would you like to join us?” has the same meaning with “...”.",
+      "options": [
+        "A. Why you join us?",
+        "B. Will you join us?",
+        "C. Don’t you join us?",
+        "D. Thanks for joining us"
+      ],
+      "answer": "B. Will you join us?",
+      "explanation": "Trong câu ““Would you like to join us?” has the same meaning with “...””, Đề kiểm tra nghĩa tương đương; “Will you join us?” giữ đúng nghĩa của từ hoặc câu đã cho. Vì vậy chọn “Will you join us?”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    },
+    {
+      "id": 115,
+      "question": "Choose the word(s) CLOSEST in meaning to the underlined word/phrase in the following sentence: Finally, Alice helped the White Queen defeat the Red Queen.",
+      "options": [
+        "A. Firstly",
+        "B. Then",
+        "C. After that",
+        "D. In the end"
+      ],
+      "answer": "D. In the end",
+      "explanation": "Trong câu “Choose the word(s) CLOSEST in meaning to the underlined word/phrase in the following sentence: Finally, Alice helped the White Queen defeat the Red Queen”, ngữ cảnh và cụm từ đi kèm quyết định từ hoặc dạng từ cần dùng. Vì vậy chọn “In the end”; các phương án khác không khớp nghĩa hoặc cấu trúc."
+    }
+  ],
+  "part_B": [
+    {
+      "id": 116,
+      "question": "Watching television too long is _ _ _ _ _ _ _ to your eyes",
+      "answer": "harmful",
+      "explanation": "Điền “harmful” để tạo từ/cụm từ đúng là “harmful”. Khi hoàn chỉnh, câu là: “Watching television too long is harmful to your eyes”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 117,
+      "question": "Is there anything to drink? I’m _ _ _ _ _ _ _",
+      "answer": "thirsty",
+      "explanation": "Điền “thirsty” để tạo từ/cụm từ đúng là “thirsty”. Khi hoàn chỉnh, câu là: “Is there anything to drink? I’m thirsty”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 118,
+      "question": "What about _ _ _ _ _ _ _ football? - It’s a nice idea",
+      "answer": "playing",
+      "explanation": "Điền “playing” để tạo từ/cụm từ đúng là “playing”. Khi hoàn chỉnh, câu là: “What about playing football? - It’s a nice idea”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 119,
+      "question": "My sister doesn't like volleyball at all. She _ _ _ _ _ plays it",
+      "answer": "never",
+      "explanation": "Điền “never” để tạo từ/cụm từ đúng là “never”. Khi hoàn chỉnh, câu là: “My sister doesn't like volleyball at all. She never plays it”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 120,
+      "question": "A: How do you _ _ _ _ _ your name? – B: L-A-N, Lan",
+      "answer": "spell",
+      "explanation": "Điền “spell” để tạo từ/cụm từ đúng là “spell”. Khi hoàn chỉnh, câu là: “A: How do you spell your name? – B: L-A-N, Lan”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 121,
+      "question": "We can _ _ _ _ _ food from the restaurant by calling at its hotline",
+      "answer": "order",
+      "explanation": "Điền “order” để tạo từ/cụm từ đúng là “order”. Khi hoàn chỉnh, câu là: “We can order food from the restaurant by calling at its hotline”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 122,
+      "question": "How _ _ _ _ _ does Ly go jogging? - She goes jogging once a week",
+      "answer": "often",
+      "explanation": "Điền “often” để tạo từ/cụm từ đúng là “often”. Khi hoàn chỉnh, câu là: “How often does Ly go jogging? - She goes jogging once a week”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 123,
+      "question": "Vietnamese people often use chop_ _ _ _ _ _ to take food from dishes",
+      "answer": "sticks",
+      "explanation": "Điền “sticks” để tạo từ/cụm từ đúng là “chopsticks”. Khi hoàn chỉnh, câu là: “Vietnamese people often use chopsticks to take food from dishes”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 124,
+      "question": "There’re 4 seasons in a year: _ _ _ _ _ _ , summer, autumn and winter",
+      "answer": "spring",
+      "explanation": "Điền “spring” để tạo từ/cụm từ đúng là “spring”. Khi hoàn chỉnh, câu là: “There’re 4 seasons in a year: spring , summer, autumn and winter”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 125,
+      "question": "A person who watches and protects children at the pool is a _ _ _ _ guard",
+      "answer": "life",
+      "explanation": "Điền “life” để tạo từ/cụm từ đúng là “life”. Khi hoàn chỉnh, câu là: “A person who watches and protects children at the pool is a life guard”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 126,
+      "question": "’’The Wingless Penguin’’ is about the adventures of a penguin with no _ _ _ _ s",
+      "answer": "wing",
+      "explanation": "Điền “wing” để tạo từ/cụm từ đúng là “wing”. Khi hoàn chỉnh, câu là: “’’The Wingless Penguin’’ is about the adventures of a penguin with no wing s”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 127,
+      "question": "It’s chewing gum. Chew it. Don’t _ _ _ _ _ _ _ it",
+      "answer": "swallow",
+      "explanation": "Điền “swallow” để tạo từ/cụm từ đúng là “swallow”. Khi hoàn chỉnh, câu là: “It’s chewing gum. Chew it. Don’t swallow it”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 128,
+      "question": "My sister feels _ _ _ _ _ _ _ . She wants a glass of water",
+      "answer": "thirsty",
+      "explanation": "Điền “thirsty” để tạo từ/cụm từ đúng là “thirsty”. Khi hoàn chỉnh, câu là: “My sister feels thirsty . She wants a glass of water”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 129,
+      "question": "He feels hot and _ _ _ _ _ _ _ . He wants some cool water",
+      "answer": "thirsty",
+      "explanation": "Điền “thirsty” để tạo từ/cụm từ đúng là “thirsty”. Khi hoàn chỉnh, câu là: “He feels hot and thirsty . He wants some cool water”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 130,
+      "question": "’’Repair’’ has similar meaning to ’’_ _ _ ’’",
+      "answer": "fix",
+      "explanation": "Điền “fix” để tạo từ/cụm từ đúng là “fix”. Khi hoàn chỉnh, câu là: “’’Repair’’ has similar meaning to ’’fix ’’”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 131,
+      "question": "A: How _ _ _ _ _ do you go to the cinema? – B: Once a month",
+      "answer": "often",
+      "explanation": "Điền “often” để tạo từ/cụm từ đúng là “often”. Khi hoàn chỉnh, câu là: “A: How often do you go to the cinema? – B: Once a month”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 132,
+      "question": "George and I have been friends _ _ _ _ _ he came to live next door",
+      "answer": "since",
+      "explanation": "Điền “since” để tạo từ/cụm từ đúng là “since”. Khi hoàn chỉnh, câu là: “George and I have been friends since he came to live next door”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 133,
+      "question": "VTV1 is a _ _ _ _ _ _ _ _ channel",
+      "answer": "national",
+      "explanation": "Điền “national” để tạo từ/cụm từ đúng là “national”. Khi hoàn chỉnh, câu là: “VTV1 is a national channel”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 134,
+      "question": "Mama. Sammy’s sick. He doesn’t eat _ _ _ _ _ _ _ _",
+      "answer": "anything",
+      "explanation": "Điền “anything” để tạo từ/cụm từ đúng là “anything”. Khi hoàn chỉnh, câu là: “Mama. Sammy’s sick. He doesn’t eat anything”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 135,
+      "question": "Which _ _ _ _ _ _ _ _ do you often speak, English or French?",
+      "answer": "language",
+      "explanation": "Điền “language” để tạo từ/cụm từ đúng là “language”. Khi hoàn chỉnh, câu là: “Which language do you often speak, English or French?”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 136,
+      "question": "I like _ _ _ _ _ _ _ _ rope",
+      "answer": "skipping",
+      "explanation": "Điền “skipping” để tạo từ/cụm từ đúng là “skipping”. Khi hoàn chỉnh, câu là: “I like skipping rope”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 137,
+      "question": "My friends usually go _ _ _ _ _ _ _ _ in the river",
+      "answer": "swimming",
+      "explanation": "Điền “swimming” để tạo từ/cụm từ đúng là “swimming”. Khi hoàn chỉnh, câu là: “My friends usually go swimming in the river”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 138,
+      "question": "A: Which _ _ _ _ _ _ does Jane play? - B: She swims and plays badminton",
+      "answer": "sports",
+      "explanation": "Điền “sports” để tạo từ/cụm từ đúng là “sports”. Khi hoàn chỉnh, câu là: “A: Which sports does Jane play? - B: She swims and plays badminton”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 139,
+      "question": "Many plans and animals are in _ _ _ _ _ _ because we are destroying them",
+      "answer": "danger",
+      "explanation": "Điền “danger” để tạo từ/cụm từ đúng là “danger”. Khi hoàn chỉnh, câu là: “Many plans and animals are in danger because we are destroying them”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 140,
+      "question": "Who is _ _ _ _ _ _ that horrible noise? - It’s Nam practising the violin",
+      "answer": "making",
+      "explanation": "Điền “making” để tạo từ/cụm từ đúng là “making”. Khi hoàn chỉnh, câu là: “Who is making that horrible noise? - It’s Nam practising the violin”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 141,
+      "question": "He won’t be _ _ _ _ to pass the exam because he doesn’t study hard",
+      "answer": "able",
+      "explanation": "Điền “able” để tạo từ/cụm từ đúng là “able”. Khi hoàn chỉnh, câu là: “He won’t be able to pass the exam because he doesn’t study hard”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 142,
+      "question": "Four _ _ _ _ _ _ _ in a year are spring, summer, autumn and winter",
+      "answer": "seasons",
+      "explanation": "Điền “seasons” để tạo từ/cụm từ đúng là “seasons”. Khi hoàn chỉnh, câu là: “Four seasons in a year are spring, summer, autumn and winter”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 143,
+      "question": "- A: Which sports does Lan play? – B: She is _ _ _ _ _ _ _ badminton",
+      "answer": "playing",
+      "explanation": "Điền “playing” để tạo từ/cụm từ đúng là “playing”. Khi hoàn chỉnh, câu là: “- A: Which sports does Lan play? – B: She is playing badminton”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 144,
+      "question": "Xuan Bac and Tran Thanh are famous co_ _ _ _ _ _ _ in Vietnam",
+      "answer": "medians",
+      "explanation": "Điền “medians” để tạo từ/cụm từ đúng là “comedians”. Khi hoàn chỉnh, câu là: “Xuan Bac and Tran Thanh are famous comedians in Vietnam”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 145,
+      "question": "The Great Wall of China is the world’s _ _ _ _ _ _ _ structure",
+      "answer": "longest",
+      "explanation": "Điền “longest” để tạo từ/cụm từ đúng là “longest”. Khi hoàn chỉnh, câu là: “The Great Wall of China is the world’s longest structure”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 146,
+      "question": "The word ’’good’’ has opposite meaning to the word ’’_ _ _ ’’",
+      "answer": "bad",
+      "explanation": "Điền “bad” để tạo từ/cụm từ đúng là “bad”. Khi hoàn chỉnh, câu là: “The word ’’good’’ has opposite meaning to the word ’’bad ’’”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 147,
+      "question": "On the moon, there’s no weather b_ _ _ _ _ _ there’s no sky",
+      "answer": "ecause",
+      "explanation": "Điền “ecause” để tạo từ/cụm từ đúng là “because”. Khi hoàn chỉnh, câu là: “On the moon, there’s no weather because there’s no sky”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 148,
+      "question": "You have a _ _ _ _ _ _ leg. You should go to see the doctor soon",
+      "answer": "broken",
+      "explanation": "Điền “broken” để tạo từ/cụm từ đúng là “broken”. Khi hoàn chỉnh, câu là: “You have a broken leg. You should go to see the doctor soon”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 149,
+      "question": "The Earth is the third _ _ _ _ _ _ from the Sun in the solar system",
+      "answer": "planet",
+      "explanation": "Điền “planet” để tạo từ/cụm từ đúng là “planet”. Khi hoàn chỉnh, câu là: “The Earth is the third planet from the Sun in the solar system”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 150,
+      "question": "I’m Vietnamese. What’s your na_ _ _ _ _ _ _ _ _ ?",
+      "answer": "tionality",
+      "explanation": "Điền “tionality” để tạo từ/cụm từ đúng là “nationality”. Khi hoàn chỉnh, câu là: “I’m Vietnamese. What’s your nationality ?”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 151,
+      "question": "What is your _ _ _ _ _ _ _ _ _ number? - 0891837281",
+      "answer": "telephone",
+      "explanation": "Điền “telephone” để tạo từ/cụm từ đúng là “telephone”. Khi hoàn chỉnh, câu là: “What is your telephone number? - 0891837281”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 152,
+      "question": "The opposite of ’’cheap’’ is _ _ _ _ _ _ _ _ _",
+      "answer": "expensive",
+      "explanation": "Điền “expensive” để tạo từ/cụm từ đúng là “expensive”. Khi hoàn chỉnh, câu là: “The opposite of ’’cheap’’ is expensive”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 153,
+      "question": "Are you _ _ _ _ on Sunday? – No, I’m not. I have to tidy up my room",
+      "answer": "free",
+      "explanation": "Điền “free” để tạo từ/cụm từ đúng là “free”. Khi hoàn chỉnh, câu là: “Are you free on Sunday? – No, I’m not. I have to tidy up my room”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 154,
+      "question": "VTV7 is an educational _ _ _ _ _ _ _ . We can learn much from its programs",
+      "answer": "channel",
+      "explanation": "Điền “channel” để tạo từ/cụm từ đúng là “channel”. Khi hoàn chỉnh, câu là: “VTV7 is an educational channel . We can learn much from its programs”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 155,
+      "question": "There are only two _ _ _ _ _ _ _ in my country, dry and rainy ones",
+      "answer": "seasons",
+      "explanation": "Điền “seasons” để tạo từ/cụm từ đúng là “seasons”. Khi hoàn chỉnh, câu là: “There are only two seasons in my country, dry and rainy ones”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 156,
+      "question": "I haven’t met Lucas _______ Christmas.",
+      "answer": "C. since",
+      "explanation": "Điền “since” để tạo từ/cụm từ đúng là “since”. Khi hoàn chỉnh, câu là: “I haven’t met Lucas since Christmas”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 157,
+      "question": "Many people say that Japanese is the most difficult la_ _ _ _ _ _ in the world",
+      "answer": "nguage",
+      "explanation": "Điền “nguage” để tạo từ/cụm từ đúng là “language”. Khi hoàn chỉnh, câu là: “Many people say that Japanese is the most difficult language in the world”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 158,
+      "question": "The girl helped me a lot al_ _ _ _ _ _ she didn’t know me well",
+      "answer": "though",
+      "explanation": "Điền “though” để tạo từ/cụm từ đúng là “although”. Khi hoàn chỉnh, câu là: “The girl helped me a lot although she didn’t know me well”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 159,
+      "question": "The meal we have in the morning is called _ _ _ _ _ _ _ _ _",
+      "answer": "breakfast",
+      "explanation": "Điền “breakfast” để tạo từ/cụm từ đúng là “breakfast”. Khi hoàn chỉnh, câu là: “The meal we have in the morning is called breakfast”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 160,
+      "question": "The bell in Big Ben is the largest one ever made in _ _ _ _ _ _ _",
+      "answer": "England",
+      "explanation": "Điền “England” để tạo từ/cụm từ đúng là “England”. Khi hoàn chỉnh, câu là: “The bell in Big Ben is the largest one ever made in England”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 161,
+      "question": "My father first ______ Da Lat in 2010. A. went B. been C. visited",
+      "answer": "visited",
+      "explanation": "Điền “visited” để tạo từ/cụm từ đúng là “visited”. Khi hoàn chỉnh, câu là: “My father first visited Da Lat in 2010. A. went B. been C. visited”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 162,
+      "question": "Discovery Channel attracts millions of _ _ _ _ _ _ _ because it offers many different interesting programmes",
+      "answer": "viewers",
+      "explanation": "Điền “viewers” để tạo từ/cụm từ đúng là “viewers”. Khi hoàn chỉnh, câu là: “Discovery Channel attracts millions of viewers because it offers many different interesting programmes”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 163,
+      "question": "I want to turn on the TV but I can’t find the _ _ _ _ _ _ control",
+      "answer": "remote",
+      "explanation": "Điền “remote” để tạo từ/cụm từ đúng là “remote”. Khi hoàn chỉnh, câu là: “I want to turn on the TV but I can’t find the remote control”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 164,
+      "question": "This TV programme attracts millions of _ _ _ _ _ _ _ _ _ all over the world",
+      "answer": "audiences",
+      "explanation": "Điền “audiences” để tạo từ/cụm từ đúng là “audiences”. Khi hoàn chỉnh, câu là: “This TV programme attracts millions of audiences all over the world”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 165,
+      "question": "Daisy is the _ _ _ _ _ _ _ girl in her class while Mary is the shortest girl",
+      "answer": "tallest",
+      "explanation": "Điền “tallest” để tạo từ/cụm từ đúng là “tallest”. Khi hoàn chỉnh, câu là: “Daisy is the tallest girl in her class while Mary is the shortest girl”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 166,
+      "question": "They vo_ _ _ _ eer to walk to school instead of taking a bus",
+      "answer": "lunt",
+      "explanation": "Điền “lunt” để tạo từ/cụm từ đúng là “volunt”. Khi hoàn chỉnh, câu là: “They volunt eer to walk to school instead of taking a bus”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 167,
+      "question": "She is not doing _ _ _ _ _ _ _ _ in the garden, just walking with her dog",
+      "answer": "anything",
+      "explanation": "Điền “anything” để tạo từ/cụm từ đúng là “anything”. Khi hoàn chỉnh, câu là: “She is not doing anything in the garden, just walking with her dog”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 168,
+      "question": "She walks to school. It means she goes to school on _ _ _ _",
+      "answer": "foot",
+      "explanation": "Điền “foot” để tạo từ/cụm từ đúng là “foot”. Khi hoàn chỉnh, câu là: “She walks to school. It means she goes to school on foot”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 169,
+      "question": "What’s Mary’s _ _ _ _ _ _ _ _ _ _ _ ? - She’s British",
+      "answer": "nationality",
+      "explanation": "Điền “nationality” để tạo từ/cụm từ đúng là “nationality”. Khi hoàn chỉnh, câu là: “What’s Mary’s nationality ? - She’s British”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 170,
+      "question": "Oxford University is the _ _ _ _ _ _ university in Great Britain. It was built in the 12th century",
+      "answer": "oldest",
+      "explanation": "Điền “oldest” để tạo từ/cụm từ đúng là “oldest”. Khi hoàn chỉnh, câu là: “Oxford University is the oldest university in Great Britain. It was built in the 12th century”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 171,
+      "question": "I went to buy a Led Zeppelin CD; _ _ _ _ _ _ _ , the shop didn’t have it",
+      "answer": "however",
+      "explanation": "Điền “however” để tạo từ/cụm từ đúng là “however”. Khi hoàn chỉnh, câu là: “I went to buy a Led Zeppelin CD; however , the shop didn’t have it”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 172,
+      "question": "Is it necessary for an English learner to talk to a native _ _ _ _ _ _ _ of English?",
+      "answer": "speaker",
+      "explanation": "Điền “speaker” để tạo từ/cụm từ đúng là “speaker”. Khi hoàn chỉnh, câu là: “Is it necessary for an English learner to talk to a native speaker of English?”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 173,
+      "question": "Can you tell the _ _ _ _ _ _ _ _ _ _ between a sport and a game?",
+      "answer": "difference",
+      "explanation": "Điền “difference” để tạo từ/cụm từ đúng là “difference”. Khi hoàn chỉnh, câu là: “Can you tell the difference between a sport and a game?”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 174,
+      "question": "I’ve been to Louvre Museum in Paris. The works of art there are too beautiful for _ _ _ _ _ !",
+      "answer": "words",
+      "explanation": "Điền “words” để tạo từ/cụm từ đúng là “words”. Khi hoàn chỉnh, câu là: “I’ve been to Louvre Museum in Paris. The works of art there are too beautiful for words !”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 175,
+      "question": "Our friends have lived in Ho Chi Minh City ______ 2002.",
+      "answer": "C. since",
+      "explanation": "Điền “since” để tạo từ/cụm từ đúng là “since”. Khi hoàn chỉnh, câu là: “Our friends have lived in Ho Chi Minh City since 2002”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 176,
+      "question": "VTV7 is a new edu_ _ _ _ _ _ _ _ channel with lots of interesting programmes for students",
+      "answer": "cational",
+      "explanation": "Điền “cational” để tạo từ/cụm từ đúng là “educational”. Khi hoàn chỉnh, câu là: “VTV7 is a new educational channel with lots of interesting programmes for students”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 177,
+      "question": "If you want to get to National Cinema Centre, take Bus 22, get _ _ _ at Indira Gandhi Park, then cross the road",
+      "answer": "off",
+      "explanation": "Điền “off” để tạo từ/cụm từ đúng là “off”. Khi hoàn chỉnh, câu là: “If you want to get to National Cinema Centre, take Bus 22, get off at Indira Gandhi Park, then cross the road”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 178,
+      "question": "_ _ _ _ _ _ _ means creating new products from used materials",
+      "answer": "recycle",
+      "explanation": "Điền “recycle” để tạo từ/cụm từ đúng là “recycle”. Khi hoàn chỉnh, câu là: “recycle means creating new products from used materials”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 179,
+      "question": "I ______ to London for a week.",
+      "answer": "A. have gone",
+      "explanation": "Điền “have gone” để tạo từ/cụm từ đúng là “have gone”. Khi hoàn chỉnh, câu là: “I have gone to London for a week”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 180,
+      "question": "Everyone of us can _ _ _ _ a sport, or a game or watch sports events on TV or at the stadium",
+      "answer": "play",
+      "explanation": "Điền “play” để tạo từ/cụm từ đúng là “play”. Khi hoàn chỉnh, câu là: “Everyone of us can play a sport, or a game or watch sports events on TV or at the stadium”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 181,
+      "question": "The World Toe Wrestling Competition first s_ _ _ _ _ _ in Derbyshire, UK in 1976",
+      "answer": "tarted",
+      "explanation": "Điền “tarted” để tạo từ/cụm từ đúng là “started”. Khi hoàn chỉnh, câu là: “The World Toe Wrestling Competition first started in Derbyshire, UK in 1976”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 182,
+      "question": "Fansipan is the highest mountain in Vietnam but it’s not the t_ _ _ _ _ _ mountain in the world",
+      "answer": "allest",
+      "explanation": "Điền “allest” để tạo từ/cụm từ đúng là “tallest”. Khi hoàn chỉnh, câu là: “Fansipan is the highest mountain in Vietnam but it’s not the tallest mountain in the world”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 183,
+      "question": "The Milers’ goats produce ______ milk.",
+      "answer": "D. lots of",
+      "explanation": "Điền “lots of” để tạo từ/cụm từ đúng là “lots of”. Khi hoàn chỉnh, câu là: “The Milers’ goats produce lots of milk”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 184,
+      "question": "The Imperial Academy, or Quoc Tu Giam, is the first _ _ _ _ _ _ _ _ _ _ in Vietnam",
+      "answer": "university",
+      "explanation": "Điền “university” để tạo từ/cụm từ đúng là “university”. Khi hoàn chỉnh, câu là: “The Imperial Academy, or Quoc Tu Giam, is the first university in Vietnam”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 185,
+      "question": "Phong Nha-Ke Bang National Park was recognised as UNESCO World Natural _ _ _ _ _ _ _ _ Site in 2003and 2015",
+      "answer": "Heritage",
+      "explanation": "Điền “Heritage” để tạo từ/cụm từ đúng là “Heritage”. Khi hoàn chỉnh, câu là: “Phong Nha-Ke Bang National Park was recognised as UNESCO World Natural Heritage Site in 2003and 2015”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 186,
+      "question": "______ have you lived here? – For fifteen years.",
+      "answer": "D. How long",
+      "explanation": "Điền “How long” để tạo từ/cụm từ đúng là “How long”. Khi hoàn chỉnh, câu là: “How long have you lived here? – For fifteen years”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 187,
+      "question": "Vietnamese people decorate houses with peach blossoms in northern part of Vietnam and ap_ _ _ _ _ blossoms in the southern part at Tet",
+      "answer": "ricot",
+      "explanation": "Điền “ricot” để tạo từ/cụm từ đúng là “apricot”. Khi hoàn chỉnh, câu là: “Vietnamese people decorate houses with peach blossoms in northern part of Vietnam and apricot blossoms in the southern part at Tet”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 188,
+      "question": "M_ _ _ _ _ _ , the symbol of Singapore, is a creature with the head of a lion and the body of a fish",
+      "answer": "erlion",
+      "explanation": "Điền “erlion” để tạo từ/cụm từ đúng là “Merlion”. Khi hoàn chỉnh, câu là: “Merlion , the symbol of Singapore, is a creature with the head of a lion and the body of a fish”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 189,
+      "question": "In Scotland, the _ _ _ _ t footer on New Year’s Day is believed to decide the family’s luck for the rest of the year",
+      "answer": "firs",
+      "explanation": "Điền “firs” để tạo từ/cụm từ đúng là “firs”. Khi hoàn chỉnh, câu là: “In Scotland, the firs t footer on New Year’s Day is believed to decide the family’s luck for the rest of the year”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    },
+    {
+      "id": 190,
+      "question": "Merlion, a creature with the head of a lion and the body of a fish, is the symbol of _ _ _ _ _ _ _ _ _",
+      "answer": "Singapore",
+      "explanation": "Điền “Singapore” để tạo từ/cụm từ đúng là “Singapore”. Khi hoàn chỉnh, câu là: “Merlion, a creature with the head of a lion and the body of a fish, is the symbol of Singapore”; từ này phù hợp với nghĩa và cách viết chuẩn."
+    }
+  ],
+  "part_C": [
+    {
+      "id": 191,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. showed",
+        "B. sung",
+        "C. drawn",
+        "D. known"
+      ],
+      "answer": "A. showed",
+      "explanation": "“showed” là từ khác nhóm; các từ còn lại (“sung”, “drawn”, “known”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 192,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. took",
+        "B. gave",
+        "C. kept",
+        "D. called"
+      ],
+      "answer": "D. called",
+      "explanation": "“called” là từ khác nhóm; các từ còn lại (“took”, “gave”, “kept”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 193,
+      "question": "Odd one out",
+      "options": [
+        "A. newspaper",
+        "B. television",
+        "C. radio",
+        "D. workbook"
+      ],
+      "answer": "D. workbook",
+      "explanation": "“workbook” là từ khác nhóm; các từ còn lại (“newspaper”, “television”, “radio”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 194,
+      "question": "Odd one out:",
+      "options": [
+        "A. vacation",
+        "B. souvenir",
+        "C. holiday",
+        "D. day off"
+      ],
+      "answer": "B. souvenir",
+      "explanation": "“souvenir” là từ khác nhóm; các từ còn lại (“vacation”, “holiday”, “day off”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 195,
+      "question": "Odd one out",
+      "options": [
+        "A. beautiful",
+        "B. noisy",
+        "C. boring",
+        "D. dangerous"
+      ],
+      "answer": "A. beautiful",
+      "explanation": "“beautiful” là từ khác nhóm; các từ còn lại (“noisy”, “boring”, “dangerous”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 196,
+      "question": "Odd one out:",
+      "options": [
+        "A. Monday",
+        "B. Friday",
+        "C. September",
+        "D. Thursday"
+      ],
+      "answer": "C. September",
+      "explanation": "“September” là từ khác nhóm; các từ còn lại (“Monday”, “Friday”, “Thursday”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 197,
+      "question": "Odd one out:",
+      "options": [
+        "A. Good morning",
+        "B. Good afternoon",
+        "C. Good grade",
+        "D. Goodbye"
+      ],
+      "answer": "C. Good grade",
+      "explanation": "“Good grade” là từ khác nhóm; các từ còn lại (“Good morning”, “Good afternoon”, “Goodbye”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 198,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. quiet",
+        "B. simple",
+        "C. friendly",
+        "D. beautiful"
+      ],
+      "answer": "D. beautiful",
+      "explanation": "“beautiful” là từ khác nhóm; các từ còn lại (“quiet”, “simple”, “friendly”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 199,
+      "question": "Odd one out",
+      "options": [
+        "A. Bus stop",
+        "B. Post office",
+        "C. Hospital",
+        "D. Mobile phone"
+      ],
+      "answer": "D. Mobile phone",
+      "explanation": "“Mobile phone” là từ khác nhóm; các từ còn lại (“Bus stop”, “Post office”, “Hospital”) có điểm chung về nghĩa hoặc từ loại."
+    },
+    {
+      "id": 200,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. playground",
+        "B. ball",
+        "C. bat",
+        "D. racket"
+      ],
+      "answer": "A. playground",
+      "explanation": "“playground” là từ khác nhóm; các từ còn lại (“ball”, “bat”, “racket”) có điểm chung về nghĩa hoặc từ loại."
+    }
+  ]
+}
