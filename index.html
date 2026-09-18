@@ -120,6 +120,7 @@
                             <option value="full-2">Chuyên đề 2</option>
                             <option value="full-3">Chuyên đề 3</option>
                             <option value="full-4">Chuyên đề 4</option>
+                            <option value="full-5">Chuyên đề 5</option>
                         </select>
                     </div>
                 </div>
@@ -218,6 +219,11 @@
                                 <span class="text-gray-400 text-sm" id="total-q-label">/ 0</span>
                             </div>
                             <div id="question-image" class="mb-4 hidden">
+                            </div>
+                            <div id="question-audio" class="mb-4 hidden">
+                                <audio id="audio-player" controls class="w-full rounded-lg" style="height:44px">
+                                    <source id="audio-src" src="" type="audio/mpeg">
+                                </audio>
                             </div>
                             <div id="question-text"
                                 class="text-xl sm:text-2xl font-semibold text-gray-800 leading-relaxed">
@@ -419,7 +425,7 @@
                                 ? item.options.split(/,\s*(?=[A-D]\.)/)
                                 : item.options;
                         }
-                        data.push({ q: item.question||item.q, opts, ans: item.answer||item.ans, exp: item.explanation||item.exp||'', img: item.image||'' });
+                        data.push({ q: item.question||item.q, opts, ans: item.answer||item.ans, exp: item.explanation||item.exp||'', img: item.image||'', aud: item.audio||'' });
                     });
                 };
                 if (raw.part_A||raw.part_B||raw.part_C) {
@@ -437,6 +443,7 @@
                     id: i+1,
                     text: (item.q||'').replace(/^Ảnh:\s*/,'').replace(/\[[^\]]+\]/g,'').trim(),
                     image: item.img||'',
+                    audio: item.aud||'',
                     options: item.opts ? shuffleArray([...item.opts]).map(o=>o.replace(/\[[^\]]+\]/g,'').trim()) : [],
                     correct: (item.ans||'').replace(/\[[^\]]+\]/g,'').trim(),
                     explanation: item.exp||''
@@ -531,6 +538,17 @@
             } else {
                 qImgEl.innerHTML = '';
                 qImgEl.classList.add('hidden');
+            }
+            const qAudEl = document.getElementById('question-audio');
+            const audPlayer = document.getElementById('audio-player');
+            const audSrc = document.getElementById('audio-src');
+            if (q.audio) {
+                audSrc.src = q.audio;
+                audPlayer.load();
+                qAudEl.classList.remove('hidden');
+            } else {
+                audSrc.src = '';
+                qAudEl.classList.add('hidden');
             }
 
             const opts = document.getElementById('options-container');

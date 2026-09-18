@@ -1,0 +1,2037 @@
+{
+  "title": "IOE Lớp 6 - Chuyên đề 5 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "It’s famous for its traditonal houses and beautiful _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sunsets",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sunsets”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920012131630900_Audio.mp3"
+    },
+    {
+      "id": 2,
+      "question": "Mary often goes ... in the morning.",
+      "options": [
+        "A. walking",
+        "B. jogging",
+        "C. talking",
+        "D. fishing"
+      ],
+      "answer": "B. jogging",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. jogging”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206394479034553_Audio.mp3"
+    },
+    {
+      "id": 3,
+      "question": "Her new house is on the _ _ _ _ of a mountain.",
+      "options": [],
+      "answer": "side",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “side”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920012810706576_Audio.mp3"
+    },
+    {
+      "id": 4,
+      "question": "Mary: So, um, how big is your immediate family? - Ruth: Ah, there are _ _ _ _ of us.'",
+      "options": [],
+      "answer": "four",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “four”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920011283449873_Audio.mp3"
+    },
+    {
+      "id": 5,
+      "question": "What don’t they do after dinner?",
+      "options": [
+        "A. go to sleep",
+        "B. eat dinner",
+        "C. listen to music",
+        "D. do homework"
+      ],
+      "answer": "C. listen to music",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. listen to music”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303877220018638_Audio.mp3"
+    },
+    {
+      "id": 6,
+      "question": "You’re such a good _ _ _ _ . I wish I could cook like you can.",
+      "options": [],
+      "answer": "cook",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “cook”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920010138708961_Audio.mp3"
+    },
+    {
+      "id": 7,
+      "question": "Who would like some coffee?",
+      "options": [
+        "A. Oscar.",
+        "B. Jenny.",
+        "C. The speaker.",
+        "D. Oscar’s friend."
+      ],
+      "answer": "A. Oscar",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. Oscar”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240655815139278_Audio.mp3"
+    },
+    {
+      "id": 8,
+      "question": "In the morning the balloon was a _ _ _ _ .",
+      "options": [],
+      "answer": "boat",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “boat”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642711832414_Audio.mp3"
+    },
+    {
+      "id": 9,
+      "question": "Jane goes to school at _ _ _ _ _ o’clock every morning.",
+      "options": [],
+      "answer": "eight",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “eight”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884541423497_Audio.mp3"
+    },
+    {
+      "id": 10,
+      "question": "Yesterday she visited her _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "grandma",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “grandma”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240645460118915_Audio.mp3"
+    },
+    {
+      "id": 11,
+      "question": "What did he do before he _ _ _ _ _ _ _ his job?",
+      "options": [],
+      "answer": "started",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “started”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612563549702734_Audio.mp3"
+    },
+    {
+      "id": 12,
+      "question": "How was the boy?",
+      "options": [
+        "A. Tired and bored.",
+        "B. Hungry and happy.",
+        "C. Tired but happy.",
+        "D. Sleepy but happy."
+      ],
+      "answer": "C. Tired but happy",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. Tired but happy”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240651325443033_Audio.mp3"
+    },
+    {
+      "id": 13,
+      "question": "What does he think the best season to visit America?",
+      "options": [
+        "A. Spring",
+        "B. Summer",
+        "C. Fall",
+        "D. Winter"
+      ],
+      "answer": "C. Fall",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. Fall”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920008307560959_Audio.mp3"
+    },
+    {
+      "id": 14,
+      "question": "What does he have?",
+      "options": [
+        "A. a car",
+        "B. a cow",
+        "C. some buffaloes",
+        "D. some paddy fields"
+      ],
+      "answer": "D. some paddy fields",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. some paddy fields”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303879366270408_Audio.mp3"
+    },
+    {
+      "id": 15,
+      "question": "People and animals run because they are _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "scared",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “scared”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864902511748912_Audio.mp3"
+    },
+    {
+      "id": 16,
+      "question": "The bird is …",
+      "options": [
+        "A. really big.",
+        "B. a bit small.",
+        "C. quite beautiful.",
+        "D. very clever."
+      ],
+      "answer": "A. really big",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. really big”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240653492790923_Audio.mp3"
+    },
+    {
+      "id": 17,
+      "question": "The birthday party was at 7 o’clock _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "yesterday",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “yesterday”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205609188475263_Audio.mp3"
+    },
+    {
+      "id": 18,
+      "question": "What does he like? – He likes ….",
+      "options": [
+        "A. sports",
+        "B. playing basketball",
+        "C. swimming",
+        "D. All are correct."
+      ],
+      "answer": "D. All are correct",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. All are correct”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240656015295756_Audio.mp3"
+    },
+    {
+      "id": 19,
+      "question": "What do we collect waste paper and old plastic for?",
+      "options": [
+        "A. to sell",
+        "B. to recycle",
+        "C. to burn",
+        "D. to throw away"
+      ],
+      "answer": "B. to recycle",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. to recycle”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303881305821814_Audio.mp3"
+    },
+    {
+      "id": 20,
+      "question": "They s_ _ _ _ _ across the sea and through the whales.",
+      "options": [],
+      "answer": "ailed",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “ailed”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649345126462_Audio.mp3"
+    },
+    {
+      "id": 21,
+      "question": "The road is _ _ _ _ _ _ _ _ _ . He must slow down.",
+      "options": [],
+      "answer": "dangerous",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “dangerous”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306499505285312_Audio.mp3"
+    },
+    {
+      "id": 22,
+      "question": "The _ _ _ _ is red and the wall is yellow.",
+      "options": [],
+      "answer": "roof",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “roof”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205608789894562_Audio.mp3"
+    },
+    {
+      "id": 23,
+      "question": "What is being burned too much?",
+      "options": [
+        "A. tree",
+        "B. coal",
+        "C. fire",
+        "D. paper"
+      ],
+      "answer": "B. coal",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. coal”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306498900784250_Audio.mp3"
+    },
+    {
+      "id": 24,
+      "question": "Yesterday she watched TV, climbed a tree, _ _ _ _ _ ed her grandma and brushed her teeth.",
+      "options": [],
+      "answer": "visit",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “visit”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649816221348_Audio.mp3"
+    },
+    {
+      "id": 25,
+      "question": "Can you tell me about your future _ _ _ _ _ ?",
+      "options": [],
+      "answer": "plans",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “plans”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206400254632270_Audio.mp3"
+    },
+    {
+      "id": 26,
+      "question": "I bought a lot of _ _ _ _ _ _ _ _ _ gifts for my friends in America.",
+      "options": [],
+      "answer": "different",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “different”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209943683679442_Audio.mp3"
+    },
+    {
+      "id": 27,
+      "question": "Where are the rulers?",
+      "options": [
+        "A. next to the table",
+        "B. under the table",
+        "C. on the table",
+        "D. in the table"
+      ],
+      "answer": "C. on the table",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. on the table”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303875117602945_Audio.mp3"
+    },
+    {
+      "id": 28,
+      "question": "Amy Hickson has been a runner since _ _ _ _ .",
+      "options": [],
+      "answer": "1998",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “1998”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920012288257392_Audio.mp3"
+    },
+    {
+      "id": 29,
+      "question": "He had a slight _ _ _ _ _ , coughing and sneezing.",
+      "options": [],
+      "answer": "fever",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “fever”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209995159245854_Audio.mp3"
+    },
+    {
+      "id": 30,
+      "question": "She brushed her ….",
+      "options": [
+        "A. teeth",
+        "B. clothes",
+        "C. hair",
+        "D. cheeks"
+      ],
+      "answer": "C. hair",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. hair”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240654508887622_Audio.mp3"
+    },
+    {
+      "id": 31,
+      "question": "What does Tim’s father repair in the factory?",
+      "options": [
+        "A. plane",
+        "B. motorbike",
+        "C. machines",
+        "D. car"
+      ],
+      "answer": "C. machines",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. machines”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612508286579667_Audio.mp3"
+    },
+    {
+      "id": 32,
+      "question": "Jane goes to school at _____ every morning.",
+      "options": [
+        "A. 6 o’clock",
+        "B. 7 o’clock",
+        "C. 8 o’clock",
+        "D. 9 o’clock"
+      ],
+      "answer": "C. 8 o’clock",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “C. 8 o’clock”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864387068615038_Audio.mp3"
+    },
+    {
+      "id": 33,
+      "question": "What is next to the rice paddy?",
+      "options": [
+        "A. a field",
+        "B. a sea",
+        "C. a lake",
+        "D. a river"
+      ],
+      "answer": "D. a river",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. a river”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303878072872136_Audio.mp3"
+    },
+    {
+      "id": 34,
+      "question": "She bought a _ _ _ _ _ _ _ _ _ on her way to the office.",
+      "options": [],
+      "answer": "newspaper",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “newspaper”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/3/24.mp3"
+    },
+    {
+      "id": 35,
+      "question": "What does she do after having breakfast?",
+      "options": [
+        "A. listen to the radio",
+        "B. listen to music",
+        "C. watch TV",
+        "D. have lunch"
+      ],
+      "answer": "A. listen to the radio",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. listen to the radio”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303876538297440_Audio.mp3"
+    },
+    {
+      "id": 36,
+      "question": "I’m interested in _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "photography",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “photography”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303883608385858_Audio.mp3"
+    },
+    {
+      "id": 37,
+      "question": "The alarm clock is … the table.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. under",
+        "D. off"
+      ],
+      "answer": "A. on",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. on”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240640506828128_Audio.mp3"
+    },
+    {
+      "id": 38,
+      "question": "What have they got?",
+      "options": [
+        "A. Pizzas.",
+        "B. Sandwiches and salad.",
+        "C. A big cake.",
+        "D. All are correct."
+      ],
+      "answer": "D. All are correct",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. All are correct”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240639377450848_Audio.mp3"
+    },
+    {
+      "id": 39,
+      "question": "We use milk to make cheese, butter, cream and _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "yogurt",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “yogurt”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/3/26.mp3"
+    },
+    {
+      "id": 40,
+      "question": "Deep in Earth, the _ _ _ _ is very, very hot.",
+      "options": [],
+      "answer": "rock",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “rock”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864902337217322_Audio.mp3"
+    },
+    {
+      "id": 41,
+      "question": "Where did Akane’s parents move to?",
+      "options": [
+        "A. Vancouver",
+        "B. Toronto",
+        "C. Quebec",
+        "D. West Coast"
+      ],
+      "answer": "A. Vancouver",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. Vancouver”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920006833813797_Audio.mp3"
+    },
+    {
+      "id": 42,
+      "question": "Humans are _ _ _ _ _ _ _ too much fossil fuels.",
+      "options": [],
+      "answer": "burning",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “burning”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884054078641_Audio.mp3"
+    },
+    {
+      "id": 43,
+      "question": "This is the _ _ _ _ _ time Mathew has eaten dog meat.",
+      "options": [],
+      "answer": "first",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “first”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209944395196692_Audio.mp3"
+    },
+    {
+      "id": 44,
+      "question": "_ _ _ _ _ _ _ _ _ _ _ _ and other soft fruit grow in cool weather.",
+      "options": [],
+      "answer": "strawberries",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “strawberries”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/3/25.mp3"
+    },
+    {
+      "id": 45,
+      "question": "Listen and choose the drink which is NOT in the recording.",
+      "options": [
+        "A. tea",
+        "B. coffee",
+        "C. milk",
+        "D. apple juice"
+      ],
+      "answer": "D. apple juice",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. apple juice”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240656192952459_Audio.mp3"
+    },
+    {
+      "id": 46,
+      "question": "Why did they stay at home? – Because … .",
+      "options": [
+        "A. it was cold",
+        "B. it was rainy",
+        "C. the weather was bad",
+        "D. All are correct."
+      ],
+      "answer": "D. All are correct",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. All are correct”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240638975887494_Audio.mp3"
+    },
+    {
+      "id": 47,
+      "question": "Alex goes to a _ _ _ _ _ restaurant every Friday.",
+      "options": [],
+      "answer": "pizza",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “pizza”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/19.mp3"
+    },
+    {
+      "id": 48,
+      "question": "She has got lessons at school in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "morning",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “morning”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205608223457568_Audio.mp3"
+    },
+    {
+      "id": 49,
+      "question": "What did Ruth’s brother get her for her last birthday?",
+      "options": [
+        "A. money",
+        "B. chocolate",
+        "C. money and chocolate",
+        "D. gift"
+      ],
+      "answer": "C. money and chocolate",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. money and chocolate”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920005973150786_Audio.mp3"
+    },
+    {
+      "id": 50,
+      "question": "When won’t she phone her?",
+      "options": [
+        "A. on weekends",
+        "B. on Wednesday",
+        "C. on weekdays",
+        "D. on Monday"
+      ],
+      "answer": "C. on weekdays",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. on weekdays”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306498286299171_Audio.mp3"
+    },
+    {
+      "id": 51,
+      "question": "Where did Carla get married?",
+      "options": [
+        "A. Asia",
+        "B. Europe",
+        "C. Africa",
+        "D. America"
+      ],
+      "answer": "C. Africa",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. Africa”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920008756845701_Audio.mp3"
+    },
+    {
+      "id": 52,
+      "question": "Let’s go for a ... next weekend.",
+      "options": [
+        "A. picnic",
+        "B. beach",
+        "C. fishing",
+        "D. short trip"
+      ],
+      "answer": "A. picnic",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. picnic”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206395107871657_Audio.mp3"
+    },
+    {
+      "id": 53,
+      "question": "You can put some _ _ _ _ _ _ on the bread.",
+      "options": [],
+      "answer": "butter",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “butter”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864903303156781_Audio.mp3"
+    },
+    {
+      "id": 54,
+      "question": "Mary came to Ruth’s house to _ _ _ _ up her plastic container.",
+      "options": [],
+      "answer": "pick",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “pick”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920010363507330_Audio.mp3"
+    },
+    {
+      "id": 55,
+      "question": "The library is _ _ _ _ _ _ _ _ the drugstore.",
+      "options": [],
+      "answer": "opposite",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “opposite”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209944896425572_Audio.mp3"
+    },
+    {
+      "id": 56,
+      "question": "What _ _ _ _ _ _ _ _ _ _ might you have?",
+      "options": [],
+      "answer": "appliances",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “appliances”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/15.mp3"
+    },
+    {
+      "id": 57,
+      "question": "Where is the museum?",
+      "options": [
+        "A. in front of the hospital",
+        "B. between the factories",
+        "C. next to the factory",
+        "D. next to the hospital"
+      ],
+      "answer": "D. next to the hospital",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. next to the hospital”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303876909890093_Audio.mp3"
+    },
+    {
+      "id": 58,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Whose birthday party was it?",
+        "B. Whose birthday had party?",
+        "C. Who had a birthday party?",
+        "D. Who was in this birthday party?"
+      ],
+      "answer": "A. Whose birthday party was it?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là A. Whose birthday party was it?.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206396889394786_Audio.mp3"
+    },
+    {
+      "id": 59,
+      "question": "What did he do?",
+      "options": [
+        "A. He played basketball.",
+        "B. He helped her dad.",
+        "C. He watched TV in the afternoon.",
+        "D. He mended his bike."
+      ],
+      "answer": "B. He helped her dad",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. He helped her dad”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240650562160324_Audio.mp3"
+    },
+    {
+      "id": 60,
+      "question": "What was NOT in the recording?",
+      "options": [
+        "A. There was a flower.",
+        "B. There was a river.",
+        "C. There was a parrot.",
+        "D. There was a rabbit."
+      ],
+      "answer": "D. There was a rabbit",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. There was a rabbit”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240650783566847_Audio.mp3"
+    },
+    {
+      "id": 61,
+      "question": "What was TRUE?",
+      "options": [
+        "A. It was rainy and wet.",
+        "B. They played on the beach.",
+        "C. They visited an old house.",
+        "D. They swam on the sea"
+      ],
+      "answer": "B. They played on the beach",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. They played on the beach”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240651581383061_Audio.mp3"
+    },
+    {
+      "id": 62,
+      "question": "What does she often give her grandparents on Christmas?",
+      "options": [
+        "A. a tea pot",
+        "B. some money",
+        "C. packets of tea",
+        "D. packets of coffee"
+      ],
+      "answer": "C. packets of tea",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. packets of tea”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303878623709103_Audio.mp3"
+    },
+    {
+      "id": 63,
+      "question": "What is ISN’T true?",
+      "options": [
+        "A. The boy is tired.",
+        "B. They won’t play football.",
+        "C. They won’t go to the park.",
+        "D. They won’t play computer games."
+      ],
+      "answer": "D. They won’t play computer games",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. They won’t play computer games”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240639791827024_Audio.mp3"
+    },
+    {
+      "id": 64,
+      "question": "Listen and tick:",
+      "options": [
+        "A. I will never forget your cat.",
+        "B. I will never forget your hat.",
+        "C. I will never forget your hall.",
+        "D. I will never forget your help."
+      ],
+      "answer": "D. I will never forget your help",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là D. I will never forget your help.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206398739053235_Audio.mp3"
+    },
+    {
+      "id": 65,
+      "question": "When are most of the Nobel Prizes awarded?",
+      "options": [
+        "A. On November the 12th.",
+        "B. On November the 20th.",
+        "C. On December the 10th.",
+        "D. On December the 20th."
+      ],
+      "answer": "C. On December the 10th",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. On December the 10th”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/12.mp3"
+    },
+    {
+      "id": 66,
+      "question": "Listen and tick:",
+      "options": [
+        "A. What will we do in the morning?",
+        "B. What will we do in the afternoon?",
+        "C. Where will we go in the evening?",
+        "D. What will we be able to do in the morning?"
+      ],
+      "answer": "A. What will we do in the morning?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là A. What will we do in the morning?.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206397459453800_Audio.mp3"
+    },
+    {
+      "id": 67,
+      "question": "What is true?",
+      "options": [
+        "A. The boy hasn’t got a racket.",
+        "B. The sun is hiding.",
+        "C. They will play tennis.",
+        "D. They will ride a horse."
+      ],
+      "answer": "A. The boy hasn’t got a racket",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. The boy hasn’t got a racket”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240640091514705_Audio.mp3"
+    },
+    {
+      "id": 68,
+      "question": "Listen and tick:",
+      "options": [
+        "A. I always have a showering the morning.",
+        "B. I always do morning exercise.",
+        "C. I always have breakfast in the morning."
+      ],
+      "answer": "I always have breakfast in the morning",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là I always have breakfast in the morning.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206399120925077_Audio.mp3"
+    },
+    {
+      "id": 69,
+      "question": "What is true about Linda?",
+      "options": [
+        "A. She lives in a small town.",
+        "B. She comes from America.",
+        "C. She speaks English.",
+        "D. She is Elizabeth."
+      ],
+      "answer": "C. She speaks English",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. She speaks English”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240640284640060_Audio.mp3"
+    },
+    {
+      "id": 70,
+      "question": "Listen and tick:",
+      "options": [
+        "A. He’s going to spell a word.",
+        "B. He’s going to give us a poke.",
+        "C. He’s going to have a shock.",
+        "D. He’s going to tell a joke."
+      ],
+      "answer": "D. He’s going to tell a joke",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là D. He’s going to tell a joke.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206399429452724_Audio.mp3"
+    },
+    {
+      "id": 71,
+      "question": "What was NOT true?",
+      "options": [
+        "A. There was spider next to their tent.",
+        "B. It crawled slowly.",
+        "C. It was interesting.",
+        "D. It happened this morning."
+      ],
+      "answer": "C. It was interesting",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. It was interesting”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240638510573993_Audio.mp3"
+    },
+    {
+      "id": 72,
+      "question": "What did they do this evening?",
+      "options": [
+        "A. They listened to the parrots.",
+        "B. They listened to the insects.",
+        "C. They climbed up a hill.",
+        "D. He drank a cup of milk."
+      ],
+      "answer": "B. They listened to the insects",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. They listened to the insects”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240638771668479_Audio.mp3"
+    },
+    {
+      "id": 73,
+      "question": "Listen and tick:",
+      "options": [
+        "A. She has long and black hair.",
+        "B. She has strong and black hair.",
+        "C. She has long and blonde hair.",
+        "D. She has blonde and black hair."
+      ],
+      "answer": "A. She has long and black hair",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là A. She has long and black hair.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206396016573253_Audio.mp3"
+    },
+    {
+      "id": 74,
+      "question": "What did the monkey do?",
+      "options": [
+        "A. It jumped happily to see human.",
+        "B. It watched them quietly.",
+        "C. It climbed the hill.",
+        "D. It ate bananas."
+      ],
+      "answer": "B. It watched them quietly",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. It watched them quietly”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240651073098615_Audio.mp3"
+    },
+    {
+      "id": 75,
+      "question": "What didn’t happen this morning?",
+      "options": [
+        "A. The children were all sleep.",
+        "B. The man mended the basket.",
+        "C. The man walked into the jungle.",
+        "D. The lion stood in front of the man."
+      ],
+      "answer": "D. The lion stood in front of the man",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. The lion stood in front of the man”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240650337318356_Audio.mp3"
+    },
+    {
+      "id": 76,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Where is Kate’s birthday party?",
+        "B. When is Kate’s holiday?",
+        "C. When is Kate’s birthday?",
+        "D. What is the date today?"
+      ],
+      "answer": "C. When is Kate’s birthday?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. When is Kate’s birthday?.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206397184713305_Audio.mp3"
+    },
+    {
+      "id": 77,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Everyone cheered and then they went home.",
+        "B. Everyone cheered and the party stopped.",
+        "C. Everyone cheered and the party went on.",
+        "D. Everyone cheered and everybody danced."
+      ],
+      "answer": "C. Everyone cheered and the party went on",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. Everyone cheered and the party went on.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206397945921625_Audio.mp3"
+    },
+    {
+      "id": 78,
+      "question": "There aren’t any … but there are some ….",
+      "options": [
+        "A. apples – mangos",
+        "B. watermelon – oranges",
+        "C. apples – oranges",
+        "D. mangos and oranges"
+      ],
+      "answer": "C. apples – oranges",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. apples – oranges”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240654223419346_Audio.mp3"
+    },
+    {
+      "id": 79,
+      "question": "Why does the world need more food?",
+      "options": [
+        "A. there are less people",
+        "B. there are more people",
+        "C. there is less food",
+        "D. there is more food"
+      ],
+      "answer": "B. there are more people",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. there are more people”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303880014139545_Audio.mp3"
+    },
+    {
+      "id": 80,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Would you mind opening your house, please?",
+        "B. Would you mind opening your door, please?",
+        "C. Would you mind opening your mouth, please?",
+        "D. Would you mind opening your eyes, please?"
+      ],
+      "answer": "C. Would you mind opening your mouth, please?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. Would you mind opening your mouth, please?.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209943275114725_Audio.mp3"
+    },
+    {
+      "id": 81,
+      "question": "Listen and tick:",
+      "options": [
+        "A. You should get up early and stay up late.",
+        "B. You should go to school early and do morning exercise.",
+        "C. You should get up early and do morning exercise.",
+        "D. You should get up early and do your exercises."
+      ],
+      "answer": "C. You should get up early and do morning exercise",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. You should get up early and do morning exercise.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209942581849507_Audio.mp3"
+    },
+    {
+      "id": 82,
+      "question": "Listen and tick:",
+      "options": [
+        "A. My grandparents’ house is big and colorful.",
+        "B. My grandparents’ house is big and comfortable.",
+        "C. My grandparents’ house is nice and comfortable.",
+        "D. My grandparents’ house is thick and enjoyable."
+      ],
+      "answer": "B. My grandparents’ house is big and comfortable",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là B. My grandparents’ house is big and comfortable.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206398287851182_Audio.mp3"
+    },
+    {
+      "id": 83,
+      "question": "The bag is behind the _ _ _ _ .",
+      "options": [],
+      "answer": "door",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “door”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649551064378_Audio.mp3"
+    },
+    {
+      "id": 84,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "career",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “career”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/1/career.mp3"
+    },
+    {
+      "id": 85,
+      "question": "They won’t go to the _ _ _ _ .",
+      "options": [],
+      "answer": "shop",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “shop”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648305436899_Audio.mp3"
+    },
+    {
+      "id": 86,
+      "question": "There is some b_ _ _ d.",
+      "options": [],
+      "answer": "rea",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “rea”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642992926841_Audio.mp3"
+    },
+    {
+      "id": 87,
+      "question": "Every apartment has a _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "balcony",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “balcony”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/3/23.mp3"
+    },
+    {
+      "id": 88,
+      "question": "They will go to the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "cinema",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “cinema”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648181686932_Audio.mp3"
+    },
+    {
+      "id": 89,
+      "question": "Books are _ _ _ _ _ _ good presents.",
+      "options": [],
+      "answer": "always",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “always”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864380946953891_Audio.mp3"
+    },
+    {
+      "id": 90,
+      "question": "Add some _ _ _ _ _ to the coffee.",
+      "options": [],
+      "answer": "sugar",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sugar”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209996247191765_Audio.mp3"
+    },
+    {
+      "id": 91,
+      "question": "Lynda comes from _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sydney",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sydney”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206400471932574_Audio.mp3"
+    },
+    {
+      "id": 92,
+      "question": "Andy is playing _ _ _ _ ball.",
+      "options": [],
+      "answer": "foot",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “foot”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642848707465_Audio.mp3"
+    },
+    {
+      "id": 93,
+      "question": "Brian can play the _ _ _ tar.",
+      "options": [],
+      "answer": "gui",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “gui”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648754501722_Audio.mp3"
+    },
+    {
+      "id": 94,
+      "question": "When do you have _ _ _ lessons?",
+      "options": [],
+      "answer": "art",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “art”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649690127259_Audio.mp3"
+    },
+    {
+      "id": 95,
+      "question": "Put the car on the cup_ _ _ _ _ .",
+      "options": [],
+      "answer": "board",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “board”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240643224645785_Audio.mp3"
+    },
+    {
+      "id": 96,
+      "question": "What’s his _ _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "nationality",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “nationality”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206399676331460_Audio.mp3"
+    },
+    {
+      "id": 97,
+      "question": "It’s very _ _ _ _ _ .",
+      "options": [],
+      "answer": "foggy",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “foggy”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303882705144272_Audio.mp3"
+    },
+    {
+      "id": 98,
+      "question": "William has got one _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sister",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sister”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642597457178_Audio.mp3"
+    },
+    {
+      "id": 99,
+      "question": "They will go _ _ _ _ _ ing now.",
+      "options": [],
+      "answer": "swimm",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “swimm”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648441687355_Audio.mp3"
+    },
+    {
+      "id": 100,
+      "question": "The sh_ _ _ are on the floor.",
+      "options": [],
+      "answer": "oes",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “oes”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649142001352_Audio.mp3"
+    },
+    {
+      "id": 101,
+      "question": "Helen’s making a _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "snowman",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “snowman”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/18.mp3"
+    },
+    {
+      "id": 102,
+      "question": "It’s _ _ _ _ _ _ _ _ _ to remember.",
+      "options": [],
+      "answer": "difficult",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “difficult”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303883451137582_Audio.mp3"
+    },
+    {
+      "id": 103,
+      "question": "When do you do your _ _ _ _ work?",
+      "options": [],
+      "answer": "home",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “home”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649452785437_Audio.mp3"
+    },
+    {
+      "id": 104,
+      "question": "Her _ _ _ _ _ is sewing.",
+      "options": [],
+      "answer": "hobby",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “hobby”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209944641209124_Audio.mp3"
+    },
+    {
+      "id": 105,
+      "question": "Where do you _ _ _ _ ?",
+      "options": [],
+      "answer": "live",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “live”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240645357931254_Audio.mp3"
+    },
+    {
+      "id": 106,
+      "question": "His weekend was _ _ _ _ .",
+      "options": [],
+      "answer": "good",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “good”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642043706090_Audio.mp3"
+    },
+    {
+      "id": 107,
+      "question": "They are in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "garden",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “garden”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206316349417325_Audio.mp3"
+    },
+    {
+      "id": 108,
+      "question": "The _ _ _ _ _ will go onto the chair.",
+      "options": [],
+      "answer": "phone",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “phone”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240643428240156_Audio.mp3"
+    },
+    {
+      "id": 109,
+      "question": "The bag will go _ _ the cupboard.",
+      "options": [],
+      "answer": "in",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “in”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648924657184_Audio.mp3"
+    },
+    {
+      "id": 110,
+      "question": "It’s difficult to _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "remember",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “remember”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864380657107880_Audio.mp3"
+    },
+    {
+      "id": 111,
+      "question": "Put the computer on the t_ _ _ _ .",
+      "options": [],
+      "answer": "able",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “able”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240643340272892_Audio.mp3"
+    },
+    {
+      "id": 112,
+      "question": "What time does school _ _ _ _ _ ?",
+      "options": [],
+      "answer": "start",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “start”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240645258243607_Audio.mp3"
+    },
+    {
+      "id": 113,
+      "question": "The lamp is _ _ the desk.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “on”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649233720110_Audio.mp3"
+    },
+    {
+      "id": 114,
+      "question": "She climbed a _ _ _ _ yesterday.",
+      "options": [],
+      "answer": "tree",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “tree”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642301206743_Audio.mp3"
+    },
+    {
+      "id": 115,
+      "question": "His book is under the _ _ _ .",
+      "options": [],
+      "answer": "bag",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “bag”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240647702154663_Audio.mp3"
+    },
+    {
+      "id": 116,
+      "question": "It’s a pretty great place to _ _ _ _ .",
+      "options": [],
+      "answer": "live",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “live”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920011761282953_Audio.mp3"
+    },
+    {
+      "id": 117,
+      "question": "Melbourne is a _ _ _ _ _ city.",
+      "options": [],
+      "answer": "great",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “great”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920011970949412_Audio.mp3"
+    },
+    {
+      "id": 118,
+      "question": "The balloon was _ _ _ _ in the skype.",
+      "options": [],
+      "answer": "high",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “high”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649023407106_Audio.mp3"
+    },
+    {
+      "id": 119,
+      "question": "When won’t she phone her?",
+      "options": [
+        "A. on weekends",
+        "B. on weekdays",
+        "C. on Wednesday",
+        "D. on Monday"
+      ],
+      "answer": "B. on weekdays",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. on weekdays”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612508036199228_Audio.mp3"
+    },
+    {
+      "id": 120,
+      "question": "He got up very early and ran downstairs to the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "kitchen",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “kitchen”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864381162040928_Audio.mp3"
+    },
+    {
+      "id": 121,
+      "question": "When was her cousin born?",
+      "options": [
+        "A. two months ago",
+        "B. two years ago",
+        "C. two days ago",
+        "D. two weeks ago"
+      ],
+      "answer": "D. two weeks ago",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. two weeks ago”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920009305191753_Audio.mp3"
+    },
+    {
+      "id": 122,
+      "question": "There’s a _ _ _ _ _ _ _ at the theatre on Sunday.",
+      "options": [],
+      "answer": "concert",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “concert”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864385929081563_Audio.mp3"
+    },
+    {
+      "id": 123,
+      "question": "Plants live in soil and they find _ _ _ _ _ there.",
+      "options": [],
+      "answer": "water",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “water”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864902626592940_Audio.mp3"
+    },
+    {
+      "id": 124,
+      "question": "In the story, there was a princess living in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "jungle",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “jungle”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864381057509638_Audio.mp3"
+    },
+    {
+      "id": 125,
+      "question": "There is a scarf with red and blue _ _ _ _ _ _ _ on the snowman.",
+      "options": [],
+      "answer": "stripes",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “stripes”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864380252107113_Audio.mp3"
+    },
+    {
+      "id": 126,
+      "question": "The earthquake happened about … years ago on Santorini.",
+      "options": [
+        "A. 200",
+        "B. 2000",
+        "C. 3000",
+        "D. 4000"
+      ],
+      "answer": "B. 2000",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. 2000”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920007777310650_Audio.mp3"
+    },
+    {
+      "id": 127,
+      "question": "What company does Steve work for?",
+      "options": [
+        "A. publishing",
+        "B. public",
+        "C. pub",
+        "D. publish"
+      ],
+      "answer": "A. publishing",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. publishing”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920005660679231_Audio.mp3"
+    },
+    {
+      "id": 128,
+      "question": "It was very long and thin and it looks like a _ _ _ _ _ .",
+      "options": [],
+      "answer": "snake",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “snake”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303882975492747_Audio.mp3"
+    },
+    {
+      "id": 129,
+      "question": "What does he play?",
+      "options": [
+        "A. baseball",
+        "B. tennis",
+        "C. soccer",
+        "D. basketball"
+      ],
+      "answer": "C. soccer",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. soccer”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612507774430768_Audio.mp3"
+    },
+    {
+      "id": 130,
+      "question": "We will go to the ... next weekend.",
+      "options": [
+        "A. garden",
+        "B. mountain",
+        "C. kitchen",
+        "D. beach"
+      ],
+      "answer": "B. mountain",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. mountain”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206395308644010_Audio.mp3"
+    },
+    {
+      "id": 131,
+      "question": "What is the _ _ _ _ _ of a box of chocolates?",
+      "options": [],
+      "answer": "price",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “price”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306499893725994_Audio.mp3"
+    },
+    {
+      "id": 132,
+      "question": "Where did you spend your _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "summer",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “summer”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205607815204851_Audio.mp3"
+    },
+    {
+      "id": 133,
+      "question": "She reads in the _ _ _ _ _ _ _ from 7 o’clock to 9.30.",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “library”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884671371725_Audio.mp3"
+    },
+    {
+      "id": 134,
+      "question": "Yesterday she ….",
+      "options": [
+        "A. listened to the radio",
+        "B. watched TV",
+        "C. had a shower",
+        "D. went to school late"
+      ],
+      "answer": "B. watched TV",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. watched TV”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240641606361520_Audio.mp3"
+    },
+    {
+      "id": 135,
+      "question": "There is a … on the wall.",
+      "options": [
+        "A. poster",
+        "B. clock",
+        "C. picture",
+        "D. knot"
+      ],
+      "answer": "B. clock",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. clock”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240641123079298_Audio.mp3"
+    },
+    {
+      "id": 136,
+      "question": "David doesn’t like his math _ _ _ _ _ _ _ very much.",
+      "options": [],
+      "answer": "lessons",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “lessons”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612563218202151_Audio.mp3"
+    },
+    {
+      "id": 137,
+      "question": "How many cats are there in his house?",
+      "options": [
+        "A. one",
+        "B. two",
+        "C. three",
+        "D. four"
+      ],
+      "answer": "A. one",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. one”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303875350199354_Audio.mp3"
+    },
+    {
+      "id": 138,
+      "question": "Edward can take _ _ _ _ _ _ _ _ _ photos.",
+      "options": [],
+      "answer": "excellent",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “excellent”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303883889498352_Audio.mp3"
+    },
+    {
+      "id": 139,
+      "question": "Jim’s father operates _ _ _ _ _ _ _ _ in a factory.",
+      "options": [],
+      "answer": "machines",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “machines”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864380831795658_Audio.mp3"
+    },
+    {
+      "id": 140,
+      "question": "What does Ha’s house look like?",
+      "options": [
+        "A. in the city",
+        "B. big",
+        "C. small",
+        "D. in the country"
+      ],
+      "answer": "C. small",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. small”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303875656271891_Audio.mp3"
+    },
+    {
+      "id": 141,
+      "question": "How are the mountains?",
+      "options": [
+        "A. safe",
+        "B. dangerous",
+        "C. high",
+        "D. beautiful"
+      ],
+      "answer": "B. dangerous",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. dangerous”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303878333860594_Audio.mp3"
+    },
+    {
+      "id": 142,
+      "question": "After that, you can _ _ _ _ _ _ _ _ the famous old town of Inca in Peru.",
+      "options": [],
+      "answer": "discover",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “discover”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/13.mp3"
+    },
+    {
+      "id": 143,
+      "question": "Joe’s birthday is on the _ _ _ _ _ of August.",
+      "options": [],
+      "answer": "ninth",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “ninth”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240643120583148_Audio.mp3"
+    },
+    {
+      "id": 144,
+      "question": "They will make a cake because she is _ _ _ _ ry.",
+      "options": [],
+      "answer": "hung",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “hung”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648616375097_Audio.mp3"
+    },
+    {
+      "id": 145,
+      "question": "How do Mrs. Oanh and her family _ _ _ _ _ _ to Ho Chi Minh City?",
+      "options": [],
+      "answer": "travel",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “travel”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306499232908834_Audio.mp3"
+    },
+    {
+      "id": 146,
+      "question": "Where does her brother work? – In a factory near the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "airport",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “airport”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/3/21.mp3"
+    },
+    {
+      "id": 147,
+      "question": "Where did he play football?",
+      "options": [
+        "A. In the playground.",
+        "B. In the park.",
+        "C. In the schoolyard.",
+        "D. In the classroom."
+      ],
+      "answer": "B. In the park",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. In the park”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240653210915341_Audio.mp3"
+    },
+    {
+      "id": 148,
+      "question": "On _ _ _ _ _ _ _ I usually take my books back to the library.",
+      "options": [],
+      "answer": "Tuesday",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “Tuesday”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864903426282067_Audio.mp3"
+    },
+    {
+      "id": 149,
+      "question": "We are _ _ _ _ _ _ _ _ _ too much trash.",
+      "options": [],
+      "answer": "producing",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “producing”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884216006926_Audio.mp3"
+    },
+    {
+      "id": 150,
+      "question": "What’s her address? – It’s 17 _ _ _ _ _ _ _ Street.",
+      "options": [],
+      "answer": "randall",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “randall”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/20.mp3"
+    },
+    {
+      "id": 151,
+      "question": "She thinks that mobile phones for _ _ _ _ _ _ reason.",
+      "options": [],
+      "answer": "safety",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “safety”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920009976623553_Audio.mp3"
+    },
+    {
+      "id": 152,
+      "question": "There are four _ _ _ _ _ _ _ in the room.",
+      "options": [],
+      "answer": "benches",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “benches”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884366703190_Audio.mp3"
+    },
+    {
+      "id": 153,
+      "question": "How many bathrooms are there in Jane’s house in Japan?",
+      "options": [
+        "A. One",
+        "B. Two",
+        "C. Three",
+        "D. Four"
+      ],
+      "answer": "A. One",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. One”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920007417570885_Audio.mp3"
+    },
+    {
+      "id": 154,
+      "question": "Well, books are always good _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "presents",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “presents”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303882551172001_Audio.mp3"
+    },
+    {
+      "id": 155,
+      "question": "What is the population of Tokyo?",
+      "options": [
+        "A. 2 million",
+        "B. 10 million",
+        "C. 12 million",
+        "D. 20 million"
+      ],
+      "answer": "C. 12 million",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. 12 million”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303881686150482_Audio.mp3"
+    },
+    {
+      "id": 156,
+      "question": "You can learn how to make a house for your _ _ _ in “Home and Garden” at 8:25.",
+      "options": [],
+      "answer": "dog",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “dog”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/14.mp3"
+    },
+    {
+      "id": 157,
+      "question": "We’ll have rice and _ _ _ _ _ _ _ in a restaurant.",
+      "options": [],
+      "answer": "seafood",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “seafood”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206400593032743_Audio.mp3"
+    },
+    {
+      "id": 158,
+      "question": "What has he got? - ….",
+      "options": [
+        "A. A coat",
+        "B. A raincoat",
+        "C. A jacket",
+        "D. A sweater"
+      ],
+      "answer": "C. A jacket",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. A jacket”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240656601390647_Audio.mp3"
+    },
+    {
+      "id": 159,
+      "question": "Helen’s birthday is on the twenty _ _ _ _ _ _ of October.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “second”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642470426189_Audio.mp3"
+    },
+    {
+      "id": 160,
+      "question": "The cat is under the ….",
+      "options": [
+        "A. box",
+        "B. bed",
+        "C. shelf",
+        "D. clothes"
+      ],
+      "answer": "B. bed",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. bed”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240640940735061_Audio.mp3"
+    },
+    {
+      "id": 161,
+      "question": "What is the price of a box of _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "chocolates",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “chocolates”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864379799606356_Audio.mp3"
+    },
+    {
+      "id": 162,
+      "question": "Well, congratulations on your new _ _ _ _ _ .",
+      "options": [],
+      "answer": "house",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “house”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920012668432975_Audio.mp3"
+    },
+    {
+      "id": 163,
+      "question": "What does Akane do?",
+      "options": [
+        "A. doctor",
+        "B. teacher",
+        "C. worker",
+        "D. nurse"
+      ],
+      "answer": "B. teacher",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. teacher”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920006270802617_Audio.mp3"
+    },
+    {
+      "id": 164,
+      "question": "She lives on the _ _ _ _ _ _ floor of Ha Noi Tower.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “second”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205609660532092_Audio.mp3"
+    },
+    {
+      "id": 165,
+      "question": "Most rivers come from _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "mountains",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “mountains”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864902755186903_Audio.mp3"
+    },
+    {
+      "id": 166,
+      "question": "Where is Peter’s classroom?",
+      "options": [
+        "A. on the twentieth floor",
+        "B. on the fifth floor",
+        "C. on the desk",
+        "D. on the sixth floor"
+      ],
+      "answer": "B. on the fifth floor",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. on the fifth floor”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303876091824656_Audio.mp3"
+    },
+    {
+      "id": 167,
+      "question": "In _ _ _ weather, the ocean can be rough.",
+      "options": [],
+      "answer": "bad",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “bad”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864903025499956_Audio.mp3"
+    },
+    {
+      "id": 168,
+      "question": "On the land, there are _ _ _ _ _ _ _ , mountains, and deserts.",
+      "options": [],
+      "answer": "forests",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “forests”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864903153000244_Audio.mp3"
+    },
+    {
+      "id": 169,
+      "question": "Shirley is from … .",
+      "options": [
+        "A. America",
+        "B. Australia",
+        "C. Austria",
+        "D. Romania"
+      ],
+      "answer": "B. Australia",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. Australia”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920004644016519_Audio.mp3"
+    },
+    {
+      "id": 170,
+      "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “library”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206400874433137_Audio.mp3"
+    },
+    {
+      "id": 171,
+      "question": "'Todd: What actors or actresses do you like? - Kate: My _ _ _ _ _ _ _ _ _ actor would be Brad Pitt.'",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “favourite”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920010569897591_Audio.mp3"
+    },
+    {
+      "id": 172,
+      "question": "I would like to _ _ _ _ _ _ to different places.",
+      "options": [],
+      "answer": "travel",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “travel”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920012556268657_Audio.mp3"
+    },
+    {
+      "id": 173,
+      "question": "What does her father go to work by?",
+      "options": [
+        "A. bus",
+        "B. motorbike",
+        "C. car",
+        "D. train"
+      ],
+      "answer": "A. bus",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. bus”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303877499727129_Audio.mp3"
+    },
+    {
+      "id": 174,
+      "question": "What does Ken bring his camera for?",
+      "options": [
+        "A. to take some photos",
+        "B. to sell",
+        "C. to throw it away",
+        "D. to record a movie"
+      ],
+      "answer": "A. to take some photos",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. to take some photos”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303880874013056_Audio.mp3"
+    },
+    {
+      "id": 175,
+      "question": "Nam _ _ _ _ _ _ _ goes swimming in the afternoon.",
+      "options": [],
+      "answer": "usually",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “usually”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205608373685831_Audio.mp3"
+    },
+    {
+      "id": 176,
+      "question": "How old is his mother?",
+      "options": [
+        "A. 84",
+        "B. 48",
+        "C. 18",
+        "D. 40"
+      ],
+      "answer": "B. 48",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. 48”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303874830874442_Audio.mp3"
+    },
+    {
+      "id": 177,
+      "question": "What is the height of Petronas Twin Towers?",
+      "options": [
+        "A. 245 meters",
+        "B. 425 meters",
+        "C. 452 meters",
+        "D. 524 meters"
+      ],
+      "answer": "C. 452 meters",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. 452 meters”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303880336904112_Audio.mp3"
+    },
+    {
+      "id": 178,
+      "question": "We live in an _ _ _ _ _ _ _ _ _ in the city.",
+      "options": [],
+      "answer": "apartment",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “apartment”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884799291950_Audio.mp3"
+    },
+    {
+      "id": 179,
+      "question": "What did she keep fresh water for?",
+      "options": [
+        "A. eating",
+        "B. boiling",
+        "C. drinking",
+        "D. washing"
+      ],
+      "answer": "C. drinking",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. drinking”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920009005824519_Audio.mp3"
+    },
+    {
+      "id": 180,
+      "question": "They had good ... and drinks.",
+      "options": [
+        "A. fruit",
+        "B. food",
+        "C. juice",
+        "D. book"
+      ],
+      "answer": "B. food",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. food”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206394243942140_Audio.mp3"
+    },
+    {
+      "id": 181,
+      "question": "The boy with _ _ _ _ _ hair has taken a photo.",
+      "options": [],
+      "answer": "curly",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “curly”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864380545701430_Audio.mp3"
+    },
+    {
+      "id": 182,
+      "question": "What does Josh like to play?",
+      "options": [
+        "A. guitar",
+        "B. piano",
+        "C. violin",
+        "D. drum"
+      ],
+      "answer": "A. guitar",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. guitar”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920004284431998_Audio.mp3"
+    },
+    {
+      "id": 183,
+      "question": "Where do they play soccer?",
+      "options": [
+        "A. stadium",
+        "B. schoolyard",
+        "C. field",
+        "D. garden"
+      ],
+      "answer": "B. schoolyard",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. schoolyard”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303877761027588_Audio.mp3"
+    },
+    {
+      "id": 184,
+      "question": "Ia is a small … .",
+      "options": [
+        "A. city",
+        "B. town",
+        "C. island",
+        "D. countryside"
+      ],
+      "answer": "B. town",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. town”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920005228086429_Audio.mp3"
+    },
+    {
+      "id": 185,
+      "question": "Who does Susan get on well with in her family?",
+      "options": [
+        "A. father",
+        "B. brother",
+        "C. mother",
+        "D. sister"
+      ],
+      "answer": "C. mother",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. mother”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920014333908360_Audio.mp3"
+    },
+    {
+      "id": 186,
+      "question": "Nick, have you ever taken part in a sports _ _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "competition",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “competition”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/11.mp3"
+    },
+    {
+      "id": 187,
+      "question": "Listen and choose the fruit which is NOT in the recording.",
+      "options": [
+        "A. oranges",
+        "B. bananas",
+        "C. grapes",
+        "D. apples"
+      ],
+      "answer": "D. apples",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. apples”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240656400765312_Audio.mp3"
+    },
+    {
+      "id": 188,
+      "question": "I _ _ _ _ _ of being an astronaut some day.",
+      "options": [],
+      "answer": "dream",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “dream”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206401305633741_Audio.mp3"
+    },
+    {
+      "id": 189,
+      "question": "My dream house is _ _ _ _ _ _ _ _ _ _ different.",
+      "options": [],
+      "answer": "completely",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “completely”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/17.mp3"
+    },
+    {
+      "id": 190,
+      "question": "Both Mike and his father were very _ _ _ _ _ _ _ when they read about the coming events.",
+      "options": [],
+      "answer": "excited",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “excited”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612563380442436_Audio.mp3"
+    },
+    {
+      "id": 191,
+      "question": "There is some iced coffee but there are not any _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "apples",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “apples”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306499761281762_Audio.mp3"
+    },
+    {
+      "id": 192,
+      "question": "Niagara Falls are amazing waterfalls in _ _ _ _ _ _ and the USA.",
+      "options": [],
+      "answer": "Canada",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “Canada”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864902884562259_Audio.mp3"
+    },
+    {
+      "id": 193,
+      "question": "What has his Uncle got?",
+      "options": [
+        "A. A new car.",
+        "B. A nice hat.",
+        "C. Funny socks.",
+        "D. A long hair."
+      ],
+      "answer": "A. A new car",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. A new car”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240639148387974_Audio.mp3"
+    },
+    {
+      "id": 194,
+      "question": "What’s Ron’s favourite ice-cream flavor?",
+      "options": [
+        "A. orange",
+        "B. apple",
+        "C. strawberry",
+        "D. chocolate"
+      ],
+      "answer": "C. strawberry",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. strawberry”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920004897675031_Audio.mp3"
+    },
+    {
+      "id": 195,
+      "question": "When did Eucharia move to her new house?",
+      "options": [
+        "A. Last week",
+        "B. Last month",
+        "C. Yesterday",
+        "D. Last year"
+      ],
+      "answer": "A. Last week",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. Last week”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920007128189953_Audio.mp3"
+    },
+    {
+      "id": 196,
+      "question": "Paul went on a beautiful boat trip on a big river, and he sent a _ _ _ _ _ _ _ _ of that.",
+      "options": [],
+      "answer": "postcard",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “postcard”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303883317913348_Audio.mp3"
+    },
+    {
+      "id": 197,
+      "question": "Where is the bowl of noodles?",
+      "options": [
+        "A. next to the shelf",
+        "B. under the shelf",
+        "C. in the shelf",
+        "D. on the shelf"
+      ],
+      "answer": "D. on the shelf",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. on the shelf”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306497708630156_Audio.mp3"
+    },
+    {
+      "id": 198,
+      "question": "Sam and his uncle were in the jungle for six _ _ _ _ .",
+      "options": [],
+      "answer": "days",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “days”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642148237536_Audio.mp3"
+    },
+    {
+      "id": 199,
+      "question": "We’ll play volleyball on the _ _ _ _ _ .",
+      "options": [],
+      "answer": "beach",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “beach”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205609512331831_Audio.mp3"
+    },
+    {
+      "id": 200,
+      "question": "What is in danger of extinction?",
+      "options": [
+        "A. this kind of leopard",
+        "B. this kind of lion",
+        "C. teacher",
+        "D. this kind of tiger"
+      ],
+      "answer": "D. this kind of tiger",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. this kind of tiger”.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303879689814976_Audio.mp3"
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
