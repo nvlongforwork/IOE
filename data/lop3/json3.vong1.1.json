@@ -1,0 +1,1818 @@
+{
+  "title": "IOE Lớp 3 - Chuyên đề 1 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "See you la_ er",
+      "options": [],
+      "answer": "t",
+      "explanation": "Điền “t” vào phần còn thiếu để ghép thành từ “later”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “See you later”."
+    },
+    {
+      "id": 2,
+      "question": "I want to st_ y at home",
+      "options": [],
+      "answer": "a",
+      "explanation": "Điền “a” vào phần còn thiếu để ghép thành từ “stay”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “I want to stay at home”."
+    },
+    {
+      "id": 3,
+      "question": "Thank you very m_ _ h",
+      "options": [],
+      "answer": "uc",
+      "explanation": "Điền “uc” vào phần còn thiếu để ghép thành từ “much”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Thank you very much”."
+    },
+    {
+      "id": 4,
+      "question": "This is m_ cat",
+      "options": [],
+      "answer": "y",
+      "explanation": "Điền “y” vào phần còn thiếu để ghép thành từ “my”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “This is my cat”."
+    },
+    {
+      "id": 5,
+      "question": "_ _ this a ruler? – Yes, it is",
+      "options": [],
+      "answer": "Is",
+      "explanation": "Điền “Is” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Is this a ruler? – Yes, it is”."
+    },
+    {
+      "id": 6,
+      "question": "Wh_ is that? – It’s Mary",
+      "options": [],
+      "answer": "o",
+      "explanation": "Điền “o” vào phần còn thiếu để ghép thành từ “Who”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Who is that? – It’s Mary”."
+    },
+    {
+      "id": 7,
+      "question": "G_ _ e me the book, please",
+      "options": [],
+      "answer": "iv",
+      "explanation": "Điền “iv” vào phần còn thiếu để ghép thành từ “Give”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Give me the book, please”."
+    },
+    {
+      "id": 8,
+      "question": "This is _ green doll",
+      "options": [],
+      "answer": "a",
+      "explanation": "Điền “a” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “This is a green doll”."
+    },
+    {
+      "id": 9,
+      "question": "C_ _ e over here",
+      "options": [],
+      "answer": "om",
+      "explanation": "Điền “om” vào phần còn thiếu để ghép thành từ “Come”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Come over here”."
+    },
+    {
+      "id": 10,
+      "question": "It is _ _ ice-cream",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “It is an ice-cream”."
+    },
+    {
+      "id": 11,
+      "question": "L_ _ k at the board, please",
+      "options": [],
+      "answer": "oo",
+      "explanation": "Điền “oo” vào phần còn thiếu để ghép thành từ “Look”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Look at the board, please”."
+    },
+    {
+      "id": 12,
+      "question": "I have _ _ apple",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “I have an apple”."
+    },
+    {
+      "id": 13,
+      "question": "I_ is a crayon",
+      "options": [],
+      "answer": "t",
+      "explanation": "Điền “t” vào phần còn thiếu để ghép thành từ “It”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “It is a crayon”."
+    },
+    {
+      "id": 14,
+      "question": "Se_ you again",
+      "options": [],
+      "answer": "e",
+      "explanation": "Điền “e” vào phần còn thiếu để ghép thành từ “See”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “See you again”."
+    },
+    {
+      "id": 15,
+      "question": "To_ _ h your desk, please",
+      "options": [],
+      "answer": "uc",
+      "explanation": "Điền “uc” vào phần còn thiếu để ghép thành từ “Touch”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Touch your desk, please”."
+    },
+    {
+      "id": 16,
+      "question": "This is my classr_ _ m",
+      "options": [],
+      "answer": "oo",
+      "explanation": "Điền “oo” vào phần còn thiếu để ghép thành từ “classroom”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “This is my classroom”."
+    },
+    {
+      "id": 17,
+      "question": "Is that your pencil? – No, it is _ _ _",
+      "options": [],
+      "answer": "not",
+      "explanation": "Điền “not” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Is that your pencil? – No, it is not”."
+    },
+    {
+      "id": 18,
+      "question": "My school isn't new. It's _ ld",
+      "options": [],
+      "answer": "o",
+      "explanation": "Điền “o” vào phần còn thiếu để ghép thành từ “old”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “My school isn't new. It's old”."
+    },
+    {
+      "id": 19,
+      "question": "That is my fr_ _ nd",
+      "options": [],
+      "answer": "ie",
+      "explanation": "Điền “ie” vào phần còn thiếu để ghép thành từ “friend”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “That is my friend”."
+    },
+    {
+      "id": 20,
+      "question": "Please, be q_ _ et",
+      "options": [],
+      "answer": "ui",
+      "explanation": "Điền “ui” vào phần còn thiếu để ghép thành từ “quiet”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Please, be quiet”."
+    },
+    {
+      "id": 21,
+      "question": "TEACH_ R",
+      "options": [],
+      "answer": "E",
+      "explanation": "Điền “E” vào phần còn thiếu để ghép thành từ “TEACHER”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “TEACHER”."
+    },
+    {
+      "id": 22,
+      "question": "She is my tea_ _ er",
+      "options": [],
+      "answer": "ch",
+      "explanation": "Điền “ch” vào phần còn thiếu để ghép thành từ “teacher”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “She is my teacher”."
+    },
+    {
+      "id": 23,
+      "question": "There _ _ a pen in my school bag",
+      "options": [],
+      "answer": "is",
+      "explanation": "Điền “is” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “There is a pen in my school bag”."
+    },
+    {
+      "id": 24,
+      "question": "My pen is o_ the desk",
+      "options": [],
+      "answer": "n",
+      "explanation": "Điền “n” vào phần còn thiếu để ghép thành từ “on”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “My pen is on the desk”."
+    },
+    {
+      "id": 25,
+      "question": "This is the way we go _ _ school",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền “to” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “This is the way we go to school”."
+    },
+    {
+      "id": 26,
+      "question": "Put your book a_ _ y please",
+      "options": [],
+      "answer": "wa",
+      "explanation": "Điền “wa” vào phần còn thiếu để ghép thành từ “away”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Put your book away please”."
+    },
+    {
+      "id": 27,
+      "question": "Gi_ e me the book, please",
+      "options": [],
+      "answer": "v",
+      "explanation": "Điền “v” vào phần còn thiếu để ghép thành từ “Give”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Give me the book, please”."
+    },
+    {
+      "id": 28,
+      "question": "Who is she? – S_ e is Mary",
+      "options": [],
+      "answer": "h",
+      "explanation": "Điền “h” vào phần còn thiếu để ghép thành từ “She”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Who is she? – She is Mary”."
+    },
+    {
+      "id": 29,
+      "question": "A: Is that _ _ y your friend? - B: No, he isn’t",
+      "options": [],
+      "answer": "bo",
+      "explanation": "Điền “bo” vào phần còn thiếu để ghép thành từ “boy”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A: Is that boy your friend? - B: No, he isn’t”."
+    },
+    {
+      "id": 30,
+      "question": "Tom is my friend, t_ _",
+      "options": [],
+      "answer": "oo",
+      "explanation": "Điền “oo” vào phần còn thiếu để ghép thành từ “too”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Tom is my friend, too”."
+    },
+    {
+      "id": 31,
+      "question": "May I come _ n? – Yes, please",
+      "options": [],
+      "answer": "i",
+      "explanation": "Điền “i” vào phần còn thiếu để ghép thành từ “in”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “May I come in? – Yes, please”."
+    },
+    {
+      "id": 32,
+      "question": "This is my sister. _ _ _ name is Alice",
+      "options": [],
+      "answer": "her",
+      "explanation": "Điền “her” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “This is my sister. her name is Alice”."
+    },
+    {
+      "id": 33,
+      "question": "A parrot can f_ _",
+      "options": [],
+      "answer": "ly",
+      "explanation": "Điền “ly” vào phần còn thiếu để ghép thành từ “fly”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A parrot can fly”."
+    },
+    {
+      "id": 34,
+      "question": "No, it is n_ _",
+      "options": [],
+      "answer": "ot",
+      "explanation": "Điền “ot” vào phần còn thiếu để ghép thành từ “not”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “No, it is not”."
+    },
+    {
+      "id": 35,
+      "question": "How are y_ _ ?",
+      "options": [],
+      "answer": "ou",
+      "explanation": "Điền “ou” vào phần còn thiếu để ghép thành từ “you”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “How are you?”."
+    },
+    {
+      "id": 36,
+      "question": "Let’s make a ci_ cle",
+      "options": [],
+      "answer": "r",
+      "explanation": "Điền “r” vào phần còn thiếu để ghép thành từ “circle”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Let’s make a circle”."
+    },
+    {
+      "id": 37,
+      "question": "Is this a book? - _ _ , it isn’t",
+      "options": [],
+      "answer": "no",
+      "explanation": "Điền “no” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Is this a book? - no, it isn’t”."
+    },
+    {
+      "id": 38,
+      "question": "Be qu_ et, please",
+      "options": [],
+      "answer": "i",
+      "explanation": "Điền “i” vào phần còn thiếu để ghép thành từ “quiet”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Be quiet, please”."
+    },
+    {
+      "id": 39,
+      "question": "How _ _ _ you?",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền “are” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “How are you?”."
+    },
+    {
+      "id": 40,
+      "question": "She is _ _ new friend",
+      "options": [],
+      "answer": "my",
+      "explanation": "Điền “my” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “She is my new friend”."
+    },
+    {
+      "id": 41,
+      "question": "Put your book a_ _ y",
+      "options": [],
+      "answer": "wa",
+      "explanation": "Điền “wa” vào phần còn thiếu để ghép thành từ “away”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Put your book away”."
+    },
+    {
+      "id": 42,
+      "question": "Look _ _ that map on the wall, please",
+      "options": [],
+      "answer": "at",
+      "explanation": "Điền “at” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Look at that map on the wall, please”."
+    },
+    {
+      "id": 43,
+      "question": "What is your f_ _ _ _ _ _ _ e food?",
+      "options": [],
+      "answer": "avourit",
+      "explanation": "Điền “avourit” vào phần còn thiếu để ghép thành từ “favourite”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What is your favourite food?”."
+    },
+    {
+      "id": 44,
+      "question": "Be q_ _ et, please",
+      "options": [],
+      "answer": "ui",
+      "explanation": "Điền “ui” vào phần còn thiếu để ghép thành từ “quiet”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Be quiet, please”."
+    },
+    {
+      "id": 45,
+      "question": "Co_ plete the sentences",
+      "options": [],
+      "answer": "m",
+      "explanation": "Điền “m” vào phần còn thiếu để ghép thành từ “Complete”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Complete the sentences”."
+    },
+    {
+      "id": 46,
+      "question": "_ _ es she like table tennis?",
+      "options": [],
+      "answer": "do",
+      "explanation": "Điền “do” vào phần còn thiếu để ghép thành từ “does”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Does she like table tennis?”."
+    },
+    {
+      "id": 47,
+      "question": "Good mo_ _ ing, children!",
+      "options": [],
+      "answer": "rn",
+      "explanation": "Điền “rn” vào phần còn thiếu để ghép thành từ “morning”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Good morning, children!”."
+    },
+    {
+      "id": 48,
+      "question": "This gift is for you. - Thank you very _ _ _ _",
+      "options": [],
+      "answer": "much",
+      "explanation": "Điền “much” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “This gift is for you. - Thank you very much”."
+    },
+    {
+      "id": 49,
+      "question": "Nice to me_ t you",
+      "options": [],
+      "answer": "e",
+      "explanation": "Điền “e” vào phần còn thiếu để ghép thành từ “meet”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Nice to meet you”."
+    },
+    {
+      "id": 50,
+      "question": "That’_ his brother",
+      "options": [],
+      "answer": "s",
+      "explanation": "Điền “s” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “That’s his brother”."
+    },
+    {
+      "id": 51,
+      "question": "What’s y_ ur name?",
+      "options": [],
+      "answer": "o",
+      "explanation": "Điền “o” vào phần còn thiếu để ghép thành từ “your”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What’s your name?”."
+    },
+    {
+      "id": 52,
+      "question": "I draw a pictu_ _ in the room",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào phần còn thiếu để ghép thành từ “picture”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “I draw a picture in the room”."
+    },
+    {
+      "id": 53,
+      "question": "_ _ at is your name? - My name is Hung",
+      "options": [],
+      "answer": "Wh",
+      "explanation": "Điền “Wh” vào phần còn thiếu để ghép thành từ “What”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What is your name? - My name is Hung”."
+    },
+    {
+      "id": 54,
+      "question": "How _ _ _ are you? – I’m seven years old",
+      "options": [],
+      "answer": "old",
+      "explanation": "Điền “old” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “How old are you? – I’m seven years old”."
+    },
+    {
+      "id": 55,
+      "question": "A: _ _ _ _ ’s it? - B: It’s my notebook",
+      "options": [],
+      "answer": "What",
+      "explanation": "Điền “What” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “A: What’s it? - B: It’s my notebook”."
+    },
+    {
+      "id": 56,
+      "question": "Point _ _ the teacher",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền “to” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Point to the teacher”."
+    },
+    {
+      "id": 57,
+      "question": "Is it _ ruler? – No, it isn’t",
+      "options": [],
+      "answer": "a",
+      "explanation": "Điền “a” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Is it a ruler? – No, it isn’t”."
+    },
+    {
+      "id": 58,
+      "question": "W_ _ t is this? – This is a marker",
+      "options": [],
+      "answer": "ha",
+      "explanation": "Điền “ha” vào phần còn thiếu để ghép thành từ “What”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What is this? – This is a marker”."
+    },
+    {
+      "id": 59,
+      "question": "That’s my fathe_",
+      "options": [],
+      "answer": "r",
+      "explanation": "Điền “r” vào phần còn thiếu để ghép thành từ “father”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “That’s my father”."
+    },
+    {
+      "id": 60,
+      "question": "Unscramble this word: ’’YBEDOGO’’ -> ’’GOOD_ _ _ ’’",
+      "options": [],
+      "answer": "BYE",
+      "explanation": "Điền “BYE” vào phần còn thiếu để ghép thành từ “GOODBYE”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Unscramble this word: ’’YBEDOGO’’ -> ’’GOODBYE’’”."
+    },
+    {
+      "id": 61,
+      "question": "My school _ _ new",
+      "options": [],
+      "answer": "is",
+      "explanation": "Điền “is” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “My school is new”."
+    },
+    {
+      "id": 62,
+      "question": "Is this _ _ eraser?",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Is this an eraser?”."
+    },
+    {
+      "id": 63,
+      "question": "Let’s ma_ _ a line, students",
+      "options": [],
+      "answer": "ke",
+      "explanation": "Điền “ke” vào phần còn thiếu để ghép thành từ “make”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Let’s make a line, students”."
+    },
+    {
+      "id": 64,
+      "question": "Bye. S_ _ you later",
+      "options": [],
+      "answer": "ee",
+      "explanation": "Điền “ee” vào phần còn thiếu để ghép thành từ “See”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Bye. See you later”."
+    },
+    {
+      "id": 65,
+      "question": "Nice _ _ see you",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền “to” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Nice to see you”."
+    },
+    {
+      "id": 66,
+      "question": "What/ this?/ is/ colour/",
+      "options": [],
+      "answer": "What colour is this?",
+      "explanation": "Trong câu “What colour is this?”, đặt từ hỏi “What” ở đầu, rồi đến “is”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 67,
+      "question": "you/ song?/ Can/ sing/ a",
+      "options": [],
+      "answer": "Can you sing a song?",
+      "explanation": "Trong câu “Can you sing a song?”, đưa “Can” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 68,
+      "question": "yellow/ This/ hat./ is/ a/",
+      "options": [],
+      "answer": "This is a yellow hat",
+      "explanation": "Trong câu “This is a yellow hat”, đặt chủ ngữ “This” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 69,
+      "question": "ask you/ a question?/ I/ May/",
+      "options": [],
+      "answer": "May I ask you a question?",
+      "explanation": "Trong câu “May I ask you a question?”, đưa “May” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 70,
+      "question": "is/ new/ my/ backpack./ That/",
+      "options": [],
+      "answer": "That is my new backpack",
+      "explanation": "Trong câu “That is my new backpack”, đặt chủ ngữ “That” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 71,
+      "question": "That/ ruler/ is/ pink",
+      "options": [],
+      "answer": "That ruler is pink",
+      "explanation": "Trong câu “That ruler is pink”, đặt chủ ngữ “That” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 72,
+      "question": "seven/ Quan/ is/ years old",
+      "options": [],
+      "answer": "Quan is seven years old",
+      "explanation": "Trong câu “Quan is seven years old”, đặt chủ ngữ “Quan” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 73,
+      "question": "make/ a/ Let’s/ circle",
+      "options": [],
+      "answer": "Let’s make a circle",
+      "explanation": "Trong câu “Let’s make a circle”, đặt chủ ngữ “Let” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 74,
+      "question": "your/ close/ books./ Please/",
+      "options": [],
+      "answer": "Please close your books",
+      "explanation": "Trong câu “Please close your books”, đặt chủ ngữ “Please” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 75,
+      "question": "student./ am/ I/ a/",
+      "options": [],
+      "answer": "I am a student",
+      "explanation": "Trong câu “I am a student”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 76,
+      "question": "are/ Mary./ Hi,/ you?/ How/",
+      "options": [],
+      "answer": "Hi, Mary. How are you?",
+      "explanation": "Trong câu “Hi, Mary. How are you?”, đưa “Hi” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 77,
+      "question": "I'm/ thank/ you./ fine,/",
+      "options": [],
+      "answer": "I'm fine, thank you",
+      "explanation": "Trong câu “I'm fine, thank you”, đặt chủ ngữ “I'm” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 78,
+      "question": "John./ How/ are/ Hi, I’m/ you?/",
+      "options": [],
+      "answer": "Hi, I’m John. How are you?",
+      "explanation": "Trong câu “Hi, I’m John. How are you?”, đưa “Hi” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 79,
+      "question": "you./ meet/ Nice/ to/",
+      "options": [],
+      "answer": "Nice to meet you",
+      "explanation": "Trong câu “Nice to meet you”, đặt chủ ngữ “Nice” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 80,
+      "question": "have/ I/ in/ two books/ my bag./",
+      "options": [],
+      "answer": "I have two books in my bag",
+      "explanation": "Trong câu “I have two books in my bag”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 81,
+      "question": "a/ pen./ is/ This/",
+      "options": [],
+      "answer": "This is a pen",
+      "explanation": "Trong câu “This is a pen”, đặt chủ ngữ “This” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 82,
+      "question": "Is/ that/ Viet?/",
+      "options": [],
+      "answer": "Is that Viet?",
+      "explanation": "Trong câu “Is that Viet?”, đưa “Is” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 83,
+      "question": "very/ teacher/ My/ tall./ is/",
+      "options": [],
+      "answer": "My teacher is very tall",
+      "explanation": "Trong câu “My teacher is very tall”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 84,
+      "question": "the/ at/ picture./ Look/",
+      "options": [],
+      "answer": "Look at the picture",
+      "explanation": "Trong câu “Look at the picture”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Look”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 85,
+      "question": "is/ my/ This/ classroom",
+      "options": [],
+      "answer": "This is my classroom",
+      "explanation": "Trong câu “This is my classroom”, đặt chủ ngữ “This” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 86,
+      "question": "morning./ every/ I/ school/ go to/",
+      "options": [],
+      "answer": "I go to school every morning",
+      "explanation": "Trong câu “I go to school every morning”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 87,
+      "question": "food./ some/ wants/ Peter/",
+      "options": [],
+      "answer": "Peter wants some food",
+      "explanation": "Trong câu “Peter wants some food”, đặt chủ ngữ “Peter” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 88,
+      "question": "at/ that/ blue/ picture./ Look/",
+      "options": [],
+      "answer": "Look at that blue picture",
+      "explanation": "Trong câu “Look at that blue picture”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Look”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 89,
+      "question": "two/ There/ are/ pencil boxes",
+      "options": [],
+      "answer": "There are two pencil boxes",
+      "explanation": "Câu “There are two pencil boxes” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 90,
+      "question": "I/ am/ thirsty/ now",
+      "options": [],
+      "answer": "I am thirsty now",
+      "explanation": "Trong câu “I am thirsty now”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 91,
+      "question": "is/ your teacher?/ old/ How/",
+      "options": [],
+      "answer": "How old is your teacher?",
+      "explanation": "Trong câu “How old is your teacher?”, đặt từ hỏi “How” ở đầu, rồi đến “is”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 92,
+      "question": "in/ There/ that box./ are/ many toys/",
+      "options": [],
+      "answer": "There are many toys in that box",
+      "explanation": "Câu “There are many toys in that box” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 93,
+      "question": "a/ It/ box./ big/ is/",
+      "options": [],
+      "answer": "It is a big box",
+      "explanation": "Trong câu “It is a big box”, đặt chủ ngữ “It” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 94,
+      "question": "The pencil sharpener/ is in/ my pencil case./",
+      "options": [],
+      "answer": "The pencil sharpener is in my pencil case",
+      "explanation": "Trong câu “The pencil sharpener is in my pencil case”, đặt chủ ngữ “The” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 95,
+      "question": "colour/ My favourite/ is blue./",
+      "options": [],
+      "answer": "My favourite colour is blue",
+      "explanation": "Trong câu “My favourite colour is blue”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 96,
+      "question": "May I/ pencil/ close/ box?/ your/",
+      "options": [],
+      "answer": "May I close your pencil box?",
+      "explanation": "Trong câu “May I close your pencil box?”, đưa “May” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 97,
+      "question": "name, Nam?/ your/ How do/ you spell/",
+      "options": [],
+      "answer": "How do you spell your name, Nam?",
+      "explanation": "Trong câu “How do you spell your name, Nam?”, đặt từ hỏi “How” ở đầu, rồi đến “do”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 98,
+      "question": "Close/ your book,/ please!/",
+      "options": [],
+      "answer": "Close your book, please!",
+      "explanation": "Trong câu “Close your book, please!”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Close”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 99,
+      "question": "small./ school/ Her/ new/ is",
+      "options": [],
+      "answer": "Her new school is small",
+      "explanation": "Trong câu “Her new school is small”, đặt chủ ngữ “Her” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 100,
+      "question": "that/ his/ Is/ teacher?",
+      "options": [],
+      "answer": "Is that his teacher?",
+      "explanation": "Trong câu “Is that his teacher?”, đưa “Is” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 101,
+      "question": "books/ Are there/ your bedroom?/ any/ in",
+      "options": [],
+      "answer": "Are there any books in your bedroom?",
+      "explanation": "Trong câu “Are there any books in your bedroom?”, đưa “Are” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 102,
+      "question": "you/ later./ See/ Goodbye./",
+      "options": [],
+      "answer": "Goodbye. See you later",
+      "explanation": "Trong câu “Goodbye. See you later”, đặt chủ ngữ “Goodbye” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 103,
+      "question": "gym/ the/ Is/ large?",
+      "options": [],
+      "answer": "Is the gym large?",
+      "explanation": "Trong câu “Is the gym large?”, đưa “Is” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 104,
+      "question": "mess./ a/ Don’t/ make/",
+      "options": [],
+      "answer": "Don’t make a mess",
+      "explanation": "Trong câu “Don’t make a mess”, đặt chủ ngữ “Don” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 105,
+      "question": "today./ very/ It/ hot/ is/",
+      "options": [],
+      "answer": "It is very hot today",
+      "explanation": "Trong câu “It is very hot today”, đặt chủ ngữ “It” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 106,
+      "question": "Listen/ please./ teacher,/ the/ to/",
+      "options": [],
+      "answer": "Listen to the teacher, please",
+      "explanation": "Trong câu “Listen to the teacher, please”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Listen”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 107,
+      "question": "Green./ Miss/ Goodbye,/",
+      "options": [],
+      "answer": "Goodbye, Miss Green",
+      "explanation": "Trong câu “Goodbye, Miss Green”, đặt chủ ngữ “Goodbye” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 108,
+      "question": "your book,/ Open/ please!/",
+      "options": [],
+      "answer": "Open your book, please!",
+      "explanation": "Trong câu “Open your book, please!”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Open”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 109,
+      "question": "school./ we/ This is/ go to/ the way/",
+      "options": [],
+      "answer": "This is the way we go to school",
+      "explanation": "Trong câu “This is the way we go to school”, đặt chủ ngữ “This” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 110,
+      "question": "A/ in the classroom./ is/ black board/",
+      "options": [],
+      "answer": "A black board is in the classroom",
+      "explanation": "Trong câu “A black board is in the classroom”, đặt chủ ngữ “A” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 111,
+      "question": "new/ my/ teacher./ is/ Miss Lien/",
+      "options": [],
+      "answer": "Miss Lien is my new teacher",
+      "explanation": "Trong câu “Miss Lien is my new teacher”, đặt chủ ngữ “Miss” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 112,
+      "question": "your/ to/ friend./ Listen/",
+      "options": [],
+      "answer": "Listen to your friend",
+      "explanation": "Trong câu “Listen to your friend”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Listen”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 113,
+      "question": "Simon./ Come/ over/ here,/",
+      "options": [],
+      "answer": "Come over here, Simon",
+      "explanation": "Trong câu “Come over here, Simon”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Come”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 114,
+      "question": "the pink/ pen,/ please./ Give/ me/",
+      "options": [],
+      "answer": "Give me the pink pen, please",
+      "explanation": "Trong câu “Give me the pink pen, please”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Give”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 115,
+      "question": "Don't/ girls!/ in class,/ talk/",
+      "options": [],
+      "answer": "Don't talk in class, girls!",
+      "explanation": "Trong câu “Don't talk in class, girls!”, đây là lời mệnh lệnh/đề nghị nên bắt đầu bằng “Don't”, sau đó là đối tượng hoặc bổ ngữ; không cần nêu chủ ngữ “you”."
+    },
+    {
+      "id": 116,
+      "question": "that,/ Who's/ Peter?/",
+      "options": [],
+      "answer": "Who's that, Peter?",
+      "explanation": "Trong câu “Who's that, Peter?”, đưa “Who's” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 117,
+      "question": "Are/ sick/ you/ today?",
+      "options": [],
+      "answer": "Are you sick today?",
+      "explanation": "Trong câu “Are you sick today?”, đưa “Are” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 118,
+      "question": "books/ How/ there?/ many/ are",
+      "options": [],
+      "answer": "How many books are there?",
+      "explanation": "Trong câu “How many books are there?”, đặt từ hỏi “How” ở đầu, rồi đến “are”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 119,
+      "question": "to meet you!",
+      "options": [
+        "A. How",
+        "B. Go",
+        "C. Nice",
+        "D. Get"
+      ],
+      "answer": "C. Nice",
+      "explanation": "“Nice to meet you” là mẫu câu chào khi mới gặp. “Nice” nằm đúng vị trí để tạo câu hoàn chỉnh “Nice to meet you!”."
+    },
+    {
+      "id": 120,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. are",
+        "B. you",
+        "C. am",
+        "D. is"
+      ],
+      "answer": "B. you",
+      "explanation": "“you” không thuộc nhóm dạng của động từ “to be”; ba từ còn lại là “are”, “am”, “is”, đều thuộc nhóm này."
+    },
+    {
+      "id": 121,
+      "question": "Jack ___ in the playground",
+      "options": [
+        "A. are",
+        "B. am",
+        "C. is",
+        "D. be"
+      ],
+      "answer": "C. is",
+      "explanation": "Dùng “is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “Jack is in the playground”."
+    },
+    {
+      "id": 122,
+      "question": "What’s ... name?",
+      "options": [
+        "A. she",
+        "B. he",
+        "C. you",
+        "D. her"
+      ],
+      "answer": "D. her",
+      "explanation": "“her” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “What’s her name?”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 123,
+      "question": "Close your ..., please",
+      "options": [
+        "A. name",
+        "B. book",
+        "C. ball",
+        "D. took"
+      ],
+      "answer": "B. book",
+      "explanation": "Đây là câu mệnh lệnh: bắt đầu bằng động từ nguyên mẫu rồi đến đối tượng hoặc bổ ngữ. “book” giúp tạo câu đúng “Close your book, please”."
+    },
+    {
+      "id": 124,
+      "question": "Look … your book, please",
+      "options": [
+        "A. of",
+        "B. in",
+        "C. on",
+        "D. at"
+      ],
+      "answer": "D. at",
+      "explanation": "Chọn giới từ “at” để tạo cụm đúng, mang nghĩa at school/at break time hoặc địa chỉ cụ thể. Cụm này được dùng chính xác trong “Look at your book, please”."
+    },
+    {
+      "id": 125,
+      "question": "He has a",
+      "options": [
+        "A. sunny",
+        "B. cloudy",
+        "C. windy",
+        "D. doll"
+      ],
+      "answer": "D. doll",
+      "explanation": "Trong ngữ cảnh cụ thể của câu “He has a doll”, “doll” có đúng nghĩa và đúng vị trí từ loại; các lựa chọn còn lại không tạo được cách diễn đạt tự nhiên tương đương."
+    },
+    {
+      "id": 126,
+      "question": "What’s _______ name?",
+      "options": [
+        "A. you",
+        "B. I",
+        "C. his",
+        "D. he"
+      ],
+      "answer": "C. his",
+      "explanation": "“his” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “What’s his name?”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 127,
+      "question": "That is a big tr...e",
+      "options": [
+        "A. a",
+        "B. u",
+        "C. e",
+        "D. i"
+      ],
+      "answer": "C. e",
+      "explanation": "Các chữ “e” ghép với phần đã cho để tạo từ đúng “tree”. Từ này hoàn chỉnh câu “That is a big tree”."
+    },
+    {
+      "id": 128,
+      "question": "___ is my sister, Hoa",
+      "options": [
+        "A. Her",
+        "B. He",
+        "C. She",
+        "D. His"
+      ],
+      "answer": "C. She",
+      "explanation": "Các chữ “She” ghép với phần đã cho để tạo từ đúng “She”. Từ này hoàn chỉnh câu “She is my sister, Hoa”."
+    },
+    {
+      "id": 129,
+      "question": "The bag is p...nk",
+      "options": [
+        "A. u",
+        "B. i",
+        "C. e",
+        "D. o"
+      ],
+      "answer": "B. i",
+      "explanation": "Các chữ “i” ghép với phần đã cho để tạo từ đúng “pink”. Từ này hoàn chỉnh câu “The bag is pink”."
+    },
+    {
+      "id": 130,
+      "question": "Good morning, te...cher",
+      "options": [
+        "A. u",
+        "B. a",
+        "C. e",
+        "D. o"
+      ],
+      "answer": "B. a",
+      "explanation": "Chọn “a” vì danh từ đếm được số ít được nhắc đến chung và bắt đầu bằng âm phụ âm. Vì vậy viết “Good morning, teacher”."
+    },
+    {
+      "id": 131,
+      "question": "GR_EN",
+      "options": [
+        "A. I",
+        "B. O",
+        "C. E",
+        "D. A"
+      ],
+      "answer": "C. E",
+      "explanation": "Các chữ “E” ghép với phần đã cho để tạo từ đúng “GREEN”. Từ này hoàn chỉnh câu “GREEN”."
+    },
+    {
+      "id": 132,
+      "question": "… brother is very tall",
+      "options": [
+        "A. My",
+        "B. I",
+        "C. Me",
+        "D. Mine"
+      ],
+      "answer": "A. My",
+      "explanation": "“My” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “My brother is very tall”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 133,
+      "question": "This is ... cat",
+      "options": [
+        "A. he",
+        "B. she",
+        "C. my",
+        "D. you"
+      ],
+      "answer": "C. my",
+      "explanation": "“my” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “This is my cat”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 134,
+      "question": "_______ the tables old?",
+      "options": [
+        "A. Am",
+        "B. Is",
+        "C. Are",
+        "D. It"
+      ],
+      "answer": "C. Are",
+      "explanation": "Dùng “Are” vì câu có chủ ngữ số nhiều hoặc “you”. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “Are the tables old?”."
+    },
+    {
+      "id": 135,
+      "question": "He is",
+      "options": [
+        "A. Peter",
+        "B. It",
+        "C. Mai",
+        "D. She"
+      ],
+      "answer": "A. Peter",
+      "explanation": "Trong ngữ cảnh cụ thể của câu “He is Peter”, “Peter” có đúng nghĩa và đúng vị trí từ loại; các lựa chọn còn lại không tạo được cách diễn đạt tự nhiên tương đương."
+    },
+    {
+      "id": 136,
+      "question": "_______ fine, thanks",
+      "options": [
+        "A. I am",
+        "B. I",
+        "C. I’m am",
+        "D. I I’m"
+      ],
+      "answer": "A. I am",
+      "explanation": "Sau động từ “be” cần từ miêu tả trạng thái hoặc đặc điểm. “I am” làm câu “I am fine, thanks” đúng nghĩa và đúng cấu trúc."
+    },
+    {
+      "id": 137,
+      "question": "Odd one out:",
+      "options": [
+        "A. fish",
+        "B. cat",
+        "C. dog",
+        "D. book"
+      ],
+      "answer": "D. book",
+      "explanation": "“book” không thuộc nhóm con vật; ba từ còn lại là “fish”, “cat”, “dog”, đều thuộc nhóm này."
+    },
+    {
+      "id": 138,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. she",
+        "B. my",
+        "C. he",
+        "D. you"
+      ],
+      "answer": "B. my",
+      "explanation": "“my” không thuộc nhóm đại từ nhân xưng làm chủ ngữ; ba từ còn lại là “she”, “he”, “you”, đều thuộc nhóm này."
+    },
+    {
+      "id": 139,
+      "question": "this a pencil?",
+      "options": [
+        "A. Are",
+        "B. You",
+        "C. Is",
+        "D. My"
+      ],
+      "answer": "C. Is",
+      "explanation": "Dùng “Is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “Is this a pencil?”."
+    },
+    {
+      "id": 140,
+      "question": "This is ... school bag",
+      "options": [
+        "A. he’s",
+        "B. my’s",
+        "C. me",
+        "D. my"
+      ],
+      "answer": "D. my",
+      "explanation": "“my” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “This is my school bag”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 141,
+      "question": "There is a picture … the wall",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. on",
+        "D. of"
+      ],
+      "answer": "C. on",
+      "explanation": "Chọn giới từ “on” để tạo cụm đúng, mang nghĩa ở trên bề mặt hoặc trước ngày. Cụm này được dùng chính xác trong “There is a picture on the wall”."
+    },
+    {
+      "id": 142,
+      "question": "My classroom is …",
+      "options": [
+        "A. name",
+        "B. news",
+        "C. new",
+        "D. names"
+      ],
+      "answer": "C. new",
+      "explanation": "Các chữ “new” ghép với phần đã cho để tạo từ đúng “new”. Từ này hoàn chỉnh câu “My classroom is new”."
+    },
+    {
+      "id": 143,
+      "question": "This isn’t ... bag",
+      "options": [
+        "A. he",
+        "B. his",
+        "C. this",
+        "D. he’s"
+      ],
+      "answer": "B. his",
+      "explanation": "“his” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “This isn’t his bag”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 144,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. you",
+        "B. I",
+        "C. she",
+        "D. my"
+      ],
+      "answer": "D. my",
+      "explanation": "“my” không thuộc nhóm đại từ nhân xưng làm chủ ngữ; ba từ còn lại là “you”, “I”, “she”, đều thuộc nhóm này."
+    },
+    {
+      "id": 145,
+      "question": "I’m fine, thank",
+      "options": [
+        "A. yous",
+        "B. you’s",
+        "C. you’re",
+        "D. you"
+      ],
+      "answer": "D. you",
+      "explanation": "Vị trí này cần đại từ tân ngữ sau động từ hoặc giới từ. “you” nhận tác động của hành động, nên “I’m fine, thank you” là đúng."
+    },
+    {
+      "id": 146,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. you",
+        "B. hi",
+        "C. I",
+        "D. She"
+      ],
+      "answer": "B. hi",
+      "explanation": "“hi” không thuộc nhóm đại từ nhân xưng làm chủ ngữ; ba từ còn lại là “you”, “I”, “She”, đều thuộc nhóm này."
+    },
+    {
+      "id": 147,
+      "question": "Odd one out:",
+      "options": [
+        "A. meet",
+        "B. I",
+        "C. you",
+        "D. he"
+      ],
+      "answer": "A. meet",
+      "explanation": "“meet” không thuộc nhóm đại từ nhân xưng làm chủ ngữ; ba từ còn lại là “I”, “you”, “he”, đều thuộc nhóm này."
+    },
+    {
+      "id": 148,
+      "question": "Nice to ... you!",
+      "options": [
+        "A. meet",
+        "B. go",
+        "C. for",
+        "D. come"
+      ],
+      "answer": "A. meet",
+      "explanation": "“Nice to meet you” là mẫu câu chào khi mới gặp. “meet” nằm đúng vị trí để tạo câu hoàn chỉnh “Nice to meet you!”."
+    },
+    {
+      "id": 149,
+      "question": "What colour ... this?",
+      "options": [
+        "A. it",
+        "B. is",
+        "C. that",
+        "D. hi"
+      ],
+      "answer": "B. is",
+      "explanation": "Dùng “is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “What colour is this?”."
+    },
+    {
+      "id": 150,
+      "question": "Listen ... the teacher",
+      "options": [
+        "A. to",
+        "B. me",
+        "C. you",
+        "D. he"
+      ],
+      "answer": "A. to",
+      "explanation": "Chọn giới từ “to” để tạo cụm đúng, mang nghĩa hướng đến hoặc trong “to + động từ”. Cụm này được dùng chính xác trong “Listen to the teacher”."
+    },
+    {
+      "id": 151,
+      "question": "He is ... farmer",
+      "options": [
+        "A. an",
+        "B. a",
+        "C. this",
+        "D. am"
+      ],
+      "answer": "B. a",
+      "explanation": "Chọn “a” vì danh từ đếm được số ít được nhắc đến chung và bắt đầu bằng âm phụ âm. Vì vậy viết “He is a farmer”."
+    },
+    {
+      "id": 152,
+      "question": "He __ a newcomer",
+      "options": [
+        "A. are",
+        "B. am",
+        "C. is",
+        "D. do"
+      ],
+      "answer": "C. is",
+      "explanation": "Dùng “is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “He is a newcomer”."
+    },
+    {
+      "id": 153,
+      "question": "What colou... is this? – It’s pink",
+      "options": [
+        "A. t",
+        "B. q",
+        "C. r",
+        "D. p"
+      ],
+      "answer": "C. r",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “r” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 154,
+      "question": "Hello, ... name is Scott",
+      "options": [
+        "A. he",
+        "B. she",
+        "C. it",
+        "D. my"
+      ],
+      "answer": "D. my",
+      "explanation": "“my” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “Hello, my name is Scott”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 155,
+      "question": "May I come ...?",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. on",
+        "D. to"
+      ],
+      "answer": "A. in",
+      "explanation": "Chọn giới từ “in” để tạo cụm đúng, mang nghĩa ở bên trong. Cụm này được dùng chính xác trong “May I come in?”."
+    },
+    {
+      "id": 156,
+      "question": "Hello my fr...end",
+      "options": [
+        "A. u",
+        "B. i",
+        "C. w",
+        "D. o"
+      ],
+      "answer": "B. i",
+      "explanation": "Các chữ “i” ghép với phần đã cho để tạo từ đúng “friend”. Từ này hoàn chỉnh câu “Hello my friend”."
+    },
+    {
+      "id": 157,
+      "question": "Good mo...ning, Peter",
+      "options": [
+        "A. w",
+        "B. t",
+        "C. r",
+        "D. q"
+      ],
+      "answer": "C. r",
+      "explanation": "Các chữ “r” ghép với phần đã cho để tạo từ đúng “morning”. Từ này hoàn chỉnh câu “Good morning, Peter”."
+    },
+    {
+      "id": 158,
+      "question": "This gift is ... you",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. for",
+        "D. at"
+      ],
+      "answer": "C. for",
+      "explanation": "Chọn giới từ “for” để tạo cụm đúng, mang nghĩa dành cho. Cụm này được dùng chính xác trong “This gift is for you”."
+    },
+    {
+      "id": 159,
+      "question": "Hello, how a..e you?",
+      "options": [
+        "A. u",
+        "B. r",
+        "C. e",
+        "D. i"
+      ],
+      "answer": "B. r",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “r” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 160,
+      "question": "This ... my school",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. you",
+        "D. bye"
+      ],
+      "answer": "B. is",
+      "explanation": "Dùng “is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “This is my school”."
+    },
+    {
+      "id": 161,
+      "question": "H...llo, how are you?",
+      "options": [
+        "A. u",
+        "B. e",
+        "C. i",
+        "D. a"
+      ],
+      "answer": "B. e",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “e” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 162,
+      "question": "She ... my friend",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. me",
+        "D. I"
+      ],
+      "answer": "B. is",
+      "explanation": "Dùng “is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “She is my friend”."
+    },
+    {
+      "id": 163,
+      "question": "Nice ... meet you, too",
+      "options": [
+        "A. for",
+        "B. to",
+        "C. from",
+        "D. me"
+      ],
+      "answer": "B. to",
+      "explanation": "Chọn giới từ “to” để tạo cụm đúng, mang nghĩa hướng đến hoặc trong “to + động từ”. Cụm này được dùng chính xác trong “Nice to meet you, too”."
+    },
+    {
+      "id": 164,
+      "question": "Give ... that pink crayon",
+      "options": [
+        "A. he",
+        "B. she",
+        "C. me",
+        "D. the"
+      ],
+      "answer": "C. me",
+      "explanation": "Vị trí này cần đại từ tân ngữ sau động từ hoặc giới từ. “me” nhận tác động của hành động, nên “Give me that pink crayon” là đúng."
+    },
+    {
+      "id": 165,
+      "question": "Come ..., please",
+      "options": [
+        "A. out",
+        "B. in",
+        "C. to",
+        "D. under"
+      ],
+      "answer": "B. in",
+      "explanation": "Chọn giới từ “in” để tạo cụm đúng, mang nghĩa ở bên trong. Cụm này được dùng chính xác trong “Come in, please”."
+    },
+    {
+      "id": 166,
+      "question": "____ teacher is fine",
+      "options": [
+        "A. Me",
+        "B. Her",
+        "C. Him",
+        "D. You"
+      ],
+      "answer": "B. Her",
+      "explanation": "“Her” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “Her teacher is fine”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 167,
+      "question": "Nice to meet ..., too",
+      "options": [
+        "A. me",
+        "B. he",
+        "C. your",
+        "D. you"
+      ],
+      "answer": "D. you",
+      "explanation": "Vị trí này cần đại từ tân ngữ sau động từ hoặc giới từ. “you” nhận tác động của hành động, nên “Nice to meet you, too” là đúng."
+    },
+    {
+      "id": 168,
+      "question": "Hello, ... Kate",
+      "options": [
+        "A. my name",
+        "B. I",
+        "C. I’m",
+        "D. me"
+      ],
+      "answer": "C. I’m",
+      "explanation": "Các chữ “I’m” ghép với phần đã cho để tạo từ đúng “I’m”. Từ này hoàn chỉnh câu “Hello, I’m Kate”."
+    },
+    {
+      "id": 169,
+      "question": "This ... a house",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. you",
+        "D. here"
+      ],
+      "answer": "B. is",
+      "explanation": "Dùng “is” vì câu có chủ ngữ số ít. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “This is a house”."
+    },
+    {
+      "id": 170,
+      "question": ", I’m Lan",
+      "options": [
+        "A. Hi",
+        "B. Goodbye!",
+        "C. See you",
+        "D. Goodnight!"
+      ],
+      "answer": "A. Hi",
+      "explanation": "“Hi” tạo lời chào hoặc tạm biệt phù hợp với thời điểm/tình huống. Câu đầy đủ là “Hi, I’m Lan”."
+    },
+    {
+      "id": 171,
+      "question": "I ... watching television",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. am",
+        "D. aren’t"
+      ],
+      "answer": "C. am",
+      "explanation": "Dùng “am” vì câu có chủ ngữ “I”. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “I am watching television”."
+    },
+    {
+      "id": 172,
+      "question": "I have Art ... Friday",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. to",
+        "D. on"
+      ],
+      "answer": "D. on",
+      "explanation": "Chọn giới từ “on” để tạo cụm đúng, mang nghĩa ở trên bề mặt hoặc trước ngày. Cụm này được dùng chính xác trong “I have Art on Friday”."
+    },
+    {
+      "id": 173,
+      "question": "There is ... dog in my house",
+      "options": [
+        "A. a",
+        "B. are",
+        "C. two",
+        "D. is"
+      ],
+      "answer": "A. a",
+      "explanation": "Chọn “a” vì danh từ đếm được số ít được nhắc đến chung và bắt đầu bằng âm phụ âm. Vì vậy viết “There is a dog in my house”."
+    },
+    {
+      "id": 174,
+      "question": "Nice … meet you, Susan",
+      "options": [
+        "A. too",
+        "B. to",
+        "C. two",
+        "D. toe"
+      ],
+      "answer": "B. to",
+      "explanation": "Chọn giới từ “to” để tạo cụm đúng, mang nghĩa hướng đến hoặc trong “to + động từ”. Cụm này được dùng chính xác trong “Nice to meet you, Susan”."
+    },
+    {
+      "id": 175,
+      "question": "Pick … your pencil",
+      "options": [
+        "A. at",
+        "B. up",
+        "C. on",
+        "D. for"
+      ],
+      "answer": "B. up",
+      "explanation": "Chọn giới từ “up” để tạo cụm đúng, mang nghĩa cụm động từ cố định. Cụm này được dùng chính xác trong “Pick up your pencil”."
+    },
+    {
+      "id": 176,
+      "question": "It is ... desk",
+      "options": [
+        "A. an",
+        "B. a",
+        "C. two",
+        "D. you"
+      ],
+      "answer": "B. a",
+      "explanation": "Chọn “a” vì danh từ đếm được số ít được nhắc đến chung và bắt đầu bằng âm phụ âm. Vì vậy viết “It is a desk”."
+    },
+    {
+      "id": 177,
+      "question": "This isn’t ... bag",
+      "options": [
+        "A. he",
+        "B. his",
+        "C. me",
+        "D. you"
+      ],
+      "answer": "B. his",
+      "explanation": "“his” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “This isn’t his bag”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 178,
+      "question": "This is ... desk",
+      "options": [
+        "A. an",
+        "B. he",
+        "C. he’s",
+        "D. a"
+      ],
+      "answer": "D. a",
+      "explanation": "Chọn “a” vì danh từ đếm được số ít được nhắc đến chung và bắt đầu bằng âm phụ âm. Vì vậy viết “This is a desk”."
+    },
+    {
+      "id": 179,
+      "question": "Sing a ..., please",
+      "options": [
+        "A. you",
+        "B. me",
+        "C. song",
+        "D. he"
+      ],
+      "answer": "C. song",
+      "explanation": "Đây là câu mệnh lệnh: bắt đầu bằng động từ nguyên mẫu rồi đến đối tượng hoặc bổ ngữ. “song” giúp tạo câu đúng “Sing a song, please”."
+    },
+    {
+      "id": 180,
+      "question": "This is ... chair",
+      "options": [
+        "A. he",
+        "B. she",
+        "C. it",
+        "D. my"
+      ],
+      "answer": "D. my",
+      "explanation": "“my” là tính từ sở hữu, đứng trước danh từ để chỉ người/vật thuộc về ai. Trong “This is my chair”, nó khớp với người sở hữu được nhắc đến."
+    },
+    {
+      "id": 181,
+      "question": "It’s ______ ball",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. two",
+        "D. Ø"
+      ],
+      "answer": "A. a",
+      "explanation": "Chọn “a” vì danh từ đếm được số ít được nhắc đến chung và bắt đầu bằng âm phụ âm. Vì vậy viết “It’s a ball”."
+    },
+    {
+      "id": 182,
+      "question": "They ___ in the living room",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. am",
+        "D. on"
+      ],
+      "answer": "A. are",
+      "explanation": "Dùng “are” vì câu có chủ ngữ số nhiều hoặc “you”. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “They are in the living room”."
+    },
+    {
+      "id": 183,
+      "question": "This is ... orange pen",
+      "options": [
+        "A. an",
+        "B. a",
+        "C. the",
+        "D. this"
+      ],
+      "answer": "A. an",
+      "explanation": "Chọn “an” vì từ đứng sau bắt đầu bằng âm nguyên âm. Vì vậy viết “This is an orange pen”."
+    },
+    {
+      "id": 184,
+      "question": "We go to school to",
+      "options": [
+        "A. stay",
+        "B. study",
+        "C. sit",
+        "D. go"
+      ],
+      "answer": "B. study",
+      "explanation": "Trong ngữ cảnh cụ thể của câu “We go to school to study”, “study” có đúng nghĩa và đúng vị trí từ loại; các lựa chọn còn lại không tạo được cách diễn đạt tự nhiên tương đương."
+    },
+    {
+      "id": 185,
+      "question": "Odd one out:",
+      "options": [
+        "A. you",
+        "B. hi",
+        "C. I",
+        "D. She"
+      ],
+      "answer": "B. hi",
+      "explanation": "“hi” không thuộc nhóm đại từ nhân xưng làm chủ ngữ; ba từ còn lại là “you”, “I”, “She”, đều thuộc nhóm này."
+    },
+    {
+      "id": 186,
+      "question": "Odd one out:",
+      "options": [
+        "A. small",
+        "B. short",
+        "C. tall",
+        "D. yellow"
+      ],
+      "answer": "D. yellow",
+      "explanation": "“yellow” không thuộc nhóm tính từ chỉ kích thước hoặc chiều cao; ba từ còn lại là “small”, “short”, “tall”, đều thuộc nhóm này."
+    },
+    {
+      "id": 187,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. on",
+        "B. to",
+        "C. in",
+        "D. read"
+      ],
+      "answer": "D. read",
+      "explanation": "“read” không thuộc nhóm giới từ; ba từ còn lại là “on”, “to”, “in”, đều thuộc nhóm này."
+    },
+    {
+      "id": 188,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Pig",
+        "B. Dog",
+        "C. Cat",
+        "D. Book"
+      ],
+      "answer": "D. Book",
+      "explanation": "“Book” không thuộc nhóm con vật; ba từ còn lại là “Pig”, “Dog”, “Cat”, đều thuộc nhóm này."
+    },
+    {
+      "id": 189,
+      "question": "Odd one out:",
+      "options": [
+        "A. You",
+        "B. I",
+        "C. Hi",
+        "D. She"
+      ],
+      "answer": "C. Hi",
+      "explanation": "“Hi” không thuộc nhóm đại từ nhân xưng làm chủ ngữ; ba từ còn lại là “You”, “I”, “She”, đều thuộc nhóm này."
+    },
+    {
+      "id": 190,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. dog",
+        "B. pen",
+        "C. ruler",
+        "D. desk"
+      ],
+      "answer": "A. dog",
+      "explanation": "“dog” không thuộc nhóm đồ dùng học tập hoặc lớp học; ba từ còn lại là “pen”, “ruler”, “desk”, đều thuộc nhóm này."
+    },
+    {
+      "id": 191,
+      "question": "Odd one out:",
+      "options": [
+        "A. what",
+        "B. orange",
+        "C. blue",
+        "D. yellow"
+      ],
+      "answer": "A. what",
+      "explanation": "“what” không thuộc nhóm màu sắc; ba từ còn lại là “orange”, “blue”, “yellow”, đều thuộc nhóm này."
+    },
+    {
+      "id": 192,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. is",
+        "B. it",
+        "C. am",
+        "D. are"
+      ],
+      "answer": "B. it",
+      "explanation": "“it” không thuộc nhóm dạng của động từ “to be”; ba từ còn lại là “is”, “am”, “are”, đều thuộc nhóm này."
+    },
+    {
+      "id": 193,
+      "question": "Odd one out:",
+      "options": [
+        "A. Daisy",
+        "B. Michael",
+        "C. Jenny",
+        "D. Mary"
+      ],
+      "answer": "B. Michael",
+      "explanation": "“Michael” là từ/cụm từ khác nhóm: Michael là tên nam, còn Daisy, Jenny và Mary là tên nữ."
+    },
+    {
+      "id": 194,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. are",
+        "B. am",
+        "C. is",
+        "D. I"
+      ],
+      "answer": "D. I",
+      "explanation": "“I” không thuộc nhóm dạng của động từ “to be”; ba từ còn lại là “are”, “am”, “is”, đều thuộc nhóm này."
+    },
+    {
+      "id": 195,
+      "question": "Odd one out:",
+      "options": [
+        "A. it’s",
+        "B. his",
+        "C. her",
+        "D. its"
+      ],
+      "answer": "A. it’s",
+      "explanation": "“it’s” không thuộc nhóm từ chỉ sở hữu; ba từ còn lại là “his”, “her”, “its”, đều thuộc nhóm này."
+    },
+    {
+      "id": 196,
+      "question": "Choose the incorrect word(s) in the following sentence: He is six year old",
+      "options": [
+        "A. He",
+        "B. is",
+        "C. year",
+        "D. old"
+      ],
+      "answer": "C. year",
+      "explanation": "Sau số đếm lớn hơn 1, danh từ đếm được “year” phải ở số nhiều “years”."
+    },
+    {
+      "id": 197,
+      "question": "Choose the incorrect word(s) in the following sentence: Those are my pencil",
+      "options": [
+        "A. Those",
+        "B. are",
+        "C. my",
+        "D. pencil"
+      ],
+      "answer": "D. pencil",
+      "explanation": "“Those are” chỉ nhiều đồ vật nên “pencil” phải đổi thành danh từ số nhiều “pencils”."
+    },
+    {
+      "id": 198,
+      "question": "Choose the incorrect word(s) in the following sentence: This is my friends Linda",
+      "options": [
+        "A. This",
+        "B. my",
+        "C. friends",
+        "D. Linda"
+      ],
+      "answer": "C. friends",
+      "explanation": "Mẫu “This is my ...” đang giới thiệu một người tên Linda, vì vậy dùng số ít “friend”."
+    },
+    {
+      "id": 199,
+      "question": "Choose the INCORRECT word or phrase in the following sentence: Three little cat are in the yard",
+      "options": [
+        "A. cat",
+        "B. are",
+        "C. in",
+        "D. yard"
+      ],
+      "answer": "A. cat",
+      "explanation": "Có số đếm “three”, nên danh từ “cat” phải thêm -s thành “cats”; khi đó “are” hòa hợp đúng."
+    },
+    {
+      "id": 200,
+      "question": "Choose the INCORRECT word or phrase in the following sentence: They are my ball, Daddy",
+      "options": [
+        "A. They",
+        "B. my",
+        "C. ball",
+        "D. Daddy"
+      ],
+      "answer": "C. ball",
+      "explanation": "Đại từ “They” và động từ “are” chỉ số nhiều, nên “ball” phải đổi thành “balls”."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}

@@ -1,0 +1,1838 @@
+{
+  "title": "IOE Lớp 3 - Chuyên đề 1 - Vòng Quốc Gia",
+  "vong": "Vòng Quốc Gia",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "How _ _ _ _ dogs do you have? – I don’t have any dogs",
+      "options": [],
+      "answer": "many",
+      "explanation": "Điền “many” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “How many dogs do you have? – I don’t have any dogs”."
+    },
+    {
+      "id": 2,
+      "question": "What is your favourite _ _ _ _ ? - It’s hide-and-seek",
+      "options": [],
+      "answer": "game",
+      "explanation": "Điền “game” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “What is your favourite game? - It’s hide-and-seek”."
+    },
+    {
+      "id": 3,
+      "question": "There are four win_ _ _ _ in my classroom",
+      "options": [],
+      "answer": "dows",
+      "explanation": "Điền “dows” vào phần còn thiếu để ghép thành từ “windows”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “There are four windows in my classroom”."
+    },
+    {
+      "id": 4,
+      "question": "Do you _ _ _ w Phong? – Yes, I do. He is my classmate",
+      "options": [],
+      "answer": "kno",
+      "explanation": "Điền “kno” vào phần còn thiếu để ghép thành từ “know”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Do you know Phong? – Yes, I do. He is my classmate”."
+    },
+    {
+      "id": 5,
+      "question": "What do you have _ _ _ breakfast? – I have sandwiches",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền “for” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “What do you have for breakfast? – I have sandwiches”."
+    },
+    {
+      "id": 6,
+      "question": "These _ _ _ two yellow dolls",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền “are” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “These are two yellow dolls”."
+    },
+    {
+      "id": 7,
+      "question": "W_ _ _ are these? – These are my new crayons",
+      "options": [],
+      "answer": "hat",
+      "explanation": "Điền “hat” vào phần còn thiếu để ghép thành từ “What”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What are these? – These are my new crayons”."
+    },
+    {
+      "id": 8,
+      "question": "What is your _ _ _ _ _ _ _ _ _ drink, Sam? – I like lemonade the most",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Điền “favourite” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “What is your favourite drink, Sam? – I like lemonade the most”."
+    },
+    {
+      "id": 9,
+      "question": "Do you want s_ _ e milk?",
+      "options": [],
+      "answer": "om",
+      "explanation": "Điền “om” vào phần còn thiếu để ghép thành từ “some”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Do you want some milk?”."
+    },
+    {
+      "id": 10,
+      "question": "How do you spell the wo_ _ ’’MONKEY’’?",
+      "options": [],
+      "answer": "rd",
+      "explanation": "Điền “rd” vào phần còn thiếu để ghép thành từ “word”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “How do you spell the word’’MONKEY’’?”."
+    },
+    {
+      "id": 11,
+      "question": "These a_ _ pink desks",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào phần còn thiếu để ghép thành từ “are”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “These are pink desks”."
+    },
+    {
+      "id": 12,
+      "question": "Ninh _ _ _ _ _ comic books in his classroom at break time",
+      "options": [],
+      "answer": "reads",
+      "explanation": "Điền “reads” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Ninh reads comic books in his classroom at break time”."
+    },
+    {
+      "id": 13,
+      "question": "Do you like colouring? – Yes, it is so m_ _ _ fun",
+      "options": [],
+      "answer": "uch",
+      "explanation": "Điền “uch” vào phần còn thiếu để ghép thành từ “much”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Do you like colouring? – Yes, it is so much fun”."
+    },
+    {
+      "id": 14,
+      "question": "P_ _ your hand down, Simon",
+      "options": [],
+      "answer": "ut",
+      "explanation": "Điền “ut” vào phần còn thiếu để ghép thành từ “Put”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Put your hand down, Simon”."
+    },
+    {
+      "id": 15,
+      "question": "Do you play _ _ _ guitar in the afternoon? – Yes, I do",
+      "options": [],
+      "answer": "the",
+      "explanation": "Điền “the” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Do you play the guitar in the afternoon? – Yes, I do”."
+    },
+    {
+      "id": 16,
+      "question": "A: Is the dining room large? - B: No, it isn’t. It’s sm_ _ _",
+      "options": [],
+      "answer": "all",
+      "explanation": "Điền “all” vào phần còn thiếu để ghép thành từ “small”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A: Is the dining room large? - B: No, it isn’t. It’s small”."
+    },
+    {
+      "id": 17,
+      "question": "These fl_ _ ers are for you, Mary. – Thank you",
+      "options": [],
+      "answer": "ow",
+      "explanation": "Điền “ow” vào phần còn thiếu để ghép thành từ “flowers”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “These flowers are for you, Mary. – Thank you”."
+    },
+    {
+      "id": 18,
+      "question": "There are a lot of trees a_ _ _ nd my house",
+      "options": [],
+      "answer": "rou",
+      "explanation": "Điền “rou” vào phần còn thiếu để ghép thành từ “around”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “There are a lot of trees around my house”."
+    },
+    {
+      "id": 19,
+      "question": "A: What is your sister _ _ ing? - B: She’s listening to music",
+      "options": [],
+      "answer": "do",
+      "explanation": "Điền “do” vào phần còn thiếu để ghép thành từ “doing”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A: What is your sister doing? - B: She’s listening to music”."
+    },
+    {
+      "id": 20,
+      "question": "_ _ _ _ do you do in the afternoon? – I play badminton",
+      "options": [],
+      "answer": "what",
+      "explanation": "Điền “what” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “What do you do in the afternoon? – I play badminton”."
+    },
+    {
+      "id": 21,
+      "question": "There are m_ _ y toys in my room",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào phần còn thiếu để ghép thành từ “many”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “There are many toys in my room”."
+    },
+    {
+      "id": 22,
+      "question": "Do you like _ _ _ _ _ _ _ hide-and-seek? – Yes, I do",
+      "options": [],
+      "answer": "playing",
+      "explanation": "Điền “playing” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Do you like playing hide-and-seek? – Yes, I do”."
+    },
+    {
+      "id": 23,
+      "question": "These pictures a_ _ beautiful",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào phần còn thiếu để ghép thành từ “are”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “These pictures are beautiful”."
+    },
+    {
+      "id": 24,
+      "question": "There are two cat_ in that box",
+      "options": [],
+      "answer": "s",
+      "explanation": "Điền “s” vào phần còn thiếu để ghép thành từ “cats”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “There are two cats in that box”."
+    },
+    {
+      "id": 25,
+      "question": "How m_ _ _ books are there? – There are three books",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền “any” vào phần còn thiếu để ghép thành từ “many”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “How many books are there? – There are three books”."
+    },
+    {
+      "id": 26,
+      "question": "_ _ _ _ _ and eleven is sixty-one",
+      "options": [],
+      "answer": "fifty",
+      "explanation": "Điền “fifty” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Fifty and eleven is sixty-one”."
+    },
+    {
+      "id": 27,
+      "question": "Rai_ _ your hands, please",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào phần còn thiếu để ghép thành từ “Raise”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Raise your hands, please”."
+    },
+    {
+      "id": 28,
+      "question": "To_ _ _ is February 14th. Do you have any plan?",
+      "options": [],
+      "answer": "day",
+      "explanation": "Điền “day” vào phần còn thiếu để ghép thành từ “Today”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Today is February 14th. Do you have any plan?”."
+    },
+    {
+      "id": 29,
+      "question": "Do you li_ _ playing hide-and-seek?",
+      "options": [],
+      "answer": "ke",
+      "explanation": "Điền “ke” vào phần còn thiếu để ghép thành từ “like”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Do you like playing hide-and-seek?”."
+    },
+    {
+      "id": 30,
+      "question": "_ ash your hands, please",
+      "options": [],
+      "answer": "W",
+      "explanation": "Điền “W” vào phần còn thiếu để ghép thành từ “Wash”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Wash your hands, please”."
+    },
+    {
+      "id": 31,
+      "question": "A: Wh_ _ _ is my umbrella, Mum? - B: It’s over there, son",
+      "options": [],
+      "answer": "ere",
+      "explanation": "Điền “ere” vào phần còn thiếu để ghép thành từ “Where”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A: Where is my umbrella, Mum? - B: It’s over there, son”."
+    },
+    {
+      "id": 32,
+      "question": "What does his un_ _ _ look like?",
+      "options": [],
+      "answer": "cle",
+      "explanation": "Điền “cle” vào phần còn thiếu để ghép thành từ “uncle”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What does his uncle look like?”."
+    },
+    {
+      "id": 33,
+      "question": "Where are you? - I am w_ _ _ my friends",
+      "options": [],
+      "answer": "ith",
+      "explanation": "Điền “ith” vào phần còn thiếu để ghép thành từ “with”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Where are you? - I am with my friends”."
+    },
+    {
+      "id": 34,
+      "question": "The opposite of THESE is _ _ _ _ _",
+      "options": [],
+      "answer": "those",
+      "explanation": "Điền “those” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “The opposite of THESE is those”."
+    },
+    {
+      "id": 35,
+      "question": "Do you h_ _ e Maths today?",
+      "options": [],
+      "answer": "av",
+      "explanation": "Điền “av” vào phần còn thiếu để ghép thành từ “have”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Do you have Maths today?”."
+    },
+    {
+      "id": 36,
+      "question": "We write \\\"06:20\\\" and we say \\\"It’s twenty _ _ _ _ six\\\"",
+      "options": [],
+      "answer": "past",
+      "explanation": "Điền “past” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “We write \\\"06:20\\\" and we say \\\"It’s twenty past six\\\"”."
+    },
+    {
+      "id": 37,
+      "question": "Where is Simon f_ _ m? – He’s from England",
+      "options": [],
+      "answer": "ro",
+      "explanation": "Điền “ro” vào phần còn thiếu để ghép thành từ “from”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Where is Simon from? – He’s from England”."
+    },
+    {
+      "id": 38,
+      "question": "How m_ _ _ books are there on the bookshelf? – There are four books",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền “any” vào phần còn thiếu để ghép thành từ “many”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “How many books are there on the bookshelf? – There are four books”."
+    },
+    {
+      "id": 39,
+      "question": "Linda and her sister like jumping rope in _ _ _ _ _ free time",
+      "options": [],
+      "answer": "their",
+      "explanation": "Điền “their” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Linda and her sister like jumping rope in their free time”."
+    },
+    {
+      "id": 40,
+      "question": "Whose rulers _ _ _ these? – They’re mine",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền “are” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Whose rulers are these? – They’re mine”."
+    },
+    {
+      "id": 41,
+      "question": "Where _ _ _ you from? - I’m from England",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền “are” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Where are you from? - I’m from England”."
+    },
+    {
+      "id": 42,
+      "question": "Thomas plays hide-and-_ _ _ _ with his friends at weekend",
+      "options": [],
+      "answer": "seek",
+      "explanation": "Điền “seek” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Thomas plays hide-and-seek with his friends at weekend”."
+    },
+    {
+      "id": 43,
+      "question": "_ _ _ is Tim happy today? - Because today is his birthday",
+      "options": [],
+      "answer": "Why",
+      "explanation": "Điền “Why” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Why is Tim happy today? - Because today is his birthday”."
+    },
+    {
+      "id": 44,
+      "question": "'What sports do you _ _ _ _ , Billy?' - 'I like football.'",
+      "options": [],
+      "answer": "like",
+      "explanation": "Điền “like” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “'What sports do you like, Billy?' - 'I like football.'”."
+    },
+    {
+      "id": 45,
+      "question": "What sp_ _ _ do you play at break time? - I play badminton",
+      "options": [],
+      "answer": "ort",
+      "explanation": "Điền “ort” vào phần còn thiếu để ghép thành từ “sport”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What sport do you play at break time? - I play badminton”."
+    },
+    {
+      "id": 46,
+      "question": "Why do you want _ _ go to the post office?",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền “to” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Why do you want to go to the post office?”."
+    },
+    {
+      "id": 47,
+      "question": "Where are you from, Peter? – I’m _ _ _ _ England",
+      "options": [],
+      "answer": "from",
+      "explanation": "Điền “from” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Where are you from, Peter? – I’m from England”."
+    },
+    {
+      "id": 48,
+      "question": "_ _ _ is Tuan happy? - He is happy because today is his birthday",
+      "options": [],
+      "answer": "Why",
+      "explanation": "Điền “Why” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Why is Tuan happy? - He is happy because today is his birthday”."
+    },
+    {
+      "id": 49,
+      "question": "Peter: How do you _ _ _ _ _ your name? - Huyen: That’s H-U-Y-E-N",
+      "options": [],
+      "answer": "spell",
+      "explanation": "Điền “spell” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Peter: How do you spell your name? - Huyen: That’s H-U-Y-E-N”."
+    },
+    {
+      "id": 50,
+      "question": "Why do you like Music? – Because I like _ _ sing",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền “to” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Why do you like Music? – Because I like to sing”."
+    },
+    {
+      "id": 51,
+      "question": "Jim’s children _ _ _ watching TV and playing in the living room",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền “are” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “Jim’s children are watching TV and playing in the living room”."
+    },
+    {
+      "id": 52,
+      "question": "There are many gray _ _ _ _ _ _ in the sky. It's going to rain",
+      "options": [],
+      "answer": "clouds",
+      "explanation": "Điền “clouds” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “There are many gray clouds in the sky. It's going to rain”."
+    },
+    {
+      "id": 53,
+      "question": "What s_ _ _ _ _ ts do you like? – I like Maths and English",
+      "options": [],
+      "answer": "ubjec",
+      "explanation": "Điền “ubjec” vào phần còn thiếu để ghép thành từ “subjects”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “What subjects do you like? – I like Maths and English”."
+    },
+    {
+      "id": 54,
+      "question": "I have many _ _ _ _ : a cat, a dog, two birds and four goldfish",
+      "options": [],
+      "answer": "pets",
+      "explanation": "Điền “pets” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “I have many pets : a cat, a dog, two birds and four goldfish”."
+    },
+    {
+      "id": 55,
+      "question": "Teacher: Nam, go to the b_ _ _ _ and write your sentence. - Nam: Yes, Miss",
+      "options": [],
+      "answer": "oard",
+      "explanation": "Điền “oard” vào phần còn thiếu để ghép thành từ “board”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Teacher: Nam, go to the board and write your sentence. - Nam: Yes, Miss”."
+    },
+    {
+      "id": 56,
+      "question": "A: How many chairs are there? - B: Let me co_ _ _ them. One, two, three, …. There are five",
+      "options": [],
+      "answer": "unt",
+      "explanation": "Điền “unt” vào phần còn thiếu để ghép thành từ “count”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A: How many chairs are there? - B: Let me count them. One, two, three, …. There are five”."
+    },
+    {
+      "id": 57,
+      "question": "_ _ _ many books on your bookshelf? – There are 10 books",
+      "options": [],
+      "answer": "how",
+      "explanation": "Điền “how” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “How many books on your bookshelf? – There are 10 books”."
+    },
+    {
+      "id": 58,
+      "question": "Does she like f_ _ _ ts? - B: Yes, she does. She likes eating apples very much",
+      "options": [],
+      "answer": "rui",
+      "explanation": "Điền “rui” vào phần còn thiếu để ghép thành từ “fruits”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Does she like fruits? - B: Yes, she does. She likes eating apples very much”."
+    },
+    {
+      "id": 59,
+      "question": "Hoa: What are these? - Nam: They are my sc_ _ _ _ things for this new year",
+      "options": [],
+      "answer": "hool",
+      "explanation": "Điền “hool” vào phần còn thiếu để ghép thành từ “school”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Hoa: What are these? - Nam: They are my school things for this new year”."
+    },
+    {
+      "id": 60,
+      "question": "How many pictures are there _ _ the wall? – There are four pictures",
+      "options": [],
+      "answer": "on",
+      "explanation": "Điền “on” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “How many pictures are there on the wall? – There are four pictures”."
+    },
+    {
+      "id": 61,
+      "question": "_ _ _ many dolls are there in that box? – There are three dolls",
+      "options": [],
+      "answer": "How",
+      "explanation": "Điền “How” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “How many dolls are there in that box? – There are three dolls”."
+    },
+    {
+      "id": 62,
+      "question": "Tim/ doesn’t/ tea./ like/",
+      "options": [],
+      "answer": "Tim doesn’t like tea",
+      "explanation": "Trong câu “Tim doesn’t like tea”, đặt chủ ngữ “Tim” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 63,
+      "question": "and/ my mom./ my/ I love/ dad/",
+      "options": [],
+      "answer": "I love my dad and my mom",
+      "explanation": "Trong câu “I love my dad and my mom”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 64,
+      "question": "A: What is Susan’s ho_ _ y? - B: She likes singing and playing the piano",
+      "options": [],
+      "answer": "bb",
+      "explanation": "Điền “bb” vào phần còn thiếu để ghép thành từ “hobby”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “A: What is Susan’s hobby? - B: She likes singing and playing the piano”."
+    },
+    {
+      "id": 65,
+      "question": "Does/ like/ drinking/ coffee?/ Santa Claus/",
+      "options": [],
+      "answer": "Does Santa Claus like drinking coffee?",
+      "explanation": "Trong câu “Does Santa Claus like drinking coffee?”, đưa “Does” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 66,
+      "question": "yellow/ rubbers/ and/ red pencils./ I love/",
+      "options": [],
+      "answer": "I love yellow rubbers and red pencils",
+      "explanation": "Trong câu “I love yellow rubbers and red pencils”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 67,
+      "question": "days/ a week./ in/ seven/ There are/",
+      "options": [],
+      "answer": "There are seven days in a week",
+      "explanation": "Câu “There are seven days in a week” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 68,
+      "question": "eight/ pictures/ There are/ the classroom./ in",
+      "options": [],
+      "answer": "There are eight pictures in the classroom",
+      "explanation": "Câu “There are eight pictures in the classroom” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 69,
+      "question": "flowers/ There are/ in our/ school./ many/",
+      "options": [],
+      "answer": "There are many flowers in our school",
+      "explanation": "Câu “There are many flowers in our school” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 70,
+      "question": "What/ are/ on/ the shelf?/ those/",
+      "options": [],
+      "answer": "What are those on the shelf?",
+      "explanation": "Trong câu “What are those on the shelf?”, đặt từ hỏi “What” ở đầu, rồi đến “are”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 71,
+      "question": "in the playground/ is playing/ his friends./ with/ John/",
+      "options": [],
+      "answer": "John is playing in the playground with his friends",
+      "explanation": "Trong câu “John is playing in the playground with his friends”, đặt chủ ngữ “John” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 72,
+      "question": "There are/ lake./ in the/ many/ fish/",
+      "options": [],
+      "answer": "There are many fish in the lake",
+      "explanation": "Câu “There are many fish in the lake” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 73,
+      "question": "is large/ new./ Our/ and/ school playground/",
+      "options": [],
+      "answer": "Our school playground is large and new",
+      "explanation": "Trong câu “Our school playground is large and new”, đặt chủ ngữ “Our” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 74,
+      "question": "Peter/ subject/ What/ like best?/ does/",
+      "options": [],
+      "answer": "What subject does Peter like best?",
+      "explanation": "Trong câu “What subject does Peter like best?”, đặt từ hỏi “What” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 75,
+      "question": "your name,/ Loan?/ do you/ spell/ How/",
+      "options": [],
+      "answer": "How do you spell your name, Loan?",
+      "explanation": "Trong câu “How do you spell your name, Loan?”, đặt từ hỏi “How” ở đầu, rồi đến “do”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 76,
+      "question": "are./ your bag/ where/ don’t know/ I/",
+      "options": [],
+      "answer": "I don’t know where your bag are",
+      "explanation": "Trong câu “I don’t know where your bag are”, đặt chủ ngữ “I” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 77,
+      "question": "those/ are/ table?/ What/ the/ on",
+      "options": [],
+      "answer": "What are those on the table?",
+      "explanation": "Trong câu “What are those on the table?”, đặt từ hỏi “What” ở đầu, rồi đến “are”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 78,
+      "question": "don’t/ your bedroom?/ Why/ you/ like",
+      "options": [],
+      "answer": "Why don’t you like your bedroom?",
+      "explanation": "Trong câu “Why don’t you like your bedroom?”, đặt từ hỏi “Why” ở đầu, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 79,
+      "question": "These/ flowers/ beautiful./ are/ very",
+      "options": [],
+      "answer": "These flowers are very beautiful",
+      "explanation": "Trong câu “These flowers are very beautiful”, đặt chủ ngữ “These” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 80,
+      "question": "Do you/ like/ listening/ to/ music?/",
+      "options": [],
+      "answer": "Do you like listening to music?",
+      "explanation": "Trong câu “Do you like listening to music?”, đưa “Do” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 81,
+      "question": "does/ What/ Khai/ after work?/ do",
+      "options": [],
+      "answer": "What does Khai do after work?",
+      "explanation": "Trong câu “What does Khai do after work?”, đặt từ hỏi “What” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 82,
+      "question": "grandparents/ are/ My/ old./ very",
+      "options": [],
+      "answer": "My grandparents are very old",
+      "explanation": "Trong câu “My grandparents are very old”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 83,
+      "question": "years/ is/ old./ My grandfather/ sixty-seven/",
+      "options": [],
+      "answer": "My grandfather is sixty-seven years old",
+      "explanation": "Trong câu “My grandfather is sixty-seven years old”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 84,
+      "question": "like/ play/ Do you/ hide-and-seek?/ to/",
+      "options": [],
+      "answer": "Do you like to play hide-and-seek?",
+      "explanation": "Trong câu “Do you like to play hide-and-seek?”, đưa “Do” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 85,
+      "question": "and Sarah/ playing/ are/ board games./ Linda/",
+      "options": [],
+      "answer": "Linda and Sarah are playing board games",
+      "explanation": "Trong câu “Linda and Sarah are playing board games”, đặt chủ ngữ “Linda” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 86,
+      "question": "John/ in the playground/ his friends./ is playing/ with",
+      "options": [],
+      "answer": "John is playing in the playground with his friends",
+      "explanation": "Trong câu “John is playing in the playground with his friends”, đặt chủ ngữ “John” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 87,
+      "question": "“Tom and Jerry”?/ you/ like/ Do/",
+      "options": [],
+      "answer": "Do you like “Tom and Jerry”?",
+      "explanation": "Trong câu “Do you like “Tom and Jerry”?”, đưa “Do” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 88,
+      "question": "cats./ like/ doesn’t/ My/ brother/",
+      "options": [],
+      "answer": "My brother doesn’t like cats",
+      "explanation": "Trong câu “My brother doesn’t like cats”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 89,
+      "question": "Her/ small/ tidy./ but/ room is/",
+      "options": [],
+      "answer": "Her room is small but tidy",
+      "explanation": "Trong câu “Her room is small but tidy”, đặt chủ ngữ “Her” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 90,
+      "question": "is mine/ the blue one/ is Phong’s./ and/ The red ruler/",
+      "options": [],
+      "answer": "The red ruler is mine and the blue one is Phong’s",
+      "explanation": "Trong câu “The red ruler is mine and the blue one is Phong’s”, đặt chủ ngữ “The” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 91,
+      "question": "Why is Sam happy? - She is ha_ _ y because today is her birthday",
+      "options": [],
+      "answer": "pp",
+      "explanation": "Điền “pp” vào phần còn thiếu để ghép thành từ “happy”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Why is Sam happy? - She is happy because today is her birthday”."
+    },
+    {
+      "id": 92,
+      "question": "some vegetables/ in the garden./ My grandmother/ grows/",
+      "options": [],
+      "answer": "My grandmother grows some vegetables in the garden",
+      "explanation": "Trong câu “My grandmother grows some vegetables in the garden”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 93,
+      "question": "Max and his friends/ in the/ badminton/ play/ playground./",
+      "options": [],
+      "answer": "Max and his friends play badminton in the playground",
+      "explanation": "Trong câu “Max and his friends play badminton in the playground”, đặt chủ ngữ “Max” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 94,
+      "question": "like/ English?/ Alice/ does/ Why/",
+      "options": [],
+      "answer": "Why does Alice like English?",
+      "explanation": "Trong câu “Why does Alice like English?”, đặt từ hỏi “Why” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 95,
+      "question": "play/ Max and his friends/ badminton/ in the/ playground./",
+      "options": [],
+      "answer": "Max and his friends play badminton in the playground",
+      "explanation": "Trong câu “Max and his friends play badminton in the playground”, đặt chủ ngữ “Max” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 96,
+      "question": "doesn't like it./ badminton/ but/ her sister/ Jane likes/",
+      "options": [],
+      "answer": "Jane likes badminton but her sister doesn't like it",
+      "explanation": "Trong câu “Jane likes badminton but her sister doesn't like it”, đặt chủ ngữ “Jane” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 97,
+      "question": "does/ up?/ When/ get/ Hoang/",
+      "options": [],
+      "answer": "When does Hoang get up?",
+      "explanation": "Trong câu “When does Hoang get up?”, đặt từ hỏi “When” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 98,
+      "question": "Why/ bears?/ does/ Nam/ like",
+      "options": [],
+      "answer": "Why does Nam like bears?",
+      "explanation": "Trong câu “Why does Nam like bears?”, đặt từ hỏi “Why” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 99,
+      "question": "Max and his friends/ playground./ badminton/ play/ in the",
+      "options": [],
+      "answer": "Max and his friends play badminton in the playground",
+      "explanation": "Trong câu “Max and his friends play badminton in the playground”, đặt chủ ngữ “Max” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 100,
+      "question": "English?/ Alice/ Why/ does/ like",
+      "options": [],
+      "answer": "Why does Alice like English?",
+      "explanation": "Trong câu “Why does Alice like English?”, đặt từ hỏi “Why” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 101,
+      "question": "chairs and a table/ are/ There/ eight/ in my dining room./",
+      "options": [],
+      "answer": "There are eight chairs and a table in my dining room",
+      "explanation": "Câu “There are eight chairs and a table in my dining room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 102,
+      "question": "Where does Minh study? – He studies at Sunrise Pri_ _ _ _ School",
+      "options": [],
+      "answer": "mary",
+      "explanation": "Điền “mary” vào phần còn thiếu để ghép thành từ “Primary”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Where does Minh study? – He studies at Sunrise Primary School”."
+    },
+    {
+      "id": 103,
+      "question": "and/ in the living room./ There are/ one table/ five chairs/",
+      "options": [],
+      "answer": "There are five chairs and one table in the living room",
+      "explanation": "Câu “There are five chairs and one table in the living room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 104,
+      "question": "eight/ are/ There/ in my dining room./ chairs and a table",
+      "options": [],
+      "answer": "There are eight chairs and a table in my dining room",
+      "explanation": "Câu “There are eight chairs and a table in my dining room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 105,
+      "question": "five chairs/ There are/ one table/ and/ in the living room./",
+      "options": [],
+      "answer": "There are five chairs and one table in the living room",
+      "explanation": "Câu “There are five chairs and one table in the living room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 106,
+      "question": "but/ It’s sunny/ in Ha Noi/ it’s rainy/ in Ho Chi Minh City./",
+      "options": [],
+      "answer": "It’s sunny in Ha Noi but it’s rainy in Ho Chi Minh City",
+      "explanation": "Trong câu “It’s sunny in Ha Noi but it’s rainy in Ho Chi Minh City”, đặt chủ ngữ “It” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 107,
+      "question": "planting some flowers/ the garden./ My grandmother/ in/ is/",
+      "options": [],
+      "answer": "My grandmother is planting some flowers in the garden",
+      "explanation": "Trong câu “My grandmother is planting some flowers in the garden”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 108,
+      "question": "Linda/ like/ play/ guitar",
+      "options": [
+        "A. Linda likes playing guitar",
+        "B. Linda like playing the guitar",
+        "C. Linda likes playing a guitar",
+        "D. Linda like playing guitar"
+      ],
+      "answer": "A. Linda likes playing guitar",
+      "explanation": "Trong câu “Linda likes playing guitar”, đặt chủ ngữ “Linda” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 109,
+      "question": "four paintings/ and a big poster/ on/ There are/ the wall./",
+      "options": [],
+      "answer": "There are four paintings and a big poster on the wall",
+      "explanation": "Câu “There are four paintings and a big poster on the wall” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 110,
+      "question": "Hoa: Where does Minh study? - Nga: He studies at Le Ngoc Han Pri_ _ _ _ School",
+      "options": [],
+      "answer": "mary",
+      "explanation": "Điền “mary” vào phần còn thiếu để ghép thành từ “Primary”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Hoa: Where does Minh study? - Nga: He studies at Le Ngoc Han Primary School”."
+    },
+    {
+      "id": 111,
+      "question": "Why does/ usually/ go to/ Jimmy/ the zoo?/",
+      "options": [],
+      "answer": "Why does Jimmy usually go to the zoo?",
+      "explanation": "Trong câu “Why does Jimmy usually go to the zoo?”, đặt từ hỏi “Why” ở đầu, rồi đến “does”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 112,
+      "question": "in my dining room./ chairs and a table/ There/ are/ eight/",
+      "options": [],
+      "answer": "There are eight chairs and a table in my dining room",
+      "explanation": "Câu “There are eight chairs and a table in my dining room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 113,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. play basketball",
+        "B. listening to music",
+        "C. drawing a picture",
+        "D. reading a book"
+      ],
+      "answer": "A. play basketball",
+      "explanation": "“play basketball” là từ/cụm từ khác nhóm: play basketball dùng động từ nguyên mẫu, còn ba cụm kia dùng động từ dạng V-ing."
+    },
+    {
+      "id": 114,
+      "question": "brother/ and sister?/ are/ Where/ your/",
+      "options": [],
+      "answer": "Where are your brother and sister?",
+      "explanation": "Trong câu “Where are your brother and sister?”, đặt từ hỏi “Where” ở đầu, rồi đến “are”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 115,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. balloon",
+        "B. yo-yo",
+        "C. doll",
+        "D. school"
+      ],
+      "answer": "D. school",
+      "explanation": "“school” không thuộc nhóm đồ chơi; ba từ còn lại là “balloon”, “yo-yo”, “doll”, đều thuộc nhóm này."
+    },
+    {
+      "id": 116,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. school",
+        "B. library",
+        "C. classroom",
+        "D. mother"
+      ],
+      "answer": "D. mother",
+      "explanation": "“mother” không thuộc nhóm địa điểm cụ thể; ba từ còn lại là “school”, “library”, “classroom”, đều thuộc nhóm này."
+    },
+    {
+      "id": 117,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. skipping",
+        "B. running",
+        "C. cutting",
+        "D. looking"
+      ],
+      "answer": "D. looking",
+      "explanation": "“looking” là từ/cụm từ khác nhóm: looking là hoạt động quan sát, còn ba từ kia diễn tả vận động hoặc thao tác."
+    },
+    {
+      "id": 118,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. lunch",
+        "B. breakfast",
+        "C. doll",
+        "D. dinner"
+      ],
+      "answer": "C. doll",
+      "explanation": "“doll” không thuộc nhóm bữa ăn; ba từ còn lại là “lunch”, “breakfast”, “dinner”, đều thuộc nhóm này."
+    },
+    {
+      "id": 119,
+      "question": "chairs and a table/ There/ in my dining room./ eight/ are/",
+      "options": [],
+      "answer": "There are eight chairs and a table in my dining room",
+      "explanation": "Câu “There are eight chairs and a table in my dining room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 120,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. write",
+        "B. sit",
+        "C. read",
+        "D. ruler"
+      ],
+      "answer": "D. ruler",
+      "explanation": "“ruler” không thuộc nhóm động từ chỉ hoạt động; ba từ còn lại là “write”, “sit”, “read”, đều thuộc nhóm này."
+    },
+    {
+      "id": 121,
+      "question": "There are/ and/ five chairs/ one table/ in the living room./",
+      "options": [],
+      "answer": "There are five chairs and one table in the living room",
+      "explanation": "Câu “There are five chairs and one table in the living room” dùng cấu trúc “There are + danh từ + nơi chốn” để nói có người/vật ở đâu."
+    },
+    {
+      "id": 122,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Don’t talk!",
+        "B. Be quiet!",
+        "C. Keep silent!",
+        "D. Stand up!"
+      ],
+      "answer": "D. Stand up!",
+      "explanation": "“Stand up!” là từ/cụm từ khác nhóm: Stand up! yêu cầu đứng lên, còn ba câu kia đều yêu cầu giữ im lặng."
+    },
+    {
+      "id": 123,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. black",
+        "B. stand",
+        "C. read",
+        "D. listen"
+      ],
+      "answer": "A. black",
+      "explanation": "“black” không thuộc nhóm động từ chỉ hoạt động; ba từ còn lại là “stand”, “read”, “listen”, đều thuộc nhóm này."
+    },
+    {
+      "id": 124,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. blind man’s bluff",
+        "B. chess",
+        "C. hide-and-seek",
+        "D. skating"
+      ],
+      "answer": "D. skating",
+      "explanation": "“skating” không thuộc nhóm trò chơi; ba từ còn lại là “blind man’s bluff”, “chess”, “hide-and-seek”, đều thuộc nhóm này."
+    },
+    {
+      "id": 125,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Mother",
+        "B. Father",
+        "C. Teacher",
+        "D. Grandmother"
+      ],
+      "answer": "C. Teacher",
+      "explanation": "“Teacher” không thuộc nhóm thành viên gia đình; ba từ còn lại là “Mother”, “Father”, “Grandmother”, đều thuộc nhóm này."
+    },
+    {
+      "id": 126,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. play",
+        "B. quiet",
+        "C. talk",
+        "D. stand"
+      ],
+      "answer": "B. quiet",
+      "explanation": "“quiet” không thuộc nhóm động từ chỉ hoạt động; ba từ còn lại là “play”, “talk”, “stand”, đều thuộc nhóm này."
+    },
+    {
+      "id": 127,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. Vietnam",
+        "B. England",
+        "C. America",
+        "D. Vietnamese"
+      ],
+      "answer": "D. Vietnamese",
+      "explanation": "“Vietnamese” không thuộc nhóm quốc gia; ba từ còn lại là “Vietnam”, “England”, “America”, đều thuộc nhóm này."
+    },
+    {
+      "id": 128,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. how",
+        "B. many",
+        "C. what",
+        "D. where"
+      ],
+      "answer": "B. many",
+      "explanation": "“many” không thuộc nhóm từ để hỏi; ba từ còn lại là “how”, “what”, “where”, đều thuộc nhóm này."
+    },
+    {
+      "id": 129,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. on",
+        "B. where",
+        "C. under",
+        "D. behind"
+      ],
+      "answer": "B. where",
+      "explanation": "“where” không thuộc nhóm giới từ; ba từ còn lại là “on”, “under”, “behind”, đều thuộc nhóm này."
+    },
+    {
+      "id": 130,
+      "question": "What toys/ not/ he/ like?",
+      "options": [
+        "A. What toys doesn’t he like?",
+        "B. What toys don’t he likes?",
+        "C. What toys isn’t he like?",
+        "D. What toys aren’t he likes?"
+      ],
+      "answer": "A. What toys doesn’t he like?",
+      "explanation": "Trong câu “What toys doesn’t he like?”, đặt từ hỏi “What” ở đầu, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
+    },
+    {
+      "id": 131,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. eraser",
+        "B. notebook",
+        "C. crayon",
+        "D. England"
+      ],
+      "answer": "D. England",
+      "explanation": "“England” không thuộc nhóm đồ dùng học tập hoặc lớp học; ba từ còn lại là “eraser”, “notebook”, “crayon”, đều thuộc nhóm này."
+    },
+    {
+      "id": 132,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. America",
+        "B. England",
+        "C. Vietnamese",
+        "D. Singapore"
+      ],
+      "answer": "C. Vietnamese",
+      "explanation": "“Vietnamese” không thuộc nhóm quốc gia; ba từ còn lại là “America”, “England”, “Singapore”, đều thuộc nhóm này."
+    },
+    {
+      "id": 133,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. grandfather",
+        "B. teacher",
+        "C. uncle",
+        "D. cousin"
+      ],
+      "answer": "B. teacher",
+      "explanation": "“teacher” không thuộc nhóm thành viên gia đình; ba từ còn lại là “grandfather”, “uncle”, “cousin”, đều thuộc nhóm này."
+    },
+    {
+      "id": 134,
+      "question": "Hi, how are you? – I’m very ..., thanks",
+      "options": [
+        "A. when",
+        "B. well",
+        "C. and",
+        "D. how"
+      ],
+      "answer": "B. well",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “well” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 135,
+      "question": "Where’s she today? -",
+      "options": [
+        "A. She’s at school",
+        "B. Yes. She’s from America",
+        "C. She’s nine years old today",
+        "D. She can swim"
+      ],
+      "answer": "A. She’s at school",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “She’s at school” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 136,
+      "question": "… do you play badminton with?",
+      "options": [
+        "A. Whom",
+        "B. When",
+        "C. Which",
+        "D. What"
+      ],
+      "answer": "A. Whom",
+      "explanation": "Từ/cụm hỏi “Whom” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “Whom do you play badminton with?” khớp nghĩa."
+    },
+    {
+      "id": 137,
+      "question": "When is your birthday? - …",
+      "options": [
+        "A. It’s on September",
+        "B. It’s in October",
+        "C. It’s second of June",
+        "D. It’s in third of June"
+      ],
+      "answer": "B. It’s in October",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “It’s in October” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 138,
+      "question": "At break time, we play many games and sports such as hide-and-seek, football and _____",
+      "options": [
+        "A. lunch room",
+        "B. table tennis",
+        "C. computer",
+        "D. eraser"
+      ],
+      "answer": "B. table tennis",
+      "explanation": "“Such as” dùng để nêu ví dụ cùng nhóm. “table tennis” thuộc đúng nhóm sự vật/hoạt động đang được liệt kê trong “At break time, we play many games and sports such as hide-and-seek, football and table tennis”."
+    },
+    {
+      "id": 139,
+      "question": "Reorder the words to make a complete sentence: friend / My / playing / likes / badminton",
+      "options": [
+        "A. Friend my likes playing badminton",
+        "B. My friend likes playing badminton",
+        "C. My friend likes badminton playing",
+        "D. Playing badminton my friend likes"
+      ],
+      "answer": "B. My friend likes playing badminton",
+      "explanation": "Trong câu “My friend likes playing badminton”, đặt chủ ngữ “My” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 140,
+      "question": "May I help you? - …",
+      "options": [
+        "A. Yes, please. Can you give me a hand?",
+        "B. I don’t like too",
+        "C. No, you are not",
+        "D. No, I can’t. Please go away"
+      ],
+      "answer": "A. Yes, please. Can you give me a hand?",
+      "explanation": "Đây là lời xin phép với “May I ...?”. “Yes, please. Can you give me a hand?” là cách cho phép hoặc hồi đáp lịch sự phù hợp với tình huống."
+    },
+    {
+      "id": 141,
+      "question": "How old is his grandmother? - _______",
+      "options": [
+        "A. She's fine",
+        "B. There are some tables in the room",
+        "C. She's sixty now",
+        "D. Thank you very much"
+      ],
+      "answer": "C. She's sixty now",
+      "explanation": "Cấu trúc hỏi/đáp về tuổi dùng “How old ...?” hoặc “... years old”. “She's sixty now” hoàn thành đúng mẫu đó trong “How old is his grandmother? - She's sixty now”."
+    },
+    {
+      "id": 142,
+      "question": "A: How do you spell your … name?- B: … Carter",
+      "options": [
+        "A. family - It’s",
+        "B. surname - I’m",
+        "C. first - He’s",
+        "D. full - That’s"
+      ],
+      "answer": "A. family - It’s",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “family - It’s” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 143,
+      "question": "Mary: Hello, Sam. … are you? - Sam: Hi, Mary. I’m very … . Thanks",
+      "options": [
+        "A. How - well",
+        "B. Who - fine",
+        "C. What – so-so",
+        "D. Where - OK"
+      ],
+      "answer": "A. How - well",
+      "explanation": "Từ/cụm hỏi “How - well” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “Mary: Hello, Sam. How are you? - Sam: Hi, Mary. I’m very well. Thanks” khớp nghĩa."
+    },
+    {
+      "id": 144,
+      "question": "… does your father do in his free time? – He plays tennis",
+      "options": [
+        "A. What",
+        "B. Who",
+        "C. When",
+        "D. Where"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What does your father do in his free time? – He plays tennis” khớp nghĩa."
+    },
+    {
+      "id": 145,
+      "question": "Do you have any pets?",
+      "options": [
+        "A. Yes, I am. I have two parrots",
+        "B. Yes, I have. I have a yo-yo",
+        "C. Yes, I do. I have one cat and one rabbit",
+        "D. Yes. I don’t have any pets"
+      ],
+      "answer": "C. Yes, I do. I have one cat and one rabbit",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “Yes, I do. I have one cat and one rabbit” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 146,
+      "question": "Which sentence is correct?",
+      "options": [
+        "A. Santa Claus flying over the town",
+        "B. Santa Claus is riding his sleigh",
+        "C. Santa Claus is ride a reindeer",
+        "D. Santa Claus is walking in the sky"
+      ],
+      "answer": "B. Santa Claus is riding his sleigh",
+      "explanation": "Phương án “Santa Claus is riding his sleigh” có đủ chủ ngữ và động từ, đồng thời đúng trật tự từ. Đây là câu hoàn chỉnh và tự nhiên trong tiếng Anh."
+    },
+    {
+      "id": 147,
+      "question": "A: Is your school …? – B: Yes, there are four big buildings and a big schoolyard",
+      "options": [
+        "A. small",
+        "B. little",
+        "C. large",
+        "D. narrow"
+      ],
+      "answer": "C. large",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “large” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 148,
+      "question": "____ do you like? - This one",
+      "options": [
+        "A. What",
+        "B. Where",
+        "C. How",
+        "D. Which"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What do you like? - This one” khớp nghĩa."
+    },
+    {
+      "id": 149,
+      "question": "My mother buys many school things such as notebooks, pens, pencils and _________",
+      "options": [
+        "A. hamburger",
+        "B. shoes",
+        "C. balls",
+        "D. rubbers"
+      ],
+      "answer": "D. rubbers",
+      "explanation": "“Such as” dùng để nêu ví dụ cùng nhóm. “rubbers” thuộc đúng nhóm sự vật/hoạt động đang được liệt kê trong “My mother buys many school things such as notebooks, pens, pencils and rubbers”."
+    },
+    {
+      "id": 150,
+      "question": "'Do you play badminton at break time?' - '_________.'",
+      "options": [
+        "A. No, you can’t",
+        "B. Yes, you do",
+        "C. Yes, I do",
+        "D. Yes, I am"
+      ],
+      "answer": "C. Yes, I do",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “Yes, I do” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 151,
+      "question": "Why ... we come and visit Uncle Tom? - That’s a good idea",
+      "options": [
+        "A. don’t",
+        "B. have",
+        "C. do",
+        "D. aren’t"
+      ],
+      "answer": "A. don’t",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “don’t” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 152,
+      "question": "Students all ________ when their English teacher comes in",
+      "options": [
+        "A. stand up",
+        "B. sit down",
+        "C. go out",
+        "D. come in"
+      ],
+      "answer": "A. stand up",
+      "explanation": "“Stand up” nghĩa là “đứng lên”, phù hợp với hành động học sinh thực hiện khi giáo viên bước vào. Câu đúng là “Students all stand up when their English teacher comes in”."
+    },
+    {
+      "id": 153,
+      "question": "_____ is your grandmother? - She's in the dining room",
+      "options": [
+        "A. What",
+        "B. When",
+        "C. How",
+        "D. Where"
+      ],
+      "answer": "D. Where",
+      "explanation": "Từ/cụm hỏi “Where” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “Where is your grandmother? - She's in the dining room” khớp nghĩa."
+    },
+    {
+      "id": 154,
+      "question": "… does your father get to work? – By taxi",
+      "options": [
+        "A. What",
+        "B. Where",
+        "C. How",
+        "D. Which"
+      ],
+      "answer": "C. How",
+      "explanation": "Từ/cụm hỏi “How” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “How does your father get to work? – By taxi” khớp nghĩa."
+    },
+    {
+      "id": 155,
+      "question": "What does your mother do? – She …",
+      "options": [
+        "A. She does homework",
+        "B. She is a cook",
+        "C. She works hard",
+        "D. Well, she is nice"
+      ],
+      "answer": "B. She is a cook",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “She is a cook” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 156,
+      "question": "A: … is your school? - B: … is big and new",
+      "options": [
+        "A. Where – He",
+        "B. How – It",
+        "C. What – She",
+        "D. Who - That"
+      ],
+      "answer": "B. How – It",
+      "explanation": "Từ/cụm hỏi “How – It” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “A: How – It is your school? - B: … is big and new” khớp nghĩa."
+    },
+    {
+      "id": 157,
+      "question": "_____ is Jack from? - He's from England",
+      "options": [
+        "A. What",
+        "B. When",
+        "C. How",
+        "D. Where"
+      ],
+      "answer": "D. Where",
+      "explanation": "Từ/cụm hỏi “Where” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “Where is Jack from? - He's from England” khớp nghĩa."
+    },
+    {
+      "id": 158,
+      "question": "Choose the correct sentence",
+      "options": [
+        "A. I like playing chess at break time",
+        "B. I like play chess at break time",
+        "C. I like playing chess on break time",
+        "D. I like playing a chess at break time"
+      ],
+      "answer": "A. I like playing chess at break time",
+      "explanation": "Phương án “I like playing chess at break time” có đủ chủ ngữ và động từ, đồng thời đúng trật tự từ. Đây là câu hoàn chỉnh và tự nhiên trong tiếng Anh."
+    },
+    {
+      "id": 159,
+      "question": "Students all … when their English teacher comes in",
+      "options": [
+        "A. stand up",
+        "B. go out",
+        "C. sit down",
+        "D. come in"
+      ],
+      "answer": "A. stand up",
+      "explanation": "“Stand up” nghĩa là “đứng lên”, phù hợp với hành động học sinh thực hiện khi giáo viên bước vào. Câu đúng là “Students all stand up when their English teacher comes in”."
+    },
+    {
+      "id": 160,
+      "question": "Why don’t you like the weather there? – … it’s too cold",
+      "options": [
+        "A. So",
+        "B. But",
+        "C. And",
+        "D. Because"
+      ],
+      "answer": "D. Because",
+      "explanation": "Sau động từ khuyết thiếu hoặc cấu trúc đề nghị dùng động từ nguyên mẫu. “Because” giữ nguyên dạng nên câu “Why don’t you like the weather there? – Because it’s too cold” đúng."
+    },
+    {
+      "id": 161,
+      "question": "Where is Sandra? – ... at school",
+      "options": [
+        "A. He",
+        "B. She",
+        "C. He’s",
+        "D. She’s"
+      ],
+      "answer": "D. She’s",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “She’s” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 162,
+      "question": "How are you, David? - …",
+      "options": [
+        "A. I am six years old",
+        "B. I am fine, thanks",
+        "C. I like blue and green",
+        "D. I am in the classroom"
+      ],
+      "answer": "B. I am fine, thanks",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “I am fine, thanks” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 163,
+      "question": "How many chairs are there in your living room? - _______",
+      "options": [
+        "A. I'm great today",
+        "B. There are five chairs",
+        "C. There are two days",
+        "D. It's large and big"
+      ],
+      "answer": "B. There are five chairs",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “There are five chairs” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 164,
+      "question": "… do you do at lunch time?",
+      "options": [
+        "A. What",
+        "B. How",
+        "C. Where",
+        "D. When"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What do you do at lunch time?” khớp nghĩa."
+    },
+    {
+      "id": 165,
+      "question": "_______ pet do you like? – I like cats",
+      "options": [
+        "A. What",
+        "B. Who",
+        "C. Where",
+        "D. When"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What pet do you like? – I like cats” khớp nghĩa."
+    },
+    {
+      "id": 166,
+      "question": "Tony ... football at break time but today he … basketball",
+      "options": [
+        "A. plays - is playing",
+        "B. plays - plays",
+        "C. is playing - plays",
+        "D. is playing - is playing"
+      ],
+      "answer": "A. plays - is playing",
+      "explanation": "“plays - is playing” diễn tả hoạt động phù hợp với động từ “like” hoặc hành động đang diễn ra. Dạng động từ trong “Tony plays football at break time but today he is playing basketball” đúng với cấu trúc của câu."
+    },
+    {
+      "id": 167,
+      "question": "do you learn how to write? – At school",
+      "options": [
+        "A. What",
+        "B. Where",
+        "C. How",
+        "D. When"
+      ],
+      "answer": "B. Where",
+      "explanation": "Từ/cụm hỏi “Where” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “Where do you learn how to write? – At school” khớp nghĩa."
+    },
+    {
+      "id": 168,
+      "question": "________ subjects do you like the most?",
+      "options": [
+        "A. What",
+        "B. When",
+        "C. Why",
+        "D. Who"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What subjects do you like the most?” khớp nghĩa."
+    },
+    {
+      "id": 169,
+      "question": "My little brother often … his kite when he’s not busy",
+      "options": [
+        "A. does",
+        "B. plays",
+        "C. goes",
+        "D. flies"
+      ],
+      "answer": "D. flies",
+      "explanation": "Chủ ngữ trong câu quyết định dạng động từ hiện tại đơn. “flies” là dạng hòa hợp đúng, nên câu hoàn chỉnh là “My little brother often flies his kite when he’s not busy”."
+    },
+    {
+      "id": 170,
+      "question": "A: … do you go shopping? – B: Once a week",
+      "options": [
+        "A. How many",
+        "B. What",
+        "C. How often",
+        "D. When"
+      ],
+      "answer": "C. How often",
+      "explanation": "Từ/cụm hỏi “How often” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “A: How often do you go shopping? – B: Once a week” khớp nghĩa."
+    },
+    {
+      "id": 171,
+      "question": "… subjects do you have on Friday?",
+      "options": [
+        "A. What",
+        "B. How",
+        "C. Who",
+        "D. Where"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What subjects do you have on Friday?” khớp nghĩa."
+    },
+    {
+      "id": 172,
+      "question": "Is it the music room? - …. It’s the computer room",
+      "options": [
+        "A. Yes, it is",
+        "B. No, it isn’t",
+        "C. No, it doesn’t",
+        "D. Yes, it does"
+      ],
+      "answer": "B. No, it isn’t",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “No, it isn’t” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 173,
+      "question": "A: What are you doing, Daniel? - B: …",
+      "options": [
+        "A. He is listening to the radio",
+        "B. Daniel is listening to the radio",
+        "C. I’m listening to the radio",
+        "D. You are listening to the radio"
+      ],
+      "answer": "C. I’m listening to the radio",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “I’m listening to the radio” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 174,
+      "question": "Do you like the new girl? - …",
+      "options": [
+        "A. Yes, he is very friendly",
+        "B. Yes, I do. She is very funny",
+        "C. Yes, he is nice",
+        "D. No, I like"
+      ],
+      "answer": "B. Yes, I do. She is very funny",
+      "explanation": "“Yes, I do. She is very funny” diễn tả hoạt động phù hợp với động từ “like” hoặc hành động đang diễn ra. Dạng động từ trong “Do you like the new girl? - Yes, I do. She is very funny” đúng với cấu trúc của câu."
+    },
+    {
+      "id": 175,
+      "question": "… do you go to school? – It’s early in the morning",
+      "options": [
+        "A. What",
+        "B. Which",
+        "C. How",
+        "D. When"
+      ],
+      "answer": "D. When",
+      "explanation": "Từ/cụm hỏi “When” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “When do you go to school? – It’s early in the morning” khớp nghĩa."
+    },
+    {
+      "id": 176,
+      "question": "Hello, I am Mai. - …",
+      "options": [
+        "A. Goodbye and see you later",
+        "B. I don’t know",
+        "C. Hi, I am fine. Thanks",
+        "D. Nice to see you"
+      ],
+      "answer": "D. Nice to see you",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “Nice to see you” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 177,
+      "question": "Where do you live? – I live … 107 Tran Dang Ninh Street with my parents",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. at",
+        "D. to"
+      ],
+      "answer": "C. at",
+      "explanation": "Chọn giới từ “at” để tạo cụm đúng, mang nghĩa at school/at break time hoặc địa chỉ cụ thể. Cụm này được dùng chính xác trong “Where do you live? – I live at 107 Tran Dang Ninh Street with my parents”."
+    },
+    {
+      "id": 178,
+      "question": "? - He’s from France",
+      "options": [
+        "A. Where is he from",
+        "B. What’s his name",
+        "C. What does he do",
+        "D. What’s his nationality"
+      ],
+      "answer": "A. Where is he from",
+      "explanation": "Từ/cụm hỏi “Where is he from” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “Where is he from? - He’s from France” khớp nghĩa."
+    },
+    {
+      "id": 179,
+      "question": "… subjects do you have on Tuesday?",
+      "options": [
+        "A. What",
+        "B. How",
+        "C. Who",
+        "D. When"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What subjects do you have on Tuesday?” khớp nghĩa."
+    },
+    {
+      "id": 180,
+      "question": "Where ______ you _______ on Sundays?",
+      "options": [
+        "A. do – do",
+        "B. does – do",
+        "C. does - go",
+        "D. do - go"
+      ],
+      "answer": "D. do - go",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “do - go” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 181,
+      "question": "Where … the candles? – They are on the cake",
+      "options": [
+        "A. do",
+        "B. does",
+        "C. are",
+        "D. is"
+      ],
+      "answer": "C. are",
+      "explanation": "Dùng “are” vì câu có chủ ngữ số nhiều hoặc “you”. Động từ “to be” phải hòa hợp với chủ ngữ, như trong “Where are the candles? – They are on the cake”."
+    },
+    {
+      "id": 182,
+      "question": "… do you like to play? – I like to play hide-and-seek",
+      "options": [
+        "A. What",
+        "B. Where",
+        "C. When",
+        "D. How"
+      ],
+      "answer": "A. What",
+      "explanation": "Từ/cụm hỏi “What” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “What do you like to play? – I like to play hide-and-seek” khớp nghĩa."
+    },
+    {
+      "id": 183,
+      "question": "How are you, Tommy? -",
+      "options": [
+        "A. I’m ten years old",
+        "B. She’s my sister",
+        "C. I’m fine, thank you. And you?",
+        "D. See you later"
+      ],
+      "answer": "C. I’m fine, thank you. And you?",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “I’m fine, thank you. And you?” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 184,
+      "question": "A: …? - B: No, he isn’t",
+      "options": [
+        "A. Does your father work on the farm?",
+        "B. Is that your father?",
+        "C. Is your father watching TV?",
+        "D. Does your father have any pets?"
+      ],
+      "answer": "C. Is your father watching TV?",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “Is your father watching TV?” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 185,
+      "question": "Are these your ______? – No, they ______",
+      "options": [
+        "A. rubber – are",
+        "B. rubber – is",
+        "C. rubbers – don’t",
+        "D. rubbers – aren’t"
+      ],
+      "answer": "D. rubbers – aren’t",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “rubbers – aren’t” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 186,
+      "question": "Do you like to play badminton? - …",
+      "options": [
+        "A. Let’s see",
+        "B. Sure. Let’s play",
+        "C. I can’t do that",
+        "D. I am fine. Thanks"
+      ],
+      "answer": "B. Sure. Let’s play",
+      "explanation": "“Sure. Let’s play” diễn tả hoạt động phù hợp với động từ “like” hoặc hành động đang diễn ra. Dạng động từ trong “Do you like to play badminton? - Sure. Let’s play” đúng với cấu trúc của câu."
+    },
+    {
+      "id": 187,
+      "question": "A: … - B: I like badminton",
+      "options": [
+        "A. What sport do you like?",
+        "B. Do you like badminton?",
+        "C. Why do you like badminton?",
+        "D. What do you do at break time?"
+      ],
+      "answer": "A. What sport do you like?",
+      "explanation": "Từ/cụm hỏi “What sport do you like?” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “A: What sport do you like? - B: I like badminton” khớp nghĩa."
+    },
+    {
+      "id": 188,
+      "question": "When the teacher wants my class not to talk, she says: ’’…’’",
+      "options": [
+        "A. Be quiet!",
+        "B. Come here!",
+        "C. Sit down!",
+        "D. Stand up!"
+      ],
+      "answer": "A. Be quiet!",
+      "explanation": "Trong ngữ cảnh cụ thể của câu “When the teacher wants my class not to talk, she says: ’’Be quiet!’’”, “Be quiet!” có đúng nghĩa và đúng vị trí từ loại; các lựa chọn còn lại không tạo được cách diễn đạt tự nhiên tương đương."
+    },
+    {
+      "id": 189,
+      "question": "Choose the incorrect word(s) in the following sentence: My uncle is thirty year old",
+      "options": [
+        "A. My",
+        "B. is",
+        "C. year",
+        "D. old"
+      ],
+      "answer": "C. year",
+      "explanation": "Sau số “thirty”, danh từ “year” phải ở số nhiều: “thirty years old”."
+    },
+    {
+      "id": 190,
+      "question": "Where are your pens and pencils?",
+      "options": [
+        "A. They're the bag",
+        "B. They on the bag",
+        "C. They're in the bag",
+        "D. They are on bag"
+      ],
+      "answer": "C. They're in the bag",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “They're in the bag” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 191,
+      "question": "What toys do you have?",
+      "options": [
+        "A. I have a dog, a cat and a rabbit",
+        "B. I have a doll, a teddy bear and a yo-yo",
+        "C. I have a book, a yo-yo and a toy train",
+        "D. I have a doll, a dog and a goldfish"
+      ],
+      "answer": "B. I have a doll, a teddy bear and a yo-yo",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “I have a doll, a teddy bear and a yo-yo” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 192,
+      "question": "Do you like my new red dress? - …",
+      "options": [
+        "A. Where is from?",
+        "B. No, it isn’t",
+        "C. Yes, it looks good on you",
+        "D. Of course, I am"
+      ],
+      "answer": "C. Yes, it looks good on you",
+      "explanation": "“Yes, it looks good on you” diễn tả hoạt động phù hợp với động từ “like” hoặc hành động đang diễn ra. Dạng động từ trong “Do you like my new red dress? - Yes, it looks good on you” đúng với cấu trúc của câu."
+    },
+    {
+      "id": 193,
+      "question": "Choose the incorrect word(s) in the following sentence: What do Linda do after school? – She cooks",
+      "options": [
+        "A. do",
+        "B. do after",
+        "C. She",
+        "D. cooks"
+      ],
+      "answer": "A. do",
+      "explanation": "Linda là ngôi thứ ba số ít nên câu hỏi hiện tại đơn dùng “does”; động từ chính sau “does” vẫn là “do”."
+    },
+    {
+      "id": 194,
+      "question": "______ - There are two pens over there",
+      "options": [
+        "A. What are over there?",
+        "B. Where are two pens?",
+        "C. Are there any pens over there?",
+        "D. How many pens are there over there?"
+      ],
+      "answer": "D. How many pens are there over there?",
+      "explanation": "Từ/cụm hỏi “How many pens are there over there?” phù hợp với loại thông tin ở câu trả lời: sự vật/hoạt động, nơi chốn, thời gian, lý do, cách thức hoặc người. Vì vậy cặp hỏi–đáp “How many pens are there over there? - There are two pens over there” khớp nghĩa."
+    },
+    {
+      "id": 195,
+      "question": "A: Is there a cupboard or a wardrobe in your bedroom? - B: …",
+      "options": [
+        "A. Yes, there is",
+        "B. There are both of them",
+        "C. My clothes are in the wardrobe",
+        "D. My toys are in the cupboard"
+      ],
+      "answer": "B. There are both of them",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “There are both of them” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 196,
+      "question": "Peter/ Linda/ hide-and-seek/ now",
+      "options": [
+        "A. Peter and Linda is playing hide-and-seek now",
+        "B. Peter and Linda are playing with hide-and-seek now",
+        "C. Peter and Linda playing hide-and-seek now",
+        "D. Peter and Linda are playing hide-and-seek now"
+      ],
+      "answer": "D. Peter and Linda are playing hide-and-seek now",
+      "explanation": "Trong câu “Peter and Linda are playing hide-and-seek now”, đặt chủ ngữ “Peter” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
+    },
+    {
+      "id": 197,
+      "question": "A: Where’s my school bag, Mum? - B:",
+      "options": [
+        "A. It’s very big and pretty",
+        "B. It’s red and orange",
+        "C. I have a small school bag",
+        "D. I don’t know, son"
+      ],
+      "answer": "D. I don’t know, son",
+      "explanation": "Câu hỏi yêu cầu một câu trả lời đúng trọng tâm. “I don’t know, son” cung cấp đúng loại thông tin và đúng mẫu ngữ pháp, nên tạo thành cặp hỏi–đáp hợp lý."
+    },
+    {
+      "id": 198,
+      "question": "Choose the INCORRECT word or phrase in the following sentence: Our living room are very big and beautiful",
+      "options": [
+        "A. are",
+        "B. very",
+        "C. and",
+        "D. beautiful"
+      ],
+      "answer": "A. are",
+      "explanation": "Chủ ngữ “Our living room” là số ít nên dùng “is”, không dùng “are”."
+    },
+    {
+      "id": 199,
+      "question": "Choose the incorrect word(s) in the following sentence: My friend, Quynh, doesn’t has any comic books",
+      "options": [
+        "A. My",
+        "B. has",
+        "C. any",
+        "D. books"
+      ],
+      "answer": "B. has",
+      "explanation": "Sau trợ động từ “doesn’t”, động từ chính phải ở nguyên mẫu: “have”, không dùng “has”."
+    },
+    {
+      "id": 200,
+      "question": "Choose the incorrect word(s) in the following sentence: There are one robot in my house. Its name is Toro",
+      "options": [
+        "A. are",
+        "B. in",
+        "C. Its",
+        "D. is"
+      ],
+      "answer": "A. are",
+      "explanation": "“One robot” là số ít nên cấu trúc đúng là “There is”, không phải “There are”."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
