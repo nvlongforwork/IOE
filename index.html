@@ -474,7 +474,7 @@
             appState.examRoundText = document.getElementById('exam-round').options[document.getElementById('exam-round').selectedIndex].text;
 
             const topic = mode.split('-')[1];
-            const fileName = `json${grade}.vong${round}.${topic}.json`;
+            const fileName = `data/lop${grade}/json${grade}.vong${round}.${topic}.json`;
 
             const qs = await fetchQuestions(fileName, 200);
             if (qs && qs.length>0) {
