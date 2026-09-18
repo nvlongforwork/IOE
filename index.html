@@ -178,6 +178,28 @@
             </div>
         </header>
 
+        <!-- Info Strip -->
+        <div id="quiz-info-strip" class="bg-gray-50 border-b border-gray-100 px-3 sm:px-6 py-2 shrink-0 overflow-x-auto">
+            <div class="flex items-center gap-2 min-w-max">
+                <span class="inline-flex items-center gap-1.5 bg-white border border-gray-200 text-gray-700 text-xs font-medium px-2.5 py-1 rounded-full">
+                    <i class="fas fa-user text-ruby text-[10px]"></i>
+                    <span id="info-name">-</span>
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white border border-gray-200 text-gray-700 text-xs font-medium px-2.5 py-1 rounded-full">
+                    <i class="fas fa-school text-ruby text-[10px]"></i>
+                    <span id="info-grade">-</span>
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white border border-gray-200 text-gray-700 text-xs font-medium px-2.5 py-1 rounded-full">
+                    <i class="fas fa-flag text-ruby text-[10px]"></i>
+                    <span id="info-round">-</span>
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-ruby text-white text-xs font-semibold px-2.5 py-1 rounded-full">
+                    <i class="fas fa-book-open text-[10px]"></i>
+                    <span id="info-topic">-</span>
+                </span>
+            </div>
+        </div>
+
         <!-- Progress Bar -->
         <div class="w-full bg-gray-200 h-1.5 shrink-0">
             <div id="progress-bar" class="bg-ruby h-full transition-all duration-500 ease-out w-0"></div>
@@ -474,6 +496,7 @@
             appState.examRoundText = document.getElementById('exam-round').options[document.getElementById('exam-round').selectedIndex].text;
 
             const topic = mode.split('-')[1];
+            appState.topicNum = topic;
             const fileName = `data/lop${grade}/json${grade}.vong${round}.${topic}.json`;
 
             const qs = await fetchQuestions(fileName, 200);
@@ -488,10 +511,24 @@
             }
         });
 
+        const TOPIC_NAMES = {
+            '1': 'Từ vựng & Ngữ pháp',
+            '2': 'Đọc hiểu',
+            '3': 'Sắp xếp câu',
+            '4': 'Phát âm & Trọng âm',
+            '5': 'Nghe hiểu'
+        };
+
         function initQuiz() {
             showScreen('screen-quiz');
             closeSidebar();
             document.getElementById('quiz-student-info').textContent = `${appState.studentName} - Lớp ${appState.grade}`;
+            document.getElementById('info-name').textContent = appState.studentName;
+            document.getElementById('info-grade').textContent = `Lớp ${appState.grade}`;
+            document.getElementById('info-round').textContent = appState.examRoundText;
+            const topicNum = appState.topicNum || '';
+            const topicLabel = `Chuyên đề ${topicNum}${TOPIC_NAMES[topicNum] ? ' · ' + TOPIC_NAMES[topicNum] : ''}`;
+            document.getElementById('info-topic').textContent = topicLabel;
             document.getElementById('total-q-label').textContent = `/ ${appState.questions.length}`;
             renderQuestionList();
             renderQuestion(0);
