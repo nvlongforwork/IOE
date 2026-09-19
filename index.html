@@ -512,11 +512,8 @@
         });
 
         const TOPIC_NAMES = {
-            '1': 'Từ vựng & Ngữ pháp',
-            '2': 'Đọc hiểu',
-            '3': 'Sắp xếp câu',
-            '4': 'Phát âm & Trọng âm',
-            '5': 'Nghe hiểu'
+            '3': {'1': 'Từ vựng & Ngữ pháp', '2': 'Nghe hiểu'},
+            '6': {'1': 'Từ vựng & Ngữ pháp', '2': 'Đọc hiểu', '3': 'Sắp xếp câu', '4': 'Phát âm & Trọng âm', '5': 'Nghe hiểu'}
         };
 
         function initQuiz() {
@@ -527,7 +524,8 @@
             document.getElementById('info-grade').textContent = `Lớp ${appState.grade}`;
             document.getElementById('info-round').textContent = appState.examRoundText;
             const topicNum = appState.topicNum || '';
-            const topicLabel = `Chuyên đề ${topicNum}${TOPIC_NAMES[topicNum] ? ' · ' + TOPIC_NAMES[topicNum] : ''}`;
+            const gradeTopics = TOPIC_NAMES[String(appState.grade)] || {};
+            const topicLabel = `Chuyên đề ${topicNum}${gradeTopics[topicNum] ? ' · ' + gradeTopics[topicNum] : ''}`;
             document.getElementById('info-topic').textContent = topicLabel;
             document.getElementById('total-q-label').textContent = `/ ${appState.questions.length}`;
             renderQuestionList();

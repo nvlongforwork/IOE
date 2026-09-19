@@ -1,0 +1,1958 @@
+{
+  "title": "IOE Lớp 3 - Chuyên đề 2 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "b_ g",
+      "options": [],
+      "answer": "a",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “a”. Ghép với các chữ đã cho tạo thành “bag”; câu hoàn chỉnh là “Bag”. Nguồn đối chiếu: đề IOE gốc số 3, câu 142.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161052058989367_Audio.mp3"
+    },
+    {
+      "id": 2,
+      "question": "BOO_",
+      "options": [],
+      "answer": "K",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “K”. Ghép với các chữ đã cho tạo thành “BOOK”, nghĩa là “quyển sách”; câu hoàn chỉnh là “BOOK”. Nguồn đối chiếu: đề IOE gốc số 10, câu 91.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/3-dt-5.mp3"
+    },
+    {
+      "id": 3,
+      "question": "B_ E",
+      "options": [],
+      "answer": "Y",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “Y”. Ghép với các chữ đã cho tạo thành “BYE”; câu hoàn chỉnh là “BYE”. Nguồn đối chiếu: đề IOE gốc số 10, câu 104.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/2-dt-2.mp3"
+    },
+    {
+      "id": 4,
+      "question": "e_ _",
+      "options": [],
+      "answer": "gg",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “gg”. Ghép với các chữ đã cho tạo thành “egg”; câu hoàn chỉnh là “Egg”. Nguồn đối chiếu: đề IOE gốc số 10, câu 198.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161053685714048_Audio.mp3"
+    },
+    {
+      "id": 5,
+      "question": "D_ _",
+      "options": [],
+      "answer": "OG",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “OG”. Ghép với các chữ đã cho tạo thành “DOG”, nghĩa là “con chó”; câu hoàn chỉnh là “DOG”. Nguồn đối chiếu: đề IOE gốc số 26, câu 17.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De2/de2-12.mp3"
+    },
+    {
+      "id": 6,
+      "question": "gi_ _",
+      "options": [],
+      "answer": "rl",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “rl”. Ghép với các chữ đã cho tạo thành “girl”, nghĩa là “bé gái”; câu hoàn chỉnh là “Girl”. Nguồn đối chiếu: đề IOE gốc số 1, câu 99.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161002648109672_Audio.mp3"
+    },
+    {
+      "id": 7,
+      "question": "fi_ _",
+      "options": [],
+      "answer": "sh",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “sh”. Ghép với các chữ đã cho tạo thành “fish”; câu hoàn chỉnh là “Fish”. Nguồn đối chiếu: đề IOE gốc số 9, câu 128.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161002494201907_Audio.mp3"
+    },
+    {
+      "id": 8,
+      "question": "DO_ N",
+      "options": [],
+      "answer": "W",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “W”. Ghép với các chữ đã cho tạo thành “DOWN”; câu hoàn chỉnh là “DOWN”. Nguồn đối chiếu: đề IOE gốc số 13, câu 110.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-3.mp3"
+    },
+    {
+      "id": 9,
+      "question": "C_ ME",
+      "options": [],
+      "answer": "O",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “O”. Ghép với các chữ đã cho tạo thành “COME”; câu hoàn chỉnh là “COME”. Nguồn đối chiếu: đề IOE gốc số 17, câu 165.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-2.mp3"
+    },
+    {
+      "id": 10,
+      "question": "a b_ g",
+      "options": [],
+      "answer": "a",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “a”. Ghép với các chữ đã cho tạo thành “bag”; câu hoàn chỉnh là “A bag”. Nguồn đối chiếu: đề IOE gốc số 8, câu 136.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161002102324468_Audio.mp3"
+    },
+    {
+      "id": 11,
+      "question": "f_ _ e",
+      "options": [],
+      "answer": "in",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “in”. Ghép với các chữ đã cho tạo thành “fine”; câu hoàn chỉnh là “Fine”. Nguồn đối chiếu: đề IOE gốc số 12, câu 90.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161001403104421_Audio.mp3"
+    },
+    {
+      "id": 12,
+      "question": "H_ LLO",
+      "options": [],
+      "answer": "E",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “E”. Ghép với các chữ đã cho tạo thành “HELLO”; câu hoàn chỉnh là “HELLO”. Nguồn đối chiếu: đề IOE gốc số 15, câu 188.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/2-dt-5.mp3"
+    },
+    {
+      "id": 13,
+      "question": "HOU_ _",
+      "options": [],
+      "answer": "SE",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “SE”. Ghép với các chữ đã cho tạo thành “HOUSE”, nghĩa là “ngôi nhà”; câu hoàn chỉnh là “HOUSE”. Nguồn đối chiếu: đề IOE gốc số 18, câu 3.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de1-14.mp3"
+    },
+    {
+      "id": 14,
+      "question": "GUITA_",
+      "options": [],
+      "answer": "R",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “R”. Ghép với các chữ đã cho tạo thành “GUITAR”; câu hoàn chỉnh là “GUITAR”. Nguồn đối chiếu: đề IOE gốc số 30, câu 80.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De3/de3-14.mp3"
+    },
+    {
+      "id": 15,
+      "question": "a_ _ le",
+      "options": [],
+      "answer": "pp",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “pp”. Ghép với các chữ đã cho tạo thành “apple”, nghĩa là “quả táo”; câu hoàn chỉnh là “Apple”. Nguồn đối chiếu: đề IOE gốc số 4, câu 20.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161051653206887_Audio.mp3"
+    },
+    {
+      "id": 16,
+      "question": "R_ _ _ _",
+      "options": [],
+      "answer": "Đề hỏi nội dung không xuất hiện trong bài nghe. “16” không được nhắc đến, nên chọn A; các phương án còn lại là những chi tiết có trong file nghe gốc. Nguồn đối chiếu: đề IOE gốc số 21, câu 50.",
+      "explanation": "",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106248184321795_Audio.mp3"
+    },
+    {
+      "id": 17,
+      "question": "Mon_ _ _",
+      "options": [],
+      "answer": "day",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “day”. Ghép với các chữ đã cho tạo thành “Monday”; câu hoàn chỉnh là “Monday”. Nguồn đối chiếu: đề IOE gốc số 9, câu 195.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/dt-63.mp3"
+    },
+    {
+      "id": 18,
+      "question": "policema_",
+      "options": [],
+      "answer": "n",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “n”. Ghép với các chữ đã cho tạo thành “policeman”; câu hoàn chỉnh là “Policeman”. Nguồn đối chiếu: đề IOE gốc số 14, câu 106.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/dt-04.mp3"
+    },
+    {
+      "id": 19,
+      "question": "LI_ _ _ _ _",
+      "options": [],
+      "answer": "brary",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “brary”. Ghép với các chữ đã cho tạo thành “LIBRARY”, nghĩa là “thư viện”; câu hoàn chỉnh là “LIBRARY”. Nguồn đối chiếu: đề IOE gốc số 3, câu 63.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106247825727339_Audio.mp3"
+    },
+    {
+      "id": 20,
+      "question": "SCHOOL BA_ S",
+      "options": [],
+      "answer": "G",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “G”. Ghép với các chữ đã cho tạo thành “BAG”; câu hoàn chỉnh là “SCHOOL BAG S”. Nguồn đối chiếu: đề IOE gốc số 13, câu 144.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/2-dt-37.mp3"
+    },
+    {
+      "id": 21,
+      "question": "shar_ _ _ _ _",
+      "options": [],
+      "answer": "pener",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “pener”. Ghép với các chữ đã cho tạo thành “sharpener”; câu hoàn chỉnh là “Sharpener”. Nguồn đối chiếu: đề IOE gốc số 13, câu 116.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791925292884987_Audio.mp3"
+    },
+    {
+      "id": 22,
+      "question": "The box is re_",
+      "options": [],
+      "answer": "d",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “d”. Ghép với các chữ đã cho tạo thành “red”, nghĩa là “màu đỏ”; câu hoàn chỉnh là “The box is red”. Nguồn đối chiếu: đề IOE gốc số 10, câu 196.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/2-dt-38.mp3"
+    },
+    {
+      "id": 23,
+      "question": "May I s_ t down?",
+      "options": [],
+      "answer": "i",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “i”. Ghép với các chữ đã cho tạo thành “sit”; câu hoàn chỉnh là “May I sit down?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 20.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-4.mp3"
+    },
+    {
+      "id": 24,
+      "question": "I like skipp_ _ _",
+      "options": [],
+      "answer": "ing",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “ing”. Ghép với các chữ đã cho tạo thành “skipping”; câu hoàn chỉnh là “I like skipping”. Nguồn đối chiếu: đề IOE gốc số 4, câu 157.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-62.mp3"
+    },
+    {
+      "id": 25,
+      "question": "The gym is sm_ ll",
+      "options": [],
+      "answer": "a",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “a”. Ghép với các chữ đã cho tạo thành “small”, nghĩa là “nhỏ”; câu hoàn chỉnh là “The gym is small”. Nguồn đối chiếu: đề IOE gốc số 7, câu 109.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-39.mp3"
+    },
+    {
+      "id": 26,
+      "question": "Hello, Mr Ro_ _ _",
+      "options": [],
+      "answer": "bot",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “bot”. Ghép với các chữ đã cho tạo thành “Robot”; câu hoàn chỉnh là “Hello, Mr Robot”. Nguồn đối chiếu: đề IOE gốc số 15, câu 195.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106246185411627_Audio.mp3"
+    },
+    {
+      "id": 27,
+      "question": "I like basketba_ _",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “ll”. Ghép với các chữ đã cho tạo thành “basketball”, nghĩa là “bóng rổ”; câu hoàn chỉnh là “I like basketball”. Nguồn đối chiếu: đề IOE gốc số 2, câu 48.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/3-dt-36.mp3"
+    },
+    {
+      "id": 28,
+      "question": "Loo_ at the school",
+      "options": [],
+      "answer": "k",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “k”. Ghép với các chữ đã cho tạo thành “Look”; câu hoàn chỉnh là “Look at the school”. Nguồn đối chiếu: đề IOE gốc số 3, câu 110.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-6.mp3"
+    },
+    {
+      "id": 29,
+      "question": "The_ _ are my rulers",
+      "options": [],
+      "answer": "se",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “se”. Ghép với các chữ đã cho tạo thành “These”; câu hoàn chỉnh là “These are my rulers”. “These/Those” chỉ nhiều đồ vật nên đi với “are” và danh từ số nhiều. Nguồn đối chiếu: đề IOE gốc số 10, câu 78.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/4-dt-36.mp3"
+    },
+    {
+      "id": 30,
+      "question": "Point and s_ y",
+      "options": [],
+      "answer": "a",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “a”. Ghép với các chữ đã cho tạo thành “say”; câu hoàn chỉnh là “Point and say”. Nguồn đối chiếu: đề IOE gốc số 2, câu 102.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/4-dt-38.mp3"
+    },
+    {
+      "id": 31,
+      "question": "_ _",
+      "options": [],
+      "answer": "is",
+      "explanation": "Từ nghe được là “is”. Cách viết là I - S; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 1, câu 138.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106247098382143_Audio.mp3"
+    },
+    {
+      "id": 32,
+      "question": "_ _",
+      "options": [],
+      "answer": "we",
+      "explanation": "Từ nghe được là “we”. Cách viết là W - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 25, câu 99.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828230695305821_Audio.mp3"
+    },
+    {
+      "id": 33,
+      "question": "_ en",
+      "options": [],
+      "answer": "p",
+      "explanation": "Ở vị trí trống, file nghe phát “p”. Điền từ/cụm này tạo câu “Pen”. Nguồn đối chiếu: đề IOE gốc số 10, câu 156.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161005051080145_Audio.mp3"
+    },
+    {
+      "id": 34,
+      "question": "_ at",
+      "options": [],
+      "answer": "c",
+      "explanation": "Ở vị trí trống, file nghe phát “c”. Điền từ/cụm này tạo câu “Cat”. Nguồn đối chiếu: đề IOE gốc số 15, câu 39.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161052666806009_Audio.mp3"
+    },
+    {
+      "id": 35,
+      "question": "_ ite",
+      "options": [],
+      "answer": "k",
+      "explanation": "Ở vị trí trống, file nghe phát “k”. Điền từ/cụm này tạo câu “Kite”. Nguồn đối chiếu: đề IOE gốc số 3, câu 141.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/dt-36.mp3"
+    },
+    {
+      "id": 36,
+      "question": "_ _ _",
+      "options": [],
+      "answer": "pen",
+      "explanation": "Từ nghe được là “pen”, nghĩa là “bút mực”. Cách viết là P - E - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 13, câu 81.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791917093553894_Audio.mp3"
+    },
+    {
+      "id": 37,
+      "question": "_ ake",
+      "options": [],
+      "answer": "c",
+      "explanation": "Ở vị trí trống, file nghe phát “c”. Điền từ/cụm này tạo câu “Cake”. Nguồn đối chiếu: đề IOE gốc số 13, câu 83.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161052470867659_Audio.mp3"
+    },
+    {
+      "id": 38,
+      "question": "_ _ _",
+      "options": [],
+      "answer": "old",
+      "explanation": "Từ nghe được là “old”. Cách viết là O - L - D; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 19, câu 153.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828218234540289_Audio.mp3"
+    },
+    {
+      "id": 39,
+      "question": "_ _ _",
+      "options": [],
+      "answer": "any",
+      "explanation": "Từ nghe được là “any”. Cách viết là A - N - Y; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 37, câu 26.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/3/any.mp3"
+    },
+    {
+      "id": 40,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "that",
+      "explanation": "Từ nghe được là “that”. Cách viết là T - H - A - T; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 1, câu 6.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791917314960573_Audio.mp3"
+    },
+    {
+      "id": 41,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "ball",
+      "explanation": "Từ nghe được là “ball”, nghĩa là “quả bóng”. Cách viết là B - A - L - L; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 1, câu 8.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791924369289479_Audio.mp3"
+    },
+    {
+      "id": 42,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "play",
+      "explanation": "Từ nghe được là “play”. Cách viết là P - L - A - Y; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 1, câu 155.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791919683871551_Audio.mp3"
+    },
+    {
+      "id": 43,
+      "question": "_ _ ain",
+      "options": [],
+      "answer": "tr",
+      "explanation": "Ở vị trí trống, file nghe phát “tr”. Điền từ/cụm này tạo câu “Train”. Nguồn đối chiếu: đề IOE gốc số 3, câu 193.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/dt-37.mp3"
+    },
+    {
+      "id": 44,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "nine",
+      "explanation": "Từ nghe được là “nine”. Cách viết là N - I - N - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 5, câu 54.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106246958538084_Audio.mp3"
+    },
+    {
+      "id": 45,
+      "question": "_ octor",
+      "options": [],
+      "answer": "d",
+      "explanation": "Ở vị trí trống, file nghe phát “d”. Điền từ/cụm này tạo câu “Doctor”. Nguồn đối chiếu: đề IOE gốc số 5, câu 78.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/dt-06.mp3"
+    },
+    {
+      "id": 46,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "your",
+      "explanation": "Từ nghe được là “your”. Cách viết là Y - O - U - R; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 9, câu 134.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791919279964788_Audio.mp3"
+    },
+    {
+      "id": 47,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "this",
+      "explanation": "Từ nghe được là “this”. Cách viết là T - H - I - S; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 13, câu 15.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791927084607402_Audio.mp3"
+    },
+    {
+      "id": 48,
+      "question": "_ _ LER",
+      "options": [],
+      "answer": "RU",
+      "explanation": "Ở vị trí trống, file nghe phát “RU”. Điền từ/cụm này tạo câu “RULER”. Nguồn đối chiếu: đề IOE gốc số 16, câu 28.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/2-dt-4.mp3"
+    },
+    {
+      "id": 49,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "toys",
+      "explanation": "Từ nghe được là “toys”. Cách viết là T - O - Y - S; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 24, câu 74.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2020/1/9/637141884099016062_Audio.mp3"
+    },
+    {
+      "id": 50,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "tick",
+      "explanation": "Từ nghe được là “tick”. Cách viết là T - I - C - K; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 26, câu 198.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2020/1/9/637141883464139711_Audio.mp3"
+    },
+    {
+      "id": 51,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "cook",
+      "explanation": "Từ nghe được là “cook”, nghĩa là “đầu bếp”. Cách viết là C - O - O - K; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 28, câu 157.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828235088439267_Audio.mp3"
+    },
+    {
+      "id": 52,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "like",
+      "explanation": "Từ nghe được là “like”. Cách viết là L - I - K - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 37, câu 51.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864860562910866_Audio.mp3"
+    },
+    {
+      "id": 53,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "does",
+      "explanation": "Từ nghe được là “does”. Cách viết là D - O - E - S; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 38, câu 37.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/1/does.mp3"
+    },
+    {
+      "id": 54,
+      "question": "_ _ _ _",
+      "options": [],
+      "answer": "cage",
+      "explanation": "Từ nghe được là “cage”. Cách viết là C - A - G - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 38, câu 171.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/3/cage.mp3"
+    },
+    {
+      "id": 55,
+      "question": "_ _ _ da",
+      "options": [],
+      "answer": "pan",
+      "explanation": "Ở vị trí trống, file nghe phát “pan”. Điền từ/cụm này tạo câu “Pan da”. Nguồn đối chiếu: đề IOE gốc số 4, câu 10.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161005527331134_Audio.mp3"
+    },
+    {
+      "id": 56,
+      "question": "_ _ _ gry",
+      "options": [],
+      "answer": "hun",
+      "explanation": "Ở vị trí trống, file nghe phát “hun”. Điền từ/cụm này tạo câu “Hungry”. Nguồn đối chiếu: đề IOE gốc số 5, câu 155.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636161002854360718_Audio.mp3"
+    },
+    {
+      "id": 57,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "close",
+      "explanation": "Từ nghe được là “close”. Cách viết là C - L - O - S - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 15, câu 80.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106247632445618_Audio.mp3"
+    },
+    {
+      "id": 58,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "small",
+      "explanation": "Từ nghe được là “small”, nghĩa là “nhỏ”. Cách viết là S - M - A - L - L; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 20, câu 1.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828217618288856_Audio.mp3"
+    },
+    {
+      "id": 59,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "brown",
+      "explanation": "Từ nghe được là “brown”, nghĩa là “màu nâu”. Cách viết là B - R - O - W - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 21, câu 193.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828216620651954_Audio.mp3"
+    },
+    {
+      "id": 60,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "again",
+      "explanation": "Từ nghe được là “again”. Cách viết là A - G - A - I - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 23, câu 50.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828235341342014_Audio.mp3"
+    },
+    {
+      "id": 61,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "chair",
+      "explanation": "Từ nghe được là “chair”, nghĩa là “cái ghế”. Cách viết là C - H - A - I - R; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 23, câu 110.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828237585096278_Audio.mp3"
+    },
+    {
+      "id": 62,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "blind",
+      "explanation": "Từ nghe được là “blind”. Cách viết là B - L - I - N - D; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 24, câu 96.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828234692657297_Audio.mp3"
+    },
+    {
+      "id": 63,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "APPLE",
+      "explanation": "Từ nghe được là “APPLE”, nghĩa là “quả táo”. Cách viết là A - P - P - L - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 28, câu 11.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de1-11.mp3"
+    },
+    {
+      "id": 64,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "photo",
+      "explanation": "Từ nghe được là “photo”. Cách viết là P - H - O - T - O; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 36, câu 16.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864860778224459_Audio.mp3"
+    },
+    {
+      "id": 65,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "white",
+      "explanation": "Từ nghe được là “white”, nghĩa là “màu trắng”. Cách viết là W - H - I - T - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 39, câu 65.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864861522756428_Audio.mp3"
+    },
+    {
+      "id": 66,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "sheep",
+      "explanation": "Từ nghe được là “sheep”, nghĩa là “con cừu”. Cách viết là S - H - E - E - P; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 42, câu 158.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/1/sheep.mp3"
+    },
+    {
+      "id": 67,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "where",
+      "explanation": "Từ nghe được là “where”. Cách viết là W - H - E - R - E; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 48, câu 123.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864861427133544_Audio.mp3"
+    },
+    {
+      "id": 68,
+      "question": "I'm _ _ ven",
+      "options": [],
+      "answer": "se",
+      "explanation": "Ở vị trí trống, file nghe phát “se”. Điền từ/cụm này tạo câu “I'm seven”. Nguồn đối chiếu: đề IOE gốc số 4, câu 173.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/3-dt-35.mp3"
+    },
+    {
+      "id": 69,
+      "question": "_ _ _ _ ing",
+      "options": [],
+      "answer": "skat",
+      "explanation": "Ở vị trí trống, file nghe phát “skat”. Điền từ/cụm này tạo câu “Skating”. Nguồn đối chiếu: đề IOE gốc số 17, câu 161.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791918449650481_Audio.mp3"
+    },
+    {
+      "id": 70,
+      "question": "_ _ _ , Nam",
+      "options": [],
+      "answer": "Bye",
+      "explanation": "Ở vị trí trống, file nghe phát “Bye”. Điền từ/cụm này tạo câu “Bye , Nam”. Nguồn đối chiếu: đề IOE gốc số 24, câu 115.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828231695776474_Audio.mp3"
+    },
+    {
+      "id": 71,
+      "question": "_ _ _ _ ball",
+      "options": [],
+      "answer": "foot",
+      "explanation": "Ở vị trí trống, file nghe phát “foot”. Điền từ/cụm này tạo câu “Football”. Nguồn đối chiếu: đề IOE gốc số 7, câu 187.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791926153980275_Audio.mp3"
+    },
+    {
+      "id": 72,
+      "question": "_ _ love pets",
+      "options": [],
+      "answer": "We",
+      "explanation": "Ở vị trí trống, file nghe phát “We”. Điền từ/cụm này tạo câu “We love pets”. Nguồn đối chiếu: đề IOE gốc số 44, câu 124.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303248504750358_Audio.mp3"
+    },
+    {
+      "id": 73,
+      "question": "_ _ o is that?",
+      "options": [],
+      "answer": "wh",
+      "explanation": "Ở vị trí trống, file nghe phát “wh”. Điền từ/cụm này tạo câu “Wh o is that?”. Nguồn đối chiếu: đề IOE gốc số 7, câu 23.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/2-dt-35.mp3"
+    },
+    {
+      "id": 74,
+      "question": "_ _ _ are you?",
+      "options": [],
+      "answer": "Who",
+      "explanation": "Ở vị trí trống, file nghe phát “Who”. Điền từ/cụm này tạo câu “Who are you?”. Nguồn đối chiếu: đề IOE gốc số 22, câu 153.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/20/635231305248811027_Audio.mp3"
+    },
+    {
+      "id": 75,
+      "question": "_ _ _ are you?",
+      "options": [],
+      "answer": "How",
+      "explanation": "Ở vị trí trống, file nghe phát “How”. Điền từ/cụm này tạo câu “How are you?”. Nguồn đối chiếu: đề IOE gốc số 39, câu 155.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303247905085305_Audio.mp3"
+    },
+    {
+      "id": 76,
+      "question": "_ _ , Mr. Robot",
+      "options": [],
+      "answer": "hi",
+      "explanation": "Ở vị trí trống, file nghe phát “hi”. Điền từ/cụm này tạo câu “Hi , Mr. Robot”. Nguồn đối chiếu: đề IOE gốc số 12, câu 92.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/4-dt-4.mp3"
+    },
+    {
+      "id": 77,
+      "question": "Yes, they _ _ _",
+      "options": [],
+      "answer": "are",
+      "explanation": "Ở vị trí trống, file nghe phát “are”. Điền từ/cụm này tạo câu “Yes, they are”. Nguồn đối chiếu: đề IOE gốc số 17, câu 55.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/4-dt-37.mp3"
+    },
+    {
+      "id": 78,
+      "question": "They are _ _ own",
+      "options": [],
+      "answer": "br",
+      "explanation": "Ở vị trí trống, file nghe phát “br”. Điền từ/cụm này tạo câu “They are brown”. Nguồn đối chiếu: đề IOE gốc số 1, câu 159.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/3-dt-63.mp3"
+    },
+    {
+      "id": 79,
+      "question": "_ play basketball",
+      "options": [],
+      "answer": "I",
+      "explanation": "Ở vị trí trống, file nghe phát “I”. Điền từ/cụm này tạo câu “I play basketball”. Nguồn đối chiếu: đề IOE gốc số 4, câu 104.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/4-dt-7.mp3"
+    },
+    {
+      "id": 80,
+      "question": "bad_ _ _ _ _ _",
+      "options": [],
+      "answer": "minton",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “minton”. Ghép với các chữ đã cho tạo thành “badminton”; câu hoàn chỉnh là “Badminton”. Nguồn đối chiếu: đề IOE gốc số 12, câu 144.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791926876169627_Audio.mp3"
+    },
+    {
+      "id": 81,
+      "question": "It’s beau_ _ _ _ _",
+      "options": [],
+      "answer": "tiful",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “tiful”. Ghép với các chữ đã cho tạo thành “beautiful”, nghĩa là “đẹp”; câu hoàn chỉnh là “It’s beautiful”. Nguồn đối chiếu: đề IOE gốc số 8, câu 60.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791928416484779_Audio.mp3"
+    },
+    {
+      "id": 82,
+      "question": "There is a p_ _ _ _",
+      "options": [],
+      "answer": "lane",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “lane”. Ghép với các chữ đã cho tạo thành “plane”, nghĩa là “máy bay”; câu hoàn chỉnh là “There is a plane”. “There is” dùng để nói có một người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 28, câu 96.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198377550866502_Audio.mp3"
+    },
+    {
+      "id": 83,
+      "question": "This is my s_ _ _ _ _",
+      "options": [],
+      "answer": "ister",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “ister”. Ghép với các chữ đã cho tạo thành “sister”, nghĩa là “chị/em gái”; câu hoàn chỉnh là “This is my sister”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 27, câu 97.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De2/de2-18.mp3"
+    },
+    {
+      "id": 84,
+      "question": "Th_ _ _ are my pencils",
+      "options": [],
+      "answer": "ose",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “ose”. Ghép với các chữ đã cho tạo thành “Those”, nghĩa là “những ... kia”; câu hoàn chỉnh là “Those are my pencils”. “These/Those” chỉ nhiều đồ vật nên đi với “are” và danh từ số nhiều. Nguồn đối chiếu: đề IOE gốc số 1, câu 71.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106246058223806_Audio.mp3"
+    },
+    {
+      "id": 85,
+      "question": "My pencil is ye_ _ _ _",
+      "options": [],
+      "answer": "llow",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “llow”. Ghép với các chữ đã cho tạo thành “yellow”, nghĩa là “màu vàng”; câu hoàn chỉnh là “My pencil is yellow”. Nguồn đối chiếu: đề IOE gốc số 18, câu 36.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De2/de2-19.mp3"
+    },
+    {
+      "id": 86,
+      "question": "The girl is fif_ _ _ _",
+      "options": [],
+      "answer": "teen",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “teen”. Ghép với các chữ đã cho tạo thành “fifteen”; câu hoàn chỉnh là “The girl is fifteen”. Nguồn đối chiếu: đề IOE gốc số 24, câu 82.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De3/de3-16.mp3"
+    },
+    {
+      "id": 87,
+      "question": "Here is his grandf_ _ _ _ _",
+      "options": [],
+      "answer": "ather",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “ather”. Ghép với các chữ đã cho tạo thành “grandfather”; câu hoàn chỉnh là “Here is his grandfather”. Nguồn đối chiếu: đề IOE gốc số 24, câu 127.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198378623039892_Audio.mp3"
+    },
+    {
+      "id": 88,
+      "question": "The boy loves ba_ _ _ _ _ on",
+      "options": [],
+      "answer": "dmint",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “dmint”. Ghép với các chữ đã cho tạo thành “badminton”; câu hoàn chỉnh là “The boy loves badminton”. Nguồn đối chiếu: đề IOE gốc số 6, câu 62.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/2/636504892016093437_Audio.mp3"
+    },
+    {
+      "id": 89,
+      "question": "This is her grand_ _ _ _ _ _",
+      "options": [],
+      "answer": "mother",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “mother”. Ghép với các chữ đã cho tạo thành “grandmother”; câu hoàn chỉnh là “This is her grandmother”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 20, câu 75.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198140829556675_Audio.mp3"
+    },
+    {
+      "id": 90,
+      "question": "The dog’s name is S_ _ _ _ ge",
+      "options": [],
+      "answer": "ausa",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “ausa”. Ghép với các chữ đã cho tạo thành “Sausage”; câu hoàn chỉnh là “The dog’s name is Sausage”. Nguồn đối chiếu: đề IOE gốc số 45, câu 182.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/28/636578481355901901_Audio.mp3"
+    },
+    {
+      "id": 91,
+      "question": "He plays c_ _ _ _ at break time",
+      "options": [],
+      "answer": "hess",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “hess”. Ghép với các chữ đã cho tạo thành “chess”; câu hoàn chỉnh là “He plays chess at break time”. Nguồn đối chiếu: đề IOE gốc số 9, câu 108.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/2/636504891883436741_Audio.mp3"
+    },
+    {
+      "id": 92,
+      "question": "My brother is thir_ _ _ _ years old",
+      "options": [],
+      "answer": "teen",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “teen”. Ghép với các chữ đã cho tạo thành “thirteen”; câu hoàn chỉnh là “My brother is thirteen years old”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 22, câu 46.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de1-16.mp3"
+    },
+    {
+      "id": 93,
+      "question": "There are four_ _ _ _ eggs in the box",
+      "options": [],
+      "answer": "teen",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “teen”. Ghép với các chữ đã cho tạo thành “fourteen”; câu hoàn chỉnh là “There are fourteen eggs in the box”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 26, câu 47.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De2/de2-16.mp3"
+    },
+    {
+      "id": 94,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "thirty",
+      "explanation": "Từ nghe được là “thirty”. Cách viết là T - H - I - R - T - Y; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 18, câu 160.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2020/1/9/637141884826297755_Audio.mp3"
+    },
+    {
+      "id": 95,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "yellow",
+      "explanation": "Từ nghe được là “yellow”, nghĩa là “màu vàng”. Cách viết là Y - E - L - L - O - W; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 19, câu 4.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828218865791544_Audio.mp3"
+    },
+    {
+      "id": 96,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "friend",
+      "explanation": "Từ nghe được là “friend”, nghĩa là “bạn”. Cách viết là F - R - I - E - N - D; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 21, câu 184.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828218662665912_Audio.mp3"
+    },
+    {
+      "id": 97,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "rabbit",
+      "explanation": "Từ nghe được là “rabbit”. Cách viết là R - A - B - B - I - T; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 38, câu 141.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/1/rabbit.mp3"
+    },
+    {
+      "id": 98,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "eighty",
+      "explanation": "Từ nghe được là “eighty”. Cách viết là E - I - G - H - T - Y; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 41, câu 142.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/1/eighty.mp3"
+    },
+    {
+      "id": 99,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "garden",
+      "explanation": "Từ nghe được là “garden”, nghĩa là “khu vườn”. Cách viết là G - A - R - D - E - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 41, câu 163.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864319053954981_Audio.mp3"
+    },
+    {
+      "id": 100,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "number",
+      "explanation": "Từ nghe được là “number”. Cách viết là N - U - M - B - E - R; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 46, câu 70.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864860665879835_Audio.mp3"
+    },
+    {
+      "id": 101,
+      "question": "_ _ _ _ _ _ _",
+      "options": [],
+      "answer": "bedroom",
+      "explanation": "Từ nghe được là “bedroom”, nghĩa là “phòng ngủ”. Cách viết là B - E - D - R - O - O - M; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 41, câu 4.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864317360982980_Audio.mp3"
+    },
+    {
+      "id": 102,
+      "question": "_ _ _ _ _ _ _",
+      "options": [],
+      "answer": "grandma",
+      "explanation": "Từ nghe được là “grandma”. Cách viết là G - R - A - N - D - M - A; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 43, câu 34.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L3/Nghe/De1/1/grandma.mp3"
+    },
+    {
+      "id": 103,
+      "question": "_ _ _ _ _ _ _",
+      "options": [],
+      "answer": "teacher",
+      "explanation": "Từ nghe được là “teacher”, nghĩa là “giáo viên”. Cách viết là T - E - A - C - H - E - R; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 43, câu 59.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864861330725975_Audio.mp3"
+    },
+    {
+      "id": 104,
+      "question": "F_ ur brothers and 4 sisters",
+      "options": [],
+      "answer": "o",
+      "explanation": "Âm thanh cung cấp phần còn thiếu “o”. Ghép với các chữ đã cho tạo thành “Four”; câu hoàn chỉnh là “Four brothers and 4 sisters”. Nguồn đối chiếu: đề IOE gốc số 5, câu 58.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-dt-37.mp3"
+    },
+    {
+      "id": 105,
+      "question": "She can _ _ _ _",
+      "options": [],
+      "answer": "swim",
+      "explanation": "Ở vị trí trống, file nghe phát “swim”. Điền từ/cụm này tạo câu “She can swim”. Nguồn đối chiếu: đề IOE gốc số 24, câu 2.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/20/635231305653787739_Audio.mp3"
+    },
+    {
+      "id": 106,
+      "question": "_ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "bathroom",
+      "explanation": "Từ nghe được là “bathroom”, nghĩa là “phòng tắm”. Cách viết là B - A - T - H - R - O - O - M; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 34, câu 48.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2020/1/9/637141883593357103_Audio.mp3"
+    },
+    {
+      "id": 107,
+      "question": "Nina is a _ _ _",
+      "options": [],
+      "answer": "cat",
+      "explanation": "Ở vị trí trống, file nghe phát “cat”, nghĩa là “con mèo”. Điền từ/cụm này tạo câu “Nina is a cat”. Nguồn đối chiếu: đề IOE gốc số 39, câu 47.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/28/636578483936547873_Audio.mp3"
+    },
+    {
+      "id": 108,
+      "question": "I _ _ _ _ a cat",
+      "options": [],
+      "answer": "have",
+      "explanation": "Ở vị trí trống, file nghe phát “have”. Điền từ/cụm này tạo câu “I have a cat”. Nguồn đối chiếu: đề IOE gốc số 43, câu 101.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612387690761414_Audio.mp3"
+    },
+    {
+      "id": 109,
+      "question": "_ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "goldfish",
+      "explanation": "Từ nghe được là “goldfish”. Cách viết là G - O - L - D - F - I - S - H; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 48, câu 121.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864318213485382_Audio.mp3"
+    },
+    {
+      "id": 110,
+      "question": "My _ _ _ is blue",
+      "options": [],
+      "answer": "bed",
+      "explanation": "Ở vị trí trống, file nghe phát “bed”. Điền từ/cụm này tạo câu “My bed is blue”. Nguồn đối chiếu: đề IOE gốc số 42, câu 80.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/26/635920890202973942_Audio.mp3"
+    },
+    {
+      "id": 111,
+      "question": "_ _ _ _ your book",
+      "options": [],
+      "answer": "open",
+      "explanation": "Ở vị trí trống, file nghe phát “open”. Điền từ/cụm này tạo câu “Open your book”. Nguồn đối chiếu: đề IOE gốc số 23, câu 140.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198139963951767_Audio.mp3"
+    },
+    {
+      "id": 112,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "afternoon",
+      "explanation": "Từ nghe được là “afternoon”, nghĩa là “buổi chiều”. Cách viết là A - F - T - E - R - N - O - O - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 26, câu 156.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828234990001690_Audio.mp3"
+    },
+    {
+      "id": 113,
+      "question": "Andy is _ _ _ _ _",
+      "options": [],
+      "answer": "seven",
+      "explanation": "Ở vị trí trống, file nghe phát “seven”, nghĩa là “số bảy”. Điền từ/cụm này tạo câu “Andy is seven”. Nguồn đối chiếu: đề IOE gốc số 31, câu 49.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198140103167429_Audio.mp3"
+    },
+    {
+      "id": 114,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "badminton",
+      "explanation": "Từ nghe được là “badminton”. Cách viết là B - A - D - M - I - N - T - O - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 34, câu 37.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2020/1/9/637141884364511265_Audio.mp3"
+    },
+    {
+      "id": 115,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "seventeen",
+      "explanation": "Từ nghe được là “seventeen”. Cách viết là S - E - V - E - N - T - E - E - N; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 46, câu 76.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864860989942919_Audio.mp3"
+    },
+    {
+      "id": 116,
+      "question": "I have _ _ _ books",
+      "options": [],
+      "answer": "six",
+      "explanation": "Ở vị trí trống, file nghe phát “six”, nghĩa là “số sáu”. Điền từ/cụm này tạo câu “I have six books”. Nguồn đối chiếu: đề IOE gốc số 23, câu 122.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2020/1/9/637141883730444956_Audio.mp3"
+    },
+    {
+      "id": 117,
+      "question": "Wooly runs _ _ _ _",
+      "options": [],
+      "answer": "away",
+      "explanation": "Ở vị trí trống, file nghe phát “away”. Điền từ/cụm này tạo câu “Wooly runs away”. Nguồn đối chiếu: đề IOE gốc số 37, câu 89.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240493336383909_Audio.mp3"
+    },
+    {
+      "id": 118,
+      "question": "How _ _ _ are you?",
+      "options": [],
+      "answer": "old",
+      "explanation": "Ở vị trí trống, file nghe phát “old”. Điền từ/cụm này tạo câu “How old are you?”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 40, câu 69.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612375113707323_Audio.mp3"
+    },
+    {
+      "id": 119,
+      "question": "She has _ _ _ cats",
+      "options": [],
+      "answer": "two",
+      "explanation": "Ở vị trí trống, file nghe phát “two”, nghĩa là “số hai”. Điền từ/cụm này tạo câu “She has two cats”. Nguồn đối chiếu: đề IOE gốc số 43, câu 189.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240489757939693_Audio.mp3"
+    },
+    {
+      "id": 120,
+      "question": "My _ _ _ _ is green",
+      "options": [],
+      "answer": "ball",
+      "explanation": "Ở vị trí trống, file nghe phát “ball”, nghĩa là “quả bóng”. Điền từ/cụm này tạo câu “My ball is green”. Nguồn đối chiếu: đề IOE gốc số 19, câu 9.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/20/635231306042384421_Audio.mp3"
+    },
+    {
+      "id": 121,
+      "question": "_ _ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "basketball",
+      "explanation": "Từ nghe được là “basketball”, nghĩa là “bóng rổ”. Cách viết là B - A - S - K - E - T - B - A - L - L; điền toàn bộ từ này vào phần trống. Nguồn đối chiếu: đề IOE gốc số 20, câu 119.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828206133457134_Audio.mp3"
+    },
+    {
+      "id": 122,
+      "question": "The library is _ _ _",
+      "options": [],
+      "answer": "big",
+      "explanation": "Ở vị trí trống, file nghe phát “big”, nghĩa là “to, lớn”. Điền từ/cụm này tạo câu “The library is big”. Nguồn đối chiếu: đề IOE gốc số 31, câu 50.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/20/635231305548019553_Audio.mp3"
+    },
+    {
+      "id": 123,
+      "question": "This is my _ _ _ _ _",
+      "options": [],
+      "answer": "house",
+      "explanation": "Ở vị trí trống, file nghe phát “house”, nghĩa là “ngôi nhà”. Điền từ/cụm này tạo câu “This is my house”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 38, câu 86.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612387073000329_Audio.mp3"
+    },
+    {
+      "id": 124,
+      "question": "Look at _ _ _ _ photo",
+      "options": [],
+      "answer": "this",
+      "explanation": "Ở vị trí trống, file nghe phát “this”. Điền từ/cụm này tạo câu “Look at this photo”. Nguồn đối chiếu: đề IOE gốc số 26, câu 99.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/20/635231323203526564_Audio.mp3"
+    },
+    {
+      "id": 125,
+      "question": "My school is _ _ _ _ _",
+      "options": [],
+      "answer": "small",
+      "explanation": "Ở vị trí trống, file nghe phát “small”, nghĩa là “nhỏ”. Điền từ/cụm này tạo câu “My school is small”. Nguồn đối chiếu: đề IOE gốc số 13, câu 44.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206365598547827_Audio.mp3"
+    },
+    {
+      "id": 126,
+      "question": "That is my pen _ _ _ _",
+      "options": [],
+      "answer": "case",
+      "explanation": "Ở vị trí trống, file nghe phát “case”. Điền từ/cụm này tạo câu “That is my pen case”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 29, câu 69.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564317366748713_Audio.mp3"
+    },
+    {
+      "id": 127,
+      "question": "This is my _ _ _ _ pen",
+      "options": [],
+      "answer": "blue",
+      "explanation": "Ở vị trí trống, file nghe phát “blue”, nghĩa là “màu xanh dương”. Điền từ/cụm này tạo câu “This is my blue pen”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 43, câu 108.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/28/636578481522464667_Audio.mp3"
+    },
+    {
+      "id": 128,
+      "question": "Here is his _ _ _ _ _ _",
+      "options": [],
+      "answer": "mother",
+      "explanation": "Ở vị trí trống, file nghe phát “mother”, nghĩa là “mẹ”. Điền từ/cụm này tạo câu “Here is his mother”. Nguồn đối chiếu: đề IOE gốc số 29, câu 112.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198378803662171_Audio.mp3"
+    },
+    {
+      "id": 129,
+      "question": "He’s _ _ _ _ _ years old",
+      "options": [],
+      "answer": "eight",
+      "explanation": "Ở vị trí trống, file nghe phát “eight”, nghĩa là “số tám”. Điền từ/cụm này tạo câu “He’s eight years old”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 42, câu 114.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303249092871391_Audio.mp3"
+    },
+    {
+      "id": 130,
+      "question": "Let’s go to _ _ _ _ _ _ together",
+      "options": [],
+      "answer": "school",
+      "explanation": "Ở vị trí trống, file nghe phát “school”, nghĩa là “trường học”. Điền từ/cụm này tạo câu “Let’s go to school together”. Nguồn đối chiếu: đề IOE gốc số 40, câu 62.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612386912008046_Audio.mp3"
+    },
+    {
+      "id": 131,
+      "question": "F_VE",
+      "options": [
+        "A. I",
+        "B. O",
+        "C. E",
+        "D. A"
+      ],
+      "answer": "A. I",
+      "explanation": "Thông tin nghe được là “I”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 14, câu 41.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/1-tn-49.mp3"
+    },
+    {
+      "id": 132,
+      "question": "A ____",
+      "options": [
+        "A. CANDY",
+        "B. PEN",
+        "C. CAKE",
+        "D. BOOK"
+      ],
+      "answer": "C. CAKE",
+      "explanation": "Thông tin nghe được là “CAKE”, nghĩa là “bánh ngọt”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 20, câu 55.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de%201-10.mp3"
+    },
+    {
+      "id": 133,
+      "question": "A _____",
+      "options": [
+        "A. MANGO",
+        "B. BOOK",
+        "C. RULER",
+        "D. RUBBER"
+      ],
+      "answer": "A. MANGO",
+      "explanation": "Thông tin nghe được là “MANGO”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 30, câu 131.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de%203-10.mp3"
+    },
+    {
+      "id": 134,
+      "question": "It’s … .",
+      "options": [
+        "A. cloudy",
+        "B. rainy",
+        "C. windy",
+        "D. stormy"
+      ],
+      "answer": "C. windy",
+      "explanation": "Thông tin nghe được là “windy”, nghĩa là “có gió”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 9, câu 145.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636160979779933128_Audio.mp3"
+    },
+    {
+      "id": 135,
+      "question": "Listen and tick the word you hear:",
+      "options": [
+        "A. Swim",
+        "B. Fly",
+        "C. Run",
+        "D. Jump"
+      ],
+      "answer": "D. Jump",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “Jump”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 45, câu 153.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/26/635920912353970780_Audio.mp3"
+    },
+    {
+      "id": 136,
+      "question": "A _______",
+      "options": [
+        "A. APPLE",
+        "B. PINEAPPLE",
+        "C. CANDY",
+        "D. CAKE"
+      ],
+      "answer": "B. PINEAPPLE",
+      "explanation": "Thông tin nghe được là “PINEAPPLE”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 19, câu 69.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de%202-10.mp3"
+    },
+    {
+      "id": 137,
+      "question": "is a pupil.",
+      "options": [
+        "A. She",
+        "B. He",
+        "C. Me",
+        "D. I’m"
+      ],
+      "answer": "A. She",
+      "explanation": "Thông tin nghe được là “She”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 6, câu 30.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206359011436257_Audio.mp3"
+    },
+    {
+      "id": 138,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sunny",
+        "B. Sunday",
+        "C. summer",
+        "D. seven"
+      ],
+      "answer": "B. Sunday",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “Sunday”. Nội dung này trùng với phương án B; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 19, câu 67.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564321771054879_Audio.mp3"
+    },
+    {
+      "id": 139,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. draw",
+        "B. write",
+        "C. see",
+        "D. hear"
+      ],
+      "answer": "A. draw",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “draw”. Nội dung này trùng với phương án A; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 20, câu 102.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564323779537691_Audio.mp3"
+    },
+    {
+      "id": 140,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. a pen",
+        "B. a pencil",
+        "C. a bank",
+        "D. a band"
+      ],
+      "answer": "B. a pencil",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “a pencil”. Nội dung này trùng với phương án B; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 22, câu 116.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564313771453678_Audio.mp3"
+    },
+    {
+      "id": 141,
+      "question": "He is ____.",
+      "options": [
+        "A. 12",
+        "B. 13",
+        "C. 14",
+        "D. 15"
+      ],
+      "answer": "C. 14",
+      "explanation": "Thông tin nghe được là “14”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 23, câu 72.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De3/de3-03.mp3"
+    },
+    {
+      "id": 142,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. happy",
+        "B. hide-and-seek",
+        "C. zero",
+        "D. hero"
+      ],
+      "answer": "D. hero",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “hero”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 23, câu 82.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564321104553946_Audio.mp3"
+    },
+    {
+      "id": 143,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. snowy",
+        "B. cloudy",
+        "C. sunny",
+        "D. rainy"
+      ],
+      "answer": "D. rainy",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “rainy”, nghĩa là “có mưa”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 23, câu 196.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564323555737378_Audio.mp3"
+    },
+    {
+      "id": 144,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. jumping",
+        "B. climbing",
+        "C. swimming",
+        "D. skipping"
+      ],
+      "answer": "D. skipping",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “skipping”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 24, câu 44.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564315598346237_Audio.mp3"
+    },
+    {
+      "id": 145,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. lion",
+        "B. lamp",
+        "C. ruler",
+        "D. cloudy"
+      ],
+      "answer": "A. lion",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “lion”. Nội dung này trùng với phương án A; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 25, câu 47.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564320836653571_Audio.mp3"
+    },
+    {
+      "id": 146,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. classroom",
+        "B. bathroom",
+        "C. living room",
+        "D. bedroom"
+      ],
+      "answer": "A. classroom",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “classroom”, nghĩa là “phòng học”. Nội dung này trùng với phương án A; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 25, câu 110.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564316743247840_Audio.mp3"
+    },
+    {
+      "id": 147,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. man",
+        "B. learn",
+        "C. plant",
+        "D. stand"
+      ],
+      "answer": "C. plant",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “plant”. Nội dung này trùng với phương án C; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 27, câu 166.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564314734845028_Audio.mp3"
+    },
+    {
+      "id": 148,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. hide-and-seek",
+        "B. hometown",
+        "C. house",
+        "D. housewife"
+      ],
+      "answer": "D. housewife",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “housewife”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 29, câu 198.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564323304537026_Audio.mp3"
+    },
+    {
+      "id": 149,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. a plane",
+        "B. a train",
+        "C. a fan",
+        "D. a chair"
+      ],
+      "answer": "B. a train",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “a train”. Nội dung này trùng với phương án B; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 30, câu 67.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564322000155199_Audio.mp3"
+    },
+    {
+      "id": 150,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. mirror",
+        "B. under",
+        "C. fisher",
+        "D. soldier"
+      ],
+      "answer": "A. mirror",
+      "explanation": "Chi tiết về nơi chốn/vị trí nghe được là “mirror”. Nội dung này trùng với phương án A, nên đó là lựa chọn đúng. Nguồn đối chiếu: đề IOE gốc số 33, câu 27.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564315901446661_Audio.mp3"
+    },
+    {
+      "id": 151,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. large",
+        "B. cycle",
+        "C. clean",
+        "D. jeans"
+      ],
+      "answer": "C. clean",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “clean”. Nội dung này trùng với phương án C; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 33, câu 193.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564322651036111_Audio.mp3"
+    },
+    {
+      "id": 152,
+      "question": "Mai is ....",
+      "options": [
+        "A. running",
+        "B. writing",
+        "C. cycling",
+        "D. reading"
+      ],
+      "answer": "C. cycling",
+      "explanation": "Thông tin nghe được là “cycling”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 47, câu 95.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612384011650952_Audio.mp3"
+    },
+    {
+      "id": 153,
+      "question": "They’re ....",
+      "options": [
+        "A. hungry",
+        "B. happy",
+        "C. lucky",
+        "D. sad"
+      ],
+      "answer": "B. happy",
+      "explanation": "Thông tin nghe được là “happy”, nghĩa là “vui vẻ”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 35, câu 87.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303240452016214_Audio.mp3"
+    },
+    {
+      "id": 154,
+      "question": "is my house.",
+      "options": [
+        "A. This",
+        "B. That",
+        "C. It",
+        "D. These"
+      ],
+      "answer": "A. This",
+      "explanation": "Thông tin nghe được là “This”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 46, câu 116.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303240033155478_Audio.mp3"
+    },
+    {
+      "id": 155,
+      "question": "This is a … .",
+      "options": [
+        "A. dot",
+        "B. dog",
+        "C. door",
+        "D. down"
+      ],
+      "answer": "B. dog",
+      "explanation": "Thông tin nghe được là “dog”, nghĩa là “con chó”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 5, câu 185.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636160982546969645_Audio.mp3"
+    },
+    {
+      "id": 156,
+      "question": "… your books.",
+      "options": [
+        "A. Open",
+        "B. Close",
+        "C. Read",
+        "D. Keep"
+      ],
+      "answer": "A. Open",
+      "explanation": "Thông tin nghe được là “Open”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 6, câu 21.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636160978864774928_Audio.mp3"
+    },
+    {
+      "id": 157,
+      "question": "It's _______.",
+      "options": [
+        "A. orange",
+        "B. oranges",
+        "C. black",
+        "D. brown"
+      ],
+      "answer": "A. orange",
+      "explanation": "Thông tin nghe được là “orange”, nghĩa là “màu cam”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 8, câu 182.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/3-tn-25.mp3"
+    },
+    {
+      "id": 158,
+      "question": "This is my ….",
+      "options": [
+        "A. bookcase",
+        "B. pencil case",
+        "C. notebook",
+        "D. pencil"
+      ],
+      "answer": "B. pencil case",
+      "explanation": "Thông tin nghe được là “pencil case”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 9, câu 60.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/2/636504877602548664_Audio.mp3"
+    },
+    {
+      "id": 159,
+      "question": "are my books.",
+      "options": [
+        "A. They",
+        "B. These",
+        "C. Those",
+        "D. They’re"
+      ],
+      "answer": "B. These",
+      "explanation": "Thông tin nghe được là “These”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 9, câu 107.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206301184162689_Audio.mp3"
+    },
+    {
+      "id": 160,
+      "question": "Look at the ….",
+      "options": [
+        "A. classroom",
+        "B. bathroom",
+        "C. bedroom",
+        "D. music room"
+      ],
+      "answer": "A. classroom",
+      "explanation": "Thông tin nghe được là “classroom”, nghĩa là “phòng học”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 15, câu 177.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506587903295809_Audio.mp3"
+    },
+    {
+      "id": 161,
+      "question": "They are ____.",
+      "options": [
+        "A. 12",
+        "B. 13",
+        "C. 14",
+        "D. 15"
+      ],
+      "answer": "B. 13",
+      "explanation": "Thông tin nghe được là “13”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 22, câu 129.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De2/de2-03.mp3"
+    },
+    {
+      "id": 162,
+      "question": "It’s a … book.",
+      "options": [
+        "A. little",
+        "B. small",
+        "C. big",
+        "D. large"
+      ],
+      "answer": "C. big",
+      "explanation": "Thông tin nghe được là “big”, nghĩa là “to, lớn”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 25, câu 31.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198126749705744_Audio.mp3"
+    },
+    {
+      "id": 163,
+      "question": "… is my father.",
+      "options": [
+        "A. This",
+        "B. That",
+        "C. It",
+        "D. He"
+      ],
+      "answer": "A. This",
+      "explanation": "Thông tin nghe được là “This”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 3, câu 35.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/11/30/636160979459463683_Audio.mp3"
+    },
+    {
+      "id": 164,
+      "question": "I play ______ .",
+      "options": [
+        "A. basketball",
+        "B. badminton",
+        "C. skipping",
+        "D. football"
+      ],
+      "answer": "A. basketball",
+      "explanation": "Thông tin nghe được là “basketball”, nghĩa là “bóng rổ”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 17, câu 193.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Captruong/Audio/4-tn-23.mp3"
+    },
+    {
+      "id": 165,
+      "question": "This is my ___.",
+      "options": [
+        "A. ice",
+        "B. light",
+        "C. knife",
+        "D. kite"
+      ],
+      "answer": "D. kite",
+      "explanation": "Thông tin nghe được là “kite”, nghĩa là “cái diều”. Khi đối chiếu bốn lựa chọn, chỉ phương án D khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 33, câu 138.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De1/de1-06.mp3"
+    },
+    {
+      "id": 166,
+      "question": "It’s ... today.",
+      "options": [
+        "A. rainy",
+        "B. foggy",
+        "C. sunny",
+        "D. cloudy"
+      ],
+      "answer": "D. cloudy",
+      "explanation": "Thông tin nghe được là “cloudy”, nghĩa là “nhiều mây”. Khi đối chiếu bốn lựa chọn, chỉ phương án D khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 37, câu 176.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612385239529109_Audio.mp3"
+    },
+    {
+      "id": 167,
+      "question": "Let’s play ....",
+      "options": [
+        "A. basketball",
+        "B. football",
+        "C. volleyball",
+        "D. ball"
+      ],
+      "answer": "B. football",
+      "explanation": "Thông tin nghe được là “football”, nghĩa là “bóng đá”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 39, câu 6.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303242732272219_Audio.mp3"
+    },
+    {
+      "id": 168,
+      "question": "What’s his name?",
+      "options": [
+        "A. Pitir",
+        "B. Peter",
+        "C. Beter",
+        "D. Bitia"
+      ],
+      "answer": "B. Peter",
+      "explanation": "Thông tin nghe được là “Peter”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 4, câu 145.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791931490240996_Audio.mp3"
+    },
+    {
+      "id": 169,
+      "question": "The boy likes ….",
+      "options": [
+        "A. badminton",
+        "B. tennis",
+        "C. baseball",
+        "D. table tennis"
+      ],
+      "answer": "B. tennis",
+      "explanation": "Thông tin nghe được là “tennis”, nghĩa là “quần vợt”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 7, câu 61.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/4/636506588116733263_Audio.mp3"
+    },
+    {
+      "id": 170,
+      "question": "This is my ... .",
+      "options": [
+        "A. class",
+        "B. school",
+        "C. room",
+        "D. desk"
+      ],
+      "answer": "B. school",
+      "explanation": "Thông tin nghe được là “school”, nghĩa là “trường học”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 8, câu 28.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206319955519659_Audio.mp3"
+    },
+    {
+      "id": 171,
+      "question": "Here is his …. .",
+      "options": [
+        "A. mother",
+        "B. brother",
+        "C. sister",
+        "D. father"
+      ],
+      "answer": "D. father",
+      "explanation": "Thông tin nghe được là “father”, nghĩa là “bố”. Khi đối chiếu bốn lựa chọn, chỉ phương án D khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 27, câu 31.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198371367993838_Audio.mp3"
+    },
+    {
+      "id": 172,
+      "question": "What is ... job?",
+      "options": [
+        "A. her",
+        "B. its",
+        "C. his",
+        "D. their"
+      ],
+      "answer": "C. his",
+      "explanation": "Thông tin nghe được là “his”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 45, câu 188.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303241230925582_Audio.mp3"
+    },
+    {
+      "id": 173,
+      "question": "What's ____ name?",
+      "options": [
+        "A. his",
+        "B. her",
+        "C. your",
+        "D. their"
+      ],
+      "answer": "C. your",
+      "explanation": "Thông tin nghe được là “your”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 12, câu 68.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/tracnghiem/tn-59.mp3"
+    },
+    {
+      "id": 174,
+      "question": "She’s ... a kite.",
+      "options": [
+        "A. making",
+        "B. flying",
+        "C. playing",
+        "D. drawing"
+      ],
+      "answer": "B. flying",
+      "explanation": "Thông tin nghe được là “flying”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 16, câu 64.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206300523501528_Audio.mp3"
+    },
+    {
+      "id": 175,
+      "question": "The ... is short.",
+      "options": [
+        "A. ruler",
+        "B. pencil",
+        "C. pen",
+        "D. rubber"
+      ],
+      "answer": "B. pencil",
+      "explanation": "Thông tin nghe được là “pencil”, nghĩa là “bút chì”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 17, câu 45.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206312496990559_Audio.mp3"
+    },
+    {
+      "id": 176,
+      "question": "His name is ... .",
+      "options": [
+        "A. Abramson",
+        "B. Abraham",
+        "C. Apranson",
+        "D. Adramsun"
+      ],
+      "answer": "A. Abramson",
+      "explanation": "Thông tin nghe được là “Abramson”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 20, câu 155.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198127191419186_Audio.mp3"
+    },
+    {
+      "id": 177,
+      "question": "That is my _____.",
+      "options": [
+        "A. notebook",
+        "B. computer",
+        "C. pencil case",
+        "D. rubber"
+      ],
+      "answer": "B. computer",
+      "explanation": "Thông tin nghe được là “computer”, nghĩa là “máy tính”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 31, câu 77.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De2/de2-06.mp3"
+    },
+    {
+      "id": 178,
+      "question": "I can draw a ....",
+      "options": [
+        "A. cat",
+        "B. hat",
+        "C. map",
+        "D. bat"
+      ],
+      "answer": "A. cat",
+      "explanation": "Thông tin nghe được là “cat”, nghĩa là “con mèo”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 40, câu 139.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303241556498154_Audio.mp3"
+    },
+    {
+      "id": 179,
+      "question": "Sam is riding a …",
+      "options": [
+        "A. bike",
+        "B. bus",
+        "C. horse",
+        "D. boat"
+      ],
+      "answer": "C. horse",
+      "explanation": "Thông tin nghe được là “horse”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 43, câu 30.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/28/636578305194802843_Audio.mp3"
+    },
+    {
+      "id": 180,
+      "question": "I’ve got two ... .",
+      "options": [
+        "A. hats",
+        "B. apples",
+        "C. oranges",
+        "D. balls"
+      ],
+      "answer": "B. apples",
+      "explanation": "Thông tin nghe được là “apples”. Khi đối chiếu bốn lựa chọn, chỉ phương án B khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 8, câu 139.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206391125028662_Audio.mp3"
+    },
+    {
+      "id": 181,
+      "question": "The ... is yellow.",
+      "options": [
+        "A. bag",
+        "B. bat",
+        "C. bus",
+        "D. book"
+      ],
+      "answer": "C. bus",
+      "explanation": "Thông tin nghe được là “bus”, nghĩa là “xe buýt”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 37, câu 61.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612380508196798_Audio.mp3"
+    },
+    {
+      "id": 182,
+      "question": "your books, please.",
+      "options": [
+        "A. open",
+        "B. listen",
+        "C. close",
+        "D. go"
+      ],
+      "answer": "A. open",
+      "explanation": "Thông tin nghe được là “open”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 11, câu 5.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206388628712277_Audio.mp3"
+    },
+    {
+      "id": 183,
+      "question": "My ... is a teacher.",
+      "options": [
+        "A. mother",
+        "B. father",
+        "C. brother",
+        "D. sister"
+      ],
+      "answer": "A. mother",
+      "explanation": "Thông tin nghe được là “mother”, nghĩa là “mẹ”. Khi đối chiếu bốn lựa chọn, chỉ phương án A khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 6, câu 186.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206360592031033_Audio.mp3"
+    },
+    {
+      "id": 184,
+      "question": "That is a small ... .",
+      "options": [
+        "A. board",
+        "B. bus",
+        "C. box",
+        "D. boat"
+      ],
+      "answer": "D. boat",
+      "explanation": "Thông tin nghe được là “boat”. Khi đối chiếu bốn lựa chọn, chỉ phương án D khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 3, câu 163.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206362622842600_Audio.mp3"
+    },
+    {
+      "id": 185,
+      "question": "My house has a ... yard.",
+      "options": [
+        "A. small",
+        "B. fat",
+        "C. large",
+        "D. big"
+      ],
+      "answer": "C. large",
+      "explanation": "Thông tin nghe được là “large”, nghĩa là “rộng, lớn”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 35, câu 124.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306486036377655_Audio.mp3"
+    },
+    {
+      "id": 186,
+      "question": "How do you ... your name?",
+      "options": [
+        "A. spend",
+        "B. ten",
+        "C. spell",
+        "D. tell"
+      ],
+      "answer": "C. spell",
+      "explanation": "Thông tin nghe được là “spell”. Khi đối chiếu bốn lựa chọn, chỉ phương án C khớp đầy đủ với từ hoặc câu trong file MP3. Nguồn đối chiếu: đề IOE gốc số 9, câu 158.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206311170988230_Audio.mp3"
+    },
+    {
+      "id": 187,
+      "question": "Listen and tick:",
+      "options": [
+        "A. My father is a teacher",
+        "B. My mother is a teacher",
+        "C. My father is a doctor",
+        "D. My brother is a teacher"
+      ],
+      "answer": "C. My father is a doctor",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “My father is a doctor”. Nội dung này trùng với phương án C; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 3, câu 117.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206377131960084_Audio.mp3"
+    },
+    {
+      "id": 188,
+      "question": "Listen and tick:",
+      "options": [
+        "A. There are two bathrooms",
+        "B. There are three bedrooms",
+        "C. There are two bedrooms",
+        "D. There are two living rooms"
+      ],
+      "answer": "C. There are two bedrooms",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “There are two bedrooms”. Nội dung này trùng với phương án C; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 5, câu 19.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206374977284300_Audio.mp3"
+    },
+    {
+      "id": 189,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Is that girl Mary? - Yes, she is",
+        "B. Is that boy Mary? - Yes, he is",
+        "C. Is that pen Mary? - Yes, it is",
+        "D. Is that room Mary? - Yes, it is"
+      ],
+      "answer": "A. Is that girl Mary? - Yes, she is",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “Is that girl Mary? - Yes, she is”. Nội dung này trùng với phương án A; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 5, câu 163.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206368383620718_Audio.mp3"
+    },
+    {
+      "id": 190,
+      "question": "Listen and tick:",
+      "options": [
+        "A. This toy is Nam",
+        "B. This friend is Nam",
+        "C. This girl is Nam",
+        "D. This boy is Nam"
+      ],
+      "answer": "D. This boy is Nam",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “This boy is Nam”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 6, câu 91.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206373370949478_Audio.mp3"
+    },
+    {
+      "id": 191,
+      "question": "Listen and tick:",
+      "options": [
+        "A. I’ve got two rulers",
+        "B. I’ve got two erasers",
+        "C. I’ve got two scissors",
+        "D. I’ve got two eggs"
+      ],
+      "answer": "B. I’ve got two erasers",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “I’ve got two erasers”. Nội dung này trùng với phương án B; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 8, câu 156.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206369453938598_Audio.mp3"
+    },
+    {
+      "id": 192,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Tom, have you got any pens?",
+        "B. Tom, have you got any pencils?",
+        "C. Tom, have you got any pen cases?",
+        "D. Tom, have you got any pencil cases?"
+      ],
+      "answer": "A. Tom, have you got any pens?",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “Tom, have you got any pens?”. Nội dung này trùng với phương án A; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 10, câu 3.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206308820688102_Audio.mp3"
+    },
+    {
+      "id": 193,
+      "question": "Listen and tick:",
+      "options": [
+        "A. This is my school bag",
+        "B. This is my school bus",
+        "C. This is my school car",
+        "D. This is my school book"
+      ],
+      "answer": "A. This is my school bag",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “This is my school bag”. Nội dung này trùng với phương án A; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 13, câu 93.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206381431951637_Audio.mp3"
+    },
+    {
+      "id": 194,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Both Mary and Tom love cats very much",
+        "B. Both Mary and Tom love cars very much",
+        "C. Both Mary and Tom love buses very much",
+        "D. Both Mary and Tom love pets very much"
+      ],
+      "answer": "D. Both Mary and Tom love pets very much",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “Both Mary and Tom love pets very much”. Nội dung này trùng với phương án D; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 13, câu 185.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206375919993955_Audio.mp3"
+    },
+    {
+      "id": 195,
+      "question": "Where is Nick?",
+      "options": [
+        "A. He is in the garden",
+        "B. He is in the bedroom",
+        "C. He is in the bathroom",
+        "D. He is in the kitchen"
+      ],
+      "answer": "D. He is in the kitchen",
+      "explanation": "Chi tiết về nơi chốn/vị trí nghe được là “He is in the kitchen”. Nội dung này trùng với phương án D, nên đó là lựa chọn đúng. Nguồn đối chiếu: đề IOE gốc số 43, câu 49.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/28/636578304373707594_Audio.mp3"
+    },
+    {
+      "id": 196,
+      "question": "Choose the sentence that you hear:",
+      "options": [
+        "A. This is Peter. And that’s Tony",
+        "B. That’s Peter. And that’s Tony",
+        "C. That’s Peter. And that’s Mary",
+        "D. That’s Tony. And that’s Mary"
+      ],
+      "answer": "B. That’s Peter. And that’s Tony",
+      "explanation": "Từ/cụm/câu phát trong file MP3 là “That’s Peter. And that’s Tony”. Nội dung này trùng với phương án B; các phương án khác khác âm hoặc khác từ. Nguồn đối chiếu: đề IOE gốc số 16, câu 83.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/11/29/637106245677285569_Audio.mp3"
+    },
+    {
+      "id": 197,
+      "question": "Listen and tick",
+      "options": [
+        "A. How are you?",
+        "B. What are they?",
+        "C. How old are you?",
+        "D. Who are you?"
+      ],
+      "answer": "C. How old are you?",
+      "explanation": "Bài nghe cung cấp con số/độ tuổi “How old are you?”. Chi tiết này trùng với phương án C; các con số còn lại không khớp. Nguồn đối chiếu: đề IOE gốc số 14, câu 2.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop3/tracnghiem/tn-25.mp3"
+    },
+    {
+      "id": 198,
+      "question": "Choose the correct question.",
+      "options": [
+        "A. Where is the garden?",
+        "B. Where’s Peter?",
+        "C. What is Peter doing?",
+        "D. Is there a garden?"
+      ],
+      "answer": "B. Where’s Peter?",
+      "explanation": "Chi tiết về nơi chốn/vị trí nghe được là “Where’s Peter?”. Nội dung này trùng với phương án B, nên đó là lựa chọn đúng. Nguồn đối chiếu: đề IOE gốc số 27, câu 39.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/1/636555107541273797_Audio.mp3"
+    },
+    {
+      "id": 199,
+      "question": "Listen and choose the best response.",
+      "options": [
+        "A. Goodbye! See you later",
+        "B. I’m fine, thanks",
+        "C. This is my friend, Lan",
+        "D. Hi! My name’s Lan"
+      ],
+      "answer": "D. Hi! My name’s Lan",
+      "explanation": "Lời đáp nghe được và phù hợp với câu hỏi là “Hi! My name’s Lan”, nên chọn D. Câu trả lời này khớp đúng ý giao tiếp của đoạn nghe. Nguồn đối chiếu: đề IOE gốc số 17, câu 126.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/2/636505034198747957_Audio.mp3"
+    },
+    {
+      "id": 200,
+      "question": "Which number is NOT in the recording?",
+      "options": [
+        "A. 16",
+        "B. 17",
+        "C. 18",
+        "D. 19"
+      ],
+      "answer": "A. 16",
+      "explanation": "",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop3/Capquanhuyen/De3/de3-01.mp3"
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
