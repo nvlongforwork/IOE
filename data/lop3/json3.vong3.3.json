@@ -1,0 +1,1523 @@
+{
+  "title": "IOE Lớp 3 - Chuyên đề 3 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "There are m_ _ y toys in my room",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “many”. Câu hoàn chỉnh: “There are many toys in my room”. Nguồn đối chiếu: đề IOE gốc số 46, câu 39."
+    },
+    {
+      "id": 2,
+      "question": "How ma_ _ trees are there?",
+      "options": [],
+      "answer": "ny",
+      "explanation": "Điền “ny” vào chỗ trống. Ghép với phần trước là “ma” tạo thành từ đúng “many”. Câu hoàn chỉnh: “How many trees are there?”. Nguồn đối chiếu: đề IOE gốc số 46, câu 163."
+    },
+    {
+      "id": 3,
+      "question": "Do you li_ _ playing hide-and-seek?",
+      "options": [],
+      "answer": "ke",
+      "explanation": "Điền “ke” vào chỗ trống. Ghép với phần trước là “li” tạo thành từ đúng “like”. Câu hoàn chỉnh: “Do you like playing hide-and-seek?”. Nguồn đối chiếu: đề IOE gốc số 48, câu 92."
+    },
+    {
+      "id": 4,
+      "question": "Do you h_ _ e Maths today?",
+      "options": [],
+      "answer": "av",
+      "explanation": "Điền “av” vào chỗ trống. Ghép với phần trước là “h” tạo thành từ đúng “have”. Câu hoàn chỉnh: “Do you have Maths today?”. Nguồn đối chiếu: đề IOE gốc số 49, câu 187."
+    },
+    {
+      "id": 5,
+      "question": "Please, be q_ _ et",
+      "options": [],
+      "answer": "ui",
+      "explanation": "Điền “ui” vào chỗ trống. Ghép với phần trước là “q” tạo thành từ đúng “quiet”. Câu hoàn chỉnh: “Please, be quiet”. Nguồn đối chiếu: đề IOE gốc số 1, câu 70."
+    },
+    {
+      "id": 6,
+      "question": "Be q_ _ et, please",
+      "options": [],
+      "answer": "ui",
+      "explanation": "Điền “ui” vào chỗ trống. Ghép với phần trước là “q” tạo thành từ đúng “quiet”. Câu hoàn chỉnh: “Be quiet, please”. Nguồn đối chiếu: đề IOE gốc số 1, câu 167."
+    },
+    {
+      "id": 7,
+      "question": "I’m fine, th_ _ k you",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống. Ghép với phần trước là “th” tạo thành từ đúng “thank”. Câu hoàn chỉnh: “I’m fine, thank you”. Nguồn đối chiếu: đề IOE gốc số 2, câu 91."
+    },
+    {
+      "id": 8,
+      "question": "St_ _ d up, please",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống. Ghép với phần trước là “St” tạo thành từ đúng “Stand”. Câu hoàn chỉnh: “Stand up, please”. Nguồn đối chiếu: đề IOE gốc số 2, câu 142."
+    },
+    {
+      "id": 9,
+      "question": "That is a br_ _ n book",
+      "options": [],
+      "answer": "ow",
+      "explanation": "Điền “ow” vào chỗ trống. Ghép với phần trước là “br” tạo thành từ đúng “brown”, nghĩa là “màu nâu”. Câu hoàn chỉnh: “That is a brown book”. Nguồn đối chiếu: đề IOE gốc số 4, câu 63."
+    },
+    {
+      "id": 10,
+      "question": "Po_ _ t to the teacher",
+      "options": [],
+      "answer": "in",
+      "explanation": "Điền “in” vào chỗ trống. Ghép với phần trước là “Po” tạo thành từ đúng “Point”. Câu hoàn chỉnh: “Point to the teacher”. Nguồn đối chiếu: đề IOE gốc số 4, câu 159."
+    },
+    {
+      "id": 11,
+      "question": "Please be q_ _ te",
+      "options": [],
+      "answer": "ui",
+      "explanation": "Điền “ui” vào chỗ trống. Ghép với phần trước là “q” tạo thành từ đúng “quite”. Câu hoàn chỉnh: “Please be quite”. Nguồn đối chiếu: đề IOE gốc số 5, câu 83."
+    },
+    {
+      "id": 12,
+      "question": "Good ni_ _ t, Owen",
+      "options": [],
+      "answer": "gh",
+      "explanation": "Điền “gh” vào chỗ trống. Ghép với phần trước là “ni” tạo thành từ đúng “night”. Câu hoàn chỉnh: “Good night, Owen”. Nguồn đối chiếu: đề IOE gốc số 5, câu 116."
+    },
+    {
+      "id": 13,
+      "question": "H_ _ ’s the weather in Hanoi?",
+      "options": [],
+      "answer": "ow",
+      "explanation": "Điền “ow” vào chỗ trống. Ghép với phần trước là “H” tạo thành từ đúng “How”. Câu hoàn chỉnh: “How ’s the weather in Hanoi?”. Nguồn đối chiếu: đề IOE gốc số 6, câu 137."
+    },
+    {
+      "id": 14,
+      "question": "Bye. See you aga_ _",
+      "options": [],
+      "answer": "in",
+      "explanation": "Điền “in” vào chỗ trống. Ghép với phần trước là “aga” tạo thành từ đúng “again”. Câu hoàn chỉnh: “Bye. See you again”. Nguồn đối chiếu: đề IOE gốc số 7, câu 42."
+    },
+    {
+      "id": 15,
+      "question": "His classroom is s_ all",
+      "options": [],
+      "answer": "m",
+      "explanation": "Điền “m” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “small”, nghĩa là “nhỏ”. Câu hoàn chỉnh: “His classroom is small”. Nguồn đối chiếu: đề IOE gốc số 7, câu 188."
+    },
+    {
+      "id": 16,
+      "question": "Wh_ t is your favourite food? - I like noodles the most",
+      "options": [],
+      "answer": "a",
+      "explanation": "Điền “a” vào chỗ trống. Ghép với phần trước là “Wh” tạo thành từ đúng “What”. Câu hoàn chỉnh: “What is your favourite food? - I like noodles the most”. Nguồn đối chiếu: đề IOE gốc số 8, câu 135."
+    },
+    {
+      "id": 17,
+      "question": "Clo_ _ your book, please",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào chỗ trống. Ghép với phần trước là “Clo” tạo thành từ đúng “Close”. Câu hoàn chỉnh: “Close your book, please”. Nguồn đối chiếu: đề IOE gốc số 11, câu 148."
+    },
+    {
+      "id": 18,
+      "question": "Be qu_ _ t, please",
+      "options": [],
+      "answer": "ie",
+      "explanation": "Điền “ie” vào chỗ trống. Ghép với phần trước là “qu” tạo thành từ đúng “quiet”. Câu hoàn chỉnh: “Be quiet, please”. Nguồn đối chiếu: đề IOE gốc số 13, câu 189."
+    },
+    {
+      "id": 19,
+      "question": "Let’s cou_ _ the boys",
+      "options": [],
+      "answer": "nt",
+      "explanation": "Điền “nt” vào chỗ trống. Ghép với phần trước là “cou” tạo thành từ đúng “count”. Câu hoàn chỉnh: “Let’s count the boys”. Nguồn đối chiếu: đề IOE gốc số 14, câu 1."
+    },
+    {
+      "id": 20,
+      "question": "So_ _ y. I am late",
+      "options": [],
+      "answer": "rr",
+      "explanation": "Điền “rr” vào chỗ trống. Ghép với phần trước là “So” tạo thành từ đúng “Sorry”, nghĩa là “xin lỗi”. Câu hoàn chỉnh: “Sorry. I am late”. Nguồn đối chiếu: đề IOE gốc số 15, câu 27."
+    },
+    {
+      "id": 21,
+      "question": "Let’s say he_ _ o to Tom",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền “ll” vào chỗ trống. Ghép với phần trước là “he” tạo thành từ đúng “hello”, nghĩa là “xin chào”. Câu hoàn chỉnh: “Let’s say hello to Tom”. Nguồn đối chiếu: đề IOE gốc số 16, câu 192."
+    },
+    {
+      "id": 22,
+      "question": "What’s y_ _ r name? - My name’s Frank. Nice to meet you",
+      "options": [],
+      "answer": "ou",
+      "explanation": "Điền “ou” vào chỗ trống. Ghép với phần trước là “y” tạo thành từ đúng “your”. Câu hoàn chỉnh: “What’s your name? - My name’s Frank. Nice to meet you”. Nguồn đối chiếu: đề IOE gốc số 17, câu 86."
+    },
+    {
+      "id": 23,
+      "question": "I smile when I am hap_ _",
+      "options": [],
+      "answer": "py",
+      "explanation": "Điền “py” vào chỗ trống. Ghép với phần trước là “hap” tạo thành từ đúng “happy”. Câu hoàn chỉnh: “I smile when I am happy”. Nguồn đối chiếu: đề IOE gốc số 20, câu 41."
+    },
+    {
+      "id": 24,
+      "question": "The big tree is beh_ nd my house",
+      "options": [],
+      "answer": "i",
+      "explanation": "Điền “i” vào chỗ trống. Ghép với phần trước là “beh” tạo thành từ đúng “behind”. Câu hoàn chỉnh: “The big tree is behind my house”. Nguồn đối chiếu: đề IOE gốc số 21, câu 59."
+    },
+    {
+      "id": 25,
+      "question": "Spe_ _ your name, please",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền “ll” vào chỗ trống. Ghép với phần trước là “Spe” tạo thành từ đúng “Spell”. Câu hoàn chỉnh: “Spell your name, please”. Nguồn đối chiếu: đề IOE gốc số 25, câu 41."
+    },
+    {
+      "id": 26,
+      "question": "I’m ha_ _ y",
+      "options": [],
+      "answer": "pp",
+      "explanation": "Điền “pp” vào chỗ trống. Ghép với phần trước là “ha” tạo thành từ đúng “happy”. Câu hoàn chỉnh: “I’m happy”. Nguồn đối chiếu: đề IOE gốc số 25, câu 75."
+    },
+    {
+      "id": 27,
+      "question": "C_ _ se your bag, Tom",
+      "options": [],
+      "answer": "lo",
+      "explanation": "Điền “lo” vào chỗ trống. Ghép với phần trước là “C” tạo thành từ đúng “Close”. Câu hoàn chỉnh: “Close your bag, Tom”. Nguồn đối chiếu: đề IOE gốc số 26, câu 192."
+    },
+    {
+      "id": 28,
+      "question": "My si_ ter’s name is Mary",
+      "options": [],
+      "answer": "s",
+      "explanation": "Điền “s” vào chỗ trống. Ghép với phần trước là “si” tạo thành từ đúng “sister”, nghĩa là “chị hoặc em gái”. Câu hoàn chỉnh: “My sister’s name is Mary”. Nguồn đối chiếu: đề IOE gốc số 30, câu 75."
+    },
+    {
+      "id": 29,
+      "question": "Tho_ _ are my crayons",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào chỗ trống. Ghép với phần trước là “Tho” tạo thành từ đúng “Those”. Câu hoàn chỉnh: “Those are my crayons”. Nguồn đối chiếu: đề IOE gốc số 33, câu 127."
+    },
+    {
+      "id": 30,
+      "question": "How m_ _ y crayons are there? – There are 3 crayons",
+      "options": [],
+      "answer": "an",
+      "explanation": "Điền “an” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “many”. Câu hoàn chỉnh: “How many crayons are there? – There are 3 crayons”. Nguồn đối chiếu: đề IOE gốc số 36, câu 141."
+    },
+    {
+      "id": 31,
+      "question": "Nam: Is that girl new? - Lien: I don’t kn_ _ . Ask Hoa",
+      "options": [],
+      "answer": "ow",
+      "explanation": "Điền “ow” vào chỗ trống. Ghép với phần trước là “kn” tạo thành từ đúng “know”. Câu hoàn chỉnh: “Nam: Is that girl new? - Lien: I don’t know. Ask Hoa”. Nguồn đối chiếu: đề IOE gốc số 38, câu 20."
+    },
+    {
+      "id": 32,
+      "question": "That is a gr_ _ n doll",
+      "options": [],
+      "answer": "ee",
+      "explanation": "Điền “ee” vào chỗ trống. Ghép với phần trước là “gr” tạo thành từ đúng “green”, nghĩa là “màu xanh lá”. Câu hoàn chỉnh: “That is a green doll”. Nguồn đối chiếu: đề IOE gốc số 38, câu 150."
+    },
+    {
+      "id": 33,
+      "question": "What co_ our is this? – It’s pink",
+      "options": [],
+      "answer": "l",
+      "explanation": "Điền “l” vào chỗ trống. Ghép với phần trước là “co” tạo thành từ đúng “colour”. Câu hoàn chỉnh: “What colour is this? – It’s pink”. Nguồn đối chiếu: đề IOE gốc số 39, câu 3."
+    },
+    {
+      "id": 34,
+      "question": "Goodbye. See you aga_ _",
+      "options": [],
+      "answer": "in",
+      "explanation": "Điền “in” vào chỗ trống. Ghép với phần trước là “aga” tạo thành từ đúng “again”. Câu hoàn chỉnh: “Goodbye. See you again”. Nguồn đối chiếu: đề IOE gốc số 39, câu 123."
+    },
+    {
+      "id": 35,
+      "question": "I’m so_ _ y. I’m late",
+      "options": [],
+      "answer": "rr",
+      "explanation": "Điền “rr” vào chỗ trống. Ghép với phần trước là “so” tạo thành từ đúng “sorry”, nghĩa là “xin lỗi”. Câu hoàn chỉnh: “I’m sorry. I’m late”. Nguồn đối chiếu: đề IOE gốc số 40, câu 187."
+    },
+    {
+      "id": 36,
+      "question": "Circle the ans_ er, please",
+      "options": [],
+      "answer": "w",
+      "explanation": "Điền “w” vào chỗ trống. Ghép với phần trước là “ans” tạo thành từ đúng “answer”. Câu hoàn chỉnh: “Circle the answer, please”. Nguồn đối chiếu: đề IOE gốc số 41, câu 78."
+    },
+    {
+      "id": 37,
+      "question": "He is se_ _ n years old",
+      "options": [],
+      "answer": "ve",
+      "explanation": "Điền “ve” vào chỗ trống. Ghép với phần trước là “se” tạo thành từ đúng “seven”. Câu hoàn chỉnh: “He is seven years old”. Nguồn đối chiếu: đề IOE gốc số 49, câu 156."
+    },
+    {
+      "id": 38,
+      "question": "There are t_ _ ee crayons in my bags",
+      "options": [],
+      "answer": "hr",
+      "explanation": "Điền “hr” vào chỗ trống. Ghép với phần trước là “t” tạo thành từ đúng “three”. Câu hoàn chỉnh: “There are three crayons in my bags”. Nguồn đối chiếu: đề IOE gốc số 1, câu 29."
+    },
+    {
+      "id": 39,
+      "question": "To_ _ h your desk, please",
+      "options": [],
+      "answer": "uc",
+      "explanation": "Điền “uc” vào chỗ trống. Ghép với phần trước là “To” tạo thành từ đúng “Touch”. Câu hoàn chỉnh: “Touch your desk, please”. Nguồn đối chiếu: đề IOE gốc số 1, câu 47."
+    },
+    {
+      "id": 40,
+      "question": "TEACH_ R",
+      "options": [],
+      "answer": "E",
+      "explanation": "Điền “E” vào chỗ trống. Ghép với phần trước là “TEACH” tạo thành từ đúng “TEACHER”, nghĩa là “giáo viên”. Câu hoàn chỉnh: “TEACHER”. Nguồn đối chiếu: đề IOE gốc số 1, câu 72."
+    },
+    {
+      "id": 41,
+      "question": "Whe_ _ is your book? - It's on the shelf",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào chỗ trống. Ghép với phần trước là “Whe” tạo thành từ đúng “Where”. Câu hoàn chỉnh: “Where is your book? - It's on the shelf”. Nguồn đối chiếu: đề IOE gốc số 3, câu 32."
+    },
+    {
+      "id": 42,
+      "question": "Good m_ rning, teacher!",
+      "options": [],
+      "answer": "o",
+      "explanation": "Điền “o” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “morning”. Câu hoàn chỉnh: “Good morning, teacher!”. Nguồn đối chiếu: đề IOE gốc số 3, câu 44."
+    },
+    {
+      "id": 43,
+      "question": "Sit d_ _ _ , Tommy",
+      "options": [],
+      "answer": "own",
+      "explanation": "Điền “own” vào chỗ trống. Ghép với phần trước là “d” tạo thành từ đúng “down”, nghĩa là “xuống”. Câu hoàn chỉnh: “Sit down, Tommy”. Nguồn đối chiếu: đề IOE gốc số 3, câu 119."
+    },
+    {
+      "id": 44,
+      "question": "This is a b_ cycle",
+      "options": [],
+      "answer": "i",
+      "explanation": "Điền “i” vào chỗ trống. Ghép với phần trước là “b” tạo thành từ đúng “bicycle”. Câu hoàn chỉnh: “This is a bicycle”. Nguồn đối chiếu: đề IOE gốc số 4, câu 113."
+    },
+    {
+      "id": 45,
+      "question": "He_ _ o, my name’s Richard. - Nice to meet you",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền “ll” vào chỗ trống. Ghép với phần trước là “He” tạo thành từ đúng “Hello”, nghĩa là “xin chào”. Câu hoàn chỉnh: “Hello, my name’s Richard. - Nice to meet you”. Nguồn đối chiếu: đề IOE gốc số 6, câu 20."
+    },
+    {
+      "id": 46,
+      "question": "This ruler is b_ _ wn. That ruler is pink",
+      "options": [],
+      "answer": "ro",
+      "explanation": "Điền “ro” vào chỗ trống. Ghép với phần trước là “b” tạo thành từ đúng “brown”, nghĩa là “màu nâu”. Câu hoàn chỉnh: “This ruler is brown. That ruler is pink”. Nguồn đối chiếu: đề IOE gốc số 6, câu 123."
+    },
+    {
+      "id": 47,
+      "question": "My books are on the ta_ _ e",
+      "options": [],
+      "answer": "bl",
+      "explanation": "Điền “bl” vào chỗ trống. Ghép với phần trước là “ta” tạo thành từ đúng “table”. Câu hoàn chỉnh: “My books are on the table”. Nguồn đối chiếu: đề IOE gốc số 6, câu 184."
+    },
+    {
+      "id": 48,
+      "question": "Ra_ _ e your hand, please",
+      "options": [],
+      "answer": "is",
+      "explanation": "Điền “is” vào chỗ trống. Ghép với phần trước là “Ra” tạo thành từ đúng “Raise”. Câu hoàn chỉnh: “Raise your hand, please”. Nguồn đối chiếu: đề IOE gốc số 6, câu 192."
+    },
+    {
+      "id": 49,
+      "question": "During Ma_ _ s lessons, I learn about numbers",
+      "options": [],
+      "answer": "th",
+      "explanation": "Điền “th” vào chỗ trống. Ghép với phần trước là “Ma” tạo thành từ đúng “Maths”. Câu hoàn chỉnh: “During Maths lessons, I learn about numbers”. Nguồn đối chiếu: đề IOE gốc số 7, câu 127."
+    },
+    {
+      "id": 50,
+      "question": "How are you to_ _ y, Tom? – I’m fine, thanks",
+      "options": [],
+      "answer": "da",
+      "explanation": "Điền “da” vào chỗ trống. Ghép với phần trước là “to” tạo thành từ đúng “today”. Câu hoàn chỉnh: “How are you today, Tom? – I’m fine, thanks”. Nguồn đối chiếu: đề IOE gốc số 8, câu 143."
+    },
+    {
+      "id": 51,
+      "question": "Good mor_ ing everyone",
+      "options": [],
+      "answer": "n",
+      "explanation": "Điền “n” vào chỗ trống. Ghép với phần trước là “mor” tạo thành từ đúng “morning”. Câu hoàn chỉnh: “Good morning everyone”. Nguồn đối chiếu: đề IOE gốc số 9, câu 59."
+    },
+    {
+      "id": 52,
+      "question": "Hi, n_ _ _ to meet you",
+      "options": [],
+      "answer": "ice",
+      "explanation": "Điền “ice” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “nice”. Câu hoàn chỉnh: “Hi, nice to meet you”. Nguồn đối chiếu: đề IOE gốc số 9, câu 94."
+    },
+    {
+      "id": 53,
+      "question": "Let’s say hel_ _ to Peter, students",
+      "options": [],
+      "answer": "lo",
+      "explanation": "Điền “lo” vào chỗ trống. Ghép với phần trước là “hel” tạo thành từ đúng “hello”, nghĩa là “xin chào”. Câu hoàn chỉnh: “Let’s say hello to Peter, students”. Nguồn đối chiếu: đề IOE gốc số 9, câu 200."
+    },
+    {
+      "id": 54,
+      "question": "Sta_ _ up now and open your book",
+      "options": [],
+      "answer": "nd",
+      "explanation": "Điền “nd” vào chỗ trống. Ghép với phần trước là “Sta” tạo thành từ đúng “Stand”. Câu hoàn chỉnh: “Stand up now and open your book”. Nguồn đối chiếu: đề IOE gốc số 10, câu 70."
+    },
+    {
+      "id": 55,
+      "question": "I’m fine. How ab_ _ t you?",
+      "options": [],
+      "answer": "ou",
+      "explanation": "Điền “ou” vào chỗ trống. Ghép với phần trước là “ab” tạo thành từ đúng “about”. Câu hoàn chỉnh: “I’m fine. How about you?”. Nguồn đối chiếu: đề IOE gốc số 11, câu 20."
+    },
+    {
+      "id": 56,
+      "question": "Goodbye. See you la_ _ r!",
+      "options": [],
+      "answer": "te",
+      "explanation": "Điền “te” vào chỗ trống. Ghép với phần trước là “la” tạo thành từ đúng “later”. Câu hoàn chỉnh: “Goodbye. See you later!”. Nguồn đối chiếu: đề IOE gốc số 12, câu 141."
+    },
+    {
+      "id": 57,
+      "question": "W_ _ te your name, please",
+      "options": [],
+      "answer": "ri",
+      "explanation": "Điền “ri” vào chỗ trống. Ghép với phần trước là “W” tạo thành từ đúng “Write”. Câu hoàn chỉnh: “Write your name, please”. Nguồn đối chiếu: đề IOE gốc số 12, câu 179."
+    },
+    {
+      "id": 58,
+      "question": "Clo_ _ your pencil boxes, children",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào chỗ trống. Ghép với phần trước là “Clo” tạo thành từ đúng “Close”. Câu hoàn chỉnh: “Close your pencil boxes, children”. Nguồn đối chiếu: đề IOE gốc số 13, câu 79."
+    },
+    {
+      "id": 59,
+      "question": "Nice to m_ _ _ you, too",
+      "options": [],
+      "answer": "eet",
+      "explanation": "Điền “eet” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “meet”. Câu hoàn chỉnh: “Nice to meet you, too”. Nguồn đối chiếu: đề IOE gốc số 13, câu 120."
+    },
+    {
+      "id": 60,
+      "question": "Have a n_ _ _ day!",
+      "options": [],
+      "answer": "ice",
+      "explanation": "Điền “ice” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “nice”. Câu hoàn chỉnh: “Have a nice day!”. Nguồn đối chiếu: đề IOE gốc số 14, câu 4."
+    },
+    {
+      "id": 61,
+      "question": "Cl_ _ e your books, please",
+      "options": [],
+      "answer": "os",
+      "explanation": "Điền “os” vào chỗ trống. Ghép với phần trước là “Cl” tạo thành từ đúng “Close”. Câu hoàn chỉnh: “Close your books, please”. Nguồn đối chiếu: đề IOE gốc số 14, câu 23."
+    },
+    {
+      "id": 62,
+      "question": "Wh_ _ e is David from? - He is from England",
+      "options": [],
+      "answer": "er",
+      "explanation": "Điền “er” vào chỗ trống. Ghép với phần trước là “Wh” tạo thành từ đúng “Where”. Câu hoàn chỉnh: “Where is David from? - He is from England”. Nguồn đối chiếu: đề IOE gốc số 17, câu 26."
+    },
+    {
+      "id": 63,
+      "question": "You are welc_ me",
+      "options": [],
+      "answer": "o",
+      "explanation": "Điền “o” vào chỗ trống. Ghép với phần trước là “welc” tạo thành từ đúng “welcome”. Câu hoàn chỉnh: “You are welcome”. Nguồn đối chiếu: đề IOE gốc số 18, câu 169."
+    },
+    {
+      "id": 64,
+      "question": "Goodbye. See you lat_ _ !",
+      "options": [],
+      "answer": "er",
+      "explanation": "Điền “er” vào chỗ trống. Ghép với phần trước là “lat” tạo thành từ đúng “later”. Câu hoàn chỉnh: “Goodbye. See you later!”. Nguồn đối chiếu: đề IOE gốc số 18, câu 188."
+    },
+    {
+      "id": 65,
+      "question": "How are you to_ _ y, David? – I’m fine, thank you",
+      "options": [],
+      "answer": "da",
+      "explanation": "Điền “da” vào chỗ trống. Ghép với phần trước là “to” tạo thành từ đúng “today”. Câu hoàn chỉnh: “How are you today, David? – I’m fine, thank you”. Nguồn đối chiếu: đề IOE gốc số 20, câu 2."
+    },
+    {
+      "id": 66,
+      "question": "Is the_ _ a dog? – No, there is not",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào chỗ trống. Ghép với phần trước là “the” tạo thành từ đúng “there”. Câu hoàn chỉnh: “Is there a dog? – No, there is not”. Nguồn đối chiếu: đề IOE gốc số 20, câu 36."
+    },
+    {
+      "id": 67,
+      "question": "My brother is th_ _ e years old",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào chỗ trống. Ghép với phần trước là “th” tạo thành từ đúng “three”. Câu hoàn chỉnh: “My brother is three years old”. Nguồn đối chiếu: đề IOE gốc số 20, câu 114."
+    },
+    {
+      "id": 68,
+      "question": "W_ _ te your name here, please",
+      "options": [],
+      "answer": "ri",
+      "explanation": "Điền “ri” vào chỗ trống. Ghép với phần trước là “W” tạo thành từ đúng “Write”. Câu hoàn chỉnh: “Write your name here, please”. Nguồn đối chiếu: đề IOE gốc số 20, câu 150."
+    },
+    {
+      "id": 69,
+      "question": "Is that y_ _ _ nephew?",
+      "options": [],
+      "answer": "our",
+      "explanation": "Điền “our” vào chỗ trống. Ghép với phần trước là “y” tạo thành từ đúng “your”. Câu hoàn chỉnh: “Is that your nephew?”. Nguồn đối chiếu: đề IOE gốc số 21, câu 58."
+    },
+    {
+      "id": 70,
+      "question": "Four and five are n_ _ _",
+      "options": [],
+      "answer": "ine",
+      "explanation": "Điền “ine” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “nine”. Câu hoàn chỉnh: “Four and five are nine”. Nguồn đối chiếu: đề IOE gốc số 21, câu 135."
+    },
+    {
+      "id": 71,
+      "question": "One plus thr_ _ makes four",
+      "options": [],
+      "answer": "ee",
+      "explanation": "Điền “ee” vào chỗ trống. Ghép với phần trước là “thr” tạo thành từ đúng “three”. Câu hoàn chỉnh: “One plus three makes four”. Nguồn đối chiếu: đề IOE gốc số 24, câu 95."
+    },
+    {
+      "id": 72,
+      "question": "R_ _ se your hands, please",
+      "options": [],
+      "answer": "ai",
+      "explanation": "Điền “ai” vào chỗ trống. Ghép với phần trước là “R” tạo thành từ đúng “Raise”. Câu hoàn chỉnh: “Raise your hands, please”. Nguồn đối chiếu: đề IOE gốc số 25, câu 155."
+    },
+    {
+      "id": 73,
+      "question": "D_ _ _ she love Science?",
+      "options": [],
+      "answer": "oes",
+      "explanation": "Điền “oes” vào chỗ trống. Ghép với phần trước là “D” tạo thành từ đúng “Does”. Câu hoàn chỉnh: “Does she love Science?”. Nguồn đối chiếu: đề IOE gốc số 28, câu 14."
+    },
+    {
+      "id": 74,
+      "question": "Are t_ _ _ students?",
+      "options": [],
+      "answer": "hey",
+      "explanation": "Điền “hey” vào chỗ trống. Ghép với phần trước là “t” tạo thành từ đúng “they”. Câu hoàn chỉnh: “Are they students?”. Nguồn đối chiếu: đề IOE gốc số 32, câu 22."
+    },
+    {
+      "id": 75,
+      "question": "Billy is th_ _ e years old",
+      "options": [],
+      "answer": "re",
+      "explanation": "Điền “re” vào chỗ trống. Ghép với phần trước là “th” tạo thành từ đúng “three”. Câu hoàn chỉnh: “Billy is three years old”. Nguồn đối chiếu: đề IOE gốc số 33, câu 154."
+    },
+    {
+      "id": 76,
+      "question": "There are s_ _ en days in a week",
+      "options": [],
+      "answer": "ev",
+      "explanation": "Điền “ev” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “seven”. Câu hoàn chỉnh: “There are seven days in a week”. Nguồn đối chiếu: đề IOE gốc số 35, câu 9."
+    },
+    {
+      "id": 77,
+      "question": "What are these? - T_ _ se are my crayons",
+      "options": [],
+      "answer": "he",
+      "explanation": "Điền “he” vào chỗ trống. Ghép với phần trước là “T” tạo thành từ đúng “These”. Câu hoàn chỉnh: “What are these? - These are my crayons”. Nguồn đối chiếu: đề IOE gốc số 35, câu 37."
+    },
+    {
+      "id": 78,
+      "question": "My father can dr_ _ e a car",
+      "options": [],
+      "answer": "iv",
+      "explanation": "Điền “iv” vào chỗ trống. Ghép với phần trước là “dr” tạo thành từ đúng “drive”. Câu hoàn chỉnh: “My father can drive a car”. Nguồn đối chiếu: đề IOE gốc số 35, câu 144."
+    },
+    {
+      "id": 79,
+      "question": "What ab_ _ t an apple? – Yes, please",
+      "options": [],
+      "answer": "ou",
+      "explanation": "Điền “ou” vào chỗ trống. Ghép với phần trước là “ab” tạo thành từ đúng “about”. Câu hoàn chỉnh: “What about an apple? – Yes, please”. Nguồn đối chiếu: đề IOE gốc số 37, câu 16."
+    },
+    {
+      "id": 80,
+      "question": "My brother likes to dri_ _ milk very much",
+      "options": [],
+      "answer": "nk",
+      "explanation": "Điền “nk” vào chỗ trống. Ghép với phần trước là “dri” tạo thành từ đúng “drink”. Câu hoàn chỉnh: “My brother likes to drink milk very much”. Nguồn đối chiếu: đề IOE gốc số 37, câu 180."
+    },
+    {
+      "id": 81,
+      "question": "Tho_ _ books are mine. These books are yours",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào chỗ trống. Ghép với phần trước là “Tho” tạo thành từ đúng “Those”. Câu hoàn chỉnh: “Those books are mine. These books are yours”. Nguồn đối chiếu: đề IOE gốc số 38, câu 131."
+    },
+    {
+      "id": 82,
+      "question": "Is it a r_ _ nd box? – No, it is a square box",
+      "options": [],
+      "answer": "ou",
+      "explanation": "Điền “ou” vào chỗ trống. Ghép với phần trước là “r” tạo thành từ đúng “round”. Câu hoàn chỉnh: “Is it a round box? – No, it is a square box”. Nguồn đối chiếu: đề IOE gốc số 39, câu 24."
+    },
+    {
+      "id": 83,
+      "question": "Your doll is gr_ _ n and my doll is yellow",
+      "options": [],
+      "answer": "ee",
+      "explanation": "Điền “ee” vào chỗ trống. Ghép với phần trước là “gr” tạo thành từ đúng “green”, nghĩa là “màu xanh lá”. Câu hoàn chỉnh: “Your doll is green and my doll is yellow”. Nguồn đối chiếu: đề IOE gốc số 41, câu 50."
+    },
+    {
+      "id": 84,
+      "question": "The map is on the w_ _ _",
+      "options": [],
+      "answer": "all",
+      "explanation": "Điền “all” vào chỗ trống. Ghép với phần trước là “w” tạo thành từ đúng “wall”. Câu hoàn chỉnh: “The map is on the wall”. Nguồn đối chiếu: đề IOE gốc số 41, câu 144."
+    },
+    {
+      "id": 85,
+      "question": "Is your bedroom big? – No, it’s s_ _ ll",
+      "options": [],
+      "answer": "ma",
+      "explanation": "Điền “ma” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “small”, nghĩa là “nhỏ”. Câu hoàn chỉnh: “Is your bedroom big? – No, it’s small”. Nguồn đối chiếu: đề IOE gốc số 44, câu 143."
+    },
+    {
+      "id": 86,
+      "question": "Rai_ _ your hands, please",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào chỗ trống. Ghép với phần trước là “Rai” tạo thành từ đúng “Raise”. Câu hoàn chỉnh: “Raise your hands, please”. Nguồn đối chiếu: đề IOE gốc số 47, câu 81."
+    },
+    {
+      "id": 87,
+      "question": "Look at tho_ _ black clouds in the sky",
+      "options": [],
+      "answer": "se",
+      "explanation": "Điền “se” vào chỗ trống. Ghép với phần trước là “tho” tạo thành từ đúng “those”. Câu hoàn chỉnh: “Look at those black clouds in the sky”. Nguồn đối chiếu: đề IOE gốc số 47, câu 161."
+    },
+    {
+      "id": 88,
+      "question": "That is my fr_ _ nd",
+      "options": [],
+      "answer": "ie",
+      "explanation": "Điền “ie” vào chỗ trống. Ghép với phần trước là “fr” tạo thành từ đúng “friend”, nghĩa là “người bạn”. Câu hoàn chỉnh: “That is my friend”. Nguồn đối chiếu: đề IOE gốc số 1, câu 63."
+    },
+    {
+      "id": 89,
+      "question": "Mary is at sch_ _ l",
+      "options": [],
+      "answer": "oo",
+      "explanation": "Điền “oo” vào chỗ trống. Ghép với phần trước là “sch” tạo thành từ đúng “school”, nghĩa là “trường học”. Câu hoàn chỉnh: “Mary is at school”. Nguồn đối chiếu: đề IOE gốc số 2, câu 138."
+    },
+    {
+      "id": 90,
+      "question": "David and Tony p_ _ _ football after school",
+      "options": [],
+      "answer": "lay",
+      "explanation": "Điền “lay” vào chỗ trống. Ghép với phần trước là “p” tạo thành từ đúng “play”. Câu hoàn chỉnh: “David and Tony play football after school”. Nguồn đối chiếu: đề IOE gốc số 2, câu 139."
+    },
+    {
+      "id": 91,
+      "question": "W_ _ _ are these? – These are pencil cases",
+      "options": [],
+      "answer": "hat",
+      "explanation": "Điền “hat” vào chỗ trống. Ghép với phần trước là “W” tạo thành từ đúng “What”. Câu hoàn chỉnh: “What are these? – These are pencil cases”. Nguồn đối chiếu: đề IOE gốc số 2, câu 165."
+    },
+    {
+      "id": 92,
+      "question": "That is my fa_ _ er",
+      "options": [],
+      "answer": "th",
+      "explanation": "Điền “th” vào chỗ trống. Ghép với phần trước là “fa” tạo thành từ đúng “father”, nghĩa là “bố”. Câu hoàn chỉnh: “That is my father”. Nguồn đối chiếu: đề IOE gốc số 2, câu 199."
+    },
+    {
+      "id": 93,
+      "question": "sch_ _ l",
+      "options": [],
+      "answer": "oo",
+      "explanation": "Điền “oo” vào chỗ trống. Ghép với phần trước là “sch” tạo thành từ đúng “school”, nghĩa là “trường học”. Câu hoàn chỉnh: “school”. Nguồn đối chiếu: đề IOE gốc số 3, câu 148."
+    },
+    {
+      "id": 94,
+      "question": "Circle the an_ _ er",
+      "options": [],
+      "answer": "sw",
+      "explanation": "Điền “sw” vào chỗ trống. Ghép với phần trước là “an” tạo thành từ đúng “answer”. Câu hoàn chỉnh: “Circle the answer”. Nguồn đối chiếu: đề IOE gốc số 4, câu 83."
+    },
+    {
+      "id": 95,
+      "question": "A: I’m Linda. And your n_ _ _ ? - B: Peter",
+      "options": [],
+      "answer": "ame",
+      "explanation": "Điền “ame” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “name”, nghĩa là “tên”. Câu hoàn chỉnh: “A: I’m Linda. And your name? - B: Peter”. Nguồn đối chiếu: đề IOE gốc số 5, câu 139."
+    },
+    {
+      "id": 96,
+      "question": "That hat is ye_ _ ow",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền “ll” vào chỗ trống. Ghép với phần trước là “ye” tạo thành từ đúng “yellow”, nghĩa là “màu vàng”. Câu hoàn chỉnh: “That hat is yellow”. Nguồn đối chiếu: đề IOE gốc số 6, câu 12."
+    },
+    {
+      "id": 97,
+      "question": "Good_ ye. See you tomorrow",
+      "options": [],
+      "answer": "b",
+      "explanation": "Điền “b” vào chỗ trống. Ghép với phần trước là “Good” tạo thành từ đúng “Goodbye”, nghĩa là “tạm biệt”. Câu hoàn chỉnh: “Goodbye. See you tomorrow”. Nguồn đối chiếu: đề IOE gốc số 6, câu 15."
+    },
+    {
+      "id": 98,
+      "question": "John likes to play games v_ _ _ much",
+      "options": [],
+      "answer": "ery",
+      "explanation": "Điền “ery” vào chỗ trống. Ghép với phần trước là “v” tạo thành từ đúng “very”. Câu hoàn chỉnh: “John likes to play games very much”. Nguồn đối chiếu: đề IOE gốc số 7, câu 112."
+    },
+    {
+      "id": 99,
+      "question": "My sister’s n_ _ _ is Lily",
+      "options": [],
+      "answer": "ame",
+      "explanation": "Điền “ame” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “name”, nghĩa là “tên”. Câu hoàn chỉnh: “My sister’s name is Lily”. Nguồn đối chiếu: đề IOE gốc số 7, câu 113."
+    },
+    {
+      "id": 100,
+      "question": "This is my fam_ _ y",
+      "options": [],
+      "answer": "il",
+      "explanation": "Điền “il” vào chỗ trống. Ghép với phần trước là “fam” tạo thành từ đúng “family”, nghĩa là “gia đình”. Câu hoàn chỉnh: “This is my family”. Nguồn đối chiếu: đề IOE gốc số 7, câu 137."
+    },
+    {
+      "id": 101,
+      "question": "Here is their s_ _ ool",
+      "options": [],
+      "answer": "ch",
+      "explanation": "Điền “ch” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “school”, nghĩa là “trường học”. Câu hoàn chỉnh: “Here is their school”. Nguồn đối chiếu: đề IOE gốc số 10, câu 82."
+    },
+    {
+      "id": 102,
+      "question": "Her ruler is short, but my ruler is l_ _ _",
+      "options": [],
+      "answer": "ong",
+      "explanation": "Điền “ong” vào chỗ trống. Ghép với phần trước là “l” tạo thành từ đúng “long”, nghĩa là “dài”. Câu hoàn chỉnh: “Her ruler is short, but my ruler is long”. Nguồn đối chiếu: đề IOE gốc số 11, câu 47."
+    },
+    {
+      "id": 103,
+      "question": "Her family n_ _ _ is Green",
+      "options": [],
+      "answer": "ame",
+      "explanation": "Điền “ame” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “name”, nghĩa là “tên”. Câu hoàn chỉnh: “Her family name is Green”. Nguồn đối chiếu: đề IOE gốc số 12, câu 28."
+    },
+    {
+      "id": 104,
+      "question": "L_ _ _ ! It’s our new teacher, Miss Hien",
+      "options": [],
+      "answer": "ook",
+      "explanation": "Điền “ook” vào chỗ trống. Ghép với phần trước là “L” tạo thành từ đúng “Look”. Câu hoàn chỉnh: “Look! It’s our new teacher, Miss Hien”. Nguồn đối chiếu: đề IOE gốc số 12, câu 109."
+    },
+    {
+      "id": 105,
+      "question": "Circle the an_ _ er, Sam",
+      "options": [],
+      "answer": "sw",
+      "explanation": "Điền “sw” vào chỗ trống. Ghép với phần trước là “an” tạo thành từ đúng “answer”. Câu hoàn chỉnh: “Circle the answer, Sam”. Nguồn đối chiếu: đề IOE gốc số 13, câu 41."
+    },
+    {
+      "id": 106,
+      "question": "Tram is my fr_ _ nd",
+      "options": [],
+      "answer": "ie",
+      "explanation": "Điền “ie” vào chỗ trống. Ghép với phần trước là “fr” tạo thành từ đúng “friend”, nghĩa là “người bạn”. Câu hoàn chỉnh: “Tram is my friend”. Nguồn đối chiếu: đề IOE gốc số 13, câu 137."
+    },
+    {
+      "id": 107,
+      "question": "Do you have toys? – Yes, I h_ _ _ a doll",
+      "options": [],
+      "answer": "ave",
+      "explanation": "Điền “ave” vào chỗ trống. Ghép với phần trước là “h” tạo thành từ đúng “have”. Câu hoàn chỉnh: “Do you have toys? – Yes, I have a doll”. Nguồn đối chiếu: đề IOE gốc số 14, câu 81."
+    },
+    {
+      "id": 108,
+      "question": "How m_ _ _ dogs do you have?",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền “any” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “many”. Câu hoàn chỉnh: “How many dogs do you have?”. Nguồn đối chiếu: đề IOE gốc số 18, câu 10."
+    },
+    {
+      "id": 109,
+      "question": "T_ _ _ are my uncle and aunt",
+      "options": [],
+      "answer": "hey",
+      "explanation": "Điền “hey” vào chỗ trống. Ghép với phần trước là “T” tạo thành từ đúng “They”. Câu hoàn chỉnh: “They are my uncle and aunt”. Nguồn đối chiếu: đề IOE gốc số 18, câu 31."
+    },
+    {
+      "id": 110,
+      "question": "These are my friends. The_ _ names are Lan and Phuong",
+      "options": [],
+      "answer": "ir",
+      "explanation": "Điền “ir” vào chỗ trống. Ghép với phần trước là “The” tạo thành từ đúng “Their”. Câu hoàn chỉnh: “These are my friends. Their names are Lan and Phuong”. Nguồn đối chiếu: đề IOE gốc số 18, câu 194."
+    },
+    {
+      "id": 111,
+      "question": "I l_ _ _ swimming very much",
+      "options": [],
+      "answer": "ike",
+      "explanation": "Điền “ike” vào chỗ trống. Ghép với phần trước là “l” tạo thành từ đúng “like”. Câu hoàn chỉnh: “I like swimming very much”. Nguồn đối chiếu: đề IOE gốc số 19, câu 49."
+    },
+    {
+      "id": 112,
+      "question": "We s_ _ _ a song in Music lesson",
+      "options": [],
+      "answer": "ing",
+      "explanation": "Điền “ing” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “sing”. Câu hoàn chỉnh: “We sing a song in Music lesson”. Nguồn đối chiếu: đề IOE gốc số 19, câu 54."
+    },
+    {
+      "id": 113,
+      "question": "It's not my pen. It's y_ _ _ pen",
+      "options": [],
+      "answer": "our",
+      "explanation": "Điền “our” vào chỗ trống. Ghép với phần trước là “y” tạo thành từ đúng “your”. Câu hoàn chỉnh: “It's not my pen. It's your pen”. Nguồn đối chiếu: đề IOE gốc số 20, câu 106."
+    },
+    {
+      "id": 114,
+      "question": "Give me some more honey, please. - H_ _ _ you are",
+      "options": [],
+      "answer": "ere",
+      "explanation": "Điền “ere” vào chỗ trống. Ghép với phần trước là “H” tạo thành từ đúng “Here”. Câu hoàn chỉnh: “Give me some more honey, please. - Here you are”. Nguồn đối chiếu: đề IOE gốc số 20, câu 117."
+    },
+    {
+      "id": 115,
+      "question": "Does your father like p_ _ _ ing sports?",
+      "options": [],
+      "answer": "lay",
+      "explanation": "Điền “lay” vào chỗ trống. Ghép với phần trước là “p” tạo thành từ đúng “play”. Câu hoàn chỉnh: “Does your father like play ing sports?”. Nguồn đối chiếu: đề IOE gốc số 20, câu 145."
+    },
+    {
+      "id": 116,
+      "question": "Goodb_ e, Tommy. See you later",
+      "options": [],
+      "answer": "y",
+      "explanation": "Điền “y” vào chỗ trống. Ghép với phần trước là “Goodb” tạo thành từ đúng “Goodbye”, nghĩa là “tạm biệt”. Câu hoàn chỉnh: “Goodbye, Tommy. See you later”. Nguồn đối chiếu: đề IOE gốc số 21, câu 49."
+    },
+    {
+      "id": 117,
+      "question": "This desk is ye_ _ ow",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền “ll” vào chỗ trống. Ghép với phần trước là “ye” tạo thành từ đúng “yellow”, nghĩa là “màu vàng”. Câu hoàn chỉnh: “This desk is yellow”. Nguồn đối chiếu: đề IOE gốc số 23, câu 142."
+    },
+    {
+      "id": 118,
+      "question": "Would you like to p_ _ _ games with us?",
+      "options": [],
+      "answer": "lay",
+      "explanation": "Điền “lay” vào chỗ trống. Ghép với phần trước là “p” tạo thành từ đúng “play”. Câu hoàn chỉnh: “Would you like to play games with us?”. Nguồn đối chiếu: đề IOE gốc số 24, câu 20."
+    },
+    {
+      "id": 119,
+      "question": "W_ _ _ is this? - It’s a ruler",
+      "options": [],
+      "answer": "hat",
+      "explanation": "Điền “hat” vào chỗ trống. Ghép với phần trước là “W” tạo thành từ đúng “What”. Câu hoàn chỉnh: “What is this? - It’s a ruler”. Nguồn đối chiếu: đề IOE gốc số 24, câu 168."
+    },
+    {
+      "id": 120,
+      "question": "Let’s go fishing. – That’s a good i_ _ _",
+      "options": [],
+      "answer": "dea",
+      "explanation": "Điền “dea” vào chỗ trống. Ghép với phần trước là “i” tạo thành từ đúng “idea”. Câu hoàn chỉnh: “Let’s go fishing. – That’s a good idea”. Nguồn đối chiếu: đề IOE gốc số 25, câu 9."
+    },
+    {
+      "id": 121,
+      "question": "Your sister is pre_ _ y",
+      "options": [],
+      "answer": "tt",
+      "explanation": "Điền “tt” vào chỗ trống. Ghép với phần trước là “pre” tạo thành từ đúng “pretty”. Câu hoàn chỉnh: “Your sister is pretty”. Nguồn đối chiếu: đề IOE gốc số 25, câu 116."
+    },
+    {
+      "id": 122,
+      "question": "I’m h_ _ gry",
+      "options": [],
+      "answer": "un",
+      "explanation": "Điền “un” vào chỗ trống. Ghép với phần trước là “h” tạo thành từ đúng “hungry”. Câu hoàn chỉnh: “I’m hungry”. Nguồn đối chiếu: đề IOE gốc số 26, câu 128."
+    },
+    {
+      "id": 123,
+      "question": "Nam: W_ _ _ is this? - Mai: It’s a ruler",
+      "options": [],
+      "answer": "hat",
+      "explanation": "Điền “hat” vào chỗ trống. Ghép với phần trước là “W” tạo thành từ đúng “What”. Câu hoàn chỉnh: “Nam: What is this? - Mai: It’s a ruler”. Nguồn đối chiếu: đề IOE gốc số 27, câu 26."
+    },
+    {
+      "id": 124,
+      "question": "My ruler is ye_ _ ow",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền “ll” vào chỗ trống. Ghép với phần trước là “ye” tạo thành từ đúng “yellow”, nghĩa là “màu vàng”. Câu hoàn chỉnh: “My ruler is yellow”. Nguồn đối chiếu: đề IOE gốc số 32, câu 62."
+    },
+    {
+      "id": 125,
+      "question": "Is that y_ _ _ school? – Yes, it is",
+      "options": [],
+      "answer": "our",
+      "explanation": "Điền “our” vào chỗ trống. Ghép với phần trước là “y” tạo thành từ đúng “your”. Câu hoàn chỉnh: “Is that your school? – Yes, it is”. Nguồn đối chiếu: đề IOE gốc số 32, câu 70."
+    },
+    {
+      "id": 126,
+      "question": "What’s y_ _ _ name? – My name’s Shane",
+      "options": [],
+      "answer": "our",
+      "explanation": "Điền “our” vào chỗ trống. Ghép với phần trước là “y” tạo thành từ đúng “your”. Câu hoàn chỉnh: “What’s your name? – My name’s Shane”. Nguồn đối chiếu: đề IOE gốc số 33, câu 57."
+    },
+    {
+      "id": 127,
+      "question": "My school y_ _ _ is small",
+      "options": [],
+      "answer": "ard",
+      "explanation": "Điền “ard” vào chỗ trống. Ghép với phần trước là “y” tạo thành từ đúng “yard”. Câu hoàn chỉnh: “My school yard is small”. Nguồn đối chiếu: đề IOE gốc số 33, câu 78."
+    },
+    {
+      "id": 128,
+      "question": "She is pre_ _ y",
+      "options": [],
+      "answer": "tt",
+      "explanation": "Điền “tt” vào chỗ trống. Ghép với phần trước là “pre” tạo thành từ đúng “pretty”. Câu hoàn chỉnh: “She is pretty”. Nguồn đối chiếu: đề IOE gốc số 35, câu 181."
+    },
+    {
+      "id": 129,
+      "question": "Jenny is my new f_ _ end",
+      "options": [],
+      "answer": "ri",
+      "explanation": "Điền “ri” vào chỗ trống. Ghép với phần trước là “f” tạo thành từ đúng “friend”, nghĩa là “người bạn”. Câu hoàn chỉnh: “Jenny is my new friend”. Nguồn đối chiếu: đề IOE gốc số 36, câu 71."
+    },
+    {
+      "id": 130,
+      "question": "May I c_ _ _ in and study?",
+      "options": [],
+      "answer": "ome",
+      "explanation": "Điền “ome” vào chỗ trống. Ghép với phần trước là “c” tạo thành từ đúng “come”. Câu hoàn chỉnh: “May I come in and study?”. Nguồn đối chiếu: đề IOE gốc số 37, câu 25."
+    },
+    {
+      "id": 131,
+      "question": "How m_ _ _ apples do you want?",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền “any” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “many”. Câu hoàn chỉnh: “How many apples do you want?”. Nguồn đối chiếu: đề IOE gốc số 37, câu 115."
+    },
+    {
+      "id": 132,
+      "question": "Sally is standing n_ _ _ to David",
+      "options": [],
+      "answer": "ext",
+      "explanation": "Điền “ext” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “next”. Câu hoàn chỉnh: “Sally is standing next to David”. Nguồn đối chiếu: đề IOE gốc số 38, câu 42."
+    },
+    {
+      "id": 133,
+      "question": "Is the girl o_ _ _ there your classmate, Rosie?",
+      "options": [],
+      "answer": "ver",
+      "explanation": "Điền “ver” vào chỗ trống. Ghép với phần trước là “o” tạo thành từ đúng “over”. Câu hoàn chỉnh: “Is the girl over there your classmate, Rosie?”. Nguồn đối chiếu: đề IOE gốc số 38, câu 82."
+    },
+    {
+      "id": 134,
+      "question": "I’m fine, than_ _",
+      "options": [],
+      "answer": "ks",
+      "explanation": "Điền “ks” vào chỗ trống. Ghép với phần trước là “than” tạo thành từ đúng “thanks”, nghĩa là “cảm ơn”. Câu hoàn chỉnh: “I’m fine, thanks”. Nguồn đối chiếu: đề IOE gốc số 38, câu 88."
+    },
+    {
+      "id": 135,
+      "question": "I k_ _ _ little English and French",
+      "options": [],
+      "answer": "now",
+      "explanation": "Điền “now” vào chỗ trống. Ghép với phần trước là “k” tạo thành từ đúng “know”. Câu hoàn chỉnh: “I know little English and French”. Nguồn đối chiếu: đề IOE gốc số 38, câu 200."
+    },
+    {
+      "id": 136,
+      "question": "My sch_ _ l is big",
+      "options": [],
+      "answer": "oo",
+      "explanation": "Điền “oo” vào chỗ trống. Ghép với phần trước là “sch” tạo thành từ đúng “school”, nghĩa là “trường học”. Câu hoàn chỉnh: “My school is big”. Nguồn đối chiếu: đề IOE gốc số 39, câu 69."
+    },
+    {
+      "id": 137,
+      "question": "Close the d_ _ _ , please",
+      "options": [],
+      "answer": "oor",
+      "explanation": "Điền “oor” vào chỗ trống. Ghép với phần trước là “d” tạo thành từ đúng “door”. Câu hoàn chỉnh: “Close the door, please”. Nguồn đối chiếu: đề IOE gốc số 39, câu 169."
+    },
+    {
+      "id": 138,
+      "question": "What books are they? - T_ _ _ are Maths books",
+      "options": [],
+      "answer": "hey",
+      "explanation": "Điền “hey” vào chỗ trống. Ghép với phần trước là “T” tạo thành từ đúng “They”. Câu hoàn chỉnh: “What books are they? - They are Maths books”. Nguồn đối chiếu: đề IOE gốc số 40, câu 30."
+    },
+    {
+      "id": 139,
+      "question": "Goodbye Tommy. See you s_ _ _",
+      "options": [],
+      "answer": "oon",
+      "explanation": "Điền “oon” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “soon”. Câu hoàn chỉnh: “Goodbye Tommy. See you soon”. Nguồn đối chiếu: đề IOE gốc số 40, câu 108."
+    },
+    {
+      "id": 140,
+      "question": "Can you come and s_ _ _ a song with me?",
+      "options": [],
+      "answer": "ing",
+      "explanation": "Điền “ing” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “sing”. Câu hoàn chỉnh: “Can you come and sing a song with me?”. Nguồn đối chiếu: đề IOE gốc số 41, câu 13."
+    },
+    {
+      "id": 141,
+      "question": "Do you have any rubbers? – Yes, here t_ _ _ are",
+      "options": [],
+      "answer": "hey",
+      "explanation": "Điền “hey” vào chỗ trống. Ghép với phần trước là “t” tạo thành từ đúng “they”. Câu hoàn chỉnh: “Do you have any rubbers? – Yes, here they are”. Nguồn đối chiếu: đề IOE gốc số 41, câu 28."
+    },
+    {
+      "id": 142,
+      "question": "W_ _ _ are these? – These are my new crayons",
+      "options": [],
+      "answer": "hat",
+      "explanation": "Điền “hat” vào chỗ trống. Ghép với phần trước là “W” tạo thành từ đúng “What”. Câu hoàn chỉnh: “What are these? – These are my new crayons”. Nguồn đối chiếu: đề IOE gốc số 42, câu 128."
+    },
+    {
+      "id": 143,
+      "question": "Do you like colouring? – Yes, it is so m_ _ _ fun",
+      "options": [],
+      "answer": "uch",
+      "explanation": "Điền “uch” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “much”. Câu hoàn chỉnh: “Do you like colouring? – Yes, it is so much fun”. Nguồn đối chiếu: đề IOE gốc số 44, câu 80."
+    },
+    {
+      "id": 144,
+      "question": "Who can p_ _ _ the guitar? – Dad",
+      "options": [],
+      "answer": "lay",
+      "explanation": "Điền “lay” vào chỗ trống. Ghép với phần trước là “p” tạo thành từ đúng “play”. Câu hoàn chỉnh: “Who can play the guitar? – Dad”. Nguồn đối chiếu: đề IOE gốc số 44, câu 94."
+    },
+    {
+      "id": 145,
+      "question": "C_ _ _ on. We don’t have much time",
+      "options": [],
+      "answer": "ome",
+      "explanation": "Điền “ome” vào chỗ trống. Ghép với phần trước là “C” tạo thành từ đúng “Come”. Câu hoàn chỉnh: “Come on. We don’t have much time”. Nguồn đối chiếu: đề IOE gốc số 45, câu 193."
+    },
+    {
+      "id": 146,
+      "question": "A: What is Susan’s ho_ _ y? - B: She likes singing and playing the piano",
+      "options": [],
+      "answer": "bb",
+      "explanation": "Điền “bb” vào chỗ trống. Ghép với phần trước là “ho” tạo thành từ đúng “hobby”. Câu hoàn chỉnh: “A: What is Susan’s hobby? - B: She likes singing and playing the piano”. Nguồn đối chiếu: đề IOE gốc số 48, câu 177."
+    },
+    {
+      "id": 147,
+      "question": "Where are you? - I am w_ _ _ my friends",
+      "options": [],
+      "answer": "ith",
+      "explanation": "Điền “ith” vào chỗ trống. Ghép với phần trước là “w” tạo thành từ đúng “with”. Câu hoàn chỉnh: “Where are you? - I am with my friends”. Nguồn đối chiếu: đề IOE gốc số 49, câu 22."
+    },
+    {
+      "id": 148,
+      "question": "Co_ plete the sentences",
+      "options": [],
+      "answer": "m",
+      "explanation": "Điền “m” vào chỗ trống. Ghép với phần trước là “Co” tạo thành từ đúng “Complete”. Câu hoàn chỉnh: “Complete the sentences”. Nguồn đối chiếu: đề IOE gốc số 1, câu 177."
+    },
+    {
+      "id": 149,
+      "question": "Point to your frie_ _ , please",
+      "options": [],
+      "answer": "nd",
+      "explanation": "Điền “nd” vào chỗ trống. Ghép với phần trước là “frie” tạo thành từ đúng “friend”, nghĩa là “người bạn”. Câu hoàn chỉnh: “Point to your friend, please”. Nguồn đối chiếu: đề IOE gốc số 3, câu 200."
+    },
+    {
+      "id": 150,
+      "question": "She doesn’t like ma_ _ ng paper boat",
+      "options": [],
+      "answer": "ki",
+      "explanation": "Điền “ki” vào chỗ trống. Ghép với phần trước là “ma” tạo thành từ đúng “making”. Câu hoàn chỉnh: “She doesn’t like making paper boat”. Nguồn đối chiếu: đề IOE gốc số 4, câu 29."
+    },
+    {
+      "id": 151,
+      "question": "How m_ _ _ books are there on the bookshelf? – There are four books",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền “any” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “many”. Câu hoàn chỉnh: “How many books are there on the bookshelf? – There are four books”. Nguồn đối chiếu: đề IOE gốc số 6, câu 143."
+    },
+    {
+      "id": 152,
+      "question": "That is my s_ _ ter. Her name is Mandy",
+      "options": [],
+      "answer": "is",
+      "explanation": "Điền “is” vào chỗ trống. Ghép với phần trước là “s” tạo thành từ đúng “sister”, nghĩa là “chị hoặc em gái”. Câu hoàn chỉnh: “That is my sister. Her name is Mandy”. Nguồn đối chiếu: đề IOE gốc số 8, câu 98."
+    },
+    {
+      "id": 153,
+      "question": "Good ni_ _ _ , children",
+      "options": [],
+      "answer": "ght",
+      "explanation": "Điền “ght” vào chỗ trống. Ghép với phần trước là “ni” tạo thành từ đúng “night”. Câu hoàn chỉnh: “Good night, children”. Nguồn đối chiếu: đề IOE gốc số 11, câu 65."
+    },
+    {
+      "id": 154,
+      "question": "Bye. See you l_ _ _ r",
+      "options": [],
+      "answer": "ate",
+      "explanation": "Điền “ate” vào chỗ trống. Ghép với phần trước là “l” tạo thành từ đúng “later”. Câu hoàn chỉnh: “Bye. See you later”. Nguồn đối chiếu: đề IOE gốc số 11, câu 137."
+    },
+    {
+      "id": 155,
+      "question": "Harry is my fri_ _ d, too",
+      "options": [],
+      "answer": "en",
+      "explanation": "Điền “en” vào chỗ trống. Ghép với phần trước là “fri” tạo thành từ đúng “friend”, nghĩa là “người bạn”. Câu hoàn chỉnh: “Harry is my friend, too”. Nguồn đối chiếu: đề IOE gốc số 16, câu 181."
+    },
+    {
+      "id": 156,
+      "question": "St_ _ _ up, please",
+      "options": [],
+      "answer": "and",
+      "explanation": "Điền “and” vào chỗ trống. Ghép với phần trước là “St” tạo thành từ đúng “Stand”. Câu hoàn chỉnh: “Stand up, please”. Nguồn đối chiếu: đề IOE gốc số 19, câu 191."
+    },
+    {
+      "id": 157,
+      "question": "What is your school’s n_ _ _ ? – It’s Oxford Primary School",
+      "options": [],
+      "answer": "ame",
+      "explanation": "Điền “ame” vào chỗ trống. Ghép với phần trước là “n” tạo thành từ đúng “name”, nghĩa là “tên”. Câu hoàn chỉnh: “What is your school’s name? – It’s Oxford Primary School”. Nguồn đối chiếu: đề IOE gốc số 23, câu 45."
+    },
+    {
+      "id": 158,
+      "question": "This is my fa_ _ er. He is an engineer",
+      "options": [],
+      "answer": "th",
+      "explanation": "Điền “th” vào chỗ trống. Ghép với phần trước là “fa” tạo thành từ đúng “father”, nghĩa là “bố”. Câu hoàn chỉnh: “This is my father. He is an engineer”. Nguồn đối chiếu: đề IOE gốc số 32, câu 191."
+    },
+    {
+      "id": 159,
+      "question": "Your school and your library is big. – Yes, t_ _ _ are very big and nice",
+      "options": [],
+      "answer": "hey",
+      "explanation": "Điền “hey” vào chỗ trống. Ghép với phần trước là “t” tạo thành từ đúng “they”. Câu hoàn chỉnh: “Your school and your library is big. – Yes, they are very big and nice”. Nguồn đối chiếu: đề IOE gốc số 35, câu 67."
+    },
+    {
+      "id": 160,
+      "question": "What col_ _ r is this book? – It’s red",
+      "options": [],
+      "answer": "ou",
+      "explanation": "Điền “ou” vào chỗ trống. Ghép với phần trước là “col” tạo thành từ đúng “colour”. Câu hoàn chỉnh: “What colour is this book? – It’s red”. Nguồn đối chiếu: đề IOE gốc số 36, câu 121."
+    },
+    {
+      "id": 161,
+      "question": "That is an ora_ _ e pencil",
+      "options": [],
+      "answer": "ng",
+      "explanation": "Điền “ng” vào chỗ trống. Ghép với phần trước là “ora” tạo thành từ đúng “orange”, nghĩa là “màu cam”. Câu hoàn chỉnh: “That is an orange pencil”. Nguồn đối chiếu: đề IOE gốc số 37, câu 68."
+    },
+    {
+      "id": 162,
+      "question": "Who can cl_ _ _ a tree?",
+      "options": [],
+      "answer": "imb",
+      "explanation": "Điền “imb” vào chỗ trống. Ghép với phần trước là “cl” tạo thành từ đúng “climb”. Câu hoàn chỉnh: “Who can climb a tree?”. Nguồn đối chiếu: đề IOE gốc số 40, câu 157."
+    },
+    {
+      "id": 163,
+      "question": "Minh: Where are you? - Nga: I am w_ _ _ my friends",
+      "options": [],
+      "answer": "ith",
+      "explanation": "Điền “ith” vào chỗ trống. Ghép với phần trước là “w” tạo thành từ đúng “with”. Câu hoàn chỉnh: “Minh: Where are you? - Nga: I am with my friends”. Nguồn đối chiếu: đề IOE gốc số 41, câu 56."
+    },
+    {
+      "id": 164,
+      "question": "How m_ _ _ books are there? – There are three books",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền “any” vào chỗ trống. Ghép với phần trước là “m” tạo thành từ đúng “many”. Câu hoàn chỉnh: “How many books are there? – There are three books”. Nguồn đối chiếu: đề IOE gốc số 47, câu 16."
+    },
+    {
+      "id": 165,
+      "question": "What colour is that flower? – It’s yel_ _ w",
+      "options": [],
+      "answer": "lo",
+      "explanation": "Điền “lo” vào chỗ trống. Ghép với phần trước là “yel” tạo thành từ đúng “yellow”, nghĩa là “màu vàng”. Câu hoàn chỉnh: “What colour is that flower? – It’s yellow”. Nguồn đối chiếu: đề IOE gốc số 47, câu 155."
+    },
+    {
+      "id": 166,
+      "question": "How are you, Lan? - I’m fine, t_ _ nks",
+      "options": [],
+      "answer": "ha",
+      "explanation": "Điền “ha” vào chỗ trống. Ghép với phần trước là “t” tạo thành từ đúng “thanks”, nghĩa là “cảm ơn”. Câu hoàn chỉnh: “How are you, Lan? - I’m fine, thanks”. Nguồn đối chiếu: đề IOE gốc số 48, câu 11."
+    },
+    {
+      "id": 167,
+      "question": "Open your school bag, ple_ _ e",
+      "options": [],
+      "answer": "as",
+      "explanation": "Điền “as” vào chỗ trống. Ghép với phần trước là “ple” tạo thành từ đúng “please”. Câu hoàn chỉnh: “Open your school bag, please”. Nguồn đối chiếu: đề IOE gốc số 48, câu 84."
+    },
+    {
+      "id": 168,
+      "question": "My si_ _ er’s name is Mary",
+      "options": [],
+      "answer": "st",
+      "explanation": "Điền “st” vào chỗ trống. Ghép với phần trước là “si” tạo thành từ đúng “sister”, nghĩa là “chị hoặc em gái”. Câu hoàn chỉnh: “My sister’s name is Mary”. Nguồn đối chiếu: đề IOE gốc số 49, câu 136."
+    },
+    {
+      "id": 169,
+      "question": "She is my tea_ _ er",
+      "options": [],
+      "answer": "ch",
+      "explanation": "Điền “ch” vào chỗ trống. Ghép với phần trước là “tea” tạo thành từ đúng “teacher”, nghĩa là “giáo viên”. Câu hoàn chỉnh: “She is my teacher”. Nguồn đối chiếu: đề IOE gốc số 1, câu 75."
+    },
+    {
+      "id": 170,
+      "question": "Is th_ _ _ any water in the fridge, mom?",
+      "options": [],
+      "answer": "ere",
+      "explanation": "Điền “ere” vào chỗ trống. Ghép với phần trước là “th” tạo thành từ đúng “there”. Câu hoàn chỉnh: “Is there any water in the fridge, mom?”. Nguồn đối chiếu: đề IOE gốc số 2, câu 143."
+    },
+    {
+      "id": 171,
+      "question": "You are wel_ _ me",
+      "options": [],
+      "answer": "co",
+      "explanation": "Điền “co” vào chỗ trống. Ghép với phần trước là “wel” tạo thành từ đúng “welcome”. Câu hoàn chỉnh: “You are welcome”. Nguồn đối chiếu: đề IOE gốc số 3, câu 59."
+    },
+    {
+      "id": 172,
+      "question": "I’m fine, thanks. How a_ _ _ t you?",
+      "options": [],
+      "answer": "bou",
+      "explanation": "Điền “bou” vào chỗ trống. Ghép với phần trước là “a” tạo thành từ đúng “about”. Câu hoàn chỉnh: “I’m fine, thanks. How about you?”. Nguồn đối chiếu: đề IOE gốc số 3, câu 139."
+    },
+    {
+      "id": 173,
+      "question": "Choose the letter(s) to make a correct word: CLO__",
+      "options": [
+        "A. SS",
+        "B. SA",
+        "C. SE",
+        "D. EE"
+      ],
+      "answer": "C. SE",
+      "explanation": "Chọn phương án C chứa “SE”. Ghép với phần trước là “CLO” tạo thành từ đúng “CLOSE”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: CLOSE”. Nguồn đối chiếu: đề IOE gốc số 6, câu 120."
+    },
+    {
+      "id": 174,
+      "question": "Choose the letter(s) to make a correct word: cla__",
+      "options": [
+        "A. rr",
+        "B. ss",
+        "C. hs",
+        "D. s"
+      ],
+      "answer": "B. ss",
+      "explanation": "Chọn phương án B chứa “ss”. Ghép với phần trước là “cla” tạo thành từ đúng “class”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: class”. Nguồn đối chiếu: đề IOE gốc số 9, câu 124."
+    },
+    {
+      "id": 175,
+      "question": "Choose the letter(s) to make a correct word: bla__",
+      "options": [
+        "A. kk",
+        "B. cc",
+        "C. kc",
+        "D. ck"
+      ],
+      "answer": "D. ck",
+      "explanation": "Chọn phương án D chứa “ck”. Ghép với phần trước là “bla” tạo thành từ đúng “black”, nghĩa là “màu đen”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: black”. Nguồn đối chiếu: đề IOE gốc số 18, câu 78."
+    },
+    {
+      "id": 176,
+      "question": "Choose the letter(s) to make a correct word: hor__",
+      "options": [
+        "A. si",
+        "B. ce",
+        "C. se",
+        "D. ci"
+      ],
+      "answer": "C. se",
+      "explanation": "Chọn phương án C chứa “se”. Ghép với phần trước là “hor” tạo thành từ đúng “horse”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: horse”. Nguồn đối chiếu: đề IOE gốc số 37, câu 38."
+    },
+    {
+      "id": 177,
+      "question": "GA__EN",
+      "options": [
+        "A. AR",
+        "B. RD",
+        "C. RT",
+        "D. D"
+      ],
+      "answer": "B. RD",
+      "explanation": "Chọn phương án B chứa “RD”. Ghép với phần trước là “GA” và phần sau là “EN” tạo thành từ đúng “GARDEN”, nghĩa là “khu vườn”. Câu hoàn chỉnh: “GARDEN”. Nguồn đối chiếu: đề IOE gốc số 39, câu 148."
+    },
+    {
+      "id": 178,
+      "question": "Linda: How are you? - Jane: I’m _ _ _ _ , thanks",
+      "options": [],
+      "answer": "fine",
+      "explanation": "Dựa vào nghĩa của cả câu, “fine” nghĩa là “khỏe, ổn”, nên điền từ này vào chỗ trống. Câu hoàn chỉnh: “Linda: How are you? - Jane: I’m fine, thanks”. Nguồn đối chiếu: đề IOE gốc số 21, câu 125."
+    },
+    {
+      "id": 179,
+      "question": "Nam: What’s his _ _ _ _ ? - Hoa: Tony",
+      "options": [],
+      "answer": "name",
+      "explanation": "Dựa vào nghĩa của cả câu, “name” nghĩa là “tên”, nên điền từ này vào chỗ trống. Câu hoàn chỉnh: “Nam: What’s his name? - Hoa: Tony”. Nguồn đối chiếu: đề IOE gốc số 25, câu 185."
+    },
+    {
+      "id": 180,
+      "question": "Choose the letter(s) to make a correct word: ki__chen",
+      "options": [
+        "A. d",
+        "B. t",
+        "C. b",
+        "D. k"
+      ],
+      "answer": "B. t",
+      "explanation": "Chọn phương án B chứa “t”. Ghép với phần trước là “ki” và phần sau là “chen” tạo thành từ đúng “kitchen”, nghĩa là “nhà bếp”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: kitchen”. Nguồn đối chiếu: đề IOE gốc số 26, câu 172."
+    },
+    {
+      "id": 181,
+      "question": "Choose the letter(s) to make a correct word: KI_CHEN",
+      "options": [
+        "A. C",
+        "B. X",
+        "C. T",
+        "D. O"
+      ],
+      "answer": "C. T",
+      "explanation": "Chọn phương án C chứa “T”. Ghép với phần trước là “KI” và phần sau là “CHEN” tạo thành từ đúng “KITCHEN”, nghĩa là “nhà bếp”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: KITCHEN”. Nguồn đối chiếu: đề IOE gốc số 32, câu 42."
+    },
+    {
+      "id": 182,
+      "question": "My dog’s _ _ _ _ is Barkie",
+      "options": [],
+      "answer": "name",
+      "explanation": "Dựa vào nghĩa của cả câu, “name” nghĩa là “tên”, nên điền từ này vào chỗ trống. Câu hoàn chỉnh: “My dog’s name is Barkie”. Nguồn đối chiếu: đề IOE gốc số 40, câu 120."
+    },
+    {
+      "id": 183,
+      "question": "Choose the letter(s) to make a correct word: RU__ER",
+      "options": [
+        "A. PP",
+        "B. BB",
+        "C. LL",
+        "D. MM"
+      ],
+      "answer": "B. BB",
+      "explanation": "Chọn phương án B chứa “BB”. Ghép với phần trước là “RU” và phần sau là “ER” tạo thành từ đúng “RUBBER”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: RUBBER”. Nguồn đối chiếu: đề IOE gốc số 6, câu 92."
+    },
+    {
+      "id": 184,
+      "question": "__TCHEN",
+      "options": [
+        "A. KE",
+        "B. KA",
+        "C. KU",
+        "D. KI"
+      ],
+      "answer": "D. KI",
+      "explanation": "Chọn phương án D chứa “KI”. Ghép với phần sau là “TCHEN” tạo thành từ đúng “KITCHEN”, nghĩa là “nhà bếp”. Câu hoàn chỉnh: “KITCHEN”. Nguồn đối chiếu: đề IOE gốc số 18, câu 133."
+    },
+    {
+      "id": 185,
+      "question": "Choose the letter(s) to make a correct word: par__t",
+      "options": [
+        "A. ao",
+        "B. ra",
+        "C. or",
+        "D. ro"
+      ],
+      "answer": "D. ro",
+      "explanation": "Chọn phương án D chứa “ro”. Ghép với phần trước là “par” và phần sau là “t” tạo thành từ đúng “parrot”, nghĩa là “con vẹt”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: parrot”. Nguồn đối chiếu: đề IOE gốc số 18, câu 156."
+    },
+    {
+      "id": 186,
+      "question": "Choose the letter(s) to make a correct word: ga__en",
+      "options": [
+        "A. dd",
+        "B. td",
+        "C. rt",
+        "D. rd"
+      ],
+      "answer": "D. rd",
+      "explanation": "Chọn phương án D chứa “rd”. Ghép với phần trước là “ga” và phần sau là “en” tạo thành từ đúng “garden”, nghĩa là “khu vườn”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: garden”. Nguồn đối chiếu: đề IOE gốc số 22, câu 117."
+    },
+    {
+      "id": 187,
+      "question": "I have many _ _ _ _ : a cat, a dog, two birds and four goldfish",
+      "options": [],
+      "answer": "pets",
+      "explanation": "Dựa vào nghĩa của cả câu, từ phù hợp là “pets”, nên điền từ này vào chỗ trống. Câu hoàn chỉnh: “I have many pets: a cat, a dog, two birds and four goldfish”. Nguồn đối chiếu: đề IOE gốc số 36, câu 63."
+    },
+    {
+      "id": 188,
+      "question": "WR__ING",
+      "options": [
+        "A. ET",
+        "B. ETI",
+        "C. ITE",
+        "D. IT"
+      ],
+      "answer": "D. IT",
+      "explanation": "Chọn phương án D chứa “IT”. Ghép với phần trước là “WR” và phần sau là “ING” tạo thành từ đúng “WRITING”. Câu hoàn chỉnh: “WRITING”. Nguồn đối chiếu: đề IOE gốc số 41, câu 29."
+    },
+    {
+      "id": 189,
+      "question": "Choose the letter(s) to make a correct word: ta__ng",
+      "options": [
+        "A. ki",
+        "B. kei",
+        "C. ke",
+        "D. ci"
+      ],
+      "answer": "A. ki",
+      "explanation": "Chọn phương án A chứa “ki”. Ghép với phần trước là “ta” và phần sau là “ng” tạo thành từ đúng “taking”. Câu hoàn chỉnh: “Choose the letter(s) to make a correct word: taking”. Nguồn đối chiếu: đề IOE gốc số 49, câu 83."
+    },
+    {
+      "id": 190,
+      "question": "I’m _ _ _ _ _ , I’m late",
+      "options": [],
+      "answer": "sorry",
+      "explanation": "Dựa vào nghĩa của cả câu, “sorry” nghĩa là “xin lỗi”, nên điền từ này vào chỗ trống. Câu hoàn chỉnh: “I’m sorry, I’m late”. Nguồn đối chiếu: đề IOE gốc số 27, câu 32."
+    },
+    {
+      "id": 191,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Computer room",
+        "B. Library",
+        "C. Classroom",
+        "D. Chair"
+      ],
+      "answer": "D. Chair",
+      "explanation": "“Computer room”, “Library”, “Classroom” đều thuộc nhóm địa điểm ở trường, còn “Chair” không thuộc nhóm đó. Vì vậy chọn D. “Chair”. Nguồn đối chiếu: đề IOE gốc số 13, câu 46."
+    },
+    {
+      "id": 192,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Games",
+        "B. Swimming",
+        "C. Skipping",
+        "D. Chess"
+      ],
+      "answer": "A. Games",
+      "explanation": "“Swimming”, “Skipping”, “Chess” đều thuộc nhóm môn thể thao hoặc trò chơi, còn “Games” không thuộc nhóm đó. Vì vậy chọn A. “Games”. Nguồn đối chiếu: đề IOE gốc số 20, câu 115."
+    },
+    {
+      "id": 193,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Mother",
+        "B. Father",
+        "C. Sister",
+        "D. Ruler"
+      ],
+      "answer": "D. Ruler",
+      "explanation": "“Mother”, “Father”, “Sister” đều thuộc nhóm thành viên gia đình, còn “Ruler” thuộc nhóm đồ dùng học tập. Vì vậy chọn D. “Ruler”. Nguồn đối chiếu: đề IOE gốc số 32, câu 108."
+    },
+    {
+      "id": 194,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. ruler",
+        "B. rabbit",
+        "C. cat",
+        "D. dog"
+      ],
+      "answer": "A. ruler",
+      "explanation": "“rabbit”, “cat”, “dog” đều thuộc nhóm con vật, còn “ruler” thuộc nhóm đồ dùng học tập. Vì vậy chọn A. “ruler”. Nguồn đối chiếu: đề IOE gốc số 35, câu 166."
+    },
+    {
+      "id": 195,
+      "question": "Which word is the odd one out?",
+      "options": [
+        "A. table",
+        "B. doll",
+        "C. robot",
+        "D. ball"
+      ],
+      "answer": "A. table",
+      "explanation": "“doll”, “robot”, “ball” đều thuộc nhóm đồ chơi, còn “table” không thuộc nhóm đó. Vì vậy chọn A. “table”. Nguồn đối chiếu: đề IOE gốc số 29, câu 4."
+    },
+    {
+      "id": 196,
+      "question": "Odd one out:",
+      "options": [
+        "A. footballer",
+        "B. singer",
+        "C. teacher",
+        "D. cooker"
+      ],
+      "answer": "D. cooker",
+      "explanation": "“footballer”, “singer”, “teacher” đều thuộc nhóm nghề nghiệp, còn “cooker” không thuộc nhóm đó. Vì vậy chọn D. “cooker”. Nguồn đối chiếu: đề IOE gốc số 3, câu 77."
+    },
+    {
+      "id": 197,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. dog",
+        "B. cat",
+        "C. friend",
+        "D. chicken"
+      ],
+      "answer": "C. friend",
+      "explanation": "“dog”, “cat”, “chicken” đều thuộc nhóm con vật, còn “friend” không thuộc nhóm đó. Vì vậy chọn C. “friend”. Nguồn đối chiếu: đề IOE gốc số 11, câu 188."
+    },
+    {
+      "id": 198,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Pencil case",
+        "B. Ruler",
+        "C. Rubber",
+        "D. School"
+      ],
+      "answer": "D. School",
+      "explanation": "“Pencil case”, “Ruler”, “Rubber” đều thuộc nhóm đồ dùng học tập, còn “School” thuộc nhóm địa điểm ở trường. Vì vậy chọn D. “School”. Nguồn đối chiếu: đề IOE gốc số 12, câu 40."
+    },
+    {
+      "id": 199,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. eraser",
+        "B. cat",
+        "C. goldfish",
+        "D. parrot"
+      ],
+      "answer": "A. eraser",
+      "explanation": "“cat”, “goldfish”, “parrot” đều thuộc nhóm con vật, còn “eraser” thuộc nhóm đồ dùng học tập. Vì vậy chọn A. “eraser”. Nguồn đối chiếu: đề IOE gốc số 28, câu 191."
+    },
+    {
+      "id": 200,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. bedroom",
+        "B. bathroom",
+        "C. kitchen",
+        "D. garden"
+      ],
+      "answer": "D. garden",
+      "explanation": "“bedroom”, “bathroom”, “kitchen” đều thuộc nhóm phòng trong nhà, còn “garden” không thuộc nhóm đó. Vì vậy chọn D. “garden”. Nguồn đối chiếu: đề IOE gốc số 35, câu 113."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
