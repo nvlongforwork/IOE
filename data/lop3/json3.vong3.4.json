@@ -1,0 +1,2408 @@
+{
+  "title": "IOE Lớp 3 - Chuyên đề 4 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "That ________ his family.",
+      "options": [
+        "A. am",
+        "B. is",
+        "C. are",
+        "D. and"
+      ],
+      "answer": "B. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “That is his family.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 184."
+    },
+    {
+      "id": 2,
+      "question": "Is that your classmate? – Yes, ________",
+      "options": [
+        "A. she is",
+        "B. we are",
+        "C. they are",
+        "D. I am"
+      ],
+      "answer": "A. she is",
+      "explanation": "Chọn “she is” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Is that your classmate? – Yes, she is”. Nguồn đối chiếu: đề IOE gốc số 29, câu 24."
+    },
+    {
+      "id": 3,
+      "question": "The rabbit _________ white.",
+      "options": [
+        "A. are",
+        "B. am",
+        "C. not",
+        "D. is"
+      ],
+      "answer": "D. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “The rabbit is white.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 80."
+    },
+    {
+      "id": 4,
+      "question": "This ________ my mother.",
+      "options": [
+        "A. are",
+        "B. am",
+        "C. is",
+        "D. and"
+      ],
+      "answer": "C. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “This is my mother.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 30."
+    },
+    {
+      "id": 5,
+      "question": "Have ________ nice day, Clare. – Thank you.",
+      "options": [
+        "A. an",
+        "B. the",
+        "C. a",
+        "D. are"
+      ],
+      "answer": "C. a",
+      "explanation": "Chọn “a” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Have a nice day, Clare. – Thank you.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 177."
+    },
+    {
+      "id": 6,
+      "question": "There ________ some cheese in the fridge.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. be",
+        "D. have"
+      ],
+      "answer": "B. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “There is some cheese in the fridge.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 200."
+    },
+    {
+      "id": 7,
+      "question": "It is ________ blue desk.",
+      "options": [
+        "A. a",
+        "B. am",
+        "C. are",
+        "D. is"
+      ],
+      "answer": "A. a",
+      "explanation": "Chọn “a” vì danh từ đếm được ở số ít theo sau bắt đầu bằng âm phụ âm. Câu hoàn chỉnh: “It is a blue desk.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 187."
+    },
+    {
+      "id": 8,
+      "question": "I ________ John. Nice to meet you.",
+      "options": [
+        "A. is",
+        "B. am",
+        "C. be",
+        "D. are"
+      ],
+      "answer": "B. am",
+      "explanation": "Chọn “am” vì “am” đi với chủ ngữ “I”. Câu hoàn chỉnh: “I am John. Nice to meet you.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 95."
+    },
+    {
+      "id": 9,
+      "question": "_______ you like dolls?",
+      "options": [
+        "A. Do",
+        "B. Are",
+        "C. Is",
+        "D. Don’t"
+      ],
+      "answer": "A. Do",
+      "explanation": "Chọn “Do” vì câu hiện tại đơn cần trợ động từ phù hợp với chủ ngữ; sau trợ động từ dùng động từ nguyên mẫu. Câu hoàn chỉnh: “Do you like dolls?”. Nguồn đối chiếu: đề IOE gốc số 9, câu 153."
+    },
+    {
+      "id": 10,
+      "question": "My backpack ___ red and my rubber is yellow.",
+      "options": [
+        "A. is",
+        "B. am",
+        "C. are",
+        "D. not"
+      ],
+      "answer": "A. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “My backpack is red and my rubber is yellow.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 16."
+    },
+    {
+      "id": 11,
+      "question": "Have ________ nice day, Jane. – Thank you.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. am"
+      ],
+      "answer": "A. a",
+      "explanation": "Chọn “a” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Have a nice day, Jane. – Thank you.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 145."
+    },
+    {
+      "id": 12,
+      "question": "Are those your rubbers? - No, they ___ .",
+      "options": [
+        "A. are",
+        "B. aren't",
+        "C. is",
+        "D. isn't"
+      ],
+      "answer": "B. aren't",
+      "explanation": "Chọn “aren't” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Are those your rubbers? - No, they aren't.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 77."
+    },
+    {
+      "id": 13,
+      "question": "I can ________ a kite.",
+      "options": [
+        "A. this",
+        "B. fly",
+        "C. the",
+        "D. a"
+      ],
+      "answer": "B. fly",
+      "explanation": "Chọn “fly” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “I can fly a kite.”. Nguồn đối chiếu: đề IOE gốc số 39, câu 99."
+    },
+    {
+      "id": 14,
+      "question": "_________ my cats.",
+      "options": [
+        "A. That is",
+        "B. This are",
+        "C. They are",
+        "D. Those is"
+      ],
+      "answer": "C. They are",
+      "explanation": "Chọn “They are” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “They are my cats.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 15."
+    },
+    {
+      "id": 15,
+      "question": "You ________ Richard. You are a new student in my class.",
+      "options": [
+        "A. is",
+        "B. be",
+        "C. are",
+        "D. am"
+      ],
+      "answer": "C. are",
+      "explanation": "Chọn “are” vì “are” đi với you hoặc chủ ngữ số nhiều. Câu hoàn chỉnh: “You are Richard. You are a new student in my class.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 69."
+    },
+    {
+      "id": 16,
+      "question": "Is there ________ sugar in the jar?",
+      "options": [
+        "A. any",
+        "B. some",
+        "C. a",
+        "D. an"
+      ],
+      "answer": "A. any",
+      "explanation": "Chọn “any” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Is there any sugar in the jar?”. Nguồn đối chiếu: đề IOE gốc số 27, câu 138."
+    },
+    {
+      "id": 17,
+      "question": "Nice to meet you, Hai. – Nice to meet you, ________ .",
+      "options": [
+        "A. to",
+        "B. two",
+        "C. too",
+        "D. those"
+      ],
+      "answer": "C. too",
+      "explanation": "Chọn “too” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Nice to meet you, Hai. – Nice to meet you, too.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 101."
+    },
+    {
+      "id": 18,
+      "question": "His name ________ Tommy.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. be",
+        "D. and"
+      ],
+      "answer": "B. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “His name is Tommy.”. Nguồn đối chiếu: đề IOE gốc số 47, câu 180."
+    },
+    {
+      "id": 19,
+      "question": "This is ________ bag. It’s yellow.",
+      "options": [
+        "A. a",
+        "B. b",
+        "C. c",
+        "D. d"
+      ],
+      "answer": "A. a",
+      "explanation": "Chọn “a” vì danh từ đếm được ở số ít theo sau bắt đầu bằng âm phụ âm. Câu hoàn chỉnh: “This is a bag. It’s yellow.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 161."
+    },
+    {
+      "id": 20,
+      "question": "My classroom is ________ . It’s not small.",
+      "options": [
+        "A. big",
+        "B. a big",
+        "C. the big",
+        "D. a small"
+      ],
+      "answer": "A. big",
+      "explanation": "Chọn “big” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “My classroom is big. It’s not small.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 100."
+    },
+    {
+      "id": 21,
+      "question": "These ________ members of my family.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. am",
+        "D. be"
+      ],
+      "answer": "B. are",
+      "explanation": "Chọn “are” vì “are” đi với you hoặc chủ ngữ số nhiều. Câu hoàn chỉnh: “These are members of my family.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 94."
+    },
+    {
+      "id": 22,
+      "question": "Would you like ________ apple? – Yes, please.",
+      "options": [
+        "A. an",
+        "B. a",
+        "C. the",
+        "D. some"
+      ],
+      "answer": "A. an",
+      "explanation": "Chọn “an” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Would you like an apple? – Yes, please.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 121."
+    },
+    {
+      "id": 23,
+      "question": "Mary and Peter can ________ Vietnamese.",
+      "options": [
+        "A. speaks",
+        "B. speak",
+        "C. to speak",
+        "D. a speak"
+      ],
+      "answer": "B. speak",
+      "explanation": "Chọn “speak” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Mary and Peter can speak Vietnamese.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 10."
+    },
+    {
+      "id": 24,
+      "question": "She ________ Lan. She is a new student in my class.",
+      "options": [
+        "A. am",
+        "B. is",
+        "C. are",
+        "D. be"
+      ],
+      "answer": "B. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “She is Lan. She is a new student in my class.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 13."
+    },
+    {
+      "id": 25,
+      "question": "Are those your notebooks? - No, ________ .",
+      "options": [
+        "A. it is",
+        "B. it isn’t",
+        "C. they are",
+        "D. they aren’t"
+      ],
+      "answer": "D. they aren’t",
+      "explanation": "Chọn “they aren’t” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Are those your notebooks? - No, they aren’t.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 45."
+    },
+    {
+      "id": 26,
+      "question": "Is that a crayon? - ________ .",
+      "options": [
+        "A. No, they are",
+        "B. Yes, they are",
+        "C. Yes, it is",
+        "D. No, they aren’t"
+      ],
+      "answer": "C. Yes, it is",
+      "explanation": "Chọn “Yes, it is” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “Is that a crayon? - Yes, it is.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 53."
+    },
+    {
+      "id": 27,
+      "question": "Are those your pencil sharpeners?",
+      "options": [
+        "A. Yes, it is.",
+        "B. No, it isn’t.",
+        "C. Yes, they are.",
+        "D. No, they are."
+      ],
+      "answer": "C. Yes, they are.",
+      "explanation": "Chọn “Yes, they are.” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Are those your pencil sharpeners? – Yes, they are.”. Nguồn đối chiếu: đề IOE gốc số 40, câu 41."
+    },
+    {
+      "id": 28,
+      "question": "She likes _________ tennis.",
+      "options": [
+        "A. playing the",
+        "B. play",
+        "C. plays the",
+        "D. playing"
+      ],
+      "answer": "D. playing",
+      "explanation": "Chọn “playing” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “She likes playing tennis.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 73."
+    },
+    {
+      "id": 29,
+      "question": "This rose ________ for you. - Thank you very much.",
+      "options": [
+        "A. are",
+        "B. and",
+        "C. is",
+        "D. this"
+      ],
+      "answer": "C. is",
+      "explanation": "Chọn “is” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “This rose is for you. - Thank you very much.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 108."
+    },
+    {
+      "id": 30,
+      "question": "________ is her classroom.",
+      "options": [
+        "A. These",
+        "B. They",
+        "C. Those",
+        "D. That"
+      ],
+      "answer": "D. That",
+      "explanation": "Chọn “That” vì “that” chỉ một người/vật ở xa; dạng số ít/số nhiều cũng phù hợp với danh từ trong câu. Câu hoàn chỉnh: “That is her classroom.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 60."
+    },
+    {
+      "id": 31,
+      "question": "Would you like some milk? – Yes, ________ .",
+      "options": [
+        "A. his",
+        "B. please",
+        "C. this",
+        "D. is"
+      ],
+      "answer": "B. please",
+      "explanation": "Chọn “please” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Would you like some milk? – Yes, please.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 189."
+    },
+    {
+      "id": 32,
+      "question": "Don’t eat too ________ sugar.",
+      "options": [
+        "A. much",
+        "B. many",
+        "C. lots of",
+        "D. a lot"
+      ],
+      "answer": "A. much",
+      "explanation": "Chọn “much” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Don’t eat too much sugar.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 81."
+    },
+    {
+      "id": 33,
+      "question": "That's Susan. ___ is eight.",
+      "options": [
+        "A. Her",
+        "B. She",
+        "C. Him",
+        "D. His"
+      ],
+      "answer": "B. She",
+      "explanation": "Chọn “She” vì đây là đại từ làm chủ ngữ, đứng trước động từ và thay cho người/vật được nhắc đến. Câu hoàn chỉnh: “That's Susan. She is eight.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 105."
+    },
+    {
+      "id": 34,
+      "question": "Her grandmother _____ cooking.",
+      "options": [
+        "A. like",
+        "B. are",
+        "C. likes",
+        "D. am"
+      ],
+      "answer": "C. likes",
+      "explanation": "Chọn “likes” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Her grandmother likes cooking.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 118."
+    },
+    {
+      "id": 35,
+      "question": "Have ________ nice day, Robin. – Thank you very much.",
+      "options": [
+        "A. an",
+        "B. the",
+        "C. a",
+        "D. are"
+      ],
+      "answer": "C. a",
+      "explanation": "Chọn “a” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Have a nice day, Robin. – Thank you very much.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 68."
+    },
+    {
+      "id": 36,
+      "question": "This is my pen and these ________ their pens.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. am",
+        "D. be"
+      ],
+      "answer": "B. are",
+      "explanation": "Chọn “are” vì “are” đi với you hoặc chủ ngữ số nhiều. Câu hoàn chỉnh: “This is my pen and these are their pens.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 169."
+    },
+    {
+      "id": 37,
+      "question": "Count the ________ in the class, please.",
+      "options": [
+        "A. she",
+        "B. boys",
+        "C. girl",
+        "D. he"
+      ],
+      "answer": "B. boys",
+      "explanation": "Chọn “boys” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Count the boys in the class, please.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 133."
+    },
+    {
+      "id": 38,
+      "question": "Susan is a nice ________ .",
+      "options": [
+        "A. boy",
+        "B. he",
+        "C. she",
+        "D. girl"
+      ],
+      "answer": "D. girl",
+      "explanation": "Chọn “girl” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Susan is a nice girl.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 138."
+    },
+    {
+      "id": 39,
+      "question": "Is ________ an alarm clock in your room?",
+      "options": [
+        "A. these",
+        "B. this",
+        "C. that",
+        "D. there"
+      ],
+      "answer": "D. there",
+      "explanation": "Chọn “there” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Is there an alarm clock in your room?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 31."
+    },
+    {
+      "id": 40,
+      "question": "Are Philip and Tony watching TV?",
+      "options": [
+        "A. Yes, he is.",
+        "B. Yes, they are.",
+        "C. No, he and he are not.",
+        "D. No, they not."
+      ],
+      "answer": "B. Yes, they are.",
+      "explanation": "Chọn “Yes, they are.” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Are Philip and Tony watching TV? – Yes, they are.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 49."
+    },
+    {
+      "id": 41,
+      "question": "My name is Jane. This is ________ family.",
+      "options": [
+        "A. I",
+        "B. my",
+        "C. mine",
+        "D. me"
+      ],
+      "answer": "B. my",
+      "explanation": "Chọn “my” vì đây là tính từ sở hữu; nó đứng trước danh từ để cho biết danh từ đó thuộc về ai. Câu hoàn chỉnh: “My name is Jane. This is my family.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 96."
+    },
+    {
+      "id": 42,
+      "question": "Linda and Mary _____ my friends.",
+      "options": [
+        "A. is",
+        "B. am",
+        "C. are",
+        "D. do"
+      ],
+      "answer": "C. are",
+      "explanation": "Chọn “are” vì “are” đi với you hoặc chủ ngữ số nhiều. Câu hoàn chỉnh: “Linda and Mary are my friends.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 177."
+    },
+    {
+      "id": 43,
+      "question": "Good morning, Peter. - ________ .",
+      "options": [
+        "A. Good morning, Jean",
+        "B. Good night, Jean",
+        "C. My name’s Jean",
+        "D. Jean, this is my pen"
+      ],
+      "answer": "A. Good morning, Jean",
+      "explanation": "Chọn “Good morning, Jean” vì đây là lời chào phù hợp với lời chào hoặc thời điểm được nêu ở vế trước. Câu hoàn chỉnh: “Good morning, Peter. - Good morning, Jean.”. Nguồn đối chiếu: đề IOE gốc số 7, câu 128."
+    },
+    {
+      "id": 44,
+      "question": "This is Harry. ________ is my friend.",
+      "options": [
+        "A. They",
+        "B. He",
+        "C. She",
+        "D. It"
+      ],
+      "answer": "B. He",
+      "explanation": "Chọn “He” vì đây là đại từ làm chủ ngữ, đứng trước động từ và thay cho người/vật được nhắc đến. Câu hoàn chỉnh: “This is Harry. He is my friend.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 27."
+    },
+    {
+      "id": 45,
+      "question": "This is Mary. ________ is my friend.",
+      "options": [
+        "A. They",
+        "B. He",
+        "C. She",
+        "D. It"
+      ],
+      "answer": "C. She",
+      "explanation": "Chọn “She” vì đây là đại từ làm chủ ngữ, đứng trước động từ và thay cho người/vật được nhắc đến. Câu hoàn chỉnh: “This is Mary. She is my friend.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 92."
+    },
+    {
+      "id": 46,
+      "question": "Is this a bag? - ________ .",
+      "options": [
+        "A. Yes, it is",
+        "B. Yes, isn’t",
+        "C. No, it is",
+        "D. Nice to meet you."
+      ],
+      "answer": "A. Yes, it is",
+      "explanation": "Chọn “Yes, it is” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “Is this a bag? - Yes, it is.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 150."
+    },
+    {
+      "id": 47,
+      "question": "Is this a book? - ________ .",
+      "options": [
+        "A. Yes, it is",
+        "B. Yes, isn’t",
+        "C. No, It is",
+        "D. Nice to meet you."
+      ],
+      "answer": "A. Yes, it is",
+      "explanation": "Chọn “Yes, it is” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “Is this a book? - Yes, it is.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 193."
+    },
+    {
+      "id": 48,
+      "question": "We go to school ________ .",
+      "options": [
+        "A. alone",
+        "B. together",
+        "C. gether",
+        "D. by me"
+      ],
+      "answer": "B. together",
+      "explanation": "Chọn “together” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “We go to school together.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 85."
+    },
+    {
+      "id": 49,
+      "question": "Hi, I’m Collin. Nice to meet ________",
+      "options": [
+        "A. me",
+        "B. they",
+        "C. he",
+        "D. you"
+      ],
+      "answer": "D. you",
+      "explanation": "Chọn “you” vì đây là đại từ làm chủ ngữ, đứng trước động từ và thay cho người/vật được nhắc đến. Câu hoàn chỉnh: “Hi, I’m Collin. Nice to meet you”. Nguồn đối chiếu: đề IOE gốc số 2, câu 45."
+    },
+    {
+      "id": 50,
+      "question": "Look! Birds ________ in the sky.",
+      "options": [
+        "A. flies",
+        "B. fly",
+        "C. is flying",
+        "D. are flying"
+      ],
+      "answer": "D. are flying",
+      "explanation": "Chọn “are flying” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Look! Birds are flying in the sky.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 61."
+    },
+    {
+      "id": 51,
+      "question": "My pen is red and my pencils ________ blue.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. am",
+        "D. do"
+      ],
+      "answer": "A. are",
+      "explanation": "Chọn “are” vì “are” đi với you hoặc chủ ngữ số nhiều. Câu hoàn chỉnh: “My pen is red and my pencils are blue.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 92."
+    },
+    {
+      "id": 52,
+      "question": "________ you like some milk? - No, thanks.",
+      "options": [
+        "A. Can",
+        "B. Are",
+        "C. Is",
+        "D. Would"
+      ],
+      "answer": "D. Would",
+      "explanation": "Chọn “Would” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Would you like some milk? - No, thanks.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 96."
+    },
+    {
+      "id": 53,
+      "question": "This is Mary. She ________ my friend.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. the",
+        "D. a"
+      ],
+      "answer": "A. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “This is Mary. She is my friend.”. Nguồn đối chiếu: đề IOE gốc số 39, câu 37."
+    },
+    {
+      "id": 54,
+      "question": "May I go out? - ________ .",
+      "options": [
+        "A. Hello",
+        "B. Nice to meet you",
+        "C. Fine, thanks",
+        "D. Sure"
+      ],
+      "answer": "D. Sure",
+      "explanation": "Chọn “Sure” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “May I go out? - Sure.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 39."
+    },
+    {
+      "id": 55,
+      "question": "Do you like music?",
+      "options": [
+        "A. Yes, it is.",
+        "B. Yes, please.",
+        "C. Yes, I do.",
+        "D. Yes, I don’t."
+      ],
+      "answer": "C. Yes, I do.",
+      "explanation": "Chọn “Yes, I do.” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Do you like music? – Yes, I do.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 170."
+    },
+    {
+      "id": 56,
+      "question": "Happy birthday, Alice. This doll is for ________ .",
+      "options": [
+        "A. I",
+        "B. you",
+        "C. he",
+        "D. she"
+      ],
+      "answer": "B. you",
+      "explanation": "Chọn “you” vì đây là đại từ làm chủ ngữ, đứng trước động từ và thay cho người/vật được nhắc đến. Câu hoàn chỉnh: “Happy birthday, Alice. This doll is for you.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 26."
+    },
+    {
+      "id": 57,
+      "question": "I’d like some strawberries. – Here ________ are.",
+      "options": [
+        "A. they",
+        "B. them",
+        "C. those",
+        "D. these"
+      ],
+      "answer": "A. they",
+      "explanation": "Chọn “they” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “I’d like some strawberries. – Here they are.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 81."
+    },
+    {
+      "id": 58,
+      "question": "I’m David. This is ________ family.",
+      "options": [
+        "A. I",
+        "B. my",
+        "C. mine",
+        "D. me"
+      ],
+      "answer": "B. my",
+      "explanation": "Chọn “my” vì đây là tính từ sở hữu; nó đứng trước danh từ để cho biết danh từ đó thuộc về ai. Câu hoàn chỉnh: “I’m David. This is my family.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 114."
+    },
+    {
+      "id": 59,
+      "question": "________ pictures are there on the wall?",
+      "options": [
+        "A. Who",
+        "B. How",
+        "C. How many",
+        "D. How much"
+      ],
+      "answer": "C. How many",
+      "explanation": "Chọn “How many” vì “how” tạo câu hỏi về cách thức, tình trạng, tuổi hoặc số lượng theo phần còn lại của câu. Câu hoàn chỉnh: “How many pictures are there on the wall?”. Nguồn đối chiếu: đề IOE gốc số 10, câu 112."
+    },
+    {
+      "id": 60,
+      "question": "What ________ is this? – It’s black.",
+      "options": [
+        "A. colour",
+        "B. age",
+        "C. old",
+        "D. school"
+      ],
+      "answer": "A. colour",
+      "explanation": "Chọn “colour” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What colour is this? – It’s black.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 115."
+    },
+    {
+      "id": 61,
+      "question": "________ colour are your pencils?",
+      "options": [
+        "A. What",
+        "B. How",
+        "C. Where",
+        "D. When"
+      ],
+      "answer": "A. What",
+      "explanation": "Chọn “What” vì “what” dùng để hỏi tên, đồ vật hoặc thông tin về sự vật. Câu hoàn chỉnh: “What colour are your pencils?”. Nguồn đối chiếu: đề IOE gốc số 23, câu 87."
+    },
+    {
+      "id": 62,
+      "question": "Stand up now and open ________ book, Tom.",
+      "options": [
+        "A. you",
+        "B. your",
+        "C. you’s",
+        "D. you’re"
+      ],
+      "answer": "B. your",
+      "explanation": "Chọn “your” vì đây là tính từ sở hữu; nó đứng trước danh từ để cho biết danh từ đó thuộc về ai. Câu hoàn chỉnh: “Stand up now and open your book, Tom.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 12."
+    },
+    {
+      "id": 63,
+      "question": "What do you do in ________ free time?",
+      "options": [
+        "A. you",
+        "B. yours",
+        "C. you’re",
+        "D. your"
+      ],
+      "answer": "D. your",
+      "explanation": "Chọn “your” vì đây là tính từ sở hữu; nó đứng trước danh từ để cho biết danh từ đó thuộc về ai. Câu hoàn chỉnh: “What do you do in your free time?”. Nguồn đối chiếu: đề IOE gốc số 4, câu 85."
+    },
+    {
+      "id": 64,
+      "question": "________ is she? – She’s Margaret.",
+      "options": [
+        "A. Who’s",
+        "B. What",
+        "C. What’s",
+        "D. Who"
+      ],
+      "answer": "D. Who",
+      "explanation": "Chọn “Who” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Who is she? – She’s Margaret.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 108."
+    },
+    {
+      "id": 65,
+      "question": "My school ______ Ngo Gia Tu School.",
+      "options": [
+        "A. am",
+        "B. is",
+        "C. are",
+        "D. that"
+      ],
+      "answer": "B. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “My school is Ngo Gia Tu School.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 133."
+    },
+    {
+      "id": 66,
+      "question": "Is this a notebook? ________, it is.",
+      "options": [
+        "A. No",
+        "B. Not",
+        "C. Yes",
+        "D. No, it is"
+      ],
+      "answer": "C. Yes",
+      "explanation": "Chọn “Yes” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Is this a notebook? Yes, it is.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 98."
+    },
+    {
+      "id": 67,
+      "question": "________, students. See you later.",
+      "options": [
+        "A. Good morning",
+        "B. Good night",
+        "C. Goodbye",
+        "D. Nice to meet you"
+      ],
+      "answer": "C. Goodbye",
+      "explanation": "Chọn “Goodbye” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Goodbye, students. See you later.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 8."
+    },
+    {
+      "id": 68,
+      "question": "Come and play with ________ .",
+      "options": [
+        "A. to",
+        "B. my",
+        "C. I",
+        "D. me"
+      ],
+      "answer": "D. me",
+      "explanation": "Chọn “me” vì đây là đại từ tân ngữ, dùng sau động từ hoặc giới từ trong câu. Câu hoàn chỉnh: “Come and play with me.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 188."
+    },
+    {
+      "id": 69,
+      "question": "________ is she? – She is my little sister.",
+      "options": [
+        "A. What",
+        "B. When",
+        "C. Who",
+        "D. How"
+      ],
+      "answer": "C. Who",
+      "explanation": "Chọn “Who” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Who is she? – She is my little sister.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 95."
+    },
+    {
+      "id": 70,
+      "question": "How ________ pens do you have?",
+      "options": [
+        "A. are",
+        "B. many",
+        "C. much",
+        "D. so"
+      ],
+      "answer": "B. many",
+      "explanation": "Chọn “many” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “How many pens do you have?”. Nguồn đối chiếu: đề IOE gốc số 18, câu 19."
+    },
+    {
+      "id": 71,
+      "question": "Good morning teacher! - ________ .",
+      "options": [
+        "A. Goodbye",
+        "B. See you later",
+        "C. Good morning",
+        "D. Fine, thanks"
+      ],
+      "answer": "C. Good morning",
+      "explanation": "Chọn “Good morning” vì đây là lời chào phù hợp với lời chào hoặc thời điểm được nêu ở vế trước. Câu hoàn chỉnh: “Good morning teacher! - Good morning.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 39."
+    },
+    {
+      "id": 72,
+      "question": "________? – It’s yellow.",
+      "options": [
+        "A. What colour is it",
+        "B. What is this",
+        "C. Is this yellow",
+        "D. This is yellow pen"
+      ],
+      "answer": "A. What colour is it",
+      "explanation": "Chọn “What colour is it” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What colour is it? – It’s yellow.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 51."
+    },
+    {
+      "id": 73,
+      "question": "There ________ one ruler on that desk.",
+      "options": [
+        "A. am",
+        "B. an",
+        "C. is",
+        "D. are"
+      ],
+      "answer": "C. is",
+      "explanation": "Chọn “is” vì “is” đi với chủ ngữ số ít như he, she, it hoặc một người/vật. Câu hoàn chỉnh: “There is one ruler on that desk.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 85."
+    },
+    {
+      "id": 74,
+      "question": "What does he do ________ Maths lessons?",
+      "options": [
+        "A. from",
+        "B. and",
+        "C. during",
+        "D. end"
+      ],
+      "answer": "C. during",
+      "explanation": "Chọn “during” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “What does he do during Maths lessons?”. Nguồn đối chiếu: đề IOE gốc số 12, câu 153."
+    },
+    {
+      "id": 75,
+      "question": "Is your school white? - ________ .",
+      "options": [
+        "A. Yes, it isn’t",
+        "B. No, it is",
+        "C. No, is it not",
+        "D. Yes, it is"
+      ],
+      "answer": "D. Yes, it is",
+      "explanation": "Chọn “Yes, it is” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “Is your school white? - Yes, it is.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 42."
+    },
+    {
+      "id": 76,
+      "question": "_______ fine, thanks.",
+      "options": [
+        "A. I am",
+        "B. I",
+        "C. I’m am",
+        "D. I I’m"
+      ],
+      "answer": "A. I am",
+      "explanation": "Chọn “I am” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “I am fine, thanks.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 8."
+    },
+    {
+      "id": 77,
+      "question": "How many ________ are there in your class?",
+      "options": [
+        "A. students",
+        "B. student",
+        "C. teacher",
+        "D. chair"
+      ],
+      "answer": "A. students",
+      "explanation": "Chọn “students” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “How many students are there in your class?”. Nguồn đối chiếu: đề IOE gốc số 6, câu 194."
+    },
+    {
+      "id": 78,
+      "question": "The living room ______ big _____ old.",
+      "options": [
+        "A. and – and",
+        "B. but – but",
+        "C. and - are",
+        "D. is - but"
+      ],
+      "answer": "D. is - but",
+      "explanation": "Chọn “is - but” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “The living room is big but old.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 146."
+    },
+    {
+      "id": 79,
+      "question": "How ________ fans are there? – Three.",
+      "options": [
+        "A. many",
+        "B. much",
+        "C. old",
+        "D. long"
+      ],
+      "answer": "A. many",
+      "explanation": "Chọn “many” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How many fans are there? – Three.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 3."
+    },
+    {
+      "id": 80,
+      "question": "What ________ those? – They are kites.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. am",
+        "D. have"
+      ],
+      "answer": "A. are",
+      "explanation": "Chọn “are” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What are those? – They are kites.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 60."
+    },
+    {
+      "id": 81,
+      "question": "What ________? – They are my crayons.",
+      "options": [
+        "A. are those",
+        "B. is this",
+        "C. is that",
+        "D. are there"
+      ],
+      "answer": "A. are those",
+      "explanation": "Chọn “are those” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What are those? – They are my crayons.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 73."
+    },
+    {
+      "id": 82,
+      "question": "________? – It’s black.",
+      "options": [
+        "A. What colour is it",
+        "B. What is this",
+        "C. How are you",
+        "D. How many"
+      ],
+      "answer": "A. What colour is it",
+      "explanation": "Chọn “What colour is it” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What colour is it? – It’s black.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 29."
+    },
+    {
+      "id": 83,
+      "question": "________ are you? – Fine, thanks.",
+      "options": [
+        "A. Who",
+        "B. Is",
+        "C. Are",
+        "D. How"
+      ],
+      "answer": "D. How",
+      "explanation": "Chọn “How” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How are you? – Fine, thanks.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 23."
+    },
+    {
+      "id": 84,
+      "question": "I’m fine, thank you. How ________ you?",
+      "options": [
+        "A. out",
+        "B. about",
+        "C. and",
+        "D. end"
+      ],
+      "answer": "B. about",
+      "explanation": "Chọn “about” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “I’m fine, thank you. How about you?”. Nguồn đối chiếu: đề IOE gốc số 7, câu 11."
+    },
+    {
+      "id": 85,
+      "question": "What colour is your teddy bear?",
+      "options": [
+        "A. It brown.",
+        "B. It is brown.",
+        "C. Its brown.",
+        "D. Is brown."
+      ],
+      "answer": "B. It is brown.",
+      "explanation": "Chọn “It is brown.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What colour is your teddy bear? – It is brown.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 139."
+    },
+    {
+      "id": 86,
+      "question": "________ that a dog? – No, it isn’t.",
+      "options": [
+        "A. Are",
+        "B. Is",
+        "C. Who",
+        "D. When"
+      ],
+      "answer": "B. Is",
+      "explanation": "Chọn “Is” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Is that a dog? – No, it isn’t.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 167."
+    },
+    {
+      "id": 87,
+      "question": "What do you play ________ break time?",
+      "options": [
+        "A. on",
+        "B. at",
+        "C. in",
+        "D. by"
+      ],
+      "answer": "B. at",
+      "explanation": "Chọn “at” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “What do you play at break time?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 42."
+    },
+    {
+      "id": 88,
+      "question": "________ is that? – It is a bird.",
+      "options": [
+        "A. When",
+        "B. Who",
+        "C. How",
+        "D. What"
+      ],
+      "answer": "D. What",
+      "explanation": "Chọn “What” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What is that? – It is a bird.”. Nguồn đối chiếu: đề IOE gốc số 15, câu 151."
+    },
+    {
+      "id": 89,
+      "question": "________ do you like? – I like riding a horse.",
+      "options": [
+        "A. When",
+        "B. How",
+        "C. What",
+        "D. Who"
+      ],
+      "answer": "C. What",
+      "explanation": "Chọn “What” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What do you like? – I like riding a horse.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 145."
+    },
+    {
+      "id": 90,
+      "question": "What’s her ________?",
+      "options": [
+        "A. old",
+        "B. name",
+        "C. there",
+        "D. age"
+      ],
+      "answer": "B. name",
+      "explanation": "Chọn “name” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What’s her name?”. Nguồn đối chiếu: đề IOE gốc số 35, câu 118."
+    },
+    {
+      "id": 91,
+      "question": "________ I open my book? – Yes, you can.",
+      "options": [
+        "A. Do",
+        "B. What",
+        "C. Could",
+        "D. May"
+      ],
+      "answer": "D. May",
+      "explanation": "Chọn “May” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “May I open my book? – Yes, you can.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 84."
+    },
+    {
+      "id": 92,
+      "question": "________ this a chair? – No, it isn’t.",
+      "options": [
+        "A. What",
+        "B. How",
+        "C. Is",
+        "D. Are"
+      ],
+      "answer": "C. Is",
+      "explanation": "Chọn “Is” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Is this a chair? – No, it isn’t.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 167."
+    },
+    {
+      "id": 93,
+      "question": "________ this? – It’s a ball.",
+      "options": [
+        "A. Is",
+        "B. What",
+        "C. What’s",
+        "D. How"
+      ],
+      "answer": "C. What’s",
+      "explanation": "Chọn “What’s” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What’s this? – It’s a ball.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 141."
+    },
+    {
+      "id": 94,
+      "question": "Please, sit ________ .",
+      "options": [
+        "A. at",
+        "B. in",
+        "C. down",
+        "D. on"
+      ],
+      "answer": "C. down",
+      "explanation": "Chọn “down” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Please, sit down.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 90."
+    },
+    {
+      "id": 95,
+      "question": "Pick ________ your notebook, Harry.",
+      "options": [
+        "A. on",
+        "B. to",
+        "C. up",
+        "D. down"
+      ],
+      "answer": "C. up",
+      "explanation": "Chọn “up” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Pick up your notebook, Harry.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 144."
+    },
+    {
+      "id": 96,
+      "question": "Look ________ the picture, Mary.",
+      "options": [
+        "A. to",
+        "B. on",
+        "C. for",
+        "D. at"
+      ],
+      "answer": "D. at",
+      "explanation": "Chọn “at” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “Look at the picture, Mary.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 183."
+    },
+    {
+      "id": 97,
+      "question": "Fine, thanks. ________ you?",
+      "options": [
+        "A. But",
+        "B. So",
+        "C. And",
+        "D. Or"
+      ],
+      "answer": "C. And",
+      "explanation": "Chọn “And” vì từ nối này thể hiện đúng quan hệ giữa hai từ hoặc hai ý trong câu. Câu hoàn chỉnh: “Fine, thanks. And you?”. Nguồn đối chiếu: đề IOE gốc số 27, câu 182."
+    },
+    {
+      "id": 98,
+      "question": "I go ________ school in the morning.",
+      "options": [
+        "A. from",
+        "B. to",
+        "C. at",
+        "D. in"
+      ],
+      "answer": "B. to",
+      "explanation": "Chọn “to” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “I go to school in the morning.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 67."
+    },
+    {
+      "id": 99,
+      "question": "Pick ________ your pencil, John.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. of",
+        "D. up"
+      ],
+      "answer": "D. up",
+      "explanation": "Chọn “up” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Pick up your pencil, John.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 81."
+    },
+    {
+      "id": 100,
+      "question": "Happy birthday ________ you, Jenny.",
+      "options": [
+        "A. at",
+        "B. in",
+        "C. to",
+        "D. on"
+      ],
+      "answer": "C. to",
+      "explanation": "Chọn “to” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “Happy birthday to you, Jenny.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 83."
+    },
+    {
+      "id": 101,
+      "question": "Pick ________ your books, please.",
+      "options": [
+        "A. to",
+        "B. on",
+        "C. at",
+        "D. up"
+      ],
+      "answer": "D. up",
+      "explanation": "Chọn “up” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Pick up your books, please.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 125."
+    },
+    {
+      "id": 102,
+      "question": "Pick ________ your pen, children.",
+      "options": [
+        "A. at",
+        "B. on",
+        "C. to",
+        "D. up"
+      ],
+      "answer": "D. up",
+      "explanation": "Chọn “up” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Pick up your pen, children.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 174."
+    },
+    {
+      "id": 103,
+      "question": "My sister ________ books in the school library.",
+      "options": [
+        "A. read",
+        "B. reads",
+        "C. to read",
+        "D. reading"
+      ],
+      "answer": "B. reads",
+      "explanation": "Chọn “reads” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “My sister reads books in the school library.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 56."
+    },
+    {
+      "id": 104,
+      "question": "She is ________ the classroom now.",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. for",
+        "D. to"
+      ],
+      "answer": "A. in",
+      "explanation": "Chọn “in” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “She is in the classroom now.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 127."
+    },
+    {
+      "id": 105,
+      "question": "________ out your book.",
+      "options": [
+        "A. Take’s",
+        "B. Take",
+        "C. Takes",
+        "D. To take"
+      ],
+      "answer": "B. Take",
+      "explanation": "Chọn “Take” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Take out your book.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 93."
+    },
+    {
+      "id": 106,
+      "question": "Hi, I’m Richard. Nice ________ meet you.",
+      "options": [
+        "A. to",
+        "B. at",
+        "C. on",
+        "D. in"
+      ],
+      "answer": "A. to",
+      "explanation": "Chọn “to” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “Hi, I’m Richard. Nice to meet you.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 74."
+    },
+    {
+      "id": 107,
+      "question": "That man is _______.",
+      "options": [
+        "A. fifty one",
+        "B. fifteen one",
+        "C. five ten one",
+        "D. five one"
+      ],
+      "answer": "A. fifty one",
+      "explanation": "Chọn “fifty one” vì từ chỉ số lượng và danh từ đi kèm phải thống nhất ở số ít hoặc số nhiều. Câu hoàn chỉnh: “That man is fifty one.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 14."
+    },
+    {
+      "id": 108,
+      "question": "Do you have any pets? – Yes, I have ________",
+      "options": [
+        "A. any",
+        "B. some",
+        "C. much",
+        "D. no pets"
+      ],
+      "answer": "B. some",
+      "explanation": "Chọn “some” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Do you have any pets? – Yes, I have some”. Nguồn đối chiếu: đề IOE gốc số 22, câu 113."
+    },
+    {
+      "id": 109,
+      "question": "We sing many songs ________ Music lessons.",
+      "options": [
+        "A. to",
+        "B. during",
+        "C. so",
+        "D. and"
+      ],
+      "answer": "B. during",
+      "explanation": "Chọn “during” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “We sing many songs during Music lessons.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 142."
+    },
+    {
+      "id": 110,
+      "question": "I'm __ school now.",
+      "options": [
+        "A. on",
+        "B. at",
+        "C. in",
+        "D. to"
+      ],
+      "answer": "B. at",
+      "explanation": "Chọn “at” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “I'm at school now.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 186."
+    },
+    {
+      "id": 111,
+      "question": "Let’s ________ a song, children.",
+      "options": [
+        "A. play",
+        "B. take",
+        "C. sing",
+        "D. speak"
+      ],
+      "answer": "C. sing",
+      "explanation": "Chọn “sing” vì sau động từ khuyết thiếu, “Let’s” hoặc “to” trong mẫu này cần dạng động từ thích hợp. Câu hoàn chỉnh: “Let’s sing a song, children.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 87."
+    },
+    {
+      "id": 112,
+      "question": "Trang and Chau ________ two bikes.",
+      "options": [
+        "A. has",
+        "B. have",
+        "C. is",
+        "D. don’t"
+      ],
+      "answer": "B. have",
+      "explanation": "Chọn “have” vì dạng động từ này hòa hợp với chủ ngữ và đúng cấu trúc của câu. Câu hoàn chỉnh: “Trang and Chau have two bikes.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 52."
+    },
+    {
+      "id": 113,
+      "question": "Bob: What is this? - Peter: ________",
+      "options": [
+        "A. His name is Hien.",
+        "B. It is a ruler.",
+        "C. It’s an ruler.",
+        "D. It is my friend."
+      ],
+      "answer": "B. It is a ruler.",
+      "explanation": "Chọn “It is a ruler.” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Bob: What is this? - Peter: It is a ruler.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 147."
+    },
+    {
+      "id": 114,
+      "question": "Do you like ______ a bike?",
+      "options": [
+        "A. ride",
+        "B. rideing",
+        "C. riding",
+        "D. ridding"
+      ],
+      "answer": "C. riding",
+      "explanation": "Chọn “riding” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “Do you like riding a bike?”. Nguồn đối chiếu: đề IOE gốc số 16, câu 154."
+    },
+    {
+      "id": 115,
+      "question": "Tom is nine ________ old.",
+      "options": [
+        "A. year",
+        "B. year’s",
+        "C. yeah",
+        "D. years"
+      ],
+      "answer": "D. years",
+      "explanation": "Chọn “years” vì dạng động từ này hòa hợp với chủ ngữ và đúng cấu trúc của câu. Câu hoàn chỉnh: “Tom is nine years old.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 166."
+    },
+    {
+      "id": 116,
+      "question": "________ is your birthday? - It’s in July.",
+      "options": [
+        "A. Where",
+        "B. How",
+        "C. When",
+        "D. How old"
+      ],
+      "answer": "C. When",
+      "explanation": "Chọn “When” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “When is your birthday? - It’s in July.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 31."
+    },
+    {
+      "id": 117,
+      "question": "A: ________ - B: I like badminton.",
+      "options": [
+        "A. What sport do you like?",
+        "B. Do you like badminton?",
+        "C. Why do you like badminton?",
+        "D. What do you do at break time?"
+      ],
+      "answer": "A. What sport do you like?",
+      "explanation": "Chọn “What sport do you like?” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “A: What sport do you like? - B: I like badminton.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 162."
+    },
+    {
+      "id": 118,
+      "question": "These are my new ________: Adam, Alex and Anna.",
+      "options": [
+        "A. friends",
+        "B. friends’s",
+        "C. friend",
+        "D. friend’s"
+      ],
+      "answer": "A. friends",
+      "explanation": "Chọn “friends” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “These are my new friends: Adam, Alex and Anna.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 106."
+    },
+    {
+      "id": 119,
+      "question": "What is ________ name? - My name is Jenny.",
+      "options": [
+        "A. she",
+        "B. you",
+        "C. he",
+        "D. your"
+      ],
+      "answer": "D. your",
+      "explanation": "Chọn “your” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What is your name? - My name is Jenny.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 5."
+    },
+    {
+      "id": 120,
+      "question": "Let’s ________ a picture, Daisy.",
+      "options": [
+        "A. sit",
+        "B. read",
+        "C. draw",
+        "D. stand"
+      ],
+      "answer": "C. draw",
+      "explanation": "Chọn “draw” vì sau động từ khuyết thiếu, “Let’s” hoặc “to” trong mẫu này cần dạng động từ thích hợp. Câu hoàn chỉnh: “Let’s draw a picture, Daisy.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 152."
+    },
+    {
+      "id": 121,
+      "question": "My brother __ to school today.",
+      "options": [
+        "A. go",
+        "B. goes",
+        "C. play",
+        "D. plays"
+      ],
+      "answer": "B. goes",
+      "explanation": "Chọn “goes” vì sau động từ khuyết thiếu, “Let’s” hoặc “to” trong mẫu này cần dạng động từ thích hợp. Câu hoàn chỉnh: “My brother goes to school today.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 196."
+    },
+    {
+      "id": 122,
+      "question": "Nam: ________ your name? - Peter: My name’s Peter.",
+      "options": [
+        "A. Who",
+        "B. Who’s",
+        "C. What",
+        "D. What’s"
+      ],
+      "answer": "D. What’s",
+      "explanation": "Chọn “What’s” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Nam: What’s your name? - Peter: My name’s Peter.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 69."
+    },
+    {
+      "id": 123,
+      "question": "How many ________ are there? - There is one peach.",
+      "options": [
+        "A. crayons",
+        "B. peachs",
+        "C. peach",
+        "D. peaches"
+      ],
+      "answer": "D. peaches",
+      "explanation": "Chọn “peaches” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How many peaches are there? - There is one peach.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 195."
+    },
+    {
+      "id": 124,
+      "question": "What does he do during ________ lessons? - He learns about numbers.",
+      "options": [
+        "A. Maths",
+        "B. English",
+        "C. Arts",
+        "D. Music"
+      ],
+      "answer": "A. Maths",
+      "explanation": "Chọn “Maths” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What does he do during Maths lessons? - He learns about numbers.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 195."
+    },
+    {
+      "id": 125,
+      "question": "Lan: What are they? Huong: They are my ________ .",
+      "options": [
+        "A. teachers",
+        "B. friends",
+        "C. pencil cases",
+        "D. Lan and Mai"
+      ],
+      "answer": "C. pencil cases",
+      "explanation": "Chọn “pencil cases” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “Lan: What are they? Huong: They are my pencil cases.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 191."
+    },
+    {
+      "id": 126,
+      "question": "My class is ________: ten girls and eleven boys.",
+      "options": [
+        "A. nice",
+        "B. tidy",
+        "C. big",
+        "D. new"
+      ],
+      "answer": "C. big",
+      "explanation": "Chọn “big” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “My class is big: ten girls and eleven boys.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 15."
+    },
+    {
+      "id": 127,
+      "question": "Peter: What are their ________? - Hoa: Mai and Huong.",
+      "options": [
+        "A. name",
+        "B. names",
+        "C. your name",
+        "D. your names"
+      ],
+      "answer": "B. names",
+      "explanation": "Chọn “names” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Peter: What are their names? - Hoa: Mai and Huong.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 176."
+    },
+    {
+      "id": 128,
+      "question": "________ fishing together now!",
+      "options": [
+        "A. Let go",
+        "B. Lets go",
+        "C. Let’s go",
+        "D. Let goes"
+      ],
+      "answer": "C. Let’s go",
+      "explanation": "Chọn “Let’s go” vì dạng động từ này hòa hợp với chủ ngữ và đúng cấu trúc của câu. Câu hoàn chỉnh: “Let’s go fishing together now!”. Nguồn đối chiếu: đề IOE gốc số 49, câu 40."
+    },
+    {
+      "id": 129,
+      "question": "How old is your sister? - ________ is fifteen years old.",
+      "options": [
+        "A. He",
+        "B. She",
+        "C. They",
+        "D. It"
+      ],
+      "answer": "B. She",
+      "explanation": "Chọn “She” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How old is your sister? - She is fifteen years old.”. Nguồn đối chiếu: đề IOE gốc số 15, câu 58."
+    },
+    {
+      "id": 130,
+      "question": "The new music room is _______.",
+      "options": [
+        "A. new",
+        "B. ten",
+        "C. old",
+        "D. large"
+      ],
+      "answer": "D. large",
+      "explanation": "Chọn “large” vì từ chỉ số lượng và danh từ đi kèm phải thống nhất ở số ít hoặc số nhiều. Câu hoàn chỉnh: “The new music room is large.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 107."
+    },
+    {
+      "id": 131,
+      "question": "I ________ music. It is wonderful.",
+      "options": [
+        "A. see",
+        "B. like",
+        "C. look",
+        "D. go"
+      ],
+      "answer": "B. like",
+      "explanation": "Chọn “like” vì dạng động từ này hòa hợp với chủ ngữ và đúng cấu trúc của câu. Câu hoàn chỉnh: “I like music. It is wonderful.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 92."
+    },
+    {
+      "id": 132,
+      "question": "Goodbye, John. See you ________ .",
+      "options": [
+        "A. agains",
+        "B. again",
+        "C. again’s",
+        "D. see again"
+      ],
+      "answer": "B. again",
+      "explanation": "Chọn “again” vì dạng động từ này hòa hợp với chủ ngữ và đúng cấu trúc của câu. Câu hoàn chỉnh: “Goodbye, John. See you again.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 22."
+    },
+    {
+      "id": 133,
+      "question": "What colour is that kite? - It is ________",
+      "options": [
+        "A. big",
+        "B. small",
+        "C. green",
+        "D. short"
+      ],
+      "answer": "C. green",
+      "explanation": "Chọn “green” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What colour is that kite? - It is green”. Nguồn đối chiếu: đề IOE gốc số 29, câu 55."
+    },
+    {
+      "id": 134,
+      "question": "Are you going to visit Huong Pagoda ________?",
+      "options": [
+        "A. today",
+        "B. tomorrow",
+        "C. now",
+        "D. yesterday"
+      ],
+      "answer": "B. tomorrow",
+      "explanation": "Chọn “tomorrow” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “Are you going to visit Huong Pagoda tomorrow?”. Nguồn đối chiếu: đề IOE gốc số 49, câu 102."
+    },
+    {
+      "id": 135,
+      "question": "Lan: Do you ________ swimming? - Huong: Yes, we do.",
+      "options": [
+        "A. play",
+        "B. like",
+        "C. likes",
+        "D. read"
+      ],
+      "answer": "B. like",
+      "explanation": "Chọn “like” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Lan: Do you like swimming? - Huong: Yes, we do.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 138."
+    },
+    {
+      "id": 136,
+      "question": "Hello. My name’s Thompson. - Hi, ________",
+      "options": [
+        "A. What’s that?",
+        "B. Goodbye",
+        "C. I’m Collin. Nice to meet you",
+        "D. See you later"
+      ],
+      "answer": "C. I’m Collin. Nice to meet you",
+      "explanation": "Chọn “I’m Collin. Nice to meet you” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Hello. My name’s Thompson. - Hi, I’m Collin. Nice to meet you”. Nguồn đối chiếu: đề IOE gốc số 6, câu 29."
+    },
+    {
+      "id": 137,
+      "question": "________ is that? - It’s a pen.",
+      "options": [
+        "A. How",
+        "B. When",
+        "C. What",
+        "D. Where"
+      ],
+      "answer": "C. What",
+      "explanation": "Chọn “What” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What is that? - It’s a pen.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 3."
+    },
+    {
+      "id": 138,
+      "question": "What ________ this? - This is a pen.",
+      "options": [
+        "A. it",
+        "B. iss",
+        "C. is",
+        "D. are"
+      ],
+      "answer": "C. is",
+      "explanation": "Chọn “is” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What is this? - This is a pen.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 53."
+    },
+    {
+      "id": 139,
+      "question": "________ have you got English? - Four times a week.",
+      "options": [
+        "A. How",
+        "B. When",
+        "C. How often",
+        "D. Where"
+      ],
+      "answer": "C. How often",
+      "explanation": "Chọn “How often” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How often have you got English? - Four times a week.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 163."
+    },
+    {
+      "id": 140,
+      "question": "Peter: Lan is my friend. - John: She’s my friend, ________",
+      "options": [
+        "A. two",
+        "B. to",
+        "C. too",
+        "D. who"
+      ],
+      "answer": "C. too",
+      "explanation": "Chọn “too” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Peter: Lan is my friend. - John: She’s my friend, too”. Nguồn đối chiếu: đề IOE gốc số 12, câu 146."
+    },
+    {
+      "id": 141,
+      "question": "How are you? - ____, thank you.",
+      "options": [
+        "A. Yes",
+        "B. No",
+        "C. Good",
+        "D. Fine"
+      ],
+      "answer": "D. Fine",
+      "explanation": "Chọn “Fine” vì câu trước hỏi thăm hoặc tặng/giúp một vật; lời đáp này đúng ý nghĩa và lịch sự. Câu hoàn chỉnh: “How are you? - Fine, thank you.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 91."
+    },
+    {
+      "id": 142,
+      "question": "A dog has _______.",
+      "options": [
+        "A. four eyes",
+        "B. four noses",
+        "C. four tails",
+        "D. four legs"
+      ],
+      "answer": "D. four legs",
+      "explanation": "Chọn “four legs” vì từ chỉ số lượng và danh từ đi kèm phải thống nhất ở số ít hoặc số nhiều. Câu hoàn chỉnh: “A dog has four legs.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 46."
+    },
+    {
+      "id": 143,
+      "question": "A: What colour are those T-shirts? - B: ________ are brown.",
+      "options": [
+        "A. Those",
+        "B. These",
+        "C. We",
+        "D. They"
+      ],
+      "answer": "D. They",
+      "explanation": "Chọn “They” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “A: What colour are those T-shirts? - B: They are brown.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 165."
+    },
+    {
+      "id": 144,
+      "question": "Mai: What’s that? - Linda: That’s my ________",
+      "options": [
+        "A. Peter",
+        "B. school library",
+        "C. friend",
+        "D. teacher"
+      ],
+      "answer": "B. school library",
+      "explanation": "Chọn “school library” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Mai: What’s that? - Linda: That’s my school library”. Nguồn đối chiếu: đề IOE gốc số 27, câu 96."
+    },
+    {
+      "id": 145,
+      "question": "Hoa: ________ that? - Tony: That’s my school bag.",
+      "options": [
+        "A. Who",
+        "B. Who’s",
+        "C. What",
+        "D. What’s"
+      ],
+      "answer": "D. What’s",
+      "explanation": "Chọn “What’s” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Hoa: What’s that? - Tony: That’s my school bag.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 200."
+    },
+    {
+      "id": 146,
+      "question": "He likes ____ games.",
+      "options": [
+        "A. plays",
+        "B. to playing",
+        "C. play",
+        "D. playing"
+      ],
+      "answer": "D. playing",
+      "explanation": "Chọn “playing” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “He likes playing games.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 85."
+    },
+    {
+      "id": 147,
+      "question": "May I borrow your books for some days? - ________",
+      "options": [
+        "A. No, I don’t.",
+        "B. Yes, I can.",
+        "C. I am fine. Thank you.",
+        "D. Yes, you can."
+      ],
+      "answer": "D. Yes, you can.",
+      "explanation": "Chọn “Yes, you can.” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “May I borrow your books for some days? - Yes, you can.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 36."
+    },
+    {
+      "id": 148,
+      "question": "Nam usually ________ badminton in the afternoon.",
+      "options": [
+        "A. played",
+        "B. plays",
+        "C. playing",
+        "D. to play"
+      ],
+      "answer": "B. plays",
+      "explanation": "Chọn “plays” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Nam usually plays badminton in the afternoon.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 46."
+    },
+    {
+      "id": 149,
+      "question": "He can play football ________ he can play chess, too.",
+      "options": [
+        "A. but",
+        "B. so",
+        "C. and",
+        "D. how"
+      ],
+      "answer": "C. and",
+      "explanation": "Chọn “and” vì từ nối này thể hiện đúng quan hệ giữa hai từ hoặc hai ý trong câu. Câu hoàn chỉnh: “He can play football and he can play chess, too.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 138."
+    },
+    {
+      "id": 150,
+      "question": "Would you like ________ to the movies tonight?",
+      "options": [
+        "A. go",
+        "B. going",
+        "C. to go",
+        "D. goes"
+      ],
+      "answer": "C. to go",
+      "explanation": "Chọn “to go” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “Would you like to go to the movies tonight?”. Nguồn đối chiếu: đề IOE gốc số 35, câu 140."
+    },
+    {
+      "id": 151,
+      "question": "It’s eleven o’clock. It’s time ________",
+      "options": [
+        "A. to have",
+        "B. for lunch",
+        "C. for play",
+        "D. to bed"
+      ],
+      "answer": "B. for lunch",
+      "explanation": "Chọn “for lunch” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “It’s eleven o’clock. It’s time for lunch”. Nguồn đối chiếu: đề IOE gốc số 29, câu 16."
+    },
+    {
+      "id": 152,
+      "question": "I pick ___ my pen and give it to Tony.",
+      "options": [
+        "A. out",
+        "B. up",
+        "C. at",
+        "D. on"
+      ],
+      "answer": "B. up",
+      "explanation": "Chọn “up” vì từ này tạo thành cụm từ hoặc quan hệ ý nghĩa đúng trong câu. Câu hoàn chỉnh: “I pick up my pen and give it to Tony.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 9."
+    },
+    {
+      "id": 153,
+      "question": "A: Are they your friends? – B: No, ________ aren’t.",
+      "options": [
+        "A. we",
+        "B. you",
+        "C. your",
+        "D. they"
+      ],
+      "answer": "D. they",
+      "explanation": "Chọn “they” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “A: Are they your friends? – B: No, they aren’t.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 177."
+    },
+    {
+      "id": 154,
+      "question": "A: Do you like bananas? - B: ______",
+      "options": [
+        "A. I like bananas.",
+        "B. I don't like bananas.",
+        "C. Yes, I do.",
+        "D. Yes, I am."
+      ],
+      "answer": "C. Yes, I do.",
+      "explanation": "Chọn “Yes, I do.” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “A: Do you like bananas? - B: Yes, I do.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 181."
+    },
+    {
+      "id": 155,
+      "question": "Hello, I am Mai. - ________",
+      "options": [
+        "A. Goodbye and see you later.",
+        "B. I don’t know.",
+        "C. Hi, I am fine. Thanks",
+        "D. Nice to see you."
+      ],
+      "answer": "D. Nice to see you.",
+      "explanation": "Chọn “Nice to see you.” vì vế trước là lời tạm biệt; câu này là lời đáp tạm biệt tự nhiên. Câu hoàn chỉnh: “Hello, I am Mai. - Nice to see you.”. Nguồn đối chiếu: đề IOE gốc số 40, câu 75."
+    },
+    {
+      "id": 156,
+      "question": "_______ pet do you like? – I like cats.",
+      "options": [
+        "A. What",
+        "B. Who",
+        "C. Where",
+        "D. When"
+      ],
+      "answer": "A. What",
+      "explanation": "Chọn “What” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What pet do you like? – I like cats.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 136."
+    },
+    {
+      "id": 157,
+      "question": "What’s the weather _______ in your city?",
+      "options": [
+        "A. be",
+        "B. like",
+        "C. round",
+        "D. All are incorrect."
+      ],
+      "answer": "B. like",
+      "explanation": "Chọn “like” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What’s the weather like in your city?”. Nguồn đối chiếu: đề IOE gốc số 35, câu 171."
+    },
+    {
+      "id": 158,
+      "question": "I ________ Monday and Wednesday because I have Maths lessons then.",
+      "options": [
+        "A. fun",
+        "B. bye",
+        "C. like",
+        "D. buy"
+      ],
+      "answer": "C. like",
+      "explanation": "Chọn “like” vì dạng động từ này hòa hợp với chủ ngữ và đúng cấu trúc của câu. Câu hoàn chỉnh: “I like Monday and Wednesday because I have Maths lessons then.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 172."
+    },
+    {
+      "id": 159,
+      "question": "She sometimes goes to school ________ foot.",
+      "options": [
+        "A. by",
+        "B. to",
+        "C. on",
+        "D. in"
+      ],
+      "answer": "C. on",
+      "explanation": "Chọn “on” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “She sometimes goes to school on foot.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 185."
+    },
+    {
+      "id": 160,
+      "question": "What is your hobby? – I ________ walking the dog in the park.",
+      "options": [
+        "A. like",
+        "B. have",
+        "C. can",
+        "D. do"
+      ],
+      "answer": "A. like",
+      "explanation": "Chọn “like” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What is your hobby? – I like walking the dog in the park.”. Nguồn đối chiếu: đề IOE gốc số 46, câu 9."
+    },
+    {
+      "id": 161,
+      "question": "Do you like Tet? - ________",
+      "options": [
+        "A. Yes, I love Tet",
+        "B. Yes, I am",
+        "C. No, he doesn’t",
+        "D. No, I am not sure"
+      ],
+      "answer": "A. Yes, I love Tet",
+      "explanation": "Chọn “Yes, I love Tet” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “Do you like Tet? - Yes, I love Tet”. Nguồn đối chiếu: đề IOE gốc số 41, câu 53."
+    },
+    {
+      "id": 162,
+      "question": "I go ________ school early in the morning.",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. to",
+        "D. from"
+      ],
+      "answer": "C. to",
+      "explanation": "Chọn “to” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “I go to school early in the morning.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 186."
+    },
+    {
+      "id": 163,
+      "question": "When the teacher wants my class not to talk, she says: ’’________’’",
+      "options": [
+        "A. Be quiet!",
+        "B. Come here!",
+        "C. Sit down!",
+        "D. Stand up!"
+      ],
+      "answer": "A. Be quiet!",
+      "explanation": "Chọn “Be quiet!” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “When the teacher wants my class not to talk, she says: ’’Be quiet!’’”. Nguồn đối chiếu: đề IOE gốc số 13, câu 109."
+    },
+    {
+      "id": 164,
+      "question": "How old is his grandmother? - _______",
+      "options": [
+        "A. She's fine.",
+        "B. There are some tables in the room.",
+        "C. She's sixty now.",
+        "D. Thank you very much."
+      ],
+      "answer": "C. She's sixty now.",
+      "explanation": "Chọn “She's sixty now.” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How old is his grandmother? - She's sixty now.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 177."
+    },
+    {
+      "id": 165,
+      "question": "My sister is happy ________ today is her birthday.",
+      "options": [
+        "A. but",
+        "B. and",
+        "C. because",
+        "D. for"
+      ],
+      "answer": "C. because",
+      "explanation": "Chọn “because” vì từ nối này thể hiện đúng quan hệ giữa hai từ hoặc hai ý trong câu. Câu hoàn chỉnh: “My sister is happy because today is her birthday.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 185."
+    },
+    {
+      "id": 166,
+      "question": "Peter: How are you? - Huong: I’m fine. ________ you?",
+      "options": [
+        "A. Thank",
+        "B. Thanks",
+        "C. And",
+        "D. Welcome"
+      ],
+      "answer": "C. And",
+      "explanation": "Chọn “And” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Peter: How are you? - Huong: I’m fine. And you?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 93."
+    },
+    {
+      "id": 167,
+      "question": "She can play chess but ________ do puzzles.",
+      "options": [
+        "A. can",
+        "B. cannot",
+        "C. can-not",
+        "D. cant’"
+      ],
+      "answer": "B. cannot",
+      "explanation": "Chọn “cannot” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “She can play chess but cannot do puzzles.”. Nguồn đối chiếu: đề IOE gốc số 39, câu 185."
+    },
+    {
+      "id": 168,
+      "question": "This is ______ room. It’s her room.",
+      "options": [
+        "A. my",
+        "B. his",
+        "C. she",
+        "D. not my"
+      ],
+      "answer": "D. not my",
+      "explanation": "Chọn “not my” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “This is not my room. It’s her room.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 105."
+    },
+    {
+      "id": 169,
+      "question": "How do you feel? – I’m very ______?",
+      "options": [
+        "A. hungry",
+        "B. short",
+        "C. pretty",
+        "D. tall"
+      ],
+      "answer": "A. hungry",
+      "explanation": "Chọn “hungry” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How do you feel? – I’m very hungry?”. Nguồn đối chiếu: đề IOE gốc số 37, câu 124."
+    },
+    {
+      "id": 170,
+      "question": "______ backpacks does Linh have? – She has one.",
+      "options": [
+        "A. What",
+        "B. Which",
+        "C. How",
+        "D. How many"
+      ],
+      "answer": "D. How many",
+      "explanation": "Chọn “How many” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How many backpacks does Linh have? – She has one.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 148."
+    },
+    {
+      "id": 171,
+      "question": "How are ________? - ________ am fine, thanks.",
+      "options": [
+        "A. they / He",
+        "B. we / We",
+        "C. you / I",
+        "D. him / He"
+      ],
+      "answer": "C. you / I",
+      "explanation": "Chọn “you / I” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How are you? - I am fine, thanks.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 193."
+    },
+    {
+      "id": 172,
+      "question": "The cat is sitting ________ the tree.",
+      "options": [
+        "A. near to",
+        "B. next",
+        "C. in",
+        "D. under"
+      ],
+      "answer": "D. under",
+      "explanation": "Chọn “under” vì giới từ này tạo đúng cụm chỉ thời gian, nơi chốn, hướng đi hoặc quan hệ được dùng trong câu. Câu hoàn chỉnh: “The cat is sitting under the tree.”. Nguồn đối chiếu: đề IOE gốc số 46, câu 126."
+    },
+    {
+      "id": 173,
+      "question": "What's your name? - My _____ Hoa.",
+      "options": [
+        "A. name",
+        "B. name's",
+        "C. name're",
+        "D. name are"
+      ],
+      "answer": "B. name's",
+      "explanation": "Chọn “name's” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What's your name? - My name's Hoa.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 189."
+    },
+    {
+      "id": 174,
+      "question": "How are you, David? - ________",
+      "options": [
+        "A. I am six years old.",
+        "B. I am fine, thanks.",
+        "C. I like blue and green.",
+        "D. I am in the classroom."
+      ],
+      "answer": "B. I am fine, thanks.",
+      "explanation": "Chọn “I am fine, thanks.” vì câu trước hỏi thăm hoặc tặng/giúp một vật; lời đáp này đúng ý nghĩa và lịch sự. Câu hoàn chỉnh: “How are you, David? - I am fine, thanks.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 54."
+    },
+    {
+      "id": 175,
+      "question": "A: _________. - B: Yes, you can",
+      "options": [
+        "A. Open your book!",
+        "B. Stand up!",
+        "C. May I go out?",
+        "D. Be quiet!"
+      ],
+      "answer": "C. May I go out?",
+      "explanation": "Chọn “May I go out?” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “A: May I go out?. - B: Yes, you can”. Nguồn đối chiếu: đề IOE gốc số 1, câu 17."
+    },
+    {
+      "id": 176,
+      "question": "____ do you like? - This one.",
+      "options": [
+        "A. What",
+        "B. Where",
+        "C. How",
+        "D. Which"
+      ],
+      "answer": "A. What",
+      "explanation": "Chọn “What” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What do you like? - This one.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 137."
+    },
+    {
+      "id": 177,
+      "question": "When you meet your friend at 9 a.m, you say:",
+      "options": [
+        "A. Good morning",
+        "B. Good evening",
+        "C. Good afternoon",
+        "D. Good night"
+      ],
+      "answer": "A. Good morning",
+      "explanation": "Chọn “Good morning” vì đây là câu đáp đúng ý câu hỏi và đúng mẫu hội thoại tiếng Anh. Câu hoàn chỉnh: “When you meet your friend at 9 a.m, you say: – Good morning”. Nguồn đối chiếu: đề IOE gốc số 19, câu 38."
+    },
+    {
+      "id": 178,
+      "question": "A: What colour ________ these flowers? - B: ________ purple.",
+      "options": [
+        "A. are – They’re",
+        "B. is – It’s",
+        "C. are – It’s",
+        "D. is – They’re"
+      ],
+      "answer": "A. are – They’re",
+      "explanation": "Chọn “are – They’re” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “A: What colour are these flowers? - B: They’re purple.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 199."
+    },
+    {
+      "id": 179,
+      "question": "When is your birth day, Tommy? – Well, Taylor, it’s ________ December 5th.",
+      "options": [
+        "A. in",
+        "B. like",
+        "C. on",
+        "D. at"
+      ],
+      "answer": "C. on",
+      "explanation": "Chọn “on” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “When is your birth day, Tommy? – Well, Taylor, it’s on December 5th.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 119."
+    },
+    {
+      "id": 180,
+      "question": "- Alice: Who is ________? - Mark: Who? - Alice: The girl over there.",
+      "options": [
+        "A. this",
+        "B. that",
+        "C. there",
+        "D. these"
+      ],
+      "answer": "B. that",
+      "explanation": "Chọn “that” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “- Alice: Who is that? - Mark: Who? - Alice: The girl over there.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 80."
+    },
+    {
+      "id": 181,
+      "question": "How old is Minh? - He’s _______.",
+      "options": [
+        "A. tent",
+        "B. for",
+        "C. four",
+        "D. too"
+      ],
+      "answer": "C. four",
+      "explanation": "Chọn “four” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How old is Minh? - He’s four.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 105."
+    },
+    {
+      "id": 182,
+      "question": "Linda _____ a little cat.",
+      "options": [
+        "A. have",
+        "B. do",
+        "C. has",
+        "D. am"
+      ],
+      "answer": "C. has",
+      "explanation": "Chọn “has” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Linda has a little cat.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 48."
+    },
+    {
+      "id": 183,
+      "question": "My brother can play football ________ can’t play chess.",
+      "options": [
+        "A. and",
+        "B. but",
+        "C. so",
+        "D. or"
+      ],
+      "answer": "B. but",
+      "explanation": "Chọn “but” vì từ nối này thể hiện đúng quan hệ giữa hai từ hoặc hai ý trong câu. Câu hoàn chỉnh: “My brother can play football but can’t play chess.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 115."
+    },
+    {
+      "id": 184,
+      "question": "________ do you like to play? – I like to play hide-and-seek.",
+      "options": [
+        "A. What",
+        "B. Where",
+        "C. When",
+        "D. How"
+      ],
+      "answer": "A. What",
+      "explanation": "Chọn “What” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What do you like to play? – I like to play hide-and-seek.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 153."
+    },
+    {
+      "id": 185,
+      "question": "What can you do ________ English? – I can count to 100, sing an English song.",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. on",
+        "D. by"
+      ],
+      "answer": "D. by",
+      "explanation": "Chọn “by” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What can you do by English? – I can count to 100, sing an English song.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 55."
+    },
+    {
+      "id": 186,
+      "question": "'Do you play badminton at break time?' - '_________.'",
+      "options": [
+        "A. No, you can’t.",
+        "B. Yes, you do.",
+        "C. Yes, I do.",
+        "D. Yes, I am."
+      ],
+      "answer": "C. Yes, I do.",
+      "explanation": "Chọn “Yes, I do.” vì câu hỏi Yes/No cần lời đáp khẳng định bắt đầu bằng “Yes” và lặp đúng trợ động từ. Câu hoàn chỉnh: “'Do you play badminton at break time?' - 'Yes, I do.'”. Nguồn đối chiếu: đề IOE gốc số 21, câu 153."
+    },
+    {
+      "id": 187,
+      "question": "What's your name? - ______ name is Nam.",
+      "options": [
+        "A. My",
+        "B. His",
+        "C. Her",
+        "D. Your"
+      ],
+      "answer": "A. My",
+      "explanation": "Chọn “My” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “What's your name? - My name is Nam.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 73."
+    },
+    {
+      "id": 188,
+      "question": "Phong ____ a new school bag.",
+      "options": [
+        "A. have",
+        "B. do",
+        "C. has",
+        "D. does"
+      ],
+      "answer": "C. has",
+      "explanation": "Chọn “has” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Phong has a new school bag.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 46."
+    },
+    {
+      "id": 189,
+      "question": "Is it the music room? - ________ It’s the computer room.",
+      "options": [
+        "A. Yes, it is.",
+        "B. No, it isn’t.",
+        "C. No, it doesn’t.",
+        "D. Yes, it does."
+      ],
+      "answer": "B. No, it isn’t.",
+      "explanation": "Chọn “No, it isn’t.” vì đây là lời đáp phủ định đúng mẫu “No + chủ ngữ + trợ động từ + not”. Câu hoàn chỉnh: “Is it the music room? - No, it isn’t. It’s the computer room.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 190."
+    },
+    {
+      "id": 190,
+      "question": "Phuong: This is my friend Mai. - Linda: Nice to meet ________, Mai.",
+      "options": [
+        "A. your",
+        "B. you",
+        "C. my",
+        "D. me"
+      ],
+      "answer": "B. you",
+      "explanation": "Chọn “you” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Phuong: This is my friend Mai. - Linda: Nice to meet you, Mai.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 161."
+    },
+    {
+      "id": 191,
+      "question": "________ is your grandfather? - He's seventy.",
+      "options": [
+        "A. How many",
+        "B. How much",
+        "C. How old",
+        "D. How age"
+      ],
+      "answer": "C. How old",
+      "explanation": "Chọn “How old” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “How old is your grandfather? - He's seventy.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 20."
+    },
+    {
+      "id": 192,
+      "question": "I don’t like cooking but I ________ singing.",
+      "options": [
+        "A. likes",
+        "B. like",
+        "C. do",
+        "D. to like"
+      ],
+      "answer": "B. like",
+      "explanation": "Chọn “like” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “I don’t like cooking but I like singing.”. Nguồn đối chiếu: đề IOE gốc số 40, câu 181."
+    },
+    {
+      "id": 193,
+      "question": "Billy: Are they your friends? - Minh: No, they ________ .",
+      "options": [
+        "A. don’t",
+        "B. have",
+        "C. do",
+        "D. aren’t"
+      ],
+      "answer": "D. aren’t",
+      "explanation": "Chọn “aren’t” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “Billy: Are they your friends? - Minh: No, they aren’t.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 159."
+    },
+    {
+      "id": 194,
+      "question": "A: May I ask a question, Miss Nga? - B: Yes, you ________",
+      "options": [
+        "A. may",
+        "B. can",
+        "C. are",
+        "D. do"
+      ],
+      "answer": "B. can",
+      "explanation": "Chọn “can” vì nội dung trả lời trực tiếp điều được hỏi và giữ đúng mẫu câu của đoạn hội thoại. Câu hoàn chỉnh: “A: May I ask a question, Miss Nga? - B: Yes, you can”. Nguồn đối chiếu: đề IOE gốc số 4, câu 124."
+    },
+    {
+      "id": 195,
+      "question": "My friends and I ________ a new way to learn English.",
+      "options": [
+        "A. go",
+        "B. look",
+        "C. find",
+        "D. do"
+      ],
+      "answer": "C. find",
+      "explanation": "Chọn “find” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “My friends and I find a new way to learn English.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 76."
+    },
+    {
+      "id": 196,
+      "question": "Choose the INCORRECT word or phrase in the following sentence: Three little cat are in the yard.",
+      "options": [
+        "A. cat",
+        "B. are",
+        "C. in",
+        "D. yard"
+      ],
+      "answer": "A. cat",
+      "explanation": "Đáp án A (“cat”) là phần sai. Khi sửa phải làm cho chủ ngữ, động từ và danh từ thống nhất về số ít/số nhiều. Câu hoàn chỉnh: “Three little cats are in the yard.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 66."
+    },
+    {
+      "id": 197,
+      "question": "Choose the INCORRECT word or phrase in the following sentence: It are a pond in the garden.",
+      "options": [
+        "A. are",
+        "B. pond",
+        "C. in",
+        "D. garden"
+      ],
+      "answer": "A. are",
+      "explanation": "Đáp án A (“are”) là phần sai. Khi sửa phải làm cho chủ ngữ, động từ và danh từ thống nhất về số ít/số nhiều. Câu hoàn chỉnh: “It is a pond in the garden.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 97."
+    },
+    {
+      "id": 198,
+      "question": "Choose the INCORRECT word or phrasein the following sentence: How many lamp are there in the room?",
+      "options": [
+        "A. lamp",
+        "B. are",
+        "C. in",
+        "D. room"
+      ],
+      "answer": "A. lamp",
+      "explanation": "Đáp án A (“lamp”) là phần sai. Khi sửa phải làm cho chủ ngữ, động từ và danh từ thống nhất về số ít/số nhiều. Câu hoàn chỉnh: “How many lamps are there in the room?”. Nguồn đối chiếu: đề IOE gốc số 22, câu 191."
+    },
+    {
+      "id": 199,
+      "question": "Choose the INCORRECT word or phrase in the following sentence: The woman behind him are my aunt.",
+      "options": [
+        "A. woman",
+        "B. behind",
+        "C. him",
+        "D. are"
+      ],
+      "answer": "D. are",
+      "explanation": "Đáp án D (“are”) là phần sai. Khi sửa phải làm cho chủ ngữ, động từ và danh từ thống nhất về số ít/số nhiều. Câu hoàn chỉnh: “The woman behind him is my aunt.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 83."
+    },
+    {
+      "id": 200,
+      "question": "Choose the incorrect word or phrase in the following sentence: The gates of the house is blue.",
+      "options": [
+        "A. The",
+        "B. of",
+        "C. house",
+        "D. is"
+      ],
+      "answer": "D. is",
+      "explanation": "Đáp án D (“is”) là phần sai. Khi sửa phải làm cho chủ ngữ, động từ và danh từ thống nhất về số ít/số nhiều. Câu hoàn chỉnh: “The gates of the house are blue.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 41."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
