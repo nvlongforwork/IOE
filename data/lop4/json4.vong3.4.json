@@ -1,0 +1,1684 @@
+{
+  "title": "IOE Lớp 4 - Chuyên đề 4 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. stops B. starts C. wants D. phones"
+      ],
+      "answer": "D. phones",
+      "explanation": "stops/starts/wants đuôi -s/-ts đọc /s/; phones đuôi -es đọc /z/ → phones khác âm."
+    },
+    {
+      "id": 2,
+      "question": "Choose the word that has the underlined part pronounced differently from the others",
+      "options": [
+        "A. Fish B. Ink C. Thin D. Ice"
+      ],
+      "answer": "D. Ice",
+      "explanation": "Fish/Ink/Thin có 'i' đọc /ɪ/ (ngắn); Ice có 'i' đọc /aɪ/ (dài) → Ice khác âm."
+    },
+    {
+      "id": 3,
+      "question": "Which word has the underlined part pronounced LIKE the letter H in 'HOUSE'?",
+      "options": [
+        "A. father B. hello C. school D. Maths"
+      ],
+      "answer": "B. hello",
+      "explanation": "Câu hỏi: âm nào giống chữ H trong HOUSE (/h/)? father/school/Maths không có âm /h/ hoặc H câm; hello có H đọc /h/ rõ ràng → hello."
+    },
+    {
+      "id": 4,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. telephones B. tables C. goes D. brushes"
+      ],
+      "answer": "D. brushes",
+      "explanation": "telephones/tables/goes đuôi đọc /z/; brushes đuôi -es đọc /ɪz/ → brushes khác âm."
+    },
+    {
+      "id": 5,
+      "question": "How many syllables are there in the word “CLOUDY”?",
+      "options": [
+        "A. One B. Two C. Three D. Four"
+      ],
+      "answer": "B. Two",
+      "explanation": "CLOUDY có 2 âm tiết: CLOUD-Y → đáp án Two."
+    },
+    {
+      "id": 6,
+      "question": "Choose the word that has the underlined part pronounced differently from the others",
+      "options": [
+        "A. Which B. Whose C. Why D. Where"
+      ],
+      "answer": "B. Whose",
+      "explanation": "Which/Why/Where bắt đầu bằng âm /w/; Whose bắt đầu bằng âm /h/ → Whose khác âm."
+    },
+    {
+      "id": 7,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. chair B. school C. children D. chalk"
+      ],
+      "answer": "B. school",
+      "explanation": "chair/children/chalk có 'ch' đọc /tʃ/; school có 'ch' đọc /k/ → school khác âm."
+    },
+    {
+      "id": 8,
+      "question": "Which word has the underlined part pronounced differently from the letter ‘o’ in ’’hot’’?",
+      "options": [
+        "A. dog B. clock C. doctor D. old"
+      ],
+      "answer": "D. old",
+      "explanation": "dog/clock/doctor có 'o' đọc /ɒ/ (ngắn); old có 'o' đọc /oʊ/ (dài) → old khác âm."
+    },
+    {
+      "id": 9,
+      "question": "Choose the word that has the underlined part pronounced differently from others.",
+      "options": [
+        "A. May B. Day C. Say D. At"
+      ],
+      "answer": "D. At",
+      "explanation": "May/Day/Say có 'ay' đọc /eɪ/; At có 'a' đọc /æ/ → At khác âm."
+    },
+    {
+      "id": 10,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. city B. fine C. kind D. like"
+      ],
+      "answer": "A. city",
+      "explanation": "fine/kind/like có 'i' đọc /aɪ/; city có 'i' đọc /ɪ/ → city khác âm."
+    },
+    {
+      "id": 11,
+      "question": "Which word has the underlined part pronounced DIFFERENTLY from EA in 'PLEASE'?",
+      "options": [
+        "A. read B. speak C. break time D. breakfast"
+      ],
+      "answer": "D. breakfast",
+      "explanation": "read/speak đọc /iː/; break time đọc /eɪ/; breakfast có 'ea' đọc /e/ → breakfast khác âm."
+    },
+    {
+      "id": 12,
+      "question": "Choose the word that has the underlined part pronounced differently from the others",
+      "options": [
+        "A. Number B. Sunday C. Student D. Fun"
+      ],
+      "answer": "C. Student",
+      "explanation": "Number/Sunday/Fun có 'u' đọc /ʌ/; Student có 'u' đọc /juː/ → Student khác âm."
+    },
+    {
+      "id": 13,
+      "question": "Choose the word that has the underlined part pronounced differently from the others",
+      "options": [
+        "A. House B. Cloud C. Pour D. Round"
+      ],
+      "answer": "C. Pour",
+      "explanation": "House/Cloud/Round có 'ou' đọc /aʊ/; Pour có 'ou' đọc /ɔː/ → Pour khác âm."
+    },
+    {
+      "id": 14,
+      "question": "Which word has the underlined part pronounced like the letter S in 'DRAWS'?",
+      "options": [
+        "A. sings B. takes C. goldfish D. brothers"
+      ],
+      "answer": "D. brothers",
+      "explanation": "Câu hỏi: âm -s giống chữ S trong DRAWS (/z/)? sings/brothers đọc /z/; takes /s/; goldfish /ʃ/; nhưng brothers rõ ràng đọc /z/ như draws → brothers."
+    },
+    {
+      "id": 15,
+      "question": "Which word has the underlined part pronounced DIFFERENTLY from CH in 'CHAIR'?",
+      "options": [
+        "A. school B. watch C. beach D. choose"
+      ],
+      "answer": "A. school",
+      "explanation": "watch/beach/choose có 'ch' đọc /tʃ/; school có 'ch' đọc /k/ → school khác âm."
+    },
+    {
+      "id": 16,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. ear B. heavy C. head D. bread"
+      ],
+      "answer": "A. ear",
+      "explanation": "heavy/head/bread có 'ea' đọc /e/; ear có 'ea' đọc /ɪə/ → ear khác âm."
+    },
+    {
+      "id": 17,
+      "question": "Which word has the letter ’i’ pronounced as the letter ’i’ in 'swing'?",
+      "options": [
+        "A. birthday B. first C. hi D. village"
+      ],
+      "answer": "D. village",
+      "explanation": "Câu hỏi: 'i' đọc như 'i' trong swing (/ɪ/)? birthday/first có 'ir' đọc /ɜː/; hi đọc /aɪ/; village có 'i' đọc /ɪ/ → village."
+    },
+    {
+      "id": 18,
+      "question": "Choose the word with the underlined part pronounced differently.",
+      "options": [
+        "A. home B. come C. some D. mom"
+      ],
+      "answer": "A. home",
+      "explanation": "come/some/mom có 'o' đọc /ʌ/; home có 'o' đọc /oʊ/ → home khác âm."
+    },
+    {
+      "id": 19,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. bag B. bank C. parents D. place"
+      ],
+      "answer": "D. place",
+      "explanation": "bag/bank/parents có 'a' đọc /æ/; place có 'a' đọc /eɪ/ → place khác âm."
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. plays B. gets C. takes D. looks"
+      ],
+      "answer": "A. plays",
+      "explanation": "gets/takes/looks đuôi -s đọc /s/; plays đuôi -s đọc /z/ → plays khác âm."
+    },
+    {
+      "id": 21,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. buses B. studies C. boxes D. watches"
+      ],
+      "answer": "B. studies",
+      "explanation": "buses/boxes/watches đuôi -es đọc /ɪz/; studies đuôi -es đọc /z/ → studies khác âm."
+    },
+    {
+      "id": 22,
+      "question": "Which word has the letter ’s’ pronounced as the letter ’s’ in 'apples'?",
+      "options": [
+        "A. breakfast B. rose C. brush D. skipping"
+      ],
+      "answer": "B. rose",
+      "explanation": "Câu hỏi: 's' đọc như 's' trong apples (/z/)? breakfast/brush/skipping đọc /s/; rose đuôi -e+'s' đọc /z/ → rose."
+    },
+    {
+      "id": 23,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. bread B. clean C. meal D. tea"
+      ],
+      "answer": "A. bread",
+      "explanation": "clean/meal/tea có 'ea' đọc /iː/; bread có 'ea' đọc /e/ → bread khác âm."
+    },
+    {
+      "id": 24,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. start B. garden C. farm D. bank"
+      ],
+      "answer": "D. bank",
+      "explanation": "start/garden/farm có 'ar' đọc /ɑː/; bank có 'a' đọc /æ/ → bank khác âm."
+    },
+    {
+      "id": 25,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. start B. party C. father D. marry"
+      ],
+      "answer": "D. marry",
+      "explanation": "start/party/father có 'ar' đọc /ɑː/; marry có 'arr' đọc /æ/ → marry khác âm."
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that has the underlined part pronounced differently from others.",
+      "options": [
+        "A. Mother B. Brother C. Maths D. Father"
+      ],
+      "answer": "C. Maths",
+      "explanation": "Mother/Brother/Father có 'th' đọc /ð/; Maths có 'th' đọc /θ/ → Maths khác âm."
+    },
+    {
+      "id": 27,
+      "question": "Which word has ’ea’ pronounced as ’ea’ in 'leaf'?",
+      "options": [
+        "A. heart B. treat C. break D. year"
+      ],
+      "answer": "B. treat",
+      "explanation": "Câu hỏi: 'ea' đọc như 'ea' trong leaf (/iː/)? heart /ɑː/; break /eɪ/; year /ɪə/; treat /iː/ → treat."
+    },
+    {
+      "id": 28,
+      "question": "Which word has the underlined part pronounced like the letter ES in BLOUSES?",
+      "options": [
+        "A. shoes B. crocodiles C. decorates D. cruises"
+      ],
+      "answer": "D. cruises",
+      "explanation": "Câu hỏi: đuôi -es đọc như ES trong BLOUSES (/ɪz/)? shoes/crocodiles /z/; decorates /s/; cruises /ɪz/ → cruises."
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. examine B. fine C. nine D. wine"
+      ],
+      "answer": "A. examine",
+      "explanation": "fine/nine/wine có 'i' đọc /aɪ/; examine có 'i' đọc /ɪ/ → examine khác âm."
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. cake B. water C. grape D. make"
+      ],
+      "answer": "B. water",
+      "explanation": "cake/grape/make có 'a' đọc /eɪ/; water có 'a' đọc /ɔː/ → water khác âm."
+    },
+    {
+      "id": 31,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. lemonade B. milk C. coffee D. carrot"
+      ],
+      "answer": "D. carrot",
+      "explanation": "lemonade, milk, coffee là đồ uống (drinks); carrot là rau củ → carrot khác loại."
+    },
+    {
+      "id": 32,
+      "question": "Odd one out:",
+      "options": [
+        "A. chair B. table C. black board D. football"
+      ],
+      "answer": "D. football",
+      "explanation": "chair, table, blackboard là đồ dùng lớp học; football là môn thể thao → football khác loại."
+    },
+    {
+      "id": 33,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. English B. Maths C. Lemonade D. Science"
+      ],
+      "answer": "C. Lemonade",
+      "explanation": "English, Maths, Science là môn học (subjects); Lemonade là đồ uống → Lemonade khác loại."
+    },
+    {
+      "id": 34,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Monday B. Tuesday C. Car D. Friday"
+      ],
+      "answer": "C. Car",
+      "explanation": "Monday, Tuesday, Friday là ngày trong tuần; Car là phương tiện → Car khác loại."
+    },
+    {
+      "id": 35,
+      "question": "Odd one out:",
+      "options": [
+        "A. she B. her C. his D. your"
+      ],
+      "answer": "A. she",
+      "explanation": "her, his, your là đại từ sở hữu (possessive pronouns); she là đại từ chủ ngữ → she khác loại."
+    },
+    {
+      "id": 36,
+      "question": "Odd one out:",
+      "options": [
+        "A. a black board B. bored C. a pen D. a chair"
+      ],
+      "answer": "B. bored",
+      "explanation": "a blackboard, a pen, a chair là đồ dùng lớp học; bored là tính từ chỉ cảm xúc → bored khác loại."
+    },
+    {
+      "id": 37,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. snake B. pig C. dog D. elephant"
+      ],
+      "answer": "A. snake",
+      "explanation": "pig, dog, elephant là động vật có 4 chân; snake là loài bò sát → snake khác loại."
+    },
+    {
+      "id": 38,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. go B. sing C. run D. song"
+      ],
+      "answer": "D. song",
+      "explanation": "go, sing, run là động từ nguyên mẫu; song là danh từ → song khác loại."
+    },
+    {
+      "id": 39,
+      "question": "Choose the odd one out.",
+      "options": [
+        "A. Well B. Fine C. Good D. Tired"
+      ],
+      "answer": "D. Tired",
+      "explanation": "Well, Fine, Good chỉ trạng thái khỏe mạnh; Tired là mệt mỏi → Tired khác nghĩa."
+    },
+    {
+      "id": 40,
+      "question": "Chọn ABCD:Choose the odd one out:",
+      "options": [
+        "A. read B. sing C. draw D. plays"
+      ],
+      "answer": "D. plays",
+      "explanation": "read, sing, draw là động từ nguyên mẫu; plays chia ngôi thứ 3 số ít → plays khác dạng."
+    },
+    {
+      "id": 41,
+      "question": "Odd one out:",
+      "options": [
+        "A. warm B. wind C. snow D. cloud"
+      ],
+      "answer": "A. warm",
+      "explanation": "wind, snow, cloud là hiện tượng thời tiết (danh từ); warm là tính từ → warm khác loại."
+    },
+    {
+      "id": 42,
+      "question": "Odd one out:",
+      "options": [
+        "A. January B. October C. Jenny D. July"
+      ],
+      "answer": "C. Jenny",
+      "explanation": "January, October, July là tháng; Jenny là tên người → Jenny khác loại."
+    },
+    {
+      "id": 43,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. May B. April C. June D. Peter"
+      ],
+      "answer": "D. Peter",
+      "explanation": "May, April, June là tháng; Peter là tên người → Peter khác loại."
+    },
+    {
+      "id": 44,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. skip B. ski C. climb D. puzzle"
+      ],
+      "answer": "D. puzzle",
+      "explanation": "skip, ski, climb là hoạt động vận động; puzzle là trò chơi ghép hình → puzzle khác loại."
+    },
+    {
+      "id": 45,
+      "question": "Odd one out:",
+      "options": [
+        "A. England B. American C. China D. Vietnam"
+      ],
+      "answer": "B. American",
+      "explanation": "England, China, Vietnam là quốc gia; American là tính từ quốc tịch → American khác loại."
+    },
+    {
+      "id": 46,
+      "question": "Odd one out:",
+      "options": [
+        "A. milk B. chicken C. bread D. fish"
+      ],
+      "answer": "A. milk",
+      "explanation": "chicken, bread, fish là thực phẩm rắn; milk là đồ uống → milk khác loại."
+    },
+    {
+      "id": 47,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. shark B. dolphin C. goldfish D. giraffe"
+      ],
+      "answer": "D. giraffe",
+      "explanation": "shark, dolphin, goldfish là động vật dưới nước; giraffe là động vật trên cạn → giraffe khác loại."
+    },
+    {
+      "id": 48,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. twenty two B. thirty four C. fifteen D. eight"
+      ],
+      "answer": "D. eight",
+      "explanation": "twenty two, thirty four, fifteen là số hai chữ số; eight là số một chữ số → eight khác loại."
+    },
+    {
+      "id": 49,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. playing B. skipping C. shopping D. swimming"
+      ],
+      "answer": "A. playing",
+      "explanation": "skipping, shopping, swimming nhân đôi phụ âm cuối trước -ing; playing không nhân đôi → playing khác quy tắc."
+    },
+    {
+      "id": 50,
+      "question": "Odd one out:",
+      "options": [
+        "A. cake B. kite C. doll D. school"
+      ],
+      "answer": "D. school",
+      "explanation": "cake, kite, doll là đồ chơi/quà sinh nhật; school là trường học → school khác loại."
+    },
+    {
+      "id": 51,
+      "question": "Odd one out:",
+      "options": [
+        "A. pupil B. teacher C. friend D. board"
+      ],
+      "answer": "D. board",
+      "explanation": "pupil, teacher, friend là người; board là đồ vật → board khác loại."
+    },
+    {
+      "id": 52,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Classroom B. School C. House D. School bag"
+      ],
+      "answer": "C. House",
+      "explanation": "Classroom, School, School bag liên quan đến trường học; House là nhà → House khác loại."
+    },
+    {
+      "id": 53,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. Vietnam B. England C. America D. Vietnamese"
+      ],
+      "answer": "D. Vietnamese",
+      "explanation": "Vietnam, England, America là quốc gia; Vietnamese là ngôn ngữ → Vietnamese khác loại."
+    },
+    {
+      "id": 54,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. volleyball B. table tennis C. chess D. badminton"
+      ],
+      "answer": "C. chess",
+      "explanation": "volleyball, table tennis, badminton là thể thao vận động; chess là cờ vua (không vận động) → chess khác loại."
+    },
+    {
+      "id": 55,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. February B. May C. Sunday D. June"
+      ],
+      "answer": "C. Sunday",
+      "explanation": "February, May, June là tháng; Sunday là ngày trong tuần → Sunday khác loại."
+    },
+    {
+      "id": 56,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Walk B. Run C. Have D. Went"
+      ],
+      "answer": "D. Went",
+      "explanation": "Walk, Run, Have là động từ nguyên mẫu; Went là dạng quá khứ bất quy tắc → Went khác dạng."
+    },
+    {
+      "id": 57,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. sing B. he C. they D. she"
+      ],
+      "answer": "A. sing",
+      "explanation": "he, they, she là đại từ chủ ngữ; sing là động từ → sing khác loại."
+    },
+    {
+      "id": 58,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. robot B. horse C. lion D. elephant"
+      ],
+      "answer": "A. robot",
+      "explanation": "horse, lion, elephant là động vật thật; robot là máy móc → robot khác loại."
+    },
+    {
+      "id": 59,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Motorbike B. October C. December D. January"
+      ],
+      "answer": "A. Motorbike",
+      "explanation": "October, December, January là tháng; Motorbike là phương tiện → Motorbike khác loại."
+    },
+    {
+      "id": 60,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. Science B. Music C. Maths D. Sunday"
+      ],
+      "answer": "D. Sunday",
+      "explanation": "Science, Music, Maths là môn học; Sunday là ngày → Sunday khác loại."
+    },
+    {
+      "id": 61,
+      "question": "Choose the odd one out.",
+      "options": [
+        "A. Science B. Maths C. Music D. England"
+      ],
+      "answer": "D. England",
+      "explanation": "Science, Maths, Music là môn học; England là quốc gia → England khác loại."
+    },
+    {
+      "id": 62,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. like B. love C. hate D. enjoy"
+      ],
+      "answer": "C. hate",
+      "explanation": "like, love, enjoy là cảm xúc tích cực; hate là cảm xúc tiêu cực → hate khác nghĩa."
+    },
+    {
+      "id": 63,
+      "question": "Odd one out:",
+      "options": [
+        "A. they B. five C. you D. she"
+      ],
+      "answer": "B. five",
+      "explanation": "they, you, she là đại từ; five là số → five khác loại."
+    },
+    {
+      "id": 64,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. eight o’clock B. eight years old C. eight a.m. D. eight fifteen"
+      ],
+      "answer": "B. eight years old",
+      "explanation": "eight o'clock, eight a.m., eight fifteen là cách nói thời gian; eight years old là tuổi → eight years old khác loại."
+    },
+    {
+      "id": 65,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. aunt B. grandson C. grandfather D. uncle"
+      ],
+      "answer": "A. aunt",
+      "explanation": "grandson, grandfather, uncle là thành viên nam; aunt là thành viên nữ → aunt khác loại."
+    },
+    {
+      "id": 66,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. America B. English C. Canada D. Vietnam"
+      ],
+      "answer": "B. English",
+      "explanation": "America, Canada, Vietnam là quốc gia; English là ngôn ngữ → English khác loại."
+    },
+    {
+      "id": 67,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. went B. made C. did D. played"
+      ],
+      "answer": "D. played",
+      "explanation": "went, made, did là động từ bất quy tắc (quá khứ); played là động từ có quy tắc → played khác loại."
+    },
+    {
+      "id": 68,
+      "question": "Choose the odd one out",
+      "options": [
+        "A. Guitar B. Volleyball C. Violin D. Piano"
+      ],
+      "answer": "B. Volleyball",
+      "explanation": "Guitar, Violin, Piano là nhạc cụ; Volleyball là môn thể thao → Volleyball khác loại."
+    },
+    {
+      "id": 69,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. schoolbag B. pink C. ruler D. crayon"
+      ],
+      "answer": "B. pink",
+      "explanation": "schoolbag, ruler, crayon là đồ dùng học tập; pink là màu sắc → pink khác loại."
+    },
+    {
+      "id": 70,
+      "question": "Odd one out:",
+      "options": [
+        "A. letters B. numbers C. sings D. flowers"
+      ],
+      "answer": "C. sings",
+      "explanation": "letters, numbers, flowers là danh từ; sings là động từ → sings khác loại."
+    },
+    {
+      "id": 71,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. house B. mother C. father D. sister"
+      ],
+      "answer": "A. house",
+      "explanation": "mother, father, sister là thành viên gia đình; house là ngôi nhà → house khác loại."
+    },
+    {
+      "id": 72,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. milk B. orange juice C. bowl D. water"
+      ],
+      "answer": "C. bowl",
+      "explanation": "milk, orange juice, water là đồ uống; bowl là đồ dùng → bowl khác loại."
+    },
+    {
+      "id": 73,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. balloon B. yo-yo C. doll D. school"
+      ],
+      "answer": "D. school",
+      "explanation": "balloon, yo-yo, doll là đồ chơi; school là trường học → school khác loại."
+    },
+    {
+      "id": 74,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. you B. father C. mother D. sister"
+      ],
+      "answer": "A. you",
+      "explanation": "father, mother, sister là thành viên gia đình; you là đại từ → you khác loại."
+    },
+    {
+      "id": 75,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. rainy B. windy C. funny D. sunny"
+      ],
+      "answer": "C. funny",
+      "explanation": "rainy, windy, sunny là tính từ chỉ thời tiết; funny là tính từ chỉ tính cách → funny khác loại."
+    },
+    {
+      "id": 76,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. father B. mother C. teacher D. sister"
+      ],
+      "answer": "C. teacher",
+      "explanation": "father, mother, sister là thành viên gia đình; teacher là nghề nghiệp → teacher khác loại."
+    },
+    {
+      "id": 77,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. lemon B. rice C. pork D. milk"
+      ],
+      "answer": "A. lemon",
+      "explanation": "rice, pork, milk là thực phẩm/đồ ăn uống; lemon là trái cây → lemon khác loại."
+    },
+    {
+      "id": 78,
+      "question": "Odd one out:",
+      "options": [
+        "A. cloud B. rainy C. sunny D. windy"
+      ],
+      "answer": "A. cloud",
+      "explanation": "rainy, sunny, windy là tính từ thời tiết; cloud là danh từ → cloud khác loại."
+    },
+    {
+      "id": 79,
+      "question": "I always love my country, ___.",
+      "options": [
+        "A. England",
+        "B. Japan",
+        "C. Korea",
+        "D. Vietnam"
+      ],
+      "answer": "D. Vietnam",
+      "explanation": "Hình ảnh lá cờ/hình ảnh Việt Nam → 'I always love my country, ___.' → Vietnam."
+    },
+    {
+      "id": 80,
+      "question": "Look at her face. She’s very ___.",
+      "options": [
+        "A. sad",
+        "B. happy",
+        "C. big",
+        "D. unhappy"
+      ],
+      "answer": "B. happy",
+      "explanation": "Hình ảnh khuôn mặt vui vẻ, tươi cười → 'She's very ___.' → happy = vui."
+    },
+    {
+      "id": 81,
+      "question": "This is our ___.",
+      "options": [
+        "A. classroom",
+        "B. bedroom",
+        "C. garden",
+        "D. living room"
+      ],
+      "answer": "A. classroom",
+      "explanation": "Hình ảnh lớp học → 'This is our ___.' → classroom = lớp học."
+    },
+    {
+      "id": 82,
+      "question": "What is your mother doing? – She is ___ in the kitchen.",
+      "options": [
+        "A. doing",
+        "B. cooking",
+        "C. painting",
+        "D. reading"
+      ],
+      "answer": "B. cooking",
+      "explanation": "Hình ảnh người mẹ đang nấu bếp → 'She is ___ in the kitchen.' → cooking = nấu ăn."
+    },
+    {
+      "id": 83,
+      "question": "I’d like a cup of ... .",
+      "options": [
+        "A. tea",
+        "B. beer",
+        "C. water",
+        "D. coffee"
+      ],
+      "answer": "D. coffee",
+      "explanation": "Hình ảnh tách cà phê → 'I'd like a cup of ...' → coffee = cà phê."
+    },
+    {
+      "id": 84,
+      "question": "Where are the candles? – They are ... the cake.",
+      "options": [
+        "A. on",
+        "B. at",
+        "C. to",
+        "D. in"
+      ],
+      "answer": "D. in",
+      "explanation": "Hình ảnh nến cắm trong/trên bánh → 'They are ... the cake.' → in = trong."
+    },
+    {
+      "id": 85,
+      "question": "What nationality is Rosy? – She’s ___.",
+      "options": [
+        "A. Vietnam",
+        "B. America",
+        "C. Vietnamese",
+        "D. American"
+      ],
+      "answer": "D. American",
+      "explanation": "Hình ảnh người/lá cờ Mỹ → 'What nationality is Rosy? She's ___.' → American = người Mỹ."
+    },
+    {
+      "id": 86,
+      "question": "Lily can ___ well.",
+      "options": [
+        "A. ski",
+        "B. skate",
+        "C. dance",
+        "D. swim"
+      ],
+      "answer": "B. skate",
+      "explanation": "Hình ảnh trượt băng → 'Lily can ___ well.' → skate = trượt băng."
+    },
+    {
+      "id": 87,
+      "question": "They played volleyball ___ last Sunday.",
+      "options": [
+        "A. in the park",
+        "B. at school",
+        "C. on the beach",
+        "D. in the zoo"
+      ],
+      "answer": "C. on the beach",
+      "explanation": "Hình ảnh chơi bóng chuyền trên bãi biển → 'They played volleyball ___ last Sunday.' → on the beach = trên bãi biển."
+    },
+    {
+      "id": 88,
+      "question": "It’s a ___.",
+      "options": [
+        "A. tiger",
+        "B. shark",
+        "C. monkey",
+        "D. dolphin"
+      ],
+      "answer": "B. shark",
+      "explanation": "Hình ảnh cá mập → 'It's a ___.' → shark = cá mập."
+    },
+    {
+      "id": 89,
+      "question": "What does he have from his friends? – He has ___.",
+      "options": [
+        "A. a bear and a book",
+        "B. a teddy bear and a present.",
+        "C. a teddy bear and some flowers",
+        "D. a teddy bear and some candies"
+      ],
+      "answer": "B. a teddy bear and a present.",
+      "explanation": "Hình ảnh gấu bông và gói quà → 'He has ___ from his friends.' → a teddy bear and a present."
+    },
+    {
+      "id": 90,
+      "question": "Choose the correct picture: Good morning!",
+      "options": [
+        "A. Picture1",
+        "B. Picture2",
+        "C. Picture3",
+        "D. Picture4"
+      ],
+      "answer": "A. Picture 1",
+      "explanation": "Hình ảnh buổi sáng, chào hỏi → 'Choose the correct picture: Good morning!' → Picture 1."
+    },
+    {
+      "id": 91,
+      "question": "Where is the ball? – It’s ___ the net.",
+      "options": [
+        "A. after",
+        "B. in",
+        "C. at",
+        "D. on"
+      ],
+      "answer": "B. in",
+      "explanation": "Hình ảnh quả bóng nằm trong lưới → 'Where is the ball? It's ___ the net.' → in = trong."
+    },
+    {
+      "id": 92,
+      "question": "/Girl-singing-with-mic__500x333.jpg\" width=\"20%\" />My little sister loves … really much.",
+      "options": [
+        "A. painting",
+        "B. singing",
+        "C. hopping",
+        "D. dancing"
+      ],
+      "answer": "B. singing",
+      "explanation": "Hình ảnh cô gái đang hát với micro → 'singing' = đang hát."
+    },
+    {
+      "id": 93,
+      "question": "The apple is … the book.",
+      "options": [
+        "A. next to",
+        "B. on",
+        "C. under",
+        "D. over"
+      ],
+      "answer": "B. on",
+      "explanation": "Hình ảnh quả táo đặt trên cuốn sách → 'The apple is … the book.' → on = trên."
+    },
+    {
+      "id": 94,
+      "question": "Choose the best answer",
+      "options": [
+        "A. Posters",
+        "B. Stickers",
+        "C. Postcards",
+        "D. Comic books"
+      ],
+      "answer": "B. Stickers",
+      "explanation": "Hình ảnh nhãn dán (stickers) → 'Choose the best answer.' → Stickers = nhãn dán."
+    },
+    {
+      "id": 95,
+      "question": "Choose the best answer",
+      "options": [
+        "A. Posters",
+        "B. Postcards",
+        "C. Stickers",
+        "D. Books"
+      ],
+      "answer": "C. Stickers",
+      "explanation": "Hình ảnh nhãn dán → 'Choose the best answer.' → Stickers = nhãn dán."
+    },
+    {
+      "id": 96,
+      "question": "What is that? - It’s a ….",
+      "options": [
+        "A. board",
+        "B. table",
+        "C. desk",
+        "D. schoolbag"
+      ],
+      "answer": "A. board",
+      "explanation": "Hình ảnh bảng đen → 'What is that? It's a ….' → board = bảng."
+    },
+    {
+      "id": 97,
+      "question": "What does Mai have from her friends? – She has ___.",
+      "options": [
+        "A. a flower and a birthday cake",
+        "B. a birthday cake and a dress",
+        "C. a birthday cake and some flowers",
+        "D. a chocolate cake"
+      ],
+      "answer": "C. a birthday cake and some flowers",
+      "explanation": "Hình ảnh bánh sinh nhật và hoa → 'What does Mai have from her friends?' → a birthday cake and some flowers."
+    },
+    {
+      "id": 98,
+      "question": "I go to school at ___.",
+      "options": [
+        "A. two thirty",
+        "B. thirty two",
+        "C. a quarter past two",
+        "D. a quarter to two"
+      ],
+      "answer": "A. two thirty",
+      "explanation": "Hình ảnh đồng hồ chỉ 2:30 → 'I go to school at ___.' → two thirty = hai giờ rưỡi."
+    },
+    {
+      "id": 99,
+      "question": "The man is … the sofa.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. in front of",
+        "D. behind"
+      ],
+      "answer": "A. on",
+      "explanation": "Hình ảnh người ngồi trên ghế sofa → 'The man is … the sofa.' → on = trên."
+    },
+    {
+      "id": 100,
+      "question": "What is NOT on the table?",
+      "options": [
+        "A. The book",
+        "B. The ruler",
+        "C. The apple",
+        "D. The bag"
+      ],
+      "answer": "D. The bag",
+      "explanation": "Hình ảnh bàn có nhiều đồ vật, túi xách ở dưới → 'What is NOT on the table?' → The bag = cái túi."
+    },
+    {
+      "id": 101,
+      "question": "Choose the best answer",
+      "options": [
+        "A. A bear",
+        "B. A zebra",
+        "C. A lion",
+        "D. A giraffe"
+      ],
+      "answer": "B. A zebra",
+      "explanation": "Hình ảnh ngựa vằn → 'Choose the best answer.' → A zebra = con ngựa vằn."
+    },
+    {
+      "id": 102,
+      "question": "Choose the best answer",
+      "options": [
+        "A. Apples",
+        "B. Cucumbers",
+        "C. Carrots",
+        "D. Lemons"
+      ],
+      "answer": "D. Lemons",
+      "explanation": "Hình ảnh quả chanh vàng → 'Choose the best answer.' → Lemons = quả chanh."
+    },
+    {
+      "id": 103,
+      "question": "Whose _ _ _ _ _ _ is this?",
+      "options": [],
+      "answer": "jumper",
+      "explanation": "'Whose _ _ _ _ _ _ is this?' → jumper = áo len chui đầu; J-U-M-P-E-R (6 chữ)."
+    },
+    {
+      "id": 104,
+      "question": "J_ _ _ _ is very good for our health.",
+      "options": [],
+      "answer": "uice",
+      "explanation": "'J_ _ _ _ is very good for our health.' → juice = nước trái cây; J-U-I-C-E."
+    },
+    {
+      "id": 105,
+      "question": "My parents often do morning ex_ _ _ _ _ _ before breakfast.",
+      "options": [],
+      "answer": "ercise",
+      "explanation": "'My parents often do morning ex_ _ _ _ _ _ before breakfast.' → exercise = bài tập thể dục; ex+ERCISE."
+    },
+    {
+      "id": 106,
+      "question": "My neighbour is going to Au_ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "stralia",
+      "explanation": "'My neighbour is going to Au_ _ _ _ _ _ _.' → Australia = nước Úc; Au+STRALIA."
+    },
+    {
+      "id": 107,
+      "question": "Can you _ _ _ , Anna?",
+      "options": [],
+      "answer": "ski",
+      "explanation": "'Can you _ _ _, Anna?' → ski = trượt tuyết; S-K-I."
+    },
+    {
+      "id": 108,
+      "question": "Her favourite food is _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "noodles",
+      "explanation": "'Her favourite food is _ _ _ _ _ _ _.' → noodles = mì sợi; N-O-O-D-L-E-S."
+    },
+    {
+      "id": 109,
+      "question": "We are going to the z_ _ to see the animals there.",
+      "options": [],
+      "answer": "oo",
+      "explanation": "'We are going to the z_ _ to see the animals there.' → zoo = sở thú; Z-O-O."
+    },
+    {
+      "id": 110,
+      "question": "Jon wants a _ _ _ _ _ _ _ _ _ _ for his birthday.",
+      "options": [],
+      "answer": "helicopter",
+      "explanation": "'Jon wants a _ _ _ _ _ _ _ _ _ _ for his birthday.' → helicopter = máy bay trực thăng; H-E-L-I-C-O-P-T-E-R."
+    },
+    {
+      "id": 111,
+      "question": "Hoa is _ _ _ _ _ _ _ a letter to her pen friend in England.",
+      "options": [],
+      "answer": "writing",
+      "explanation": "'Hoa is _ _ _ _ _ _ _ a letter to her pen friend in England.' → writing = đang viết; W-R-I-T-I-N-G."
+    },
+    {
+      "id": 112,
+      "question": "Celine is a F_ _ _ _ h singer.",
+      "options": [],
+      "answer": "renc",
+      "explanation": "'Celine is a F_ _ _ _ h singer.' → French = người Pháp; F+RENC+H."
+    },
+    {
+      "id": 113,
+      "question": "What time is it? - It’s _ _ _ _ _ fifteen.",
+      "options": [],
+      "answer": "eight",
+      "explanation": "'It's _ _ _ _ _ fifteen.' → eight = tám; eight fifteen = 8:15."
+    },
+    {
+      "id": 114,
+      "question": "It’s _ _ _ o’clock now.",
+      "options": [],
+      "answer": "ten",
+      "explanation": "'It's _ _ _ o'clock now.' → ten = mười; T-E-N."
+    },
+    {
+      "id": 115,
+      "question": "Leslie is wearing such beautiful ear_ _ _ _ .",
+      "options": [],
+      "answer": "ings",
+      "explanation": "'Leslie is wearing such beautiful ear_ _ _ _.' → earrings = bông tai; ear+INGS."
+    },
+    {
+      "id": 116,
+      "question": "My mother bought a new _ _ _ _ _ yesterday.",
+      "options": [],
+      "answer": "towel",
+      "explanation": "'My mother bought a new _ _ _ _ _ yesterday.' → towel = khăn tắm; T-O-W-E-L."
+    },
+    {
+      "id": 117,
+      "question": "Doing m_ _ _ _ _ _ exercise is good for your health.",
+      "options": [],
+      "answer": "orning",
+      "explanation": "'Doing m_ _ _ _ _ _ exercise is good for your health.' → morning = buổi sáng; M+ORNING."
+    },
+    {
+      "id": 118,
+      "question": "Is Mary co_ _ _ _ _ _ g a picture in her room at the moment?",
+      "options": [],
+      "answer": "lourin",
+      "explanation": "'Is Mary co_ _ _ _ _ _ g a picture in her room?' → colouring = tô màu; co+LOURIN+g."
+    },
+    {
+      "id": 119,
+      "question": "My kitten is playing be_ _ _ _ n two sleeping dogs.",
+      "options": [],
+      "answer": "twee",
+      "explanation": "'My kitten is playing be_ _ _ _ n two sleeping dogs.' → between = ở giữa; be+TWEE+n."
+    },
+    {
+      "id": 120,
+      "question": "Remember to buy a new ra_ _ _ _ _ _ . The old one is too short.",
+      "options": [],
+      "answer": "incoat",
+      "explanation": "'Remember to buy a new ra_ _ _ _ _ _.' → raincoat = áo mưa; ra+INCOAT."
+    },
+    {
+      "id": 121,
+      "question": "A FOOTBALL PL_ _ _ _",
+      "options": [],
+      "answer": "AYER",
+      "explanation": "'A FOOTBALL PL_ _ _ _.' → player = cầu thủ; PL+AYER."
+    },
+    {
+      "id": 122,
+      "question": "My grandmother _ _ _ _ _ _ the plants in the garden every morning.",
+      "options": [],
+      "answer": "waters",
+      "explanation": "'My grandmother _ _ _ _ _ _ the plants in the garden every day.' → waters = tưới nước; W-A-T-E-R-S."
+    },
+    {
+      "id": 123,
+      "question": "Did your family play on the _ _ _ _ _ last weekend?",
+      "options": [],
+      "answer": "beach",
+      "explanation": "'Did your family play on the _ _ _ _ _ last weekend?' → beach = bãi biển; B-E-A-C-H."
+    },
+    {
+      "id": 124,
+      "question": "Are there a lot of _ _ _ _ _ _ _ around your house?",
+      "options": [],
+      "answer": "flowers",
+      "explanation": "'Are there a lot of _ _ _ _ _ _ _ around your house?' → flowers = hoa; F-L-O-W-E-R-S."
+    },
+    {
+      "id": 125,
+      "question": "Chr_ _ _ _ _ s is coming to town.",
+      "options": [],
+      "answer": "istma",
+      "explanation": "'Chr_ _ _ _ _ s is coming to town.' → Christmas = Giáng sinh; Chr+ISTMA+s."
+    },
+    {
+      "id": 126,
+      "question": "My aunt is a _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "teacher",
+      "explanation": "'My aunt is a _ _ _ _ _ _ _.' → teacher = giáo viên; T-E-A-C-H-E-R."
+    },
+    {
+      "id": 127,
+      "question": "I dream of becoming a _ _ _ so that I can help lovely pets.",
+      "options": [],
+      "answer": "vet",
+      "explanation": "'I dream of becoming a _ _ _ so that I can help lovely pets.' → vet = bác sĩ thú y; V-E-T."
+    },
+    {
+      "id": 128,
+      "question": "It’s _ _ _ o’clock now.",
+      "options": [],
+      "answer": "six",
+      "explanation": "'It's _ _ _ o'clock now.' → six = sáu; S-I-X."
+    },
+    {
+      "id": 129,
+      "question": "The _ _ _ _ is new. My mother bought it yesterday.",
+      "options": [],
+      "answer": "lamp",
+      "explanation": "'The _ _ _ _ is new. My mother bought it yesterday.' → lamp = đèn; L-A-M-P."
+    },
+    {
+      "id": 130,
+      "question": "I _ _ _ _ _ television in the evening.",
+      "options": [],
+      "answer": "watch",
+      "explanation": "'I _ _ _ _ _ television in the evening.' → watch = xem; W-A-T-C-H."
+    },
+    {
+      "id": 131,
+      "question": "She has an _ _ _ _ _ _ T-shirt.",
+      "options": [],
+      "answer": "orange",
+      "explanation": "'She has an _ _ _ _ _ _ T-shirt.' → orange = màu cam; O-R-A-N-G-E."
+    },
+    {
+      "id": 132,
+      "question": "A P_ _ _ _",
+      "options": [],
+      "answer": "ILOT",
+      "explanation": "'A P_ _ _ _.' → pilot = phi công; P+ILOT."
+    },
+    {
+      "id": 133,
+      "question": "What time is it? – It’s _ _ _ _ _ _ o’clock.",
+      "options": [],
+      "answer": "twelve",
+      "explanation": "'It's _ _ _ _ _ _ o'clock.' → twelve = mười hai; T-W-E-L-V-E."
+    },
+    {
+      "id": 134,
+      "question": "I want to visit Fuji Mountain in _ _ _ _ _ .",
+      "options": [],
+      "answer": "Japan",
+      "explanation": "'I want to visit Fuji Mountain in _ _ _ _ _.' → Japan = Nhật Bản; J-A-P-A-N."
+    },
+    {
+      "id": 135,
+      "question": "What are you going to do next Sunday? – I’m going to _ _ _ _ with my brother.",
+      "options": [],
+      "answer": "swim",
+      "explanation": "'I'm going to _ _ _ _ next Sunday.' → swim = bơi lội; S-W-I-M."
+    },
+    {
+      "id": 136,
+      "question": "What time is it? - It’s _ _ _ _ _ fifteen.",
+      "options": [],
+      "answer": "eight",
+      "explanation": "'It's _ _ _ _ _ fifteen.' → eight = tám; eight fifteen = 8:15."
+    },
+    {
+      "id": 137,
+      "question": "I am going to travel to Da Nang by _ _ _ _ _ .",
+      "options": [],
+      "answer": "plane",
+      "explanation": "'I am going to travel to Da Nang by _ _ _ _ _.' → plane = máy bay; P-L-A-N-E."
+    },
+    {
+      "id": 138,
+      "question": "We are going to _ _ _ _ _ after school.",
+      "options": [],
+      "answer": "skate",
+      "explanation": "'We are going to _ _ _ _ _ after school.' → skate = trượt băng; S-K-A-T-E."
+    },
+    {
+      "id": 139,
+      "question": "I have a _ _ _ _ _ plane.",
+      "options": [],
+      "answer": "paper",
+      "explanation": "'I have a _ _ _ _ _ plane.' → paper = giấy; P-A-P-E-R (paper plane = máy bay giấy)."
+    },
+    {
+      "id": 140,
+      "question": "_ _ _ _ _ _ ball is my favourite sport.",
+      "options": [],
+      "answer": "Volley",
+      "explanation": "'_ _ _ _ _ _ ball is my favourite sport.' → Volley = bóng chuyền; VOLLEY+ball."
+    },
+    {
+      "id": 141,
+      "question": "There are two win_ _ _ _ in my classroom.",
+      "options": [],
+      "answer": "dows",
+      "explanation": "'There are two win_ _ _ _ in my classroom.' → windows = cửa sổ; win+DOWS."
+    },
+    {
+      "id": 142,
+      "question": "TELE_ _ _ _ _ _",
+      "options": [],
+      "answer": "VISION",
+      "explanation": "'TELE_ _ _ _ _ _.' → VISION = truyền hình; TELE+VISION = television."
+    },
+    {
+      "id": 143,
+      "question": "The _ _ _ _ _ of August is my mom’s birthday.",
+      "options": [],
+      "answer": "first",
+      "explanation": "'The _ _ _ _ _ of August is my mom's birthday.' → first = ngày đầu tiên; F-I-R-S-T."
+    },
+    {
+      "id": 144,
+      "question": "It’s a _ _ _ are.",
+      "options": [],
+      "answer": "squ",
+      "explanation": "'It's a _ _ _ are.' → square = hình vuông; SQU+are."
+    },
+    {
+      "id": 145,
+      "question": "Mrs Jennifer is a d_ _ _ _ _ .",
+      "options": [],
+      "answer": "octor",
+      "explanation": "'Mrs Jennifer is a d_ _ _ _ _.' → doctor = bác sĩ; D+OCTOR."
+    },
+    {
+      "id": 146,
+      "question": "R_ _ _ R",
+      "options": [],
+      "answer": "IVE",
+      "explanation": "'R_ _ _ R.' → RIVER = con sông; R+IVE+R."
+    },
+    {
+      "id": 147,
+      "question": "My neighbours has _ _ _ _ big dogs.",
+      "options": [],
+      "answer": "five",
+      "explanation": "'My neighbours has _ _ _ _ big dogs.' → five = năm; F-I-V-E."
+    },
+    {
+      "id": 148,
+      "question": "The M_ _ _ _ exercises today are hard.",
+      "options": [],
+      "answer": "aths",
+      "explanation": "'The M_ _ _ _ exercises today are hard.' → Maths = Toán; M+ATHS."
+    },
+    {
+      "id": 149,
+      "question": "Do you like s_ _ food?",
+      "options": [],
+      "answer": "ea",
+      "explanation": "'Do you like s_ _ food?' → sea = biển; S-E-A (seafood = hải sản)."
+    },
+    {
+      "id": 150,
+      "question": "Pinocchio is a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "puppet",
+      "explanation": "'Pinocchio is a _ _ _ _ _ _.' → puppet = con rối; P-U-P-P-E-T."
+    },
+    {
+      "id": 151,
+      "question": "Linh’s father is a careful bus _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "driver",
+      "explanation": "'Linh's father is a careful bus _ _ _ _ _ _.' → driver = tài xế; D-R-I-V-E-R."
+    },
+    {
+      "id": 152,
+      "question": "A P_ _ _ _",
+      "options": [],
+      "answer": "ILOT",
+      "explanation": "'A P_ _ _ _.' → pilot = phi công; P+ILOT."
+    },
+    {
+      "id": 153,
+      "question": "\\\"The Secret Life of Pets\\\" is my favourite car_ _ _ _ .",
+      "options": [],
+      "answer": "toon",
+      "explanation": "'\"The Secret Life of Pets\" is my favourite car_ _ _ _ .' → cartoon = phim hoạt hình; car+TOON."
+    },
+    {
+      "id": 154,
+      "question": "They are playing _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "badminton",
+      "explanation": "'They are playing _ _ _ _ _ _ _ _ _.' → badminton = cầu lông; B-A-D-M-I-N-T-O-N."
+    },
+    {
+      "id": 155,
+      "question": "You can see the latest films in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "cinema",
+      "explanation": "'You can see the latest films in the _ _ _ _ _ _.' → cinema = rạp chiếu phim; C-I-N-E-M-A."
+    },
+    {
+      "id": 156,
+      "question": "On my13th birthday, my father will buy me a new _ _ _ _ .",
+      "options": [],
+      "answer": "bike",
+      "explanation": "'My father will buy me a new _ _ _ _ on my 13th birthday.' → bike = xe đạp; B-I-K-E."
+    },
+    {
+      "id": 157,
+      "question": "My mother is in the kitchen. She is _ _ _ _ _ _ _ dinner.",
+      "options": [],
+      "answer": "cooking",
+      "explanation": "'My mother is in the kitchen. She is _ _ _ _ _ _ _ dinner.' → cooking = nấu ăn; C-O-O-K-I-N-G."
+    },
+    {
+      "id": 158,
+      "question": "What colour are your _ _ _ _ _ ? – They’re green.",
+      "options": [],
+      "answer": "shoes",
+      "explanation": "'What colour are your _ _ _ _ _? – They're green.' → shoes = giày; S-H-O-E-S."
+    },
+    {
+      "id": 159,
+      "question": "It’s _ _ _ o’clock now.",
+      "options": [],
+      "answer": "ten",
+      "explanation": "'It's _ _ _ o'clock now.' → ten = mười; T-E-N."
+    },
+    {
+      "id": 160,
+      "question": "We often go f_ _ _ ing in autumn.",
+      "options": [],
+      "answer": "ish",
+      "explanation": "'We often go f_ _ _ ing in autumn.' → fish → fishing = câu cá; F+ISH+ing."
+    },
+    {
+      "id": 161,
+      "question": "Her grandfather’s hobby is _ _ _ _ _ _ _ _ _ _ stamps.",
+      "options": [],
+      "answer": "collecting",
+      "explanation": "'Her grandfather's hobby is _ _ _ _ _ _ _ _ _ _ stamps.' → collecting = sưu tập; C-O-L-L-E-C-T-I-N-G."
+    },
+    {
+      "id": 162,
+      "question": "He is _ _ _ _ _ _ a bowl of salad.",
+      "options": [],
+      "answer": "eating",
+      "explanation": "'He is _ _ _ _ _ _ a bowl of salad.' → eating = đang ăn; E-A-T-I-N-G."
+    },
+    {
+      "id": 163,
+      "question": "She often plays sports. She is very _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sporty",
+      "explanation": "'She often plays sports. She is very _ _ _ _ _ _.' → sporty = năng động/thích thể thao; S-P-O-R-T-Y."
+    },
+    {
+      "id": 164,
+      "question": "This de_ _ is looking for his mom.",
+      "options": [],
+      "answer": "er",
+      "explanation": "'This de_ _ is looking for his mom.' → deer = con nai; de+ER."
+    },
+    {
+      "id": 165,
+      "question": "Mary often rides a _ _ _ _ at4.30.",
+      "options": [],
+      "answer": "bike",
+      "explanation": "'Mary often rides a _ _ _ _ at 4:30.' → bike = xe đạp; B-I-K-E."
+    },
+    {
+      "id": 166,
+      "question": "Will you go to the library to borrow some _ _ _ _ _ ?",
+      "options": [],
+      "answer": "books",
+      "explanation": "'Will you go to the library to borrow some _ _ _ _ _?' → books = sách; B-O-O-K-S."
+    },
+    {
+      "id": 167,
+      "question": "A FOOTBALL PL_ _ _ _",
+      "options": [],
+      "answer": "AYER",
+      "explanation": "'A FOOTBALL PL_ _ _ _.' → player = cầu thủ; PL+AYER."
+    },
+    {
+      "id": 168,
+      "question": "A FOOTBALL PL_ _ _ _",
+      "options": [],
+      "answer": "AYER",
+      "explanation": "'A FOOTBALL PL_ _ _ _.' → player = cầu thủ; PL+AYER."
+    },
+    {
+      "id": 169,
+      "question": "Will you go to the library to borrow some _ _ _ _ _ ?",
+      "options": [],
+      "answer": "books",
+      "explanation": "'Will you go to the library to borrow some _ _ _ _ _?' → books = sách; B-O-O-K-S."
+    },
+    {
+      "id": 170,
+      "question": "Can you play the _ _ _ _ _ _ or the piano?",
+      "options": [],
+      "answer": "guitar",
+      "explanation": "'Can you play the _ _ _ _ _ _ or the piano?' → guitar = đàn guitar; G-U-I-T-A-R."
+    },
+    {
+      "id": 171,
+      "question": "She often plays sports. She is very _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sporty",
+      "explanation": "'She often plays sports. She is very _ _ _ _ _ _.' → sporty = năng động; S-P-O-R-T-Y."
+    },
+    {
+      "id": 172,
+      "question": "Where is Michael’s friend from? – She is from _ _ _ _ _ .",
+      "options": [],
+      "answer": "Korea",
+      "explanation": "'Where is Michael's friend from? – She is from _ _ _ _ _.' → Korea = Hàn Quốc; K-O-R-E-A."
+    },
+    {
+      "id": 173,
+      "question": "_ _ _ _ _",
+      "options": [],
+      "answer": "BREAD",
+      "explanation": "'_ _ _ _ _.' → BREAD = bánh mì; B-R-E-A-D."
+    },
+    {
+      "id": 174,
+      "question": "I don’t have a camera to _ _ _ _ pictures.",
+      "options": [],
+      "answer": "take",
+      "explanation": "'I don't have a camera to _ _ _ _ pictures.' → take = chụp; T-A-K-E (take pictures)."
+    },
+    {
+      "id": 175,
+      "question": "MI_ _ _ _ _ WATER",
+      "options": [],
+      "answer": "NERAL",
+      "explanation": "'MI_ _ _ _ _ WATER.' → MINERAL = khoáng; MI+NERAL (mineral water = nước khoáng)."
+    },
+    {
+      "id": 176,
+      "question": "Doing m_ _ _ _ _ _ exercise is good for your health.",
+      "options": [],
+      "answer": "orning",
+      "explanation": "'Doing m_ _ _ _ _ _ exercise is good for your health.' → morning = buổi sáng; M+ORNING."
+    },
+    {
+      "id": 177,
+      "question": "Joe’s daughter is very beautiful and her _ _ _ _ are blue.",
+      "options": [],
+      "answer": "eyes",
+      "explanation": "'Joe's daughter is very beautiful and her _ _ _ _ are blue.' → eyes = mắt; E-Y-E-S."
+    },
+    {
+      "id": 178,
+      "question": "Leslie is wearing such beautiful ear_ _ _ _ .",
+      "options": [],
+      "answer": "ings",
+      "explanation": "'Leslie is wearing such beautiful ear_ _ _ _.' → earrings = bông tai; ear+INGS."
+    },
+    {
+      "id": 179,
+      "question": "My birthday is on the _ _ _ _ _ _ of April.",
+      "options": [],
+      "answer": "eighth",
+      "explanation": "'My birthday is on the _ _ _ _ _ _ of April.' → eighth = thứ tám; E-I-G-H-T-H."
+    },
+    {
+      "id": 180,
+      "question": "Linda likes m_ _ _ _ _ s because they can climb.",
+      "options": [],
+      "answer": "onkey",
+      "explanation": "'Linda likes m_ _ _ _ _ s because they can climb.' → monkeys = khỉ; m+ONKEY+s."
+    },
+    {
+      "id": 181,
+      "question": "These fl_ _ ers are for you, Jane. – Thank you.",
+      "options": [],
+      "answer": "ow",
+      "explanation": "'These fl_ _ ers are for you, Jane.' → flowers = hoa; fl+OW+ers."
+    },
+    {
+      "id": 182,
+      "question": "A P_ _ _ _",
+      "options": [],
+      "answer": "ILOT",
+      "explanation": "'A P_ _ _ _.' → pilot = phi công; P+ILOT."
+    },
+    {
+      "id": 183,
+      "question": "This is my new _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "classroom",
+      "explanation": "'This is my new _ _ _ _ _ _ _ _ _.' → classroom = lớp học; C-L-A-S-S-R-O-O-M."
+    },
+    {
+      "id": 184,
+      "question": "We don’t go to school on _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Saturday",
+      "explanation": "'We don't go to school on _ _ _ _ _ _ _ _.' → Saturday = thứ Bảy; S-A-T-U-R-D-A-Y."
+    },
+    {
+      "id": 185,
+      "question": "Juliet has one hundred _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "stamps",
+      "explanation": "'Juliet has one hundred _ _ _ _ _ _.' → stamps = tem thư; S-T-A-M-P-S."
+    },
+    {
+      "id": 186,
+      "question": "Ms. Hoa is a _ _ _ _ ist.",
+      "options": [],
+      "answer": "dent",
+      "explanation": "'Ms. Hoa is a _ _ _ _ ist.' → dentist = nha sĩ; DENT+ist."
+    },
+    {
+      "id": 187,
+      "question": "Would you like some orange _ _ _ _ _ ?",
+      "options": [],
+      "answer": "juice",
+      "explanation": "'Would you like some orange _ _ _ _ _?' → juice = nước trái cây; J-U-I-C-E."
+    },
+    {
+      "id": 188,
+      "question": "Can they play t_ _ _ _ _ ?",
+      "options": [],
+      "answer": "ennis",
+      "explanation": "'Can they play t_ _ _ _ _?' → tennis = quần vợt; T+ENNIS."
+    },
+    {
+      "id": 189,
+      "question": "My mother will buy me a new _ _ _ _ _ on my10th birthday.",
+      "options": [],
+      "answer": "dress",
+      "explanation": "'My mother will buy me a new _ _ _ _ _ on my 10th birthday.' → dress = váy; D-R-E-S-S."
+    },
+    {
+      "id": 190,
+      "question": "My sister is s_ _ _ _ _ _ on the sofa and watching TV now.",
+      "options": [],
+      "answer": "itting",
+      "explanation": "'My sister is s_ _ _ _ _ _ on the sofa and watching TV now.' → sitting = đang ngồi; S+ITTING."
+    },
+    {
+      "id": 191,
+      "question": "When is F_ _ _ _ _ _ _ _ Festival?",
+      "options": [],
+      "answer": "ireworks",
+      "explanation": "'When is F_ _ _ _ _ _ _ _ Festival?' → Fireworks = pháo hoa; F+IREWORKS."
+    },
+    {
+      "id": 192,
+      "question": "The children are visiting the _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "aquarium",
+      "explanation": "'The children are visiting the _ _ _ _ _ _ _ _.' → aquarium = thủy cung; A-Q-U-A-R-I-U-M."
+    },
+    {
+      "id": 193,
+      "question": "Let’s go to the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "cinema",
+      "explanation": "'Let's go to the _ _ _ _ _ _.' → cinema = rạp chiếu phim; C-I-N-E-M-A."
+    },
+    {
+      "id": 194,
+      "question": "_ _ _ _ _ _ _ _ _ _ are very scary, so I don’t like them.",
+      "options": [],
+      "answer": "crocodiles",
+      "explanation": "'_ _ _ _ _ _ _ _ _ _ are very scary, so I don't like them.' → crocodiles = cá sấu; C-R-O-C-O-D-I-L-E-S."
+    },
+    {
+      "id": 195,
+      "question": "George and Emma likes _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "dancing",
+      "explanation": "'George and Emma likes _ _ _ _ _ _ _.' → dancing = nhảy múa; D-A-N-C-I-N-G."
+    },
+    {
+      "id": 196,
+      "question": "Winnie-the-Pooh is a _ _ _ _ in the cartoon “Winnie the Pooh”. His favourite food is honey.",
+      "options": [],
+      "answer": "bear",
+      "explanation": "'Winnie-the-Pooh is a _ _ _ _ in the cartoon.' → bear = con gấu; B-E-A-R."
+    },
+    {
+      "id": 197,
+      "question": "Tom: What colour is the f_ _ _ of Viet Nam? - Nga: Red, with a gold star in the center.",
+      "options": [],
+      "answer": "lag",
+      "explanation": "'What colour is the f_ _ _ of Viet Nam?' → flag = cờ; F+LAG."
+    },
+    {
+      "id": 198,
+      "question": "A baby can’t w_ _ _ but he/she can crawl.",
+      "options": [],
+      "answer": "alk",
+      "explanation": "'A baby can't w_ _ _ but he/she can crawl.' → walk = đi bộ; W+ALK."
+    },
+    {
+      "id": 199,
+      "question": "A: Can Susan _ _ _ _ _ ? - B: Yes, she can. She practices it every day.",
+      "options": [],
+      "answer": "dance",
+      "explanation": "'Can Susan _ _ _ _ _?' → dance = nhảy; D-A-N-C-E."
+    },
+    {
+      "id": 200,
+      "question": "Winnie-the-Pooh is a _ _ _ _ in the cartoon “Winnie the Pooh”. His favourite food is honey.",
+      "options": [],
+      "answer": "bear",
+      "explanation": "'Winnie-the-Pooh is a _ _ _ _ in the cartoon.' → bear = con gấu; B-E-A-R."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
