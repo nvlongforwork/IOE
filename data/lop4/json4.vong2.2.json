@@ -1,0 +1,1658 @@
+{
+  "title": "IOE Lớp 4 - Chuyên đề 2 - Vòng Quận/Huyện",
+  "vong": "Vòng Quận/Huyện",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Mai does her homework ... eight o’clock.",
+      "options": [
+        "A. at",
+        "B. on",
+        "C. in",
+        "D. for"
+      ],
+      "answer": "A. at",
+      "explanation": "Trước giờ cụ thể dùng \"at\": at eight o'clock."
+    },
+    {
+      "id": 2,
+      "question": "Would you like … cup of coffee, Anne?",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. some",
+        "D. any"
+      ],
+      "answer": "A. a",
+      "explanation": "\"a cup of coffee\" = một tách cà phê (đơn vị đếm cho danh từ không đếm được)."
+    },
+    {
+      "id": 3,
+      "question": "What colour ... that chair? – It’s yellow.",
+      "options": [
+        "A. is",
+        "B. does",
+        "C. are",
+        "D. be"
+      ],
+      "answer": "A. is",
+      "explanation": "Chủ ngữ số ít \"that chair\" nên dùng \"is\"."
+    },
+    {
+      "id": 4,
+      "question": "August is the eighth month ... the year.",
+      "options": [
+        "A. by",
+        "B. on",
+        "C. of",
+        "D. from"
+      ],
+      "answer": "C. of",
+      "explanation": "\"the + số thứ tự + month + of the year\" = tháng thứ… của năm."
+    },
+    {
+      "id": 5,
+      "question": "… are you going to do this weekend?",
+      "options": [
+        "A. Where",
+        "B. When",
+        "C. What",
+        "D. Why"
+      ],
+      "answer": "C. What",
+      "explanation": "Tương lai gần: What are you going to do…? = Bạn định làm gì…?"
+    },
+    {
+      "id": 6,
+      "question": "Happy birthday, Alice. This doll is for ...",
+      "options": [
+        "A. I",
+        "B. you",
+        "C. he",
+        "D. she"
+      ],
+      "answer": "B. you",
+      "explanation": "\"for you\" = dành cho bạn (sau giới từ dùng tân ngữ)."
+    },
+    {
+      "id": 7,
+      "question": "... John from Canada? - No, he isn’t.",
+      "options": [
+        "A. Are",
+        "B. This",
+        "C. Is",
+        "D. It"
+      ],
+      "answer": "C. Is",
+      "explanation": "Câu hỏi với \"be\": Is + tên người + from + nước?"
+    },
+    {
+      "id": 8,
+      "question": "Can Nam play table tennis? – Yes, he ___.",
+      "options": [
+        "A. can",
+        "B. can’t",
+        "C. canot",
+        "D. cannot"
+      ],
+      "answer": "A. can",
+      "explanation": "Sau \"Can\" dùng động từ nguyên thể: play table tennis."
+    },
+    {
+      "id": 9,
+      "question": "My favourite ___ is blind man’s buff.",
+      "options": [
+        "A. game",
+        "B. sport",
+        "C. food",
+        "D. drink"
+      ],
+      "answer": "A. game",
+      "explanation": "\"game\" = trò chơi; bịt mắt bắt dê là một trò chơi."
+    },
+    {
+      "id": 10,
+      "question": "My school is ___ Phan Chu Trinh Street.",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. at",
+        "D. with"
+      ],
+      "answer": "A. in",
+      "explanation": "Trước tên đường dùng \"in\"."
+    },
+    {
+      "id": 11,
+      "question": "Are you going to visit Huong Pagoda ...?",
+      "options": [
+        "A. today",
+        "B. tomorrow",
+        "C. now",
+        "D. yesterday"
+      ],
+      "answer": "B. tomorrow",
+      "explanation": "Tương lai gần đi với trạng ngữ tương lai \"tomorrow\"."
+    },
+    {
+      "id": 12,
+      "question": "Please, turn on the fan … your head.",
+      "options": [
+        "A. on",
+        "B. over",
+        "C. in",
+        "D. at"
+      ],
+      "answer": "B. over",
+      "explanation": "\"over your head\" = phía trên đầu bạn."
+    },
+    {
+      "id": 13,
+      "question": "... do you feel now? - I feel better.",
+      "options": [
+        "A. Where",
+        "B. How",
+        "C. Why",
+        "D. When"
+      ],
+      "answer": "B. How",
+      "explanation": "\"How do you feel?\" = Bạn thấy trong người thế nào?"
+    },
+    {
+      "id": 14,
+      "question": "Breakfast is the … meal of a day.",
+      "options": [
+        "A. first",
+        "B. only",
+        "C. one",
+        "D. good"
+      ],
+      "answer": "A. first",
+      "explanation": "\"the first meal of a day\" = bữa ăn đầu tiên trong ngày."
+    },
+    {
+      "id": 15,
+      "question": "Simon can swim ... he cannot play chess.",
+      "options": [
+        "A. and",
+        "B. or",
+        "C. but",
+        "D. for"
+      ],
+      "answer": "C. but",
+      "explanation": "\"but\" nối hai vế đối lập: can swim but cannot play chess."
+    },
+    {
+      "id": 16,
+      "question": "Are those your crayons? – Yes, ... .",
+      "options": [
+        "A. they are",
+        "B. there aren’t",
+        "C. it is",
+        "D. this isn’t"
+      ],
+      "answer": "A. they are",
+      "explanation": "\"those crayons\" số nhiều nên trả lời \"Yes, they are.\""
+    },
+    {
+      "id": 17,
+      "question": "How many … does your sister have?",
+      "options": [
+        "A. childs",
+        "B. children",
+        "C. childrens",
+        "D. the children"
+      ],
+      "answer": "B. children",
+      "explanation": "\"child\" có dạng số nhiều bất quy tắc là \"children\"."
+    },
+    {
+      "id": 18,
+      "question": "Here … my new classmates, Brian and Peter.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. am",
+        "D. does"
+      ],
+      "answer": "B. are",
+      "explanation": "\"Here are + danh từ số nhiều\" = Đây là… (giới thiệu nhiều người)."
+    },
+    {
+      "id": 19,
+      "question": "What ... is this bag? – It’s white.",
+      "options": [
+        "A. you",
+        "B. colour",
+        "C. birthday",
+        "D. old"
+      ],
+      "answer": "B. colour",
+      "explanation": "\"colour\" = màu sắc; câu trả lời là một màu."
+    },
+    {
+      "id": 20,
+      "question": "Where ... Linda from? - She is from America.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. she",
+        "D. how"
+      ],
+      "answer": "B. is",
+      "explanation": "Câu hỏi \"Where is … from?\" với chủ ngữ số ít dùng \"is\"."
+    },
+    {
+      "id": 21,
+      "question": "... do you have Maths lessons? - On Monday.",
+      "options": [
+        "A. What",
+        "B. Why",
+        "C. When",
+        "D. Where"
+      ],
+      "answer": "C. When",
+      "explanation": "\"When\" hỏi thời gian; trả lời \"On Monday\"."
+    },
+    {
+      "id": 22,
+      "question": "My father’s birthday ... December.",
+      "options": [
+        "A. is for",
+        "B. is in",
+        "C. is under",
+        "D. is at"
+      ],
+      "answer": "B. is in",
+      "explanation": "Chủ ngữ số ít + \"is\" + \"in\" trước tháng."
+    },
+    {
+      "id": 23,
+      "question": "I’m from Vietnam. … you?",
+      "options": [
+        "A. What",
+        "B. How",
+        "C. How about",
+        "D. How many"
+      ],
+      "answer": "C. How about",
+      "explanation": "\"How about you?\" = Còn bạn thì sao?"
+    },
+    {
+      "id": 24,
+      "question": "What are these? - … pencil sharpeners.",
+      "options": [
+        "A. It is",
+        "B. They are",
+        "C. Here are",
+        "D. Those"
+      ],
+      "answer": "B. They are",
+      "explanation": "\"these\" (số nhiều) → trả lời \"They are + danh từ số nhiều\"."
+    },
+    {
+      "id": 25,
+      "question": "Peter ______ dinner at 7 p.m.",
+      "options": [
+        "A. have",
+        "B. has",
+        "C. is have",
+        "D. haves"
+      ],
+      "answer": "B. has",
+      "explanation": "Chủ ngữ số ít \"Peter\" nên động từ \"have\" chia thành \"has\"."
+    },
+    {
+      "id": 26,
+      "question": "John … a new pair of shoes next month.",
+      "options": [
+        "A. will buy",
+        "B. will buys",
+        "C. will to buy",
+        "D. will buying"
+      ],
+      "answer": "A. will buy",
+      "explanation": "Thì tương lai đơn: will + V nguyên thể (next month)."
+    },
+    {
+      "id": 27,
+      "question": "My class is …: ten girls and eleven boys.",
+      "options": [
+        "A. nice",
+        "B. tidy",
+        "C. big",
+        "D. new"
+      ],
+      "answer": "C. big",
+      "explanation": "\"big\" = đông/lớn; lớp có 21 học sinh nên là lớp đông."
+    },
+    {
+      "id": 28,
+      "question": "Children like to go to the zoo very ... .",
+      "options": [
+        "A. many",
+        "B. some",
+        "C. much",
+        "D. so"
+      ],
+      "answer": "C. much",
+      "explanation": "\"very much\" đặt cuối câu để nhấn mạnh mức độ."
+    },
+    {
+      "id": 29,
+      "question": "Lan is a … at Thong Nhat primary school.",
+      "options": [
+        "A. farmer",
+        "B. worker",
+        "C. student",
+        "D. doctor"
+      ],
+      "answer": "C. student",
+      "explanation": "\"a student at + tên trường\" = học sinh của trường…"
+    },
+    {
+      "id": 30,
+      "question": "Hello, Ly. It’s nice to ___ you. – Nice to meet you, too.",
+      "options": [
+        "A. have",
+        "B. meet",
+        "C. meat",
+        "D. like"
+      ],
+      "answer": "B. meet",
+      "explanation": "\"It's nice to meet you.\" = Rất vui được gặp bạn."
+    },
+    {
+      "id": 31,
+      "question": "Hi, Phuong. I’m Aki. I’m ___ Japan.",
+      "options": [
+        "A. with",
+        "B. of",
+        "C. from",
+        "D. on"
+      ],
+      "answer": "C. from",
+      "explanation": "\"be from + tên nước\" = đến từ…"
+    },
+    {
+      "id": 32,
+      "question": "Tommy would like some fruit juice. He’s ....",
+      "options": [
+        "A. happy",
+        "B. hungry",
+        "C. thirsty",
+        "D. well"
+      ],
+      "answer": "C. thirsty",
+      "explanation": "\"thirsty\" = khát nước nên muốn uống nước hoa quả."
+    },
+    {
+      "id": 33,
+      "question": "We come to the school laboratory … a month.",
+      "options": [
+        "A. once",
+        "B. an",
+        "C. one",
+        "D. first"
+      ],
+      "answer": "A. once",
+      "explanation": "\"once a month\" = một tháng một lần."
+    },
+    {
+      "id": 34,
+      "question": "Where is his book? - It’s ... the bookshelf.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. at",
+        "D. to"
+      ],
+      "answer": "A. on",
+      "explanation": "\"on the bookshelf\" = trên giá sách."
+    },
+    {
+      "id": 35,
+      "question": "She likes living in a house ... the sea.",
+      "options": [
+        "A. between",
+        "B. next",
+        "C. near",
+        "D. far"
+      ],
+      "answer": "C. near",
+      "explanation": "\"near the sea\" = gần biển."
+    },
+    {
+      "id": 36,
+      "question": "What _______ do you like best? – It’s blue.",
+      "options": [
+        "A. pet",
+        "B. colour",
+        "C. toy",
+        "D. book"
+      ],
+      "answer": "B. colour",
+      "explanation": "\"What colour do you like best?\" = Bạn thích màu nào nhất?"
+    },
+    {
+      "id": 37,
+      "question": "The children often wake ... early in the morning.",
+      "options": [
+        "A. off",
+        "B. to",
+        "C. up",
+        "D. out"
+      ],
+      "answer": "C. up",
+      "explanation": "\"wake up\" = thức dậy (cụm động từ cố định)."
+    },
+    {
+      "id": 38,
+      "question": "We go to the school library twice … day.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. one",
+        "D. the"
+      ],
+      "answer": "A. a",
+      "explanation": "\"twice a day\" = hai lần một ngày; \"a\" mang nghĩa \"mỗi\"."
+    },
+    {
+      "id": 39,
+      "question": "Where are the candles? – They are ... the table.",
+      "options": [
+        "A. to",
+        "B. on",
+        "C. at",
+        "D. in"
+      ],
+      "answer": "B. on",
+      "explanation": "\"on the table\" = ở trên bàn."
+    },
+    {
+      "id": 40,
+      "question": "... are you from? – I’m from New Zealand.",
+      "options": [
+        "A. Who",
+        "B. When",
+        "C. Where",
+        "D. How"
+      ],
+      "answer": "C. Where",
+      "explanation": "Hỏi quê quán dùng \"Where … from?\""
+    },
+    {
+      "id": 41,
+      "question": "… are the students from? – They are from India.",
+      "options": [
+        "A. Where",
+        "B. Who",
+        "C. When",
+        "D. What"
+      ],
+      "answer": "A. Where",
+      "explanation": "Hỏi nơi xuất thân dùng \"Where … from?\"; trả lời \"They are from India.\""
+    },
+    {
+      "id": 42,
+      "question": "___ you go to Thu Le Park yesterday afternoon?",
+      "options": [
+        "A. Were",
+        "B. Did",
+        "C. Do",
+        "D. Was"
+      ],
+      "answer": "B. Did",
+      "explanation": "\"yesterday afternoon\" là quá khứ nên câu hỏi dùng \"Did\"."
+    },
+    {
+      "id": 43,
+      "question": "This is my sister. And ___ are my friends.",
+      "options": [
+        "A. this",
+        "B. that",
+        "C. those",
+        "D. them"
+      ],
+      "answer": "C. those",
+      "explanation": "\"those\" chỉ người/vật ở xa, số nhiều; đối lập với \"This\"."
+    },
+    {
+      "id": 44,
+      "question": "In ... class, we learn how to use computers.",
+      "options": [
+        "A. IT",
+        "B. Arts",
+        "C. Literature",
+        "D. Maths"
+      ],
+      "answer": "A. IT",
+      "explanation": "\"IT class\" = tiết Tin học, nơi học cách dùng máy tính."
+    },
+    {
+      "id": 45,
+      "question": "... does your father get up? – At 5:30 every day.",
+      "options": [
+        "A. How old",
+        "B. What time",
+        "C. How often",
+        "D. What grade"
+      ],
+      "answer": "B. What time",
+      "explanation": "\"What time…?\" hỏi giờ; trả lời \"At 5:30\"."
+    },
+    {
+      "id": 46,
+      "question": "How many … are there in the garden?",
+      "options": [
+        "A. tree",
+        "B. a tree",
+        "C. trees",
+        "D. the tree"
+      ],
+      "answer": "C. trees",
+      "explanation": "\"How many + danh từ số nhiều (trees)\" để hỏi số lượng."
+    },
+    {
+      "id": 47,
+      "question": "… are the crayons? - They are yellow.",
+      "options": [
+        "A. What",
+        "B. What color",
+        "C. What’s",
+        "D. How"
+      ],
+      "answer": "B. What color",
+      "explanation": "\"the crayons\" số nhiều nên dùng \"are\"; hỏi màu dùng \"What color\"."
+    },
+    {
+      "id": 48,
+      "question": "... do you like Music? – Because I like to sing.",
+      "options": [
+        "A. How",
+        "B. When",
+        "C. Why",
+        "D. Who"
+      ],
+      "answer": "C. Why",
+      "explanation": "\"Why\" hỏi lý do; trả lời bắt đầu bằng \"Because\"."
+    },
+    {
+      "id": 49,
+      "question": "Why ... we come and visit Uncle Tom? - That’s a good idea.",
+      "options": [
+        "A. don’t",
+        "B. have",
+        "C. do",
+        "D. aren’t"
+      ],
+      "answer": "A. don’t",
+      "explanation": "\"Why don't we + V nguyên thể?\" = Sao chúng ta không…? (lời rủ)."
+    },
+    {
+      "id": 50,
+      "question": "What time do you usually get ... in the morning?",
+      "options": [
+        "A. down",
+        "B. on",
+        "C. up",
+        "D. over"
+      ],
+      "answer": "C. up",
+      "explanation": "\"get up\" = thức dậy; \"usually\" chỉ thói quen."
+    },
+    {
+      "id": 51,
+      "question": "Hi, Peter. I’m f_ _ m Singapore.",
+      "options": [],
+      "answer": "ro",
+      "explanation": "\"be from + nơi chốn\": I'm from Singapore."
+    },
+    {
+      "id": 52,
+      "question": "How many places are they going _ _ visit?",
+      "options": [],
+      "answer": "to",
+      "explanation": "Tương lai gần: be going to + V nguyên thể (visit)."
+    },
+    {
+      "id": 53,
+      "question": "There is _ _ old car in the garage.",
+      "options": [],
+      "answer": "an",
+      "explanation": "\"an old car\" – \"old\" bắt đầu bằng nguyên âm nên dùng \"an\"."
+    },
+    {
+      "id": 54,
+      "question": "Where were you born? - _ _ Dak Lak Province.",
+      "options": [],
+      "answer": "In",
+      "explanation": "\"be born in + tỉnh/thành\" = sinh ra ở đâu."
+    },
+    {
+      "id": 55,
+      "question": "What ab_ _ t an apple? – No, thanks.",
+      "options": [],
+      "answer": "ou",
+      "explanation": "\"What about + danh từ?\" dùng để mời; trả lời từ chối \"No, thanks.\""
+    },
+    {
+      "id": 56,
+      "question": "I _ _ morning exercise after I get up.",
+      "options": [],
+      "answer": "do",
+      "explanation": "\"do morning exercise\" = tập thể dục buổi sáng."
+    },
+    {
+      "id": 57,
+      "question": "Taylor is _ _ the school yard right now.",
+      "options": [],
+      "answer": "in",
+      "explanation": "\"in the school yard\" = ở sân trường."
+    },
+    {
+      "id": 58,
+      "question": "Mai has a bad cold. She can’t _ _ to school today.",
+      "options": [],
+      "answer": "go",
+      "explanation": "\"can't go to school\" = không thể đi học (vì bị cảm)."
+    },
+    {
+      "id": 59,
+      "question": "Who is waiting _ _ _ you?",
+      "options": [],
+      "answer": "for",
+      "explanation": "\"wait for somebody\" = đợi ai (động từ luôn đi với \"for\")."
+    },
+    {
+      "id": 60,
+      "question": "What d_ _ _ your brother do in the afternoon?",
+      "options": [],
+      "answer": "oes",
+      "explanation": "Chủ ngữ số ít nên dùng trợ động từ \"does\": What does your brother do…?"
+    },
+    {
+      "id": 61,
+      "question": "Those pencils _ _ _ very long.",
+      "options": [],
+      "answer": "are",
+      "explanation": "\"Those pencils\" số nhiều nên dùng \"are\"."
+    },
+    {
+      "id": 62,
+      "question": "What books are they? - T_ _ _ are Maths books.",
+      "options": [],
+      "answer": "hey",
+      "explanation": "\"They are Maths books.\" – dùng \"they\" cho danh từ số nhiều."
+    },
+    {
+      "id": 63,
+      "question": "Ha’s sister _ _ _ born in Hue in 1995.",
+      "options": [],
+      "answer": "was",
+      "explanation": "\"was born\" – chủ ngữ số ít ở quá khứ dùng \"was\"."
+    },
+    {
+      "id": 64,
+      "question": "Who is Mrs. Nanny? – _ _ _ is my new teacher.",
+      "options": [],
+      "answer": "She",
+      "explanation": "\"Mrs. Nanny\" là nữ nên dùng đại từ \"She\"."
+    },
+    {
+      "id": 65,
+      "question": "I play the guitar _ _ home on Tuesday afternoon.",
+      "options": [],
+      "answer": "at",
+      "explanation": "\"at home\" = ở nhà."
+    },
+    {
+      "id": 66,
+      "question": "Hi, _ _ name is Sean. I’m from America.",
+      "options": [],
+      "answer": "my",
+      "explanation": "\"my name is…\" = tên tôi là…"
+    },
+    {
+      "id": 67,
+      "question": "Sam likes to study English very m_ _ h.",
+      "options": [],
+      "answer": "uc",
+      "explanation": "\"very much\" = rất nhiều, đặt cuối câu."
+    },
+    {
+      "id": 68,
+      "question": "I _ _ _ not play any sports.",
+      "options": [],
+      "answer": "can",
+      "explanation": "\"can not\" = \"cannot\" = không thể."
+    },
+    {
+      "id": 69,
+      "question": "I ride a bike to the park just once _ _ twice a week.",
+      "options": [],
+      "answer": "or",
+      "explanation": "\"once or twice a week\" = một hoặc hai lần một tuần."
+    },
+    {
+      "id": 70,
+      "question": "I am a student _ _ Thang Long Primary School.",
+      "options": [],
+      "answer": "at",
+      "explanation": "\"a student at + tên trường\"."
+    },
+    {
+      "id": 71,
+      "question": "He got _ _ at 6 o’clock yesterday morning.",
+      "options": [],
+      "answer": "up",
+      "explanation": "\"get up\" ở quá khứ là \"got up\"; \"yesterday morning\" là dấu hiệu quá khứ."
+    },
+    {
+      "id": 72,
+      "question": "Where is Jean from? - He is f_ _ m France.",
+      "options": [],
+      "answer": "ro",
+      "explanation": "Jean là nam trong câu này nên dùng \"He is from France.\""
+    },
+    {
+      "id": 73,
+      "question": "He _ _ playing the guitar.",
+      "options": [],
+      "answer": "is",
+      "explanation": "Hiện tại tiếp diễn: He is + V-ing."
+    },
+    {
+      "id": 74,
+      "question": "There is _ _ old car in the parking lot.",
+      "options": [],
+      "answer": "an",
+      "explanation": "\"an old car\" – dùng \"an\" trước nguyên âm."
+    },
+    {
+      "id": 75,
+      "question": "I’d like to send this letter _ _ Japan.",
+      "options": [],
+      "answer": "to",
+      "explanation": "\"send something to + nơi chốn\" = gửi gì đến đâu."
+    },
+    {
+      "id": 76,
+      "question": "I don’t know how _ _ write number 9.",
+      "options": [],
+      "answer": "to",
+      "explanation": "\"know how to + V nguyên thể\" = biết cách làm gì."
+    },
+    {
+      "id": 77,
+      "question": "Where’s your father? – He _ _ in the bathroom.",
+      "options": [],
+      "answer": "is",
+      "explanation": "Chủ ngữ số ít \"He\" nên dùng \"is\"."
+    },
+    {
+      "id": 78,
+      "question": "I _ _ morning exercise every day.",
+      "options": [],
+      "answer": "do",
+      "explanation": "\"do morning exercise every day\" = tập thể dục mỗi sáng."
+    },
+    {
+      "id": 79,
+      "question": "What does Ms. Mai _ _ ? – She is a doctor.",
+      "options": [],
+      "answer": "do",
+      "explanation": "\"What does + S + do?\" = … làm nghề gì?"
+    },
+    {
+      "id": 80,
+      "question": "Come in and _ _ _ _ a seat!",
+      "options": [],
+      "answer": "have",
+      "explanation": "\"have a seat\" = mời ngồi (cụm cố định)."
+    },
+    {
+      "id": 81,
+      "question": "Today is _ _ _ eleventh of October.",
+      "options": [],
+      "answer": "the",
+      "explanation": "Ngày tháng cần \"the\": the eleventh of October."
+    },
+    {
+      "id": 82,
+      "question": "This banana is _ _ _ you, Mai.",
+      "options": [],
+      "answer": "for",
+      "explanation": "\"for you\" = dành cho bạn."
+    },
+    {
+      "id": 83,
+      "question": "There is a big museum to the left _ _ our school.",
+      "options": [],
+      "answer": "of",
+      "explanation": "\"to the left of + danh từ\" = ở bên trái của…"
+    },
+    {
+      "id": 84,
+      "question": "What are you talking ab_ _ _ ?",
+      "options": [],
+      "answer": "out",
+      "explanation": "\"talk about\" = nói về (động từ đi với \"about\")."
+    },
+    {
+      "id": 85,
+      "question": "Excuse me, _ _ _ you tell me the time?",
+      "options": [],
+      "answer": "can",
+      "explanation": "\"Can you tell me…?\" = Bạn làm ơn cho tôi biết…?"
+    },
+    {
+      "id": 86,
+      "question": "I live w_ _ _ my family in a small house.",
+      "options": [],
+      "answer": "ith",
+      "explanation": "\"live with somebody\" = sống cùng ai."
+    },
+    {
+      "id": 87,
+      "question": "Would you like s_ _ _ cheese?",
+      "options": [],
+      "answer": "ome",
+      "explanation": "\"some\" dùng trong lời mời: Would you like some cheese?"
+    },
+    {
+      "id": 88,
+      "question": "What _ _ _ you do yesterday, John?",
+      "options": [],
+      "answer": "did",
+      "explanation": "\"yesterday\" là quá khứ nên dùng trợ động từ \"did\"."
+    },
+    {
+      "id": 89,
+      "question": "My mother is tall _ _ _ pretty.",
+      "options": [],
+      "answer": "and",
+      "explanation": "\"and\" nối hai tính từ cùng loại: tall and pretty."
+    },
+    {
+      "id": 90,
+      "question": "Kate and Jerry have a brother. _ _ _ name is Bill.",
+      "options": [],
+      "answer": "His",
+      "explanation": "\"His name\" – Bill là nam nên dùng \"his\"."
+    },
+    {
+      "id": 91,
+      "question": "Do you know how to play _ _ _ guitar?",
+      "options": [],
+      "answer": "the",
+      "explanation": "\"play the guitar\" – nhạc cụ đi với \"the\"."
+    },
+    {
+      "id": 92,
+      "question": "All the students are listening _ _ the teacher.",
+      "options": [],
+      "answer": "to",
+      "explanation": "\"listen to\" = lắng nghe (động từ luôn đi với \"to\")."
+    },
+    {
+      "id": 93,
+      "question": "I play football wi_ _ my brother in the afternoon.",
+      "options": [],
+      "answer": "th",
+      "explanation": "\"play football with somebody\" = chơi bóng đá với ai."
+    },
+    {
+      "id": 94,
+      "question": "Why do you want _ _ go to the post office?",
+      "options": [],
+      "answer": "to",
+      "explanation": "\"go to the post office\" = đến bưu điện."
+    },
+    {
+      "id": 95,
+      "question": "My father is standing next _ _ the man in black.",
+      "options": [],
+      "answer": "to",
+      "explanation": "\"next to\" = bên cạnh (cụm giới từ cố định)."
+    },
+    {
+      "id": 96,
+      "question": "What subject do you like the m_ st, Tommy? - I like English.",
+      "options": [],
+      "answer": "o",
+      "explanation": "\"the most\" = nhất (mức độ cao nhất)."
+    },
+    {
+      "id": 97,
+      "question": "I have a penpal _ _ America.",
+      "options": [],
+      "answer": "in",
+      "explanation": "\"a penpal in + tên nước\" = bạn qua thư ở nước nào."
+    },
+    {
+      "id": 98,
+      "question": "Mai is reading _ _ English text.",
+      "options": [],
+      "answer": "an",
+      "explanation": "\"an English text\" – \"English\" bắt đầu bằng nguyên âm nên dùng \"an\"."
+    },
+    {
+      "id": 99,
+      "question": "Nam is doing _ _ English crossword.",
+      "options": [],
+      "answer": "an",
+      "explanation": "\"an English crossword\" – dùng \"an\" trước nguyên âm."
+    },
+    {
+      "id": 100,
+      "question": "My friends go _ _ school together.",
+      "options": [],
+      "answer": "to",
+      "explanation": "\"go to school together\" = cùng nhau đi học."
+    },
+    {
+      "id": 101,
+      "question": "I like music and books _ _ _ _ much.",
+      "options": [],
+      "answer": "very",
+      "explanation": "\"very much\" đặt cuối câu để nhấn mạnh."
+    },
+    {
+      "id": 102,
+      "question": "The past form of “GO” is _ _ _ _ .",
+      "options": [],
+      "answer": "went",
+      "explanation": "Dạng quá khứ của động từ bất quy tắc \"go\" là \"went\"."
+    },
+    {
+      "id": 103,
+      "question": "She _ _ _ _ not love music at all.",
+      "options": [],
+      "answer": "does",
+      "explanation": "\"not … at all\" = không hề; chủ ngữ số ít dùng \"does not\"."
+    },
+    {
+      "id": 104,
+      "question": "There _ _ _ 40 classrooms in my school.",
+      "options": [],
+      "answer": "are",
+      "explanation": "\"40 classrooms\" số nhiều nên dùng \"There are\"."
+    },
+    {
+      "id": 105,
+      "question": "A: _ _ _ old are you? B: I’m ten years old.",
+      "options": [],
+      "answer": "How",
+      "explanation": "\"How old are you?\" = Bạn bao nhiêu tuổi?"
+    },
+    {
+      "id": 106,
+      "question": "I learn a lot ab_ _ t animals and plants.",
+      "options": [],
+      "answer": "ou",
+      "explanation": "\"learn about + danh từ\" = học về cái gì."
+    },
+    {
+      "id": 107,
+      "question": "My father can swim _ _ _ he can’t drive a car.",
+      "options": [],
+      "answer": "but",
+      "explanation": "\"but\" nối hai vế đối lập: can swim but can't drive."
+    },
+    {
+      "id": 108,
+      "question": "What is _ _ _ hobby? - She likes dancing.",
+      "options": [],
+      "answer": "her",
+      "explanation": "\"her hobby\" – nói về bạn nữ nên dùng \"her\"."
+    },
+    {
+      "id": 109,
+      "question": "The children are waiting for the school bus _ _ the bus stop.",
+      "options": [],
+      "answer": "at",
+      "explanation": "\"at the bus stop\" = ở trạm xe buýt."
+    },
+    {
+      "id": 110,
+      "question": "I don’t h_ _ _ a bicycle.",
+      "options": [],
+      "answer": "ave",
+      "explanation": "Câu phủ định hiện tại đơn: don't have = không có."
+    },
+    {
+      "id": 111,
+      "question": "Who can p_ _ _ the guitar? – Dad.",
+      "options": [],
+      "answer": "lay",
+      "explanation": "\"Who can + V nguyên thể?\" = Ai có thể…?"
+    },
+    {
+      "id": 112,
+      "question": "Giang Vo Street _ _ long.",
+      "options": [],
+      "answer": "is",
+      "explanation": "Tên đường là chủ ngữ số ít nên dùng \"is\"."
+    },
+    {
+      "id": 113,
+      "question": "What do you and your friend p_ _ _ at break time?",
+      "options": [],
+      "answer": "lay",
+      "explanation": "Sau trợ động từ \"do\" dùng động từ nguyên thể \"play\"."
+    },
+    {
+      "id": 114,
+      "question": "Do you like Tom _ _ Jerry? – I like Jerry.",
+      "options": [],
+      "answer": "or",
+      "explanation": "\"or\" dùng trong câu hỏi lựa chọn."
+    },
+    {
+      "id": 115,
+      "question": "October comes _ _ _ _ _ September.",
+      "options": [],
+      "answer": "after",
+      "explanation": "\"come after\" = đến sau; tháng Mười đến sau tháng Chín."
+    },
+    {
+      "id": 116,
+      "question": "How many people are _ _ _ _ _ in your family?",
+      "options": [],
+      "answer": "there",
+      "explanation": "\"How many people are there…?\" = Có bao nhiêu người…?"
+    },
+    {
+      "id": 117,
+      "question": "There are eleven desks _ _ my classroom.",
+      "options": [],
+      "answer": "in",
+      "explanation": "\"in my classroom\" = ở trong lớp học của tôi."
+    },
+    {
+      "id": 118,
+      "question": "I’m from Hanoi. My friends are from Hanoi, t_ _ .",
+      "options": [],
+      "answer": "oo",
+      "explanation": "\"too\" = cũng (đặt cuối câu)."
+    },
+    {
+      "id": 119,
+      "question": "These flowers are for you. – Thank you very m_ _ h.",
+      "options": [],
+      "answer": "uc",
+      "explanation": "\"Thank you very much.\" = Cảm ơn rất nhiều."
+    },
+    {
+      "id": 120,
+      "question": "We will _ _ to the shop to buy new swimsuits tomorrow.",
+      "options": [],
+      "answer": "go",
+      "explanation": "Thì tương lai đơn: will + go (tomorrow)."
+    },
+    {
+      "id": 121,
+      "question": "is / that / Who / boy? / little /",
+      "options": [],
+      "answer": "Who is that little boy?",
+      "explanation": "Câu hỏi danh tính: Who + is + that + tính từ + danh từ?"
+    },
+    {
+      "id": 122,
+      "question": "they / your / Are / teachers? / new /",
+      "options": [],
+      "answer": "Are they your new teachers?",
+      "explanation": "Câu hỏi Yes/No số nhiều: Are + they + your + danh từ số nhiều?"
+    },
+    {
+      "id": 123,
+      "question": "What / colour / is / your / house? /",
+      "options": [],
+      "answer": "What colour is your house?",
+      "explanation": "Câu hỏi màu sắc: What colour + is + your + danh từ?"
+    },
+    {
+      "id": 124,
+      "question": "Katie / a round face / has / and / big black eyes. /",
+      "options": [],
+      "answer": "Katie has a round face and big black eyes.",
+      "explanation": "S + has + a + tính từ + danh từ + and + …"
+    },
+    {
+      "id": 125,
+      "question": "Would you / something to / like / drink, Hoa? /",
+      "options": [],
+      "answer": "Would you like something to drink, Hoa?",
+      "explanation": "\"Would you like something to drink?\" = Bạn có muốn uống gì không?"
+    },
+    {
+      "id": 126,
+      "question": "birthday, Huong? / When / will be / your next /",
+      "options": [],
+      "answer": "When will be your next birthday, Huong?",
+      "explanation": "Câu hỏi tương lai: When + will + be + cụm danh từ?"
+    },
+    {
+      "id": 127,
+      "question": "Science / class? / is / the next / When /",
+      "options": [],
+      "answer": "When is the next Science class?",
+      "explanation": "Câu hỏi với \"be\": When + is + the next + danh từ?"
+    },
+    {
+      "id": 128,
+      "question": "now? / my / sister. Where / I can’t find / is she /",
+      "options": [],
+      "answer": "I can’t find my sister. Where is she now?",
+      "explanation": "Hai câu: S + can't + V; Where + is + S + now?"
+    },
+    {
+      "id": 129,
+      "question": "Mary is / skipping / jump / rope. / the /",
+      "options": [],
+      "answer": "Mary is skipping the jump rope.",
+      "explanation": "Hiện tại tiếp diễn: S + is + V-ing + tân ngữ."
+    },
+    {
+      "id": 130,
+      "question": "have? / erasers / many / How / do you /",
+      "options": [],
+      "answer": "How many erasers do you have?",
+      "explanation": "Câu hỏi số lượng: How many + danh từ số nhiều + do + you + have?"
+    },
+    {
+      "id": 131,
+      "question": "mom’s / my / birthday. / is / Today /",
+      "options": [],
+      "answer": "Today is my mom’s birthday.",
+      "explanation": "\"Today is + sở hữu cách + birthday.\""
+    },
+    {
+      "id": 132,
+      "question": "that / white blouse? / Do / like / you /",
+      "options": [],
+      "answer": "Do you like that white blouse?",
+      "explanation": "Câu hỏi với \"Do\": Do + you + like + that + danh từ?"
+    },
+    {
+      "id": 133,
+      "question": "How / much / blouse? / is / the yellow /",
+      "options": [],
+      "answer": "How much is the yellow blouse?",
+      "explanation": "\"How much is + danh từ?\" = … giá bao nhiêu?"
+    },
+    {
+      "id": 134,
+      "question": "Her / in June. / birthday / not / is /",
+      "options": [],
+      "answer": "Her birthday is not in June.",
+      "explanation": "Câu phủ định với \"be\": Her birthday is not in + tháng."
+    },
+    {
+      "id": 135,
+      "question": "cycling / the park. / in / is / Mary /",
+      "options": [],
+      "answer": "Mary is cycling in the park.",
+      "explanation": "Hiện tại tiếp diễn: S + is + V-ing + nơi chốn."
+    },
+    {
+      "id": 136,
+      "question": "notebooks? / the books / Where / and / are /",
+      "options": [],
+      "answer": "Where are the books and notebooks?",
+      "explanation": "Câu hỏi vị trí số nhiều: Where + are + A and B?"
+    },
+    {
+      "id": 137,
+      "question": "the teacher / what / says. / Listen / to /",
+      "options": [],
+      "answer": "Listen to what the teacher says.",
+      "explanation": "Câu mệnh lệnh: Listen to + mệnh đề what-clause."
+    },
+    {
+      "id": 138,
+      "question": "teacher / is / Our / new / so strict. /",
+      "options": [],
+      "answer": "Our new teacher is so strict.",
+      "explanation": "S + be + so + tính từ (strict = nghiêm khắc)."
+    },
+    {
+      "id": 139,
+      "question": "we have / on / Thursdays? / do / What /",
+      "options": [],
+      "answer": "What do we have on Thursdays?",
+      "explanation": "Câu hỏi: What + do + we + have + on + thứ?"
+    },
+    {
+      "id": 140,
+      "question": "How / many / do you / apples / need? /",
+      "options": [],
+      "answer": "How many apples do you need?",
+      "explanation": "Câu hỏi số lượng với động từ \"need\"."
+    },
+    {
+      "id": 141,
+      "question": "Do / like / those / cakes? / your children /",
+      "options": [],
+      "answer": "Do your children like those cakes?",
+      "explanation": "Câu hỏi với \"Do\" + chủ ngữ số nhiều + like + those + danh từ?"
+    },
+    {
+      "id": 142,
+      "question": "video / like / games? / Does he / playing /",
+      "options": [],
+      "answer": "Does he like playing video games?",
+      "explanation": "Câu hỏi với \"Does\" + like + V-ing (playing video games)."
+    },
+    {
+      "id": 143,
+      "question": "Nam do / does / on / Saturdays? / What /",
+      "options": [],
+      "answer": "What does Nam do on Saturdays?",
+      "explanation": "Câu hỏi: What + does + S + do + on + thứ?"
+    },
+    {
+      "id": 144,
+      "question": "pen pal / Canada. / from / is / My /",
+      "options": [],
+      "answer": "My pen pal is from Canada.",
+      "explanation": "\"pen pal\" = bạn qua thư; S + be + from + tên nước."
+    },
+    {
+      "id": 145,
+      "question": "Why / were / you / so angry / yesterday? /",
+      "options": [],
+      "answer": "Why were you so angry yesterday?",
+      "explanation": "Câu hỏi quá khứ với \"be\": Why + were + you + so + tính từ + yesterday?"
+    },
+    {
+      "id": 146,
+      "question": "I / not / am / really well / today. /",
+      "options": [],
+      "answer": "I am not really well today.",
+      "explanation": "Câu phủ định với \"be\": I am not really well today."
+    },
+    {
+      "id": 147,
+      "question": "the classroom / is / Yen / in / now. /",
+      "options": [],
+      "answer": "Yen is in the classroom now.",
+      "explanation": "S + be + in + nơi chốn + now."
+    },
+    {
+      "id": 148,
+      "question": "Sunday. / on / is / birthday / Dad’s /",
+      "options": [],
+      "answer": "Dad’s birthday is on Sunday.",
+      "explanation": "Sinh nhật + on + thứ."
+    },
+    {
+      "id": 149,
+      "question": "the cupboard. / is / The / globe / in /",
+      "options": [],
+      "answer": "The globe is in the cupboard.",
+      "explanation": "\"in the cupboard\" = ở trong tủ."
+    },
+    {
+      "id": 150,
+      "question": "at / does / What / recess? / he do /",
+      "options": [],
+      "answer": "What does he do at recess?",
+      "explanation": "Câu hỏi: What + does + he + do + at recess (giờ ra chơi)?"
+    },
+    {
+      "id": 151,
+      "question": "expensive. / This long / is / so / dress /",
+      "options": [],
+      "answer": "This long dress is so expensive.",
+      "explanation": "S + be + so + tính từ (expensive = đắt)."
+    },
+    {
+      "id": 152,
+      "question": "the zoo / yesterday? / you / Were / at /",
+      "options": [],
+      "answer": "Were you at the zoo yesterday?",
+      "explanation": "Câu hỏi quá khứ với \"be\": Were + you + at + nơi chốn + yesterday?"
+    },
+    {
+      "id": 153,
+      "question": "you / Sir? / Would / some coffee, / like /",
+      "options": [],
+      "answer": "Would you like some coffee, Sir?",
+      "explanation": "Lời mời lịch sự: Would you like some + danh từ + , Sir?"
+    },
+    {
+      "id": 154,
+      "question": "ours. / is / their problem / It / , not /",
+      "options": [],
+      "answer": "It is their problem , not ours.",
+      "explanation": "\"not ours\" = không phải của chúng tôi (đại từ sở hữu)."
+    },
+    {
+      "id": 155,
+      "question": "Day. / 1st / June / is / Children’s /",
+      "options": [],
+      "answer": "June 1st is Children’s Day.",
+      "explanation": "Ngày lễ: June 1st is Children's Day."
+    },
+    {
+      "id": 156,
+      "question": "reading, / novel / James? / are you / What /",
+      "options": [],
+      "answer": "What novel are you reading, James?",
+      "explanation": "Câu hỏi hiện tại tiếp diễn: What + danh từ + are + you + V-ing?"
+    },
+    {
+      "id": 157,
+      "question": "home and / has lunch / his bike / at 12. / He rides /",
+      "options": [],
+      "answer": "He rides his bike home and has lunch at 12.",
+      "explanation": "Hai hành động nối bằng \"and\", chủ ngữ số ít nên động từ thêm -s."
+    },
+    {
+      "id": 158,
+      "question": "the bottle. / fish / in / The / is /",
+      "options": [],
+      "answer": "The fish is in the bottle.",
+      "explanation": "S + be + in + nơi chốn."
+    },
+    {
+      "id": 159,
+      "question": "class 4B. / pupil in / is a new / Phuong /",
+      "options": [],
+      "answer": "Phuong is a new pupil in class 4B.",
+      "explanation": "S + be + a new pupil + in + lớp."
+    },
+    {
+      "id": 160,
+      "question": "at home / mother yesterday. / with her / Lan was /",
+      "options": [],
+      "answer": "Lan was at home with her mother yesterday.",
+      "explanation": "Quá khứ với \"be\": S + was + at home + with + tân ngữ + yesterday."
+    },
+    {
+      "id": 161,
+      "question": "bottle. / There isn’t / any water / in the /",
+      "options": [],
+      "answer": "There isn’t any water in the bottle.",
+      "explanation": "Câu phủ định: There isn't any + danh từ không đếm được."
+    },
+    {
+      "id": 162,
+      "question": "is your / What class / sister in? – She / class 4B. / is in /",
+      "options": [],
+      "answer": "What class is your sister in? – She is in class 4B.",
+      "explanation": "Câu hỏi: What class + is + S + in? – trả lời \"She is in class 4B.\""
+    },
+    {
+      "id": 163,
+      "question": "the twenty-fifth / of / December. / is / Tomorrow /",
+      "options": [],
+      "answer": "Tomorrow is the twenty-fifth of December.",
+      "explanation": "\"Tomorrow is + the + số thứ tự + of + tháng.\""
+    },
+    {
+      "id": 164,
+      "question": "is / Jeremy / hair. / the boy / with short /",
+      "options": [],
+      "answer": "Jeremy is the boy with short hair.",
+      "explanation": "\"the boy with short hair\" = cậu bé có mái tóc ngắn."
+    },
+    {
+      "id": 165,
+      "question": "my / Ron, / Danny and Tina / friends. / are /",
+      "options": [],
+      "answer": "Ron, Danny and Tina are my friends.",
+      "explanation": "Chủ ngữ ghép ba người + are + my friends."
+    },
+    {
+      "id": 166,
+      "question": "doing? – She / What’s / dancing. / is / Mai /",
+      "options": [],
+      "answer": "What’s Mai doing? – She is dancing.",
+      "explanation": "Câu hỏi hiện tại tiếp diễn + trả lời bằng hiện tại tiếp diễn."
+    },
+    {
+      "id": 167,
+      "question": "going / Brush / before / to bed. / your teeth /",
+      "options": [],
+      "answer": "Brush your teeth before going to bed.",
+      "explanation": "Câu mệnh lệnh + \"before + V-ing\" = trước khi làm gì."
+    },
+    {
+      "id": 168,
+      "question": "Japanese. / from / We are / Japan. We / are /",
+      "options": [],
+      "answer": "We are from Japan. We are Japanese.",
+      "explanation": "\"be from + nước\" và \"be + quốc tịch\" là hai cách nói."
+    },
+    {
+      "id": 169,
+      "question": "Linda / best friends. / one of / my / is /",
+      "options": [],
+      "answer": "Linda is one of my best friends.",
+      "explanation": "\"one of my best friends\" = một trong những người bạn thân nhất."
+    },
+    {
+      "id": 170,
+      "question": "four / the room? / in / Are there / chairs /",
+      "options": [],
+      "answer": "Are there four chairs in the room?",
+      "explanation": "Câu hỏi: Are there + số lượng + danh từ + in the room?"
+    },
+    {
+      "id": 171,
+      "question": "the table. / There / on / are / six crayons /",
+      "options": [],
+      "answer": "There are six crayons on the table.",
+      "explanation": "\"There are + số lượng + danh từ + on the table.\""
+    },
+    {
+      "id": 172,
+      "question": "the library / last Sunday. / They / at / were /",
+      "options": [],
+      "answer": "They were at the library last Sunday.",
+      "explanation": "Quá khứ với \"be\" số nhiều: They were at + nơi chốn + last Sunday."
+    },
+    {
+      "id": 173,
+      "question": "the same / and I / birthday. / have / Mary /",
+      "options": [],
+      "answer": "Mary and I have the same birthday.",
+      "explanation": "\"have the same + danh từ\" = có… giống nhau."
+    },
+    {
+      "id": 174,
+      "question": "near my / is / The / post office / school. /",
+      "options": [],
+      "answer": "The post office is near my school.",
+      "explanation": "\"near\" = gần: The post office is near my school."
+    },
+    {
+      "id": 175,
+      "question": "you like / breakfast? / some / bread for / Would /",
+      "options": [],
+      "answer": "Would you like some bread for breakfast?",
+      "explanation": "Lời mời: Would you like some + danh từ + for breakfast?"
+    },
+    {
+      "id": 176,
+      "question": "your / Do you / Sunday? / grandfather on / visit /",
+      "options": [],
+      "answer": "Do you visit your grandfather on Sunday?",
+      "explanation": "Câu hỏi với \"Do\": Do + you + visit + tân ngữ + on Sunday?"
+    },
+    {
+      "id": 177,
+      "question": "bookshelf. / Her comic / on the / books / are /",
+      "options": [],
+      "answer": "Her comic books are on the bookshelf.",
+      "explanation": "S (số nhiều) + are + on the bookshelf."
+    },
+    {
+      "id": 178,
+      "question": "do you / have / in / What / your backpack? /",
+      "options": [],
+      "answer": "What do you have in your backpack?",
+      "explanation": "Câu hỏi: What + do + you + have + in your backpack?"
+    },
+    {
+      "id": 179,
+      "question": "swimming / with me / tomorrow? / Will you / go /",
+      "options": [],
+      "answer": "Will you go swimming with me tomorrow?",
+      "explanation": "Câu hỏi tương lai: Will + you + V nguyên thể + with me + tomorrow?"
+    },
+    {
+      "id": 180,
+      "question": "fly / Where / did / the kite yesterday? / you /",
+      "options": [],
+      "answer": "Where did you fly the kite yesterday?",
+      "explanation": "Câu hỏi quá khứ: Where + did + you + V nguyên thể + yesterday?"
+    },
+    {
+      "id": 181,
+      "question": "I love / but my mum / doesn’t / their music / like it. /",
+      "options": [],
+      "answer": "I love their music but my mum doesn’t like it.",
+      "explanation": "\"but\" nối hai vế đối lập (love… but doesn't like…)."
+    },
+    {
+      "id": 182,
+      "question": "garden. / in the / There are / some / frogs /",
+      "options": [],
+      "answer": "There are some frogs in the garden.",
+      "explanation": "\"There are some + danh từ số nhiều + in the garden.\""
+    },
+    {
+      "id": 183,
+      "question": "are very / good / students. / us / All of /",
+      "options": [],
+      "answer": "All of us are very good students.",
+      "explanation": "\"All of us\" = tất cả chúng tôi (chủ ngữ số nhiều → are)."
+    },
+    {
+      "id": 184,
+      "question": "help me / you / with / this homework? / Can /",
+      "options": [],
+      "answer": "Can you help me with this homework?",
+      "explanation": "\"help somebody with something\" = giúp ai việc gì."
+    },
+    {
+      "id": 185,
+      "question": "her birthday? / would / for / What / Lien like /",
+      "options": [],
+      "answer": "What would Lien like for her birthday?",
+      "explanation": "Câu hỏi: What + would + S + like + for + dịp?"
+    },
+    {
+      "id": 186,
+      "question": "and / the guitar / They / can play / sing. /",
+      "options": [],
+      "answer": "They can play the guitar and sing.",
+      "explanation": "S + can + V + and + V (hai hành động sau \"can\")."
+    },
+    {
+      "id": 187,
+      "question": "chicken. / milk / some / and / I’d like /",
+      "options": [],
+      "answer": "I’d like some milk and chicken.",
+      "explanation": "\"I'd like some + danh từ\" = Tôi muốn một ít…"
+    },
+    {
+      "id": 188,
+      "question": "What / have / classes / do you / on Sunday? /",
+      "options": [],
+      "answer": "What classes do you have on Sunday?",
+      "explanation": "Câu hỏi: What classes + do + you + have + on + thứ?"
+    },
+    {
+      "id": 189,
+      "question": "looks / quite slim / Jennifer / but / still cute. /",
+      "options": [],
+      "answer": "Jennifer looks quite slim but still cute.",
+      "explanation": "\"look + tính từ\" = trông có vẻ; \"but\" nối hai vế đối lập."
+    },
+    {
+      "id": 190,
+      "question": "do / your brother / What does / on / Sundays? /",
+      "options": [],
+      "answer": "What does your brother do on Sundays?",
+      "explanation": "Câu hỏi: What + does + S + do + on + thứ (số nhiều)?"
+    },
+    {
+      "id": 191,
+      "question": "want / country / to visit? / do you / Which /",
+      "options": [],
+      "answer": "Which country do you want to visit?",
+      "explanation": "Câu hỏi: Which + danh từ + do + you + want to + V?"
+    },
+    {
+      "id": 192,
+      "question": "School. / Nguyen Gia Thieu / My / is / school /",
+      "options": [],
+      "answer": "My school is Nguyen Gia Thieu School.",
+      "explanation": "S + be + tên riêng (tên trường)."
+    },
+    {
+      "id": 193,
+      "question": "class is / in? – She's / What / in / Huong / class 4C. /",
+      "options": [],
+      "answer": "What class is Huong in? – She's in class 4C.",
+      "explanation": "Câu hỏi: What class + is + S + in? + câu trả lời."
+    },
+    {
+      "id": 194,
+      "question": "is making a / My brother / small. / plane. It’s /",
+      "options": [],
+      "answer": "My brother is making a plane. It’s small.",
+      "explanation": "Hiện tại tiếp diễn + câu nhận xét với \"be\"."
+    },
+    {
+      "id": 195,
+      "question": "newspapers. / is / reading / My father /",
+      "options": [],
+      "answer": "My father is reading newspapers.",
+      "explanation": "Hiện tại tiếp diễn: S + is + V-ing + tân ngữ."
+    },
+    {
+      "id": 196,
+      "question": "play / football. / My father / cannot /",
+      "options": [],
+      "answer": "My father cannot play football.",
+      "explanation": "\"cannot\" = không thể: My father cannot play football."
+    },
+    {
+      "id": 197,
+      "question": "Where does / games and / English songs? / learn / Mary /",
+      "options": [],
+      "answer": "Where does Mary learn games and English songs?",
+      "explanation": "Câu hỏi: Where + does + S + learn + tân ngữ?"
+    },
+    {
+      "id": 198,
+      "question": "market? / often / How / to the / do you go /",
+      "options": [],
+      "answer": "How often do you go to the market?",
+      "explanation": "Câu hỏi tần suất: How often + do + you + go to + nơi chốn?"
+    },
+    {
+      "id": 199,
+      "question": "of July? / on / the 9th / your birthday / Is /",
+      "options": [],
+      "answer": "Is your birthday on the 9th of July?",
+      "explanation": "Câu hỏi với \"be\": Is + sở hữu cách + birthday + on + ngày?"
+    },
+    {
+      "id": 200,
+      "question": "Why / to visit / did / she want / Jeju Island? /",
+      "options": [],
+      "answer": "Why did she want to visit Jeju Island?",
+      "explanation": "Câu hỏi quá khứ: Why + did + S + want to + V nguyên thể?"
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
