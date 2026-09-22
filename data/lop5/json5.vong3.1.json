@@ -1,0 +1,1808 @@
+{
+  "title": "IOE Lớp 5 - Chuyên đề 1 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "My mother is a …. She works in a local school.",
+      "options": [
+        "A. teacher",
+        "B. waiter",
+        "C. cook",
+        "D. engineer"
+      ],
+      "answer": "A. teacher",
+      "explanation": "Chọn “teacher” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “My mother is a ___. She works in a local school.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “My mother is a teacher. She works in a local school.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 72."
+    },
+    {
+      "id": 2,
+      "question": "I think she looks ....",
+      "options": [
+        "A. happy",
+        "B. happily",
+        "C. to happy",
+        "D. to be happy"
+      ],
+      "answer": "A. happy",
+      "explanation": "Chọn “happy” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “I think she looks ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “I think she looks happy.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 81."
+    },
+    {
+      "id": 3,
+      "question": "… your city like? It’s big and green.",
+      "options": [
+        "A. How’s",
+        "B. What’s",
+        "C. Where’s",
+        "D. When’s"
+      ],
+      "answer": "B. What’s",
+      "explanation": "Chọn “What’s” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “___ your city like? It’s big and green.”. Đây là từ vựng thuộc chủ điểm du lịch và địa điểm; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What’s your city like? It’s big and green.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 179."
+    },
+    {
+      "id": 4,
+      "question": "His ... is American. He comes from The United States.",
+      "options": [
+        "A. nationality",
+        "B. city",
+        "C. hometown",
+        "D. country"
+      ],
+      "answer": "A. nationality",
+      "explanation": "Chọn “nationality” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “His ___ is American. He comes from The United States.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “His nationality is American. He comes from the United States.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 174."
+    },
+    {
+      "id": 5,
+      "question": "Miss Jenny always ... her own clothes.",
+      "options": [
+        "A. does",
+        "B. wants",
+        "C. makes",
+        "D. cooks"
+      ],
+      "answer": "C. makes",
+      "explanation": "Chọn “makes” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Miss Jenny always ___ her own clothes.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Miss Jenny always makes her own clothes.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 83."
+    },
+    {
+      "id": 6,
+      "question": "The baby is sleeping well in this … bed.",
+      "options": [
+        "A. exciting",
+        "B. yummy",
+        "C. comfortable",
+        "D. funny"
+      ],
+      "answer": "C. comfortable",
+      "explanation": "Chọn “comfortable” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “The baby is sleeping well in this ___ bed.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “The baby is sleeping well in this comfortable bed.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 138."
+    },
+    {
+      "id": 7,
+      "question": "Some students are … funny stories.",
+      "options": [
+        "A. read",
+        "B. reading",
+        "C. reads",
+        "D. readed"
+      ],
+      "answer": "B. reading",
+      "explanation": "Chọn “reading” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Some students are ___ funny stories.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Some students are reading funny stories.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 116."
+    },
+    {
+      "id": 8,
+      "question": "Teacher: Whose book are you reading? - Jane: It’s ….",
+      "options": [
+        "A. English book",
+        "B. interesting",
+        "C. Mary’s",
+        "D. about Mary"
+      ],
+      "answer": "C. Mary’s",
+      "explanation": "Chọn “Mary’s” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Teacher: Whose book are you reading? - Jane: It’s ___.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Teacher: Whose book are you reading? - Jane: It’s Mary’s.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 156."
+    },
+    {
+      "id": 9,
+      "question": "Vietnamese people are very ....",
+      "options": [
+        "A. friend",
+        "B. friendless",
+        "C. friendly",
+        "D. friendship"
+      ],
+      "answer": "C. friendly",
+      "explanation": "Chọn “friendly” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Vietnamese people are very ___”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Vietnamese people are very friendly.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 17."
+    },
+    {
+      "id": 10,
+      "question": "My father tells me to buy two … of tea.",
+      "options": [
+        "A. bar",
+        "B. piece",
+        "C. packets",
+        "D. tubes"
+      ],
+      "answer": "C. packets",
+      "explanation": "Chọn “packets” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “My father tells me to buy two ___ of tea.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “My father tells me to buy two packets of tea.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 173."
+    },
+    {
+      "id": 11,
+      "question": "Who is the ... of this book ?",
+      "options": [
+        "A. author",
+        "B. seller",
+        "C. farmer",
+        "D. teacher"
+      ],
+      "answer": "A. author",
+      "explanation": "Chọn “author” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Who is the ___ of this book ?”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Who is the author of this book?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 13."
+    },
+    {
+      "id": 12,
+      "question": "We feel very … right now.",
+      "options": [
+        "A. hottest",
+        "B. hotter",
+        "C. hot",
+        "D. heat"
+      ],
+      "answer": "C. hot",
+      "explanation": "Chọn “hot” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “We feel very ___ right now.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “We feel very hot right now.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 23."
+    },
+    {
+      "id": 13,
+      "question": "The child is ... because she wants to go to bed now.",
+      "options": [
+        "A. thirsty",
+        "B. hungry",
+        "C. sleepy",
+        "D. sleep"
+      ],
+      "answer": "C. sleepy",
+      "explanation": "Chọn “sleepy” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “The child is ___ because she wants to go to bed now.”. Đây là từ vựng thuộc chủ điểm sinh hoạt hằng ngày; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “The child is sleepy because she wants to go to bed now.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 118."
+    },
+    {
+      "id": 14,
+      "question": "Lisa is good at singing, so she takes part in a _____ competition.",
+      "options": [
+        "A. music",
+        "B. sports",
+        "C. speaking",
+        "D. listening"
+      ],
+      "answer": "A. music",
+      "explanation": "Chọn “music” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Lisa is good at singing, so she takes part in a ___competition.”. Đây là từ vựng thuộc chủ điểm thể thao và giải trí; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Lisa is good at singing, so she takes part in a music competition.”. Nguồn đối chiếu: đề IOE gốc số 15, câu 124."
+    },
+    {
+      "id": 15,
+      "question": "Sắp xếp: Watching/ the most popular activities./ is one of/ television/",
+      "options": [],
+      "answer": "Watching television is one of the most popular activities.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “one of the most” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm thể thao và giải trí. Câu hoàn chỉnh: “Watching television is one of the most popular activities.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 74."
+    },
+    {
+      "id": 16,
+      "question": "Can you show me the ____ to the bookshop?",
+      "options": [
+        "A. time",
+        "B. way",
+        "C. book",
+        "D. hour"
+      ],
+      "answer": "B. way",
+      "explanation": "Chọn “way” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Can you show me the ___to the bookshop?”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Can you show me the way to the bookshop?”. Nguồn đối chiếu: đề IOE gốc số 26, câu 99."
+    },
+    {
+      "id": 17,
+      "question": "Sắp xếp: lemon/ you like/ juice?/ some/ Would/",
+      "options": [],
+      "answer": "Would you like some lemon juice?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “like some lemon juice” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm đồ ăn và sức khỏe. Câu hoàn chỉnh: “Would you like some lemon juice?”. Nguồn đối chiếu: đề IOE gốc số 33, câu 177."
+    },
+    {
+      "id": 18,
+      "question": "We saw some … at the circus yesterday. They performed perfectly.",
+      "options": [
+        "A. clowns",
+        "B. teachers",
+        "C. doctors",
+        "D. patients"
+      ],
+      "answer": "A. clowns",
+      "explanation": "Chọn “clowns” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “We saw some ___ at the circus yesterday. They performed perfectly.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “We saw some clowns at the circus yesterday. They performed perfectly.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 31."
+    },
+    {
+      "id": 19,
+      "question": "Sắp xếp: go shopping/ Would/ with me?/ you/ like to/",
+      "options": [],
+      "answer": "Would you like to go shopping with me?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “to go shopping with” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp. Câu hoàn chỉnh: “Would you like to go shopping with me?”. Nguồn đối chiếu: đề IOE gốc số 28, câu 58."
+    },
+    {
+      "id": 20,
+      "question": "What do I have for dinner? – Rice, seafood and a glass of ....",
+      "options": [
+        "A. milk",
+        "B. noodles",
+        "C. potato",
+        "D. fruit"
+      ],
+      "answer": "A. milk",
+      "explanation": "Chọn “milk” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What do I have for dinner? – Rice, seafood and a glass of ___”. Đây là từ vựng thuộc chủ điểm sinh hoạt hằng ngày; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What do I have for dinner? – Rice, seafood and a glass of milk.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 100."
+    },
+    {
+      "id": 21,
+      "question": "His favorite vegetables are ....",
+      "options": [
+        "A. apples and oranges",
+        "B. apples and peas",
+        "C. cabbages and tomatoes",
+        "D. lemonade and milk"
+      ],
+      "answer": "C. cabbages and tomatoes",
+      "explanation": "Chọn “cabbages and tomatoes” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “His favorite vegetables are ___”. Đây là từ vựng thuộc chủ điểm nhà cửa và đồ vật; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “His favorite vegetables are cabbages and tomatoes.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 133."
+    },
+    {
+      "id": 22,
+      "question": "Miss Jannie often ... to many places in the world.",
+      "options": [
+        "A. runs",
+        "B. travels",
+        "C. visits",
+        "D. come"
+      ],
+      "answer": "B. travels",
+      "explanation": "Chọn “travels” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Miss Jannie often ___ to many places in the world.”. Đây là từ vựng thuộc chủ điểm du lịch và địa điểm; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Miss Jannie often travels to many places in the world.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 166."
+    },
+    {
+      "id": 23,
+      "question": "Sắp xếp: and the Magic/ Lamp./ I’m reading/ Aladdin/",
+      "options": [],
+      "answer": "I’m reading Aladdin and the Magic Lamp.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “aladdin and the magic” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm nhà cửa và đồ vật. Câu hoàn chỉnh: “I’m reading Aladdin and the Magic Lamp.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 43."
+    },
+    {
+      "id": 24,
+      "question": "We need a ... to go camping.",
+      "options": [
+        "A. tent",
+        "B. house",
+        "C. village",
+        "D. room"
+      ],
+      "answer": "A. tent",
+      "explanation": "Chọn “tent” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “We need a ___ to go camping.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “We need a tent to go camping.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 46."
+    },
+    {
+      "id": 25,
+      "question": "Sắp xếp: My friends/ in the forest./ never/ for walks/ go/",
+      "options": [],
+      "answer": "My friends never go for walks in the forest.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “go for walks in” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My friends never go for walks in the forest.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 62."
+    },
+    {
+      "id": 26,
+      "question": "Many people lost their home and didn't have any _____ to eat .",
+      "options": [
+        "A. drink",
+        "B. food",
+        "C. time",
+        "D. book"
+      ],
+      "answer": "B. food",
+      "explanation": "Chọn “food” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Many people lost their home and didn't have any ___to eat .”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Many people lost their home and didn't have any food to eat.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 65."
+    },
+    {
+      "id": 27,
+      "question": "Sắp xếp: Is/ behind/ classroom?/ the garden/ Victoria’s/",
+      "options": [],
+      "answer": "Is the garden behind Victoria’s classroom?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “garden behind victoria's classroom” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “Is the garden behind Victoria’s classroom?”. Nguồn đối chiếu: đề IOE gốc số 34, câu 34."
+    },
+    {
+      "id": 28,
+      "question": "The opposite of ’’slow’’ is ’’…’’.",
+      "options": [
+        "A. fast",
+        "B. down",
+        "C. ahead",
+        "D. up"
+      ],
+      "answer": "A. fast",
+      "explanation": "Chọn “fast” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “The opposite of ’’slow’’ is ’’___’’.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “The opposite of’’slow’’ is’’ fast’’.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 22."
+    },
+    {
+      "id": 29,
+      "question": "At an intersection, we must ….",
+      "options": [
+        "A. ride quickly",
+        "B. go fast",
+        "C. slow down",
+        "D. run out"
+      ],
+      "answer": "C. slow down",
+      "explanation": "Chọn “slow down” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “At an intersection, we must ___.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “At an intersection, we must slow down.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 60."
+    },
+    {
+      "id": 30,
+      "question": "Sắp xếp: are playing/ The seals/ with the/ ball./ beach/",
+      "options": [],
+      "answer": "The seals are playing with the beach ball.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “playing with the beach” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm thể thao và giải trí. Câu hoàn chỉnh: “The seals are playing with the beach ball.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 178."
+    },
+    {
+      "id": 31,
+      "question": "I can see a boy … a water buffalo.",
+      "options": [
+        "A. ride",
+        "B. riding",
+        "C. to ride",
+        "D. rode"
+      ],
+      "answer": "B. riding",
+      "explanation": "Chọn “riding” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “I can see a boy ___ a water buffalo.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “I can see a boy riding a water buffalo.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 170."
+    },
+    {
+      "id": 32,
+      "question": "My favorite ... is beef.",
+      "options": [
+        "A. drink",
+        "B. vegetables",
+        "C. food",
+        "D. sports"
+      ],
+      "answer": "C. food",
+      "explanation": "Chọn “food” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “My favorite ___ is beef.”. Đây là từ vựng thuộc chủ điểm đồ ăn và sức khỏe; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “My favorite food is beef.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 131."
+    },
+    {
+      "id": 33,
+      "question": "Sắp xếp: with her classmates./ a picnic lunch/ going to/ Lien is/ have/",
+      "options": [],
+      "answer": "Lien is going to have a picnic lunch with her classmates.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “have a picnic lunch” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “Lien is going to have a picnic lunch with her classmates.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 149."
+    },
+    {
+      "id": 34,
+      "question": "Sắp xếp: Mom/ calm music/ on my CD player./ puts some/",
+      "options": [],
+      "answer": "Mom puts some calm music on my CD player.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “calm music on my” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm thể thao và giải trí. Câu hoàn chỉnh: “Mom puts some calm music on my CD player.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 7."
+    },
+    {
+      "id": 35,
+      "question": "Sắp xếp: in the evening./ and came back home/ They enjoyed/ in the countryside/ their day/",
+      "options": [],
+      "answer": "They enjoyed their day in the countryside and came back home in the evening.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “countryside and came back” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm nhà cửa và đồ vật. Câu hoàn chỉnh: “They enjoyed their day in the countryside and came back home in the evening.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 11."
+    },
+    {
+      "id": 36,
+      "question": "Is your school big or ...?",
+      "options": [
+        "A. tall",
+        "B. nice",
+        "C. small",
+        "D. long"
+      ],
+      "answer": "C. small",
+      "explanation": "Chọn “small” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Is your school big or ___?”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Is your school big or small?”. Nguồn đối chiếu: đề IOE gốc số 36, câu 69."
+    },
+    {
+      "id": 37,
+      "question": "Architects design … for the town.",
+      "options": [
+        "A. buildings",
+        "B. websites",
+        "C. clothes",
+        "D. cars"
+      ],
+      "answer": "A. buildings",
+      "explanation": "Chọn “buildings” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Architects design ___ for the town.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Architects design buildings for the town.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 114."
+    },
+    {
+      "id": 38,
+      "question": "Don’t let your brother ... the present.",
+      "options": [
+        "A. see",
+        "B. to see",
+        "C. seeing",
+        "D. to seeing"
+      ],
+      "answer": "A. see",
+      "explanation": "Chọn “see” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Don’t let your brother ___ the present.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Don’t let your brother see the present.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 38."
+    },
+    {
+      "id": 39,
+      "question": "It is very interesting to know about American students’ _ _ _ _ _ activities.",
+      "options": [],
+      "answer": "daily",
+      "explanation": "Điền “daily” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “It is very interesting to know about American students’ daily activities.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 154."
+    },
+    {
+      "id": 40,
+      "question": "I didn’t buy that dictionary because it was too ....",
+      "options": [
+        "A. expensive",
+        "B. cheap",
+        "C. noisy",
+        "D. lazy"
+      ],
+      "answer": "A. expensive",
+      "explanation": "Chọn “expensive” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “I didn’t buy that dictionary because it was too ___”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “I didn’t buy that dictionary because it was too expensive.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 15."
+    },
+    {
+      "id": 41,
+      "question": "When they visited our village, they saw a very small … .",
+      "options": [
+        "A. house",
+        "B. palace",
+        "C. villa",
+        "D. flat"
+      ],
+      "answer": "A. house",
+      "explanation": "Chọn “house” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “When they visited our village, they saw a very small ___ .”. Đây là từ vựng thuộc chủ điểm nhà cửa và đồ vật; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “When they visited our village, they saw a very small house.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 45."
+    },
+    {
+      "id": 42,
+      "question": "My English teacher has small white ... and a nice mouth.",
+      "options": [
+        "A. lips",
+        "B. eyes",
+        "C. teeth",
+        "D. hair"
+      ],
+      "answer": "C. teeth",
+      "explanation": "Chọn “teeth” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “My English teacher has small white ___ and a nice mouth.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “My English teacher has small white teeth and a nice mouth.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 55."
+    },
+    {
+      "id": 43,
+      "question": "She doesn’t _ _ _ _ Maths because it's difficult.",
+      "options": [],
+      "answer": "like",
+      "explanation": "Điền “like” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “She doesn’t like Maths because it's difficult.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 148."
+    },
+    {
+      "id": 44,
+      "question": "Sắp xếp: of cereal/ a bowl/ I’d like/ for/ breakfast./",
+      "options": [],
+      "answer": "I’d like a bowl of cereal for breakfast.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “bowl of cereal for” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm sinh hoạt hằng ngày. Câu hoàn chỉnh: “I’d like a bowl of cereal for breakfast.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 28."
+    },
+    {
+      "id": 45,
+      "question": "Sắp xếp: to help/ the children?/ should/ we do/ What/",
+      "options": [],
+      "answer": "What should we do to help the children?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “do to help the” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp. Câu hoàn chỉnh: “What should we do to help the children?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 147."
+    },
+    {
+      "id": 46,
+      "question": "Which ocean does the Amazon river flow _ _ _ _ ?",
+      "options": [],
+      "answer": "into",
+      "explanation": "Điền “into” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm thiên nhiên và thời tiết và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Which ocean does the Amazon river flow into?”. Nguồn đối chiếu: đề IOE gốc số 31, câu 106."
+    },
+    {
+      "id": 47,
+      "question": "What’s she doing? – She is ... a horse.",
+      "options": [
+        "A. riding",
+        "B. walking",
+        "C. jogging",
+        "D. running"
+      ],
+      "answer": "A. riding",
+      "explanation": "Chọn “riding” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What’s she doing? – She is ___ a horse.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What’s she doing? – She is riding a horse.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 93."
+    },
+    {
+      "id": 48,
+      "question": "His name is John. He comes from ....",
+      "options": [
+        "A. American",
+        "B. French",
+        "C. America",
+        "D. Japanese"
+      ],
+      "answer": "C. America",
+      "explanation": "Chọn “America” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “His name is John. He comes from ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “His name is John. He comes from America.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 144."
+    },
+    {
+      "id": 49,
+      "question": "Sắp xếp: always/ so I can/ I/ study hard,/ get a good score./",
+      "options": [],
+      "answer": "I always study hard, so I can get a good score.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “so i can get” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “I always study hard, so I can get a good score.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 160."
+    },
+    {
+      "id": 50,
+      "question": "Lan had a cough and she was very ti_ _ _ .",
+      "options": [],
+      "answer": "red → tired",
+      "explanation": "Điền các chữ “red” để hoàn thành từ “tired”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm từ vựng miêu tả và giao tiếp; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Lan had a cough and she was very tired.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 10."
+    },
+    {
+      "id": 51,
+      "question": "Sắp xếp: is/ How far/ from here/ it/ to the park?/",
+      "options": [],
+      "answer": "How far is it from here to the park?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “it from here to” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “How far is it from here to the park?”. Nguồn đối chiếu: đề IOE gốc số 26, câu 110."
+    },
+    {
+      "id": 52,
+      "question": "Their children want to go ... this winter.",
+      "options": [
+        "A. ski",
+        "B. to ski",
+        "C. skiing",
+        "D. sking"
+      ],
+      "answer": "C. skiing",
+      "explanation": "Chọn “skiing” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Their children want to go ___ this winter.”. Đây là từ vựng thuộc chủ điểm thiên nhiên và thời tiết; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Their children want to go skiing this winter.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 126."
+    },
+    {
+      "id": 53,
+      "question": "The Maths teacher _ _ _ _ times gives her students a mini-test.",
+      "options": [],
+      "answer": "some → sometimes",
+      "explanation": "Điền các chữ “some” để hoàn thành từ “sometimes”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm trường học; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “The Maths teacher sometimes gives her students a mini-test.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 19."
+    },
+    {
+      "id": 54,
+      "question": "Sắp xếp: Last year,/ her family./ Yoko flew/ to Japan/ to visit/",
+      "options": [],
+      "answer": "Last year, Yoko flew to Japan to visit her family.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “to japan to visit” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “Last year, Yoko flew to Japan to visit her family.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 34."
+    },
+    {
+      "id": 55,
+      "question": "They enjoy_ _ the beautiful view at the seaside last year.",
+      "options": [],
+      "answer": "ed → enjoyed",
+      "explanation": "Điền các chữ “ed” để hoàn thành từ “enjoyed”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm thiên nhiên và thời tiết; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “They enjoyed the beautiful view at the seaside last year.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 99."
+    },
+    {
+      "id": 56,
+      "question": "Sắp xếp: have lots/ I’m sure/ soon./ of friends/ you’ll/",
+      "options": [],
+      "answer": "I’m sure you’ll have lots of friends soon.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “have lots of friends” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “I’m sure you’ll have lots of friends soon.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 113."
+    },
+    {
+      "id": 57,
+      "question": "What does Mrs. Brown do in her free time? - She goes … with her husband at the sport center.",
+      "options": [
+        "A. skating",
+        "B. camping",
+        "C. sightseeing",
+        "D. hiking"
+      ],
+      "answer": "A. skating",
+      "explanation": "Chọn “skating” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What does Mrs. Brown do in her free time? - She goes ___ with her husband at the sport center.”. Đây là từ vựng thuộc chủ điểm thể thao và giải trí; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What does Mrs. Brown do in her free time? - She goes skating with her husband at the sport center.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 110."
+    },
+    {
+      "id": 58,
+      "question": "Sắp xếp: always/ leaving his/ My brother is/ dirty clothes on/ my bed./",
+      "options": [],
+      "answer": "My brother is always leaving his dirty clothes on my bed.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “leaving his dirty clothes” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My brother is always leaving his dirty clothes on my bed.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 193."
+    },
+    {
+      "id": 59,
+      "question": "The past form of ’’wear’’ is ’’_ _ _ _ ’’.",
+      "options": [],
+      "answer": "wore",
+      "explanation": "Điền “wore” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “The past form of’’wear’’ is’’ wore’’.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 65."
+    },
+    {
+      "id": 60,
+      "question": "Sắp xếp: may get/ stove. You/ a burn./ the/ Don't touch/",
+      "options": [],
+      "answer": "Don't touch the stove. You may get a burn.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “stove you may get” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp. Câu hoàn chỉnh: “Don't touch the stove. You may get a burn.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 22."
+    },
+    {
+      "id": 61,
+      "question": "What is your _ _ _ _ _ _ _ _ _ number? - 0891837281",
+      "options": [],
+      "answer": "telephone",
+      "explanation": "Điền “telephone” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm công nghệ và truyền thông và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “What is your telephone number? – 0891837281.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 103."
+    },
+    {
+      "id": 62,
+      "question": "- What’s your h_ _ _ _ _ _ _ ? - It’s Hue.",
+      "options": [],
+      "answer": "ometown → hometown",
+      "explanation": "Điền các chữ “ometown” để hoàn thành từ “hometown”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm nhà cửa và đồ vật; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “- What’s your hometown? - It’s Hue.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 41."
+    },
+    {
+      "id": 63,
+      "question": "Nam plays ... every afternoon.",
+      "options": [
+        "A. television",
+        "B. music",
+        "C. volleyball",
+        "D. homework"
+      ],
+      "answer": "C. volleyball",
+      "explanation": "Chọn “volleyball” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Nam plays ___ every afternoon.”. Đây là từ vựng thuộc chủ điểm sinh hoạt hằng ngày; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Nam plays volleyball every afternoon.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 137."
+    },
+    {
+      "id": 64,
+      "question": "Sắp xếp: our health./ is/ good/ Swimming/ for/",
+      "options": [],
+      "answer": "Swimming is good for our health.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “good for our health” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm đồ ăn và sức khỏe. Câu hoàn chỉnh: “Swimming is good for our health.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 124."
+    },
+    {
+      "id": 65,
+      "question": "Their house is ... the cinema.",
+      "options": [
+        "A. next by",
+        "B. next from",
+        "C. next to",
+        "D. next at"
+      ],
+      "answer": "C. next to",
+      "explanation": "Chọn “next to” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Their house is ___ the cinema.”. Đây là từ vựng thuộc chủ điểm nhà cửa và đồ vật; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Their house is next to the cinema.”. Nguồn đối chiếu: đề IOE gốc số 34, câu 132."
+    },
+    {
+      "id": 66,
+      "question": "My sister is a student. She is nine_ _ _ _ years old.",
+      "options": [],
+      "answer": "teen",
+      "explanation": "Điền “teen” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm gia đình và con người và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “My sister is a student. She is nine teen years old.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 171."
+    },
+    {
+      "id": 67,
+      "question": "Sắp xếp: They went/ from their/ back/ night./ holiday last/",
+      "options": [],
+      "answer": "They went back from their holiday last night.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “from their holiday last” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “They went back from their holiday last night.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 22."
+    },
+    {
+      "id": 68,
+      "question": "My gr_ _ _ father is watching TV in the living room.",
+      "options": [],
+      "answer": "and → grandfather",
+      "explanation": "Điền các chữ “and” để hoàn thành từ “grandfather”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm gia đình và con người; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “My grandfather is watching TV in the living room.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 77."
+    },
+    {
+      "id": 69,
+      "question": "Sắp xếp: our class/ a farm/ in the countryside./ went to/ Last week/",
+      "options": [],
+      "answer": "Last week our class went to a farm in the countryside.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “went to a farm” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “Last week our class went to a farm in the countryside.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 115."
+    },
+    {
+      "id": 70,
+      "question": "Have some biscuits, Ken. - ....",
+      "options": [
+        "A. Thank you very much",
+        "B. Thank very much",
+        "C. Thanks you very much",
+        "D. Very much thanks"
+      ],
+      "answer": "A. Thank you very much",
+      "explanation": "Chọn “Thank you very much” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Have some biscuits, Ken. - ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Have some biscuits, Ken. - Thank you very much.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 12."
+    },
+    {
+      "id": 71,
+      "question": "Lions, tigers and elephants are ... animals.",
+      "options": [
+        "A. wild",
+        "B. farm",
+        "C. family",
+        "D. environment"
+      ],
+      "answer": "A. wild",
+      "explanation": "Chọn “wild” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Lions, tigers and elephants are ___ animals.”. Đây là từ vựng thuộc chủ điểm động vật; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Lions, tigers and elephants are wild animals.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 25."
+    },
+    {
+      "id": 72,
+      "question": "During Vietnam_ _ _ lessons, we read short stories and write essays.",
+      "options": [],
+      "answer": "ese → Vietnamese",
+      "explanation": "Điền các chữ “ese” để hoàn thành từ “Vietnamese”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm trường học; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “During Vietnamese lessons, we read short stories and write essays.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 136."
+    },
+    {
+      "id": 73,
+      "question": "What about having a hot drink now? – Yes, _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "please",
+      "explanation": "Điền “please” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm đồ ăn và sức khỏe và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “What about having a hot drink now? – Yes, please.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 158."
+    },
+    {
+      "id": 74,
+      "question": "Tim doesn’t love comedies any _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "longer",
+      "explanation": "Điền “longer” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Tim doesn’t love comedies any longer.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 128."
+    },
+    {
+      "id": 75,
+      "question": "Sắp xếp: my/ piano/ It’s/ time for/ class./",
+      "options": [],
+      "answer": "It’s time for my piano class.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “for my piano class” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “It’s time for my piano class.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 106."
+    },
+    {
+      "id": 76,
+      "question": "Is she go_ _ _ to clean the table after dinner?",
+      "options": [],
+      "answer": "ing → going",
+      "explanation": "Điền các chữ “ing” để hoàn thành từ “going”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm nhà cửa và đồ vật; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Is she going to clean the table after dinner?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 168."
+    },
+    {
+      "id": 77,
+      "question": "She has … hair.",
+      "options": [
+        "A. a long black",
+        "B. short red",
+        "C. curly long",
+        "D. a short wavy"
+      ],
+      "answer": "B. short red",
+      "explanation": "Chọn “short red” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “She has ___ hair.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “She has short red hair.”. Nguồn đối chiếu: đề IOE gốc số 39, câu 88."
+    },
+    {
+      "id": 78,
+      "question": "Sắp xếp: singing/ often practise/ in the early/ morning./ Singers/",
+      "options": [],
+      "answer": "Singers often practise singing in the early morning.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “singing in the early” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm sinh hoạt hằng ngày. Câu hoàn chỉnh: “Singers often practise singing in the early morning.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 46."
+    },
+    {
+      "id": 79,
+      "question": "What’s your favourite ...? - Oh, Maths, I think.",
+      "options": [
+        "A. teacher",
+        "B. friend",
+        "C. subject",
+        "D. letter"
+      ],
+      "answer": "C. subject",
+      "explanation": "Chọn “subject” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What’s your favourite ___? - Oh, Maths, I think.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What’s your favourite subject? - Oh, Maths, I think.”. Nguồn đối chiếu: đề IOE gốc số 34, câu 59."
+    },
+    {
+      "id": 80,
+      "question": "Who did you have lunch w_ _ _ yesterday?",
+      "options": [],
+      "answer": "ith → with",
+      "explanation": "Điền các chữ “ith” để hoàn thành từ “with”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm sinh hoạt hằng ngày; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Who did you have lunch with yesterday?”. Nguồn đối chiếu: đề IOE gốc số 31, câu 141."
+    },
+    {
+      "id": 81,
+      "question": "What’s your favourite ...? – I like Geography. It’s very interesting.",
+      "options": [
+        "A. film",
+        "B. subject",
+        "C. sports",
+        "D. song"
+      ],
+      "answer": "B. subject",
+      "explanation": "Chọn “subject” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What’s your favourite ___? – I like Geography. It’s very interesting.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What’s your favourite subject? – I like Geography. It’s very interesting.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 135."
+    },
+    {
+      "id": 82,
+      "question": "You can see red, yellow and green on the traffic ....",
+      "options": [
+        "A. road",
+        "B. ball",
+        "C. lights",
+        "D. police officer"
+      ],
+      "answer": "C. lights",
+      "explanation": "Chọn “lights” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “You can see red, yellow and green on the traffic ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “You can see red, yellow and green on the traffic lights.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 192."
+    },
+    {
+      "id": 83,
+      "question": "Sắp xếp: to/ Are you/ read a comic/ going/ book tonight?/",
+      "options": [],
+      "answer": "Are you going to read a comic book tonight?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “to read a comic” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “Are you going to read a comic book tonight?”. Nguồn đối chiếu: đề IOE gốc số 29, câu 56."
+    },
+    {
+      "id": 84,
+      "question": "Linh speaks English ....",
+      "options": [
+        "A. fluent",
+        "B. fluency",
+        "C. fluently",
+        "D. fluentlier"
+      ],
+      "answer": "C. fluently",
+      "explanation": "Chọn “fluently” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Linh speaks English ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Linh speaks English fluently.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 110."
+    },
+    {
+      "id": 85,
+      "question": "A pain in your head is a head_ _ _ _ .",
+      "options": [],
+      "answer": "ache → headache",
+      "explanation": "Điền các chữ “ache” để hoàn thành từ “headache”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm đồ ăn và sức khỏe; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “A pain in your head is a headache.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 72."
+    },
+    {
+      "id": 86,
+      "question": "How did your family … your hometown on Tet holiday? – We came back by train.",
+      "options": [
+        "A. get from",
+        "B. got at",
+        "C. get to",
+        "D. get in"
+      ],
+      "answer": "C. get to",
+      "explanation": "Chọn “get to” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “How did your family ___ your hometown on Tet holiday? – We came back by train.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “How did your family get to your hometown on Tet holiday? – We came back by train.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 75."
+    },
+    {
+      "id": 87,
+      "question": "A bird can fly and a fish can _ _ _ _ .",
+      "options": [],
+      "answer": "swim",
+      "explanation": "Điền “swim” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm thể thao và giải trí và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “A bird can fly and a fish can swim.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 190."
+    },
+    {
+      "id": 88,
+      "question": "Mary ... me the way to Ho Tay lake.",
+      "options": [
+        "A. gives",
+        "B. shows",
+        "C. tell",
+        "D. told"
+      ],
+      "answer": "B. shows",
+      "explanation": "Chọn “shows” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Mary ___ me the way to Ho Tay lake.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Mary shows me the way to Ho Tay lake.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 21."
+    },
+    {
+      "id": 89,
+      "question": "Sắp xếp: have a new/ We are/ from Germany./ going to/ classmate/",
+      "options": [],
+      "answer": "We are going to have a new classmate from Germany.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “have a new classmate” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “We are going to have a new classmate from Germany.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 85."
+    },
+    {
+      "id": 90,
+      "question": "Dad likes music but he can_ _ _ play any musical instruments.",
+      "options": [],
+      "answer": "not → cannot",
+      "explanation": "Điền các chữ “not” để hoàn thành từ “cannot”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm thể thao và giải trí; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Dad likes music but he cannot play any musical instruments.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 74."
+    },
+    {
+      "id": 91,
+      "question": "We learn about poems and novels in ....",
+      "options": [
+        "A. History",
+        "B. Literature",
+        "C. Physics",
+        "D. Chemistry"
+      ],
+      "answer": "B. Literature",
+      "explanation": "Chọn “Literature” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “We learn about poems and novels in ___”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “We learn about poems and novels in Literature.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 71."
+    },
+    {
+      "id": 92,
+      "question": "Life in the countryside is peace_ _ _ .",
+      "options": [],
+      "answer": "ful → peaceful",
+      "explanation": "Điền các chữ “ful” để hoàn thành từ “peaceful”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm du lịch và địa điểm; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Life in the countryside is peaceful.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 6."
+    },
+    {
+      "id": 93,
+      "question": "Sắp xếp: mountain/ a year./ brother goes/ climbing once/ My elder/",
+      "options": [],
+      "answer": "My elder brother goes mountain climbing once a year.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “goes mountain climbing once” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My elder brother goes mountain climbing once a year.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 42."
+    },
+    {
+      "id": 94,
+      "question": "Sắp xếp: because/ in the countryside/ it is boring./ Mike/ hates living/",
+      "options": [],
+      "answer": "Mike hates living in the countryside because it is boring.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “the countryside because it” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “Mike hates living in the countryside because it is boring.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 17."
+    },
+    {
+      "id": 95,
+      "question": "I like Friday because I have IT lessons on that ….",
+      "options": [
+        "A. day",
+        "B. week",
+        "C. month",
+        "D. year"
+      ],
+      "answer": "A. day",
+      "explanation": "Chọn “day” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “I like Friday because I have IT lessons on that ___.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “I like Friday because I have IT lessons on that day.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 99."
+    },
+    {
+      "id": 96,
+      "question": "Please help me carry the bag. It’s so _ _ _ _ _ .",
+      "options": [],
+      "answer": "heavy",
+      "explanation": "Điền “heavy” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Please help me carry the bag. It’s so heavy.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 23."
+    },
+    {
+      "id": 97,
+      "question": "Five thirty also means ....",
+      "options": [
+        "A. half past five",
+        "B. half past four",
+        "C. a quarter past five",
+        "D. a quarter past four"
+      ],
+      "answer": "A. half past five",
+      "explanation": "Chọn “half past five” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Five thirty also means ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Five thirty also means half past five.”. Nguồn đối chiếu: đề IOE gốc số 34, câu 154."
+    },
+    {
+      "id": 98,
+      "question": "In ... class, we learn how to use computer.",
+      "options": [
+        "A. computer science",
+        "B. Arts",
+        "C. literature",
+        "D. Maths"
+      ],
+      "answer": "A. computer science",
+      "explanation": "Chọn “computer science” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “In ___ class, we learn how to use computer.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “In computer science class, we learn how to use computer.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 99."
+    },
+    {
+      "id": 99,
+      "question": "Sắp xếp: They/ in the winter./ often wear/ warm clothes/ boots and/",
+      "options": [],
+      "answer": "They often wear boots and warm clothes in the winter.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “and warm clothes in” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm thiên nhiên và thời tiết. Câu hoàn chỉnh: “They often wear boots and warm clothes in the winter.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 11."
+    },
+    {
+      "id": 100,
+      "question": "Can you tell me _ _ _ _ _ a special day in your life?",
+      "options": [],
+      "answer": "about",
+      "explanation": "Điền “about” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Can you tell me about a special day in your life?”. Nguồn đối chiếu: đề IOE gốc số 27, câu 193."
+    },
+    {
+      "id": 101,
+      "question": "Hoa stays at home and ____ the Internet for some information.",
+      "options": [
+        "A. surfs",
+        "B. plays",
+        "C. does",
+        "D. goes"
+      ],
+      "answer": "A. surfs",
+      "explanation": "Chọn “surfs” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Hoa stays at home and ___the Internet for some information.”. Đây là từ vựng thuộc chủ điểm nhà cửa và đồ vật; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Hoa stays at home and surfs the Internet for some information.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 18."
+    },
+    {
+      "id": 102,
+      "question": "The teacher asks the class to ans_ _ _ all the questions.",
+      "options": [],
+      "answer": "wer → answer",
+      "explanation": "Điền các chữ “wer” để hoàn thành từ “answer”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm trường học; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “The teacher asks the class to answer all the questions.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 175."
+    },
+    {
+      "id": 103,
+      "question": "Lan, remember to stay ___.",
+      "options": [
+        "A. healthy",
+        "B. healthiest",
+        "C. healthily",
+        "D. health"
+      ],
+      "answer": "A. healthy",
+      "explanation": "Chọn “healthy” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Lan, remember to stay ___.”. Đây là từ vựng thuộc chủ điểm đồ ăn và sức khỏe; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Lan, remember to stay healthy.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 90."
+    },
+    {
+      "id": 104,
+      "question": "Sắp xếp: My family and I/ in a restaurant/ will have dinner/ by the sea./",
+      "options": [],
+      "answer": "My family and I will have dinner in a restaurant by the sea.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “have dinner in a” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My family and I will have dinner in a restaurant by the sea.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 62."
+    },
+    {
+      "id": 105,
+      "question": "My sons and daughters want to travel _ _ _ _ _ _ the world.",
+      "options": [],
+      "answer": "around",
+      "explanation": "Điền “around” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm du lịch và địa điểm và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “My sons and daughters want to travel around the world.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 108."
+    },
+    {
+      "id": 106,
+      "question": "At my birthday party, someone … the lights, so I couldn’t see anything.",
+      "options": [
+        "A. turned on",
+        "B. turned off",
+        "C. turned of",
+        "D. turns off"
+      ],
+      "answer": "B. turned off",
+      "explanation": "Chọn “turned off” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “At my birthday party, someone ___ the lights, so I couldn’t see anything.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “At my birthday party, someone turned off the lights, so I couldn’t see anything.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 194."
+    },
+    {
+      "id": 107,
+      "question": "Do you know anything _ _ _ _ _ my school?",
+      "options": [],
+      "answer": "about",
+      "explanation": "Điền “about” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Do you know anything about my school?”. Nguồn đối chiếu: đề IOE gốc số 38, câu 7."
+    },
+    {
+      "id": 108,
+      "question": "Sắp xếp: photo./ there and/ Stand/ take your/ I’ll/",
+      "options": [],
+      "answer": "Stand there and I’ll take your photo.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “and i'll take your” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp. Câu hoàn chỉnh: “Stand there and I’ll take your photo.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 136."
+    },
+    {
+      "id": 109,
+      "question": "We often have … after lunch.",
+      "options": [
+        "A. tea ice",
+        "B. ice’s tea",
+        "C. iced tea",
+        "D. tea’s iced"
+      ],
+      "answer": "C. iced tea",
+      "explanation": "Chọn “iced tea” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “We often have ___ after lunch.”. Đây là từ vựng thuộc chủ điểm sinh hoạt hằng ngày; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “We often have iced tea after lunch.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 136."
+    },
+    {
+      "id": 110,
+      "question": "How often does your aunt go to the supermarket? - ….",
+      "options": [
+        "A. One",
+        "B. Once a week",
+        "C. Two",
+        "D. Once time"
+      ],
+      "answer": "B. Once a week",
+      "explanation": "Chọn “Once a week” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “How often does your aunt go to the supermarket? - ___.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “How often does your aunt go to the supermarket? - Once a week.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 108."
+    },
+    {
+      "id": 111,
+      "question": "My grandpa is _ _ _ _ _ but my grandma is light.",
+      "options": [],
+      "answer": "heavy",
+      "explanation": "Điền “heavy” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm gia đình và con người và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “My grandpa is heavy but my grandma is light.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 155."
+    },
+    {
+      "id": 112,
+      "question": "Where are they going to stay? – In a ....",
+      "options": [
+        "A. destination",
+        "B. hotel",
+        "C. vacation",
+        "D. capital"
+      ],
+      "answer": "B. hotel",
+      "explanation": "Chọn “hotel” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Where are they going to stay? – In a ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Where are they going to stay? – In a hotel.”. Nguồn đối chiếu: đề IOE gốc số 34, câu 190."
+    },
+    {
+      "id": 113,
+      "question": "Peter: How often does your aunt go to the supermarket? - Hoa: ….",
+      "options": [
+        "A. One",
+        "B. Once a week",
+        "C. Two",
+        "D. Once time"
+      ],
+      "answer": "B. Once a week",
+      "explanation": "Chọn “Once a week” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Peter: How often does your aunt go to the supermarket? - Hoa: ___.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Peter: How often does your aunt go to the supermarket? - Hoa: Once a week.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 17."
+    },
+    {
+      "id": 114,
+      "question": "Jim usually goes ... after school.",
+      "options": [
+        "A. to fishing",
+        "B. home",
+        "C. the cinema",
+        "D. house"
+      ],
+      "answer": "B. home",
+      "explanation": "Chọn “home” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Jim usually goes ___ after school.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Jim usually goes home after school.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 49."
+    },
+    {
+      "id": 115,
+      "question": "After Monday is _ _ _ _ _ _ _ and then, Wednesday.",
+      "options": [],
+      "answer": "tuesday",
+      "explanation": "Điền “tuesday” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “After Monday is Tuesday and then, Wednesday.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 139."
+    },
+    {
+      "id": 116,
+      "question": "Sắp xếp: this gift/ I/ send/ want to/ to my little sister./",
+      "options": [],
+      "answer": "I want to send this gift to my little sister.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “this gift to my” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “I want to send this gift to my little sister.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 165."
+    },
+    {
+      "id": 117,
+      "question": "I like to watch motor ... on TV. It’s really interesting.",
+      "options": [
+        "A. driving",
+        "B. racing",
+        "C. riding",
+        "D. playing"
+      ],
+      "answer": "B. racing",
+      "explanation": "Chọn “racing” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “I like to watch motor ___ on TV. It’s really interesting.”. Đây là từ vựng thuộc chủ điểm thể thao và giải trí; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “I like to watch motor racing on TV. It’s really interesting.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 175."
+    },
+    {
+      "id": 118,
+      "question": "Lan _ _ _ _ dressed before going to school.",
+      "options": [],
+      "answer": "gets",
+      "explanation": "Điền “gets” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Lan gets dressed before going to school.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 169."
+    },
+    {
+      "id": 119,
+      "question": "Lan wants to speak English fluently, so she practises … every day.",
+      "options": [
+        "A. to speak",
+        "B. speaking",
+        "C. spoke",
+        "D. speaks"
+      ],
+      "answer": "B. speaking",
+      "explanation": "Chọn “speaking” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Lan wants to speak English fluently, so she practises ___ every day.”. Đây là từ vựng thuộc chủ điểm sinh hoạt hằng ngày; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Lan wants to speak English fluently, so she practises speaking every day.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 16."
+    },
+    {
+      "id": 120,
+      "question": "Sắp xếp: playing football/ because he/ is very sporty./ Peter loves/",
+      "options": [],
+      "answer": "Peter loves playing football because he is very sporty.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “football because he is” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm thể thao và giải trí. Câu hoàn chỉnh: “Peter loves playing football because he is very sporty.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 37."
+    },
+    {
+      "id": 121,
+      "question": "Milk bottles can be … after being cleaned.",
+      "options": [
+        "A. recycled",
+        "B. thrown away",
+        "C. broken",
+        "D. reused"
+      ],
+      "answer": "A. recycled",
+      "explanation": "Chọn “recycled” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Milk bottles can be ___ after being cleaned.”. Đây là từ vựng thuộc chủ điểm đồ ăn và sức khỏe; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Milk bottles can be recycled after being cleaned.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 108."
+    },
+    {
+      "id": 122,
+      "question": "What’s her ...? – She’s French.",
+      "options": [
+        "A. country",
+        "B. nationality",
+        "C. language",
+        "D. national"
+      ],
+      "answer": "B. nationality",
+      "explanation": "Chọn “nationality” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What’s her ___? – She’s French.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What’s her nationality? – She’s French.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 12."
+    },
+    {
+      "id": 123,
+      "question": "I like reading stories because I can learn some ____ from them.",
+      "options": [
+        "A. lesson",
+        "B. lessons",
+        "C. answer",
+        "D. question"
+      ],
+      "answer": "B. lessons",
+      "explanation": "Chọn “lessons” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “I like reading stories because I can learn some ___from them.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “I like reading stories because I can learn some lessons from them.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 69."
+    },
+    {
+      "id": 124,
+      "question": "The sun ... in the east.",
+      "options": [
+        "A. is rising",
+        "B. rising",
+        "C. rises",
+        "D. rise"
+      ],
+      "answer": "C. rises",
+      "explanation": "Chọn “rises” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “The sun ___ in the east.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “The sun rises in the east.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 170."
+    },
+    {
+      "id": 125,
+      "question": "Did you talk to your parents _ _ _ _ _ your study yesterday?",
+      "options": [],
+      "answer": "about",
+      "explanation": "Điền “about” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm gia đình và con người và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Did you talk to your parents about your study yesterday?”. Nguồn đối chiếu: đề IOE gốc số 31, câu 115."
+    },
+    {
+      "id": 126,
+      "question": "Elisa is ... something on her book.",
+      "options": [
+        "A. writing",
+        "B. writting",
+        "C. wrote",
+        "D. writes"
+      ],
+      "answer": "A. writing",
+      "explanation": "Chọn “writing” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Elisa is ___ something on her book.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Elisa is writing something on her book.”. Nguồn đối chiếu: đề IOE gốc số 40, câu 59."
+    },
+    {
+      "id": 127,
+      "question": "Sắp xếp: My parents/ at Christmas./ a gift/ usually/ give me/",
+      "options": [],
+      "answer": "My parents usually give me a gift at Christmas.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “give me a gift” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My parents usually give me a gift at Christmas.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 176."
+    },
+    {
+      "id": 128,
+      "question": "We use _ _ _ _ _ _ to write things on the blackboard.",
+      "options": [],
+      "answer": "chalks",
+      "explanation": "Điền “chalks” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “We use chalks to write things on the blackboard.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 20."
+    },
+    {
+      "id": 129,
+      "question": "We had a wonderful summer _ _ _ _ in New York.",
+      "options": [],
+      "answer": "camp",
+      "explanation": "Điền “camp” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm thiên nhiên và thời tiết và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “We had a wonderful summer camp in New York.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 173."
+    },
+    {
+      "id": 130,
+      "question": "John likes sports very much. He usually plays … after school.",
+      "options": [
+        "A. games and geography",
+        "B. soccer and literature",
+        "C. volleyball and soccer",
+        "D. volleyball and swimming"
+      ],
+      "answer": "C. volleyball and soccer",
+      "explanation": "Chọn “volleyball and soccer” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “John likes sports very much. He usually plays ___ after school.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “John likes sports very much. He usually plays volleyball and soccer after school.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 187."
+    },
+    {
+      "id": 131,
+      "question": "Sắp xếp: with/ my mother/ the supermarket/ yesterday morning./ I went to/",
+      "options": [],
+      "answer": "I went to the supermarket with my mother yesterday morning.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “supermarket with my mother” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “I went to the supermarket with my mother yesterday morning.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 73."
+    },
+    {
+      "id": 132,
+      "question": "- Your new backpack is very nice. - …",
+      "options": [
+        "A. Thank you.",
+        "B. Excuse me.",
+        "C. That’s it.",
+        "D. No, I can’t."
+      ],
+      "answer": "A. Thank you.",
+      "explanation": "Chọn “Thank you.” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “- Your new backpack is very nice. - ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “- Your new backpack is very nice. - Thank you.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 32."
+    },
+    {
+      "id": 133,
+      "question": "Sắp xếp: with her friends./ After school/ she usually/ outside/ plays/",
+      "options": [],
+      "answer": "After school she usually plays outside with her friends.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “usually plays outside with” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “After school she usually plays outside with her friends.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 6."
+    },
+    {
+      "id": 134,
+      "question": "Let’s make a _ _ _ _ _ e.",
+      "options": [],
+      "answer": "squar",
+      "explanation": "Điền “squar” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Let’s make a squar e.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 115."
+    },
+    {
+      "id": 135,
+      "question": "What … does Peter often study at school on Tuesday? – He has Math, English and Art.",
+      "options": [
+        "A. objects",
+        "B. subjects",
+        "C. food",
+        "D. drink"
+      ],
+      "answer": "B. subjects",
+      "explanation": "Chọn “subjects” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What ___ does Peter often study at school on Tuesday? – He has Math, English and Art.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What subjects does Peter often study at school on Tuesday? – He has Math, English and Art.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 132."
+    },
+    {
+      "id": 136,
+      "question": "Please _ _ _ _ _ your hand and ask the teacher a question.",
+      "options": [],
+      "answer": "raise",
+      "explanation": "Điền “raise” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Please raise your hand and ask the teacher a question.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 159."
+    },
+    {
+      "id": 137,
+      "question": "Sắp xếp: on the farm?/ Must/ hard/ they/ work/",
+      "options": [],
+      "answer": "Must they work hard on the farm?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “work hard on the” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm nghề nghiệp. Câu hoàn chỉnh: “Must they work hard on the farm?”. Nguồn đối chiếu: đề IOE gốc số 40, câu 185."
+    },
+    {
+      "id": 138,
+      "question": "My teacher combs her … every morning.",
+      "options": [
+        "A. face",
+        "B. nose",
+        "C. hair",
+        "D. hairs"
+      ],
+      "answer": "C. hair",
+      "explanation": "Chọn “hair” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “My teacher combs her ___ every morning.”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “My teacher combs her hair every morning.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 122."
+    },
+    {
+      "id": 139,
+      "question": "Wash your hands before ... lunch, please.",
+      "options": [
+        "A. taking",
+        "B. to have",
+        "C. having",
+        "D. to take"
+      ],
+      "answer": "C. having",
+      "explanation": "Chọn “having” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Wash your hands before ___ lunch, please.”. Đây là từ vựng thuộc chủ điểm sinh hoạt hằng ngày; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Wash your hands before having lunch, please.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 125."
+    },
+    {
+      "id": 140,
+      "question": "Miss Hien has … hair.",
+      "options": [
+        "A. black long",
+        "B. long black",
+        "C. a long black",
+        "D. oval black"
+      ],
+      "answer": "B. long black",
+      "explanation": "Chọn “long black” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Miss Hien has ___ hair.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Miss Hien has long black hair.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 153."
+    },
+    {
+      "id": 141,
+      "question": "Be ... when you cross the road! It’s dangerous!",
+      "options": [
+        "A. quiet",
+        "B. careful",
+        "C. noisy",
+        "D. slowly"
+      ],
+      "answer": "B. careful",
+      "explanation": "Chọn “careful” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Be ___ when you cross the road! It’s dangerous!”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Be careful when you cross the road! It’s dangerous!”. Nguồn đối chiếu: đề IOE gốc số 36, câu 70."
+    },
+    {
+      "id": 142,
+      "question": "Martin and his family started to bui_ _ the house in March.",
+      "options": [],
+      "answer": "ld → build",
+      "explanation": "Điền các chữ “ld” để hoàn thành từ “build”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm gia đình và con người; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Martin and his family started to build the house in March.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 110."
+    },
+    {
+      "id": 143,
+      "question": "Sắp xếp: West Lake/ house next to/ He has/ a very modern/ in Hanoi./",
+      "options": [],
+      "answer": "He has a very modern house next to West Lake in Hanoi.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “house next to west” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm nhà cửa và đồ vật. Câu hoàn chỉnh: “He has a very modern house next to West Lake in Hanoi.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 189."
+    },
+    {
+      "id": 144,
+      "question": "Students are waiting for the bus at the bus stop ....",
+      "options": [
+        "A. now",
+        "B. at a moment",
+        "C. at a present",
+        "D. yesterday"
+      ],
+      "answer": "A. now",
+      "explanation": "Chọn “now” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Students are waiting for the bus at the bus stop ___”. Đây là từ vựng thuộc chủ điểm trường học; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Students are waiting for the bus at the bus stop now.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 85."
+    },
+    {
+      "id": 145,
+      "question": "Which day comes right after _ _ _ _ _ _ ? – Tuesday.",
+      "options": [],
+      "answer": "monday",
+      "explanation": "Điền “monday” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Which day comes right after Monday? – Tuesday.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 195."
+    },
+    {
+      "id": 146,
+      "question": "Sắp xếp: dinner./ I do/ my home/ work/ after/",
+      "options": [],
+      "answer": "I do my home work after dinner.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “my home work after” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm nhà cửa và đồ vật. Câu hoàn chỉnh: “I do my home work after dinner.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 156."
+    },
+    {
+      "id": 147,
+      "question": "Sắp xếp: drawing/ a/ picture of/ Jane is/ an elephant./",
+      "options": [],
+      "answer": "Jane is drawing a picture of an elephant.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “a picture of an” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm động vật. Câu hoàn chỉnh: “Jane is drawing a picture of an elephant.”. Nguồn đối chiếu: đề IOE gốc số 38, câu 155."
+    },
+    {
+      "id": 148,
+      "question": "I don’t like to _ _ _ up early in the winter.",
+      "options": [],
+      "answer": "get",
+      "explanation": "Điền “get” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm sinh hoạt hằng ngày và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “I don’t like to get up early in the winter.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 85."
+    },
+    {
+      "id": 149,
+      "question": "Sắp xếp: doesn’t/ to eat/ want/ anything./ My friend/",
+      "options": [],
+      "answer": "My friend doesn’t want to eat anything.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “doesn't want to eat” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My friend doesn’t want to eat anything.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 80."
+    },
+    {
+      "id": 150,
+      "question": "What colour is Jane’s hair? – It’s ....",
+      "options": [
+        "A. wavy",
+        "B. blonde",
+        "C. straight",
+        "D. curly"
+      ],
+      "answer": "B. blonde",
+      "explanation": "Chọn “blonde” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “What colour is Jane’s hair? – It’s ___”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “What colour is Jane’s hair? – It’s blonde.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 179."
+    },
+    {
+      "id": 151,
+      "question": "Sắp xếp: holiday?/ to do/ What are you/ going/ this winter/",
+      "options": [],
+      "answer": "What are you going to do this winter holiday?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “going to do this” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “What are you going to do this winter holiday?”. Nguồn đối chiếu: đề IOE gốc số 34, câu 130."
+    },
+    {
+      "id": 152,
+      "question": "I’m fond of _ _ _ _ _ _ _ the Internet.",
+      "options": [],
+      "answer": "surfing",
+      "explanation": "Điền “surfing” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm công nghệ và truyền thông và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “I’m fond of surfing the Internet.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 106."
+    },
+    {
+      "id": 153,
+      "question": "He ... beef or chicken.",
+      "options": [
+        "A. never eats",
+        "B. eats never",
+        "C. is never eating",
+        "D. never is eating"
+      ],
+      "answer": "A. never eats",
+      "explanation": "Chọn “never eats” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “He ___ beef or chicken.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “He never eats beef or chicken.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 132."
+    },
+    {
+      "id": 154,
+      "question": "Tomatoes, lettuce and potatoes are … .",
+      "options": [
+        "A. fruits",
+        "B. vegetables",
+        "C. drinks",
+        "D. flowers"
+      ],
+      "answer": "B. vegetables",
+      "explanation": "Chọn “vegetables” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Tomatoes, lettuce and potatoes are ___ .”. Đây là từ vựng thuộc chủ điểm nhà cửa và đồ vật; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Tomatoes, lettuce and potatoes are vegetables.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 187."
+    },
+    {
+      "id": 155,
+      "question": "What _ _ _ _ _ _ _ _ does Tom speak? – He speaks English.",
+      "options": [],
+      "answer": "language",
+      "explanation": "Điền “language” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “What language does Tom speak? – He speaks English.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 41."
+    },
+    {
+      "id": 156,
+      "question": "Sắp xếp: holiday in/ summer./ I had/ a lovely/ Da Lat last/",
+      "options": [],
+      "answer": "I had a lovely holiday in Da Lat last summer.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “holiday in da lat” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “I had a lovely holiday in Da Lat last summer.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 152."
+    },
+    {
+      "id": 157,
+      "question": "On January 23 rd,2020, Vietnam _____ its first case of COVID-19.",
+      "options": [
+        "A. reports",
+        "B. reported",
+        "C. is reporting",
+        "D. will report"
+      ],
+      "answer": "B. reported",
+      "explanation": "Chọn “reported” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “On January23rd,2020, Vietnam ___its first case of COVID-19.”. Đây là từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “On January 23rd,2020, Vietnam reported its first case of COVID – 19.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 108."
+    },
+    {
+      "id": 158,
+      "question": "A: Which _ _ _ _ _ _ _ _ does she speak? - B: She speaks Vietnamese.",
+      "options": [],
+      "answer": "language",
+      "explanation": "Điền “language” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “A: Which language does she speak? - B: She speaks Vietnamese.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 138."
+    },
+    {
+      "id": 159,
+      "question": "It began ... one hour ago.",
+      "options": [
+        "A. rains",
+        "B. raining",
+        "C. rain",
+        "D. in raining"
+      ],
+      "answer": "B. raining",
+      "explanation": "Chọn “raining” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “It began ___ one hour ago.”. Đây là từ vựng thuộc chủ điểm thiên nhiên và thời tiết; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “It began raining one hour ago.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 126."
+    },
+    {
+      "id": 160,
+      "question": "Some rivers are _ _ _ dirty and dangerous to swim in.",
+      "options": [],
+      "answer": "too",
+      "explanation": "Điền “too” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm thể thao và giải trí và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Some rivers are too dirty and dangerous to swim in.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 137."
+    },
+    {
+      "id": 161,
+      "question": "Sắp xếp: late/ His students/ for school./ are/ sometimes/",
+      "options": [],
+      "answer": "His students are sometimes late for school.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “are sometimes late for” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “His students are sometimes late for school.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 44."
+    },
+    {
+      "id": 162,
+      "question": "The weather is very cold these days. We should drink hot water to _______.",
+      "options": [
+        "A. play sports",
+        "B. keep warm",
+        "C. get a cold",
+        "D. be cold"
+      ],
+      "answer": "B. keep warm",
+      "explanation": "Chọn “keep warm” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “The weather is very cold these days. We should drink hot water to ___.”. Đây là từ vựng thuộc chủ điểm đồ ăn và sức khỏe; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “The weather is very cold these days. We should drink hot water to keep warm.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 193."
+    },
+    {
+      "id": 163,
+      "question": "Sắp xếp: going to/ seafood./ to eat/ the restaurant/ They are/",
+      "options": [],
+      "answer": "They are going to the restaurant to eat seafood.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “to the restaurant to” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm đồ ăn và sức khỏe. Câu hoàn chỉnh: “They are going to the restaurant to eat seafood.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 34."
+    },
+    {
+      "id": 164,
+      "question": "What _ _ _ _ _ playing basketball this afternoon? - Good idea.",
+      "options": [],
+      "answer": "about",
+      "explanation": "Điền “about” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm sinh hoạt hằng ngày và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “What about playing basketball this afternoon? - Good idea.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 109."
+    },
+    {
+      "id": 165,
+      "question": "I often s_ _ _ the Internet before I go to bed.",
+      "options": [],
+      "answer": "urf → surf",
+      "explanation": "Điền các chữ “urf” để hoàn thành từ “surf”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm sinh hoạt hằng ngày; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “I often surf the Internet before I go to bed.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 16."
+    },
+    {
+      "id": 166,
+      "question": "Nam will go to the ____ this Sunday with his family. They will see many green trees and beautiful birds.",
+      "options": [
+        "A. mountains",
+        "B. sun",
+        "C. city",
+        "D. moon"
+      ],
+      "answer": "A. mountains",
+      "explanation": "Chọn “mountains” vì từ/cụm từ này đúng nghĩa và đúng từ loại trong ngữ cảnh “Nam will go to the ___this Sunday with his family. They will see many green trees and beautiful birds.”. Đây là từ vựng thuộc chủ điểm gia đình và con người; ba phương án còn lại không phù hợp đồng thời về nghĩa hoặc cách kết hợp từ. Câu hoàn chỉnh: “Nam will go to the mountains this Sunday with his family. They will see many green trees and beautiful birds.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 160."
+    },
+    {
+      "id": 167,
+      "question": "Sắp xếp: speak/ can/ languages./ many/ Some people/",
+      "options": [],
+      "answer": "Some people can speak many languages.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “can speak many languages” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “Some people can speak many languages.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 95."
+    },
+    {
+      "id": 168,
+      "question": "Sắp xếp: often buys/ many new clothes/ Her mother/ at weekends./ her/",
+      "options": [],
+      "answer": "Her mother often buys her many new clothes at weekends.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “her many new clothes” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “Her mother often buys her many new clothes at weekends.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 165."
+    },
+    {
+      "id": 169,
+      "question": "Sắp xếp: mother prefers/ traditional/ shopping to online/ My/ shopping./",
+      "options": [],
+      "answer": "My mother prefers traditional shopping to online shopping.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “traditional shopping to online” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My mother prefers traditional shopping to online shopping.”. Nguồn đối chiếu: đề IOE gốc số 40, câu 160."
+    },
+    {
+      "id": 170,
+      "question": "Bye. See you _ _ _ _ _ _ ow.",
+      "options": [],
+      "answer": "tomorr → tomorrow",
+      "explanation": "Điền các chữ “tomorr” để hoàn thành từ “tomorrow”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm từ vựng miêu tả và giao tiếp; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Bye. See you tomorrow.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 32."
+    },
+    {
+      "id": 171,
+      "question": "Sắp xếp: sister/ is a singer./ younger/ My/ Janet/",
+      "options": [],
+      "answer": "My younger sister Janet is a singer.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “sister janet is a” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “My younger sister Janet is a singer.”. Nguồn đối chiếu: đề IOE gốc số 43, câu 162."
+    },
+    {
+      "id": 172,
+      "question": "Sắp xếp: Linh’s sister/ the beach./ beautiful house/ near/ has a/",
+      "options": [],
+      "answer": "Linh’s sister has a beautiful house near the beach.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “a beautiful house near” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “Linh’s sister has a beautiful house near the beach.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 187."
+    },
+    {
+      "id": 173,
+      "question": "Where are you going this _ _ _ _ end? – I will stay at home.",
+      "options": [],
+      "answer": "week → weekend",
+      "explanation": "Điền các chữ “week” để hoàn thành từ “weekend”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm nhà cửa và đồ vật; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “Where are you going this weekend? – I will stay at home.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 114."
+    },
+    {
+      "id": 174,
+      "question": "Sắp xếp: are there/ railway stations/ at the side/ How many/ of the river?/",
+      "options": [],
+      "answer": "How many railway stations are there at the side of the river?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “there at the side” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “How many railway stations are there at the side of the river?”. Nguồn đối chiếu: đề IOE gốc số 23, câu 81."
+    },
+    {
+      "id": 175,
+      "question": "What does your brother _ _ _ _ to be? - He wants to become a famous singer.",
+      "options": [],
+      "answer": "want",
+      "explanation": "Điền “want” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm gia đình và con người và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “What does your brother want to be? - He wants to become a famous singer.”. Nguồn đối chiếu: đề IOE gốc số 26, câu 144."
+    },
+    {
+      "id": 176,
+      "question": "Sắp xếp: tomorrow./ I will/ story about/ my school/ tell you the/",
+      "options": [],
+      "answer": "I will tell you the story about my school tomorrow.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “the story about my” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “I will tell you the story about my school tomorrow.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 106."
+    },
+    {
+      "id": 177,
+      "question": "Your temperature is high. You have a _ _ _ _ _ .",
+      "options": [],
+      "answer": "fever",
+      "explanation": "Điền “fever” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Your temperature is high. You have a fever.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 61."
+    },
+    {
+      "id": 178,
+      "question": "Sắp xếp: Put on/ your coat. It’s/ very/ outside./ cold/",
+      "options": [],
+      "answer": "Put on your coat. It’s very cold outside.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “coat it's very cold” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp. Câu hoàn chỉnh: “Put on your coat. It’s very cold outside.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 75."
+    },
+    {
+      "id": 179,
+      "question": "We have P.E. lessons at the _ _ _ .",
+      "options": [],
+      "answer": "gym",
+      "explanation": "Điền “gym” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “We have P. E. Lessons at the gym.”. Nguồn đối chiếu: đề IOE gốc số 43, câu 126."
+    },
+    {
+      "id": 180,
+      "question": "Sắp xếp: by car./ Vietnam/ travel/ around/ They often/",
+      "options": [],
+      "answer": "They often travel around Vietnam by car.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “travel around vietnam by” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm du lịch và địa điểm. Câu hoàn chỉnh: “They often travel around Vietnam by car.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 48."
+    },
+    {
+      "id": 181,
+      "question": "She is standing on one _ _ _ t.",
+      "options": [],
+      "answer": "foo",
+      "explanation": "Điền “foo” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “She is standing on one foo t.”. Nguồn đối chiếu: đề IOE gốc số 46, câu 52."
+    },
+    {
+      "id": 182,
+      "question": "Sắp xếp: white/ Zebra is a/ black/ and/ kind of horse./",
+      "options": [],
+      "answer": "Zebra is a black and white kind of horse.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “black and white kind” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm động vật. Câu hoàn chỉnh: “Zebra is a black and white kind of horse.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 151."
+    },
+    {
+      "id": 183,
+      "question": "I live in a village in the m_ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "ountains → mountains",
+      "explanation": "Điền các chữ “ountains” để hoàn thành từ “mountains”. Từ hoàn chỉnh phù hợp với nội dung câu và thuộc chủ điểm du lịch và địa điểm; cần giữ đúng thứ tự chữ cái và chính tả. Câu hoàn chỉnh: “I live in a village in the mountains.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 126."
+    },
+    {
+      "id": 184,
+      "question": "I’m doing my homework. Let’s play chess _ _ _ _ _ .",
+      "options": [],
+      "answer": "later",
+      "explanation": "Điền “later” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “I’m doing my homework. Let’s play chess later.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 24."
+    },
+    {
+      "id": 185,
+      "question": "Sắp xếp: There/ next to/ chair/ is a/ the table./",
+      "options": [],
+      "answer": "There is a chair next to the table.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “chair next to the” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm nhà cửa và đồ vật. Câu hoàn chỉnh: “There is a chair next to the table.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 89."
+    },
+    {
+      "id": 186,
+      "question": "How _ _ _ _ _ does Mr. Ba go to Ha Noi? - Seldom, once a year.",
+      "options": [],
+      "answer": "often",
+      "explanation": "Điền “often” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “How often does Mr. Ba go to Ha Noi? - Seldom, once a year.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 50."
+    },
+    {
+      "id": 187,
+      "question": "Sắp xếp: and visit/ my parents/ Would you/ like to come/ next summer?/",
+      "options": [],
+      "answer": "Would you like to come and visit my parents next summer?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “come and visit my” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “Would you like to come and visit my parents next summer?”. Nguồn đối chiếu: đề IOE gốc số 29, câu 147."
+    },
+    {
+      "id": 188,
+      "question": "I often have lunch at home. But right now I am _ _ _ _ _ to a restaurant.",
+      "options": [],
+      "answer": "going",
+      "explanation": "Điền “going” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm nhà cửa và đồ vật và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “I often have lunch at home. But right now I am going to a restaurant.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 137."
+    },
+    {
+      "id": 189,
+      "question": "Sắp xếp: What time/ your father/ get up/ and have breakfast?/ does/",
+      "options": [],
+      "answer": "What time does your father get up and have breakfast?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “father get up and” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm gia đình và con người. Câu hoàn chỉnh: “What time does your father get up and have breakfast?”. Nguồn đối chiếu: đề IOE gốc số 34, câu 38."
+    },
+    {
+      "id": 190,
+      "question": "Remember to _ _ _ _ _ _ the book to the library.",
+      "options": [],
+      "answer": "return",
+      "explanation": "Điền “return” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Remember to return the book to the library.”. Nguồn đối chiếu: đề IOE gốc số 42, câu 131."
+    },
+    {
+      "id": 191,
+      "question": "Sắp xếp: goes to/ breakfast./ after having/ school/ She/",
+      "options": [],
+      "answer": "She goes to school after having breakfast.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “to school after having” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “She goes to school after having breakfast.”. Nguồn đối chiếu: đề IOE gốc số 36, câu 142."
+    },
+    {
+      "id": 192,
+      "question": "Sắp xếp: the hottest/ season of/ Summer is/ a year./",
+      "options": [],
+      "answer": "Summer is the hottest season of a year.",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “hottest season of a” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm thiên nhiên và thời tiết. Câu hoàn chỉnh: “Summer is the hottest season of a year.”. Nguồn đối chiếu: đề IOE gốc số 43, câu 188."
+    },
+    {
+      "id": 193,
+      "question": "Sorry, I can’t go out with you now. I am _ _ _ _ _ my homework.",
+      "options": [],
+      "answer": "doing",
+      "explanation": "Điền “doing” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Sorry, I can’t go out with you now. I am doing my homework.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 83."
+    },
+    {
+      "id": 194,
+      "question": "Sắp xếp: take part in/ Will you/ speaking festival/ next Saturday?/ school English/",
+      "options": [],
+      "answer": "Will you take part in school English speaking festival next Saturday?",
+      "explanation": "Sắp xếp theo trật tự câu tiếng Anh: chủ ngữ, động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Cụm “in school english speaking” cần được giữ đúng thứ tự để diễn đạt tự nhiên; câu luyện từ vựng thuộc chủ điểm trường học. Câu hoàn chỉnh: “Will you take part in school English speaking festival next Saturday?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 178."
+    },
+    {
+      "id": 195,
+      "question": "Another word for ’’football’’ is ’’_ _ _ _ _ r’’.",
+      "options": [],
+      "answer": "socce",
+      "explanation": "Điền “socce” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm thể thao và giải trí và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Another word for’’football’’ is’’ socce r’’.”. Nguồn đối chiếu: đề IOE gốc số 46, câu 46."
+    },
+    {
+      "id": 196,
+      "question": "Go straight _ _ _ _ _ . The bank is on your left.",
+      "options": [],
+      "answer": "ahead",
+      "explanation": "Điền “ahead” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Go straight ahead. The bank is on your left.”. Nguồn đối chiếu: đề IOE gốc số 41, câu 42."
+    },
+    {
+      "id": 197,
+      "question": "Cinderella is my favourite _ _ _ _ _ tale.",
+      "options": [],
+      "answer": "fairy",
+      "explanation": "Điền “fairy” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “Cinderella is my favourite fairy tale.”. Nguồn đối chiếu: đề IOE gốc số 49, câu 22."
+    },
+    {
+      "id": 198,
+      "question": "There’s a football _ _ _ _ _ on television this evening.",
+      "options": [],
+      "answer": "match",
+      "explanation": "Điền “match” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm sinh hoạt hằng ngày và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “There’s a football match on television this evening.”. Nguồn đối chiếu: đề IOE gốc số 44, câu 109."
+    },
+    {
+      "id": 199,
+      "question": "A: How long is it? - B: It’s _ _ _ _ _ _ _4 and 10 meters long.",
+      "options": [],
+      "answer": "between",
+      "explanation": "Điền “between” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm từ vựng miêu tả và giao tiếp và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “A: How long is it? - B: It’s between 4 and 10 meters long.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 45."
+    },
+    {
+      "id": 200,
+      "question": "The movie theater is _ _ _ _ _ _ _ the restaurant and the bookstore.",
+      "options": [],
+      "answer": "between",
+      "explanation": "Điền “between” vì từ/cụm từ này tạo thành cách diễn đạt tự nhiên, đúng nghĩa trong câu. Nó cung cấp thông tin từ vựng thuộc chủ điểm trường học và khớp với các từ đứng trước, sau chỗ trống. Câu hoàn chỉnh: “The movie theater is between the restaurant and the bookstore.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 77."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
