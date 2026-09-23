@@ -1,0 +1,1908 @@
+{
+  "title": "IOE Lớp 5 - Chuyên đề 4 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "The tigers like eating _______.",
+      "options": [],
+      "answer": "meat",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The tigers like eating _______.”, đáp án phù hợp là “meat”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 74.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image1.jpg"
+    },
+    {
+      "id": 2,
+      "question": "The monkeys love eating ____.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The monkeys love eating ____.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 174.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image2.jpg"
+    },
+    {
+      "id": 3,
+      "question": "What are the dwarfs like? - They're _______.",
+      "options": [],
+      "answer": "short and hard-working",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What are the dwarfs like? - They're _______.”, đáp án phù hợp là “short and hard-working”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 13.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image3.jpg"
+    },
+    {
+      "id": 4,
+      "question": "This is a magic l_ _ _ .",
+      "options": [],
+      "answer": "amp",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “This is a magic l_ _ _ .”, đáp án phù hợp là “amp”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 167.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image4.jpg"
+    },
+    {
+      "id": 5,
+      "question": "It rains _______ in October this year.",
+      "options": [],
+      "answer": "a lot",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “It rains _______ in October this year.”, đáp án phù hợp là “a lot”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 2.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image5.jpg"
+    },
+    {
+      "id": 6,
+      "question": "What time is it?",
+      "options": [],
+      "answer": "six fifteen",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What time is it?”, đáp án phù hợp là “six fifteen”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 105.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image6.jpg"
+    },
+    {
+      "id": 7,
+      "question": "I ride my bicy_ _ _ to school every day.",
+      "options": [],
+      "answer": "cle",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I ride my bicy_ _ _ to school every day.”, đáp án phù hợp là “cle”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 132.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image7.jpg"
+    },
+    {
+      "id": 8,
+      "question": "Lisa is playing the guit_ _ at the moment.",
+      "options": [],
+      "answer": "ar",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Lisa is playing the guit_ _ at the moment.”, đáp án phù hợp là “ar”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 157.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image8.jpg"
+    },
+    {
+      "id": 9,
+      "question": "There are th_ _ _ _ days in June.",
+      "options": [],
+      "answer": "irty",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There are th_ _ _ _ days in June.”, đáp án phù hợp là “irty”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 2.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image9.jpg"
+    },
+    {
+      "id": 10,
+      "question": "You can ride a motorbike when you are ______.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “You can ride a motorbike when you are ______.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 199.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image10.jpg"
+    },
+    {
+      "id": 11,
+      "question": "_____ is a kind of transportation in Vietnam.",
+      "options": [],
+      "answer": "Motorbike",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “_____ is a kind of transportation in Vietnam.”, đáp án phù hợp là “Motorbike”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 29.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image11.jpg"
+    },
+    {
+      "id": 12,
+      "question": "There’s nothing in the … . It’s empty.",
+      "options": [],
+      "answer": "fridge",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There’s nothing in the … . It’s empty.”, đáp án phù hợp là “fridge”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 66.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image12.jpg"
+    },
+    {
+      "id": 13,
+      "question": "My aunt is a … .",
+      "options": [],
+      "answer": "nurse",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My aunt is a … .”, đáp án phù hợp là “nurse”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 80.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image13.jpg"
+    },
+    {
+      "id": 14,
+      "question": "We use a _ _ _ _ when we go camping.",
+      "options": [],
+      "answer": "tent",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “We use a _ _ _ _ when we go camping.”, đáp án phù hợp là “tent”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 79.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image14.jpg"
+    },
+    {
+      "id": 15,
+      "question": "He wants to become a co_ _ in the future.",
+      "options": [],
+      "answer": "ok",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “He wants to become a co_ _ in the future.”, đáp án phù hợp là “ok”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 164.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image15.jpg"
+    },
+    {
+      "id": 16,
+      "question": "The horses run quick_ _ in the field.",
+      "options": [],
+      "answer": "ly",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The horses run quick_ _ in the field.”, đáp án phù hợp là “ly”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 114.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image16.jpg"
+    },
+    {
+      "id": 17,
+      "question": "Hung is interested in collecting _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "stamps",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Hung is interested in collecting _ _ _ _ _ _ .”, đáp án phù hợp là “stamps”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 71.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image17.jpg"
+    },
+    {
+      "id": 18,
+      "question": "I’m going to Mary’s birthday _ _ _ _ _ this evening.",
+      "options": [],
+      "answer": "party",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I’m going to Mary’s birthday _ _ _ _ _ this evening.”, đáp án phù hợp là “party”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 132.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image18.jpg"
+    },
+    {
+      "id": 19,
+      "question": "After doing morning exercise, I have break_ _ _ _ .",
+      "options": [],
+      "answer": "fast",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “After doing morning exercise, I have break_ _ _ _ .”, đáp án phù hợp là “fast”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 142.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image19.jpg"
+    },
+    {
+      "id": 20,
+      "question": "The bear is sleeping in a _____.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The bear is sleeping in a _____.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 160.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image20.jpg"
+    },
+    {
+      "id": 21,
+      "question": "When I study in the evening, I need a _ _ _ _ .",
+      "options": [],
+      "answer": "lamp",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “When I study in the evening, I need a _ _ _ _ .”, đáp án phù hợp là “lamp”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 32.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image21.jpg"
+    },
+    {
+      "id": 22,
+      "question": "The teacher is talking about her st_ _ _ _ _ _ .",
+      "options": [],
+      "answer": "udents",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The teacher is talking about her st_ _ _ _ _ _ .”, đáp án phù hợp là “udents”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 200.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image22.jpg"
+    },
+    {
+      "id": 23,
+      "question": "There are l_ _ _ of beautiful flowers in the garden.",
+      "options": [],
+      "answer": "ots",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There are l_ _ _ of beautiful flowers in the garden.”, đáp án phù hợp là “ots”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 107.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image23.jpg"
+    },
+    {
+      "id": 24,
+      "question": "Be careful! The _ _ _ _ _ is very sharp.",
+      "options": [],
+      "answer": "knife",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Be careful! The _ _ _ _ _ is very sharp.”, đáp án phù hợp là “knife”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 181.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image24.jpg"
+    },
+    {
+      "id": 25,
+      "question": "I have breakfast with bre_ _ and jam.",
+      "options": [],
+      "answer": "ad",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I have breakfast with bre_ _ and jam.”, đáp án phù hợp là “ad”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 91.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image25.jpg"
+    },
+    {
+      "id": 26,
+      "question": "My aunt is a … .",
+      "options": [],
+      "answer": "nurse",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My aunt is a … .”, đáp án phù hợp là “nurse”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 135.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image26.png"
+    },
+    {
+      "id": 27,
+      "question": "Snow White has ______ hair.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Snow White has ______ hair.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 10, câu 40.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image27.jpg"
+    },
+    {
+      "id": 28,
+      "question": "She reads _ _ _ _ _ _ _ _ _ _3 times a week.",
+      "options": [],
+      "answer": "newspapers",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “She reads _ _ _ _ _ _ _ _ _ _3 times a week.”, đáp án phù hợp là “newspapers”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 137.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image28.jpg"
+    },
+    {
+      "id": 29,
+      "question": "My sister likes playing _ _ _ _ _ _ _ _ every afternoon.",
+      "options": [],
+      "answer": "football",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My sister likes playing _ _ _ _ _ _ _ _ every afternoon.”, đáp án phù hợp là “football”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 126.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image29.jpg"
+    },
+    {
+      "id": 30,
+      "question": "Would you like a _ _ _ of coffee? - Yes, please.",
+      "options": [],
+      "answer": "cup",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Would you like a _ _ _ of coffee? - Yes, please.”, đáp án phù hợp là “cup”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 109.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image30.jpg"
+    },
+    {
+      "id": 31,
+      "question": "There is a _ _ _ _ _ around our garden.",
+      "options": [],
+      "answer": "fence",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There is a _ _ _ _ _ around our garden.”, đáp án phù hợp là “fence”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 91.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image31.png"
+    },
+    {
+      "id": 32,
+      "question": "I get up at ha_ _ past six in the morning.",
+      "options": [],
+      "answer": "lf",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I get up at ha_ _ past six in the morning.”, đáp án phù hợp là “lf”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 127.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image32.jpg"
+    },
+    {
+      "id": 33,
+      "question": "Jane _ _ _ _ _ her bike home at6.",
+      "options": [],
+      "answer": "rides",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Jane _ _ _ _ _ her bike home at6.”, đáp án phù hợp là “rides”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 44.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image33.jpg"
+    },
+    {
+      "id": 34,
+      "question": "I learn Ma_ _ _ to do calculations.",
+      "options": [],
+      "answer": "ths",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I learn Ma_ _ _ to do calculations.”, đáp án phù hợp là “ths”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 47.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image34.jpg"
+    },
+    {
+      "id": 35,
+      "question": "I like dancing, I want to be a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "dancer",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I like dancing, I want to be a _ _ _ _ _ _ .”, đáp án phù hợp là “dancer”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 138.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image35.jpg"
+    },
+    {
+      "id": 36,
+      "question": "Phong learns vocabulary by ______.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Phong learns vocabulary by ______.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 81.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image36.jpg"
+    },
+    {
+      "id": 37,
+      "question": "She goes ice-skating in ______.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “She goes ice-skating in ______.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 88.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image37.jpg"
+    },
+    {
+      "id": 38,
+      "question": "There will be a _ _ _ cert at the music school this weekend.",
+      "options": [],
+      "answer": "con",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There will be a _ _ _ cert at the music school this weekend.”, đáp án phù hợp là “con”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 95.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image38.jpg"
+    },
+    {
+      "id": 39,
+      "question": "You can buy some bread at the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "bakery",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “You can buy some bread at the _ _ _ _ _ _ .”, đáp án phù hợp là “bakery”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 126.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image39.jpg"
+    },
+    {
+      "id": 40,
+      "question": "I sometimes go fis_ _ _ _ with my grandfather at the weekend.",
+      "options": [],
+      "answer": "hing",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I sometimes go fis_ _ _ _ with my grandfather at the weekend.”, đáp án phù hợp là “hing”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 7.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image40.jpg"
+    },
+    {
+      "id": 41,
+      "question": "I some_ _ _ _ _ watch TV in the evening.",
+      "options": [],
+      "answer": "times",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I some_ _ _ _ _ watch TV in the evening.”, đáp án phù hợp là “times”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 58.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image41.jpg"
+    },
+    {
+      "id": 42,
+      "question": "It takes him30 minutes to _ _ _ _ every morning.",
+      "options": [],
+      "answer": "swim",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “It takes him30 minutes to _ _ _ _ every morning.”, đáp án phù hợp là “swim”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 196.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image42.jpg"
+    },
+    {
+      "id": 43,
+      "question": "I learn English to sing English s_ _ _ s.",
+      "options": [],
+      "answer": "ong",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I learn English to sing English s_ _ _ s.”, đáp án phù hợp là “ong”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 41.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image43.jpg"
+    },
+    {
+      "id": 44,
+      "question": "Tom is wearing a p_ _ _ le jacket.",
+      "options": [],
+      "answer": "urp",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Tom is wearing a p_ _ _ le jacket.”, đáp án phù hợp là “urp”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 75.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image44.jpg"
+    },
+    {
+      "id": 45,
+      "question": "Lan g_ _ _ up early in the morning.",
+      "options": [],
+      "answer": "ets",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Lan g_ _ _ up early in the morning.”, đáp án phù hợp là “ets”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 188.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image45.jpg"
+    },
+    {
+      "id": 46,
+      "question": "Tom likes watching _ _ _ _ _ _ _ _ on TV when he’s at home.",
+      "options": [],
+      "answer": "cartoons",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Tom likes watching _ _ _ _ _ _ _ _ on TV when he’s at home.”, đáp án phù hợp là “cartoons”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 27.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image46.jpg"
+    },
+    {
+      "id": 47,
+      "question": "I saw some mon_ _ _ _ at the zoo. They climbed trees quickly and liked bananas.",
+      "options": [],
+      "answer": "keys",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I saw some mon_ _ _ _ at the zoo. They climbed trees quickly and liked bananas.”, đáp án phù hợp là “keys”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 126.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image47.jpg"
+    },
+    {
+      "id": 48,
+      "question": "Can you play the _ _ _ _ _ _ ? – Yes, I can.",
+      "options": [],
+      "answer": "guitar",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Can you play the _ _ _ _ _ _ ? – Yes, I can.”, đáp án phù hợp là “guitar”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 32.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image48.jpg"
+    },
+    {
+      "id": 49,
+      "question": "The chickens produce a lot of _ _ _ _ .",
+      "options": [],
+      "answer": "eggs",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The chickens produce a lot of _ _ _ _ .”, đáp án phù hợp là “eggs”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 109.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image49.jpg"
+    },
+    {
+      "id": 50,
+      "question": "They sang and _ _ nced happily at the party.",
+      "options": [],
+      "answer": "da",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “They sang and _ _ nced happily at the party.”, đáp án phù hợp là “da”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 70.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image50.jpg"
+    },
+    {
+      "id": 51,
+      "question": "This sign says, ’’You … swim in this river.",
+      "options": [],
+      "answer": "mustn’t",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “This sign says, ’’You … swim in this river.”, đáp án phù hợp là “mustn’t”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 200.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image51.jpg"
+    },
+    {
+      "id": 52,
+      "question": "I like the _ _ _ _ _ _ _ in the zoo because they are very smart.",
+      "options": [],
+      "answer": "monkeys",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I like the _ _ _ _ _ _ _ in the zoo because they are very smart.”, đáp án phù hợp là “monkeys”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 3.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image52.jpg"
+    },
+    {
+      "id": 53,
+      "question": "The weather will be … tomorrow.",
+      "options": [],
+      "answer": "sunny",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The weather will be … tomorrow.”, đáp án phù hợp là “sunny”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 12, câu 134.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image53.png"
+    },
+    {
+      "id": 54,
+      "question": "The story is about the princess Snow White and _ _ _ _ _ dwarfs.",
+      "options": [],
+      "answer": "seven",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The story is about the princess Snow White and _ _ _ _ _ dwarfs.”, đáp án phù hợp là “seven”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 100.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image54.jpg"
+    },
+    {
+      "id": 55,
+      "question": "Who can answer the third _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "question",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Who can answer the third _ _ _ _ _ _ _ _ ?”, đáp án phù hợp là “question”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 177.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image55.jpg"
+    },
+    {
+      "id": 56,
+      "question": "Let’s have a _ _ _ _ _ _ _ _ for breakfast.",
+      "options": [],
+      "answer": "sandwich",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Let’s have a _ _ _ _ _ _ _ _ for breakfast.”, đáp án phù hợp là “sandwich”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 26.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image56.jpg"
+    },
+    {
+      "id": 57,
+      "question": "We shouldn’t _ _ _ a lot in the evening.",
+      "options": [],
+      "answer": "eat",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “We shouldn’t _ _ _ a lot in the evening.”, đáp án phù hợp là “eat”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 39.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image57.jpg"
+    },
+    {
+      "id": 58,
+      "question": "Some birds are flying in the s_ _ .",
+      "options": [],
+      "answer": "ky",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Some birds are flying in the s_ _ .”, đáp án phù hợp là “ky”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 10, câu 147.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image58.jpg"
+    },
+    {
+      "id": 59,
+      "question": "I want to have a _ _ _ _ _ , it can help me with housework.",
+      "options": [],
+      "answer": "robot",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I want to have a _ _ _ _ _ , it can help me with housework.”, đáp án phù hợp là “robot”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 183.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image59.jpg"
+    },
+    {
+      "id": 60,
+      "question": "There is a _ _ _ _ , a computer and some books on my desk.",
+      "options": [],
+      "answer": "lamp",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There is a _ _ _ _ , a computer and some books on my desk.”, đáp án phù hợp là “lamp”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 32.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image60.jpg"
+    },
+    {
+      "id": 61,
+      "question": "The boy tries to throw the ball into the basket. He's playing _____.",
+      "options": [],
+      "answer": "basketball",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The boy tries to throw the ball into the basket. He's playing _____.”, đáp án phù hợp là “basketball”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 128.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image61.jpg"
+    },
+    {
+      "id": 62,
+      "question": "I have some _ _ _ _ _ and milk for breakfast.",
+      "options": [],
+      "answer": "bread",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I have some _ _ _ _ _ and milk for breakfast.”, đáp án phù hợp là “bread”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 37.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image62.jpg"
+    },
+    {
+      "id": 63,
+      "question": "There are _ _ _ _ seasons in the north of Vietnam.",
+      "options": [],
+      "answer": "four",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There are _ _ _ _ seasons in the north of Vietnam.”, đáp án phù hợp là “four”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 149.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image63.jpg"
+    },
+    {
+      "id": 64,
+      "question": "Ba usually plays volleyball but sometimes _ _ _ _ sailing.",
+      "options": [],
+      "answer": "goes",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Ba usually plays volleyball but sometimes _ _ _ _ sailing.”, đáp án phù hợp là “goes”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 55.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image64.jpg"
+    },
+    {
+      "id": 65,
+      "question": "I use a camera to _ _ _ _ some photos.",
+      "options": [],
+      "answer": "take",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I use a camera to _ _ _ _ some photos.”, đáp án phù hợp là “take”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 144.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image65.jpg"
+    },
+    {
+      "id": 66,
+      "question": "What's the matter with you? - I have a _____.",
+      "options": [],
+      "answer": "toothache",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What's the matter with you? - I have a _____.”, đáp án phù hợp là “toothache”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 10, câu 62.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image66.jpg"
+    },
+    {
+      "id": 67,
+      "question": "They will take a ___ trip around the islands tomorrow.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “They will take a ___ trip around the islands tomorrow.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 10, câu 140.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image67.jpg"
+    },
+    {
+      "id": 68,
+      "question": "My father usually listens to the _ _ _ _ _ every evening.",
+      "options": [],
+      "answer": "radio",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My father usually listens to the _ _ _ _ _ every evening.”, đáp án phù hợp là “radio”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 44.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image68.jpg"
+    },
+    {
+      "id": 69,
+      "question": "I will go on a pic_ _ _ with my friends this weekend.",
+      "options": [],
+      "answer": "nic",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I will go on a pic_ _ _ with my friends this weekend.”, đáp án phù hợp là “nic”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 65.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image69.jpg"
+    },
+    {
+      "id": 70,
+      "question": "My family live on the tenth fl_ _ _ of a tall tower.",
+      "options": [],
+      "answer": "oor",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My family live on the tenth fl_ _ _ of a tall tower.”, đáp án phù hợp là “oor”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 168.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image70.jpg"
+    },
+    {
+      "id": 71,
+      "question": "You should _ _ _ _ the window twice a week.",
+      "options": [],
+      "answer": "tidy",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “You should _ _ _ _ the window twice a week.”, đáp án phù hợp là “tidy”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 10, câu 166.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image71.jpg"
+    },
+    {
+      "id": 72,
+      "question": "On Vietnamese Teachers’ Day, we often give our teachers beautiful _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "flowers",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “On Vietnamese Teachers’ Day, we often give our teachers beautiful _ _ _ _ _ _ _ .”, đáp án phù hợp là “flowers”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 139.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image72.jpg"
+    },
+    {
+      "id": 73,
+      "question": "There’s nothing in the … . It’s empty.",
+      "options": [],
+      "answer": "fridge",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There’s nothing in the … . It’s empty.”, đáp án phù hợp là “fridge”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 13, câu 160.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image73.png"
+    },
+    {
+      "id": 74,
+      "question": "In the evening, I do my homework and help my mom cook din_ _ _ .",
+      "options": [],
+      "answer": "ner",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “In the evening, I do my homework and help my mom cook din_ _ _ .”, đáp án phù hợp là “ner”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 25.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image74.jpg"
+    },
+    {
+      "id": 75,
+      "question": "Tony has a _____.",
+      "options": [],
+      "answer": "fever",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Tony has a _____.”, đáp án phù hợp là “fever”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 17, câu 70.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image75.jpg"
+    },
+    {
+      "id": 76,
+      "question": "What time is it?",
+      "options": [],
+      "answer": "Half past twelve",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What time is it?”, đáp án phù hợp là “Half past twelve”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 17, câu 113.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image76.jpg"
+    },
+    {
+      "id": 77,
+      "question": "_ _ OES",
+      "options": [],
+      "answer": "SH",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “_ _ OES”, đáp án phù hợp là “SH”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 18, câu 116.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image77.jpg"
+    },
+    {
+      "id": 78,
+      "question": "Tracy’s pastimes are collecting _ _ _ _ _ _ and swimming.",
+      "options": [],
+      "answer": "stamps",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Tracy’s pastimes are collecting _ _ _ _ _ _ and swimming.”, đáp án phù hợp là “stamps”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 10, câu 66.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image78.png"
+    },
+    {
+      "id": 79,
+      "question": "They are going to ride a _ _ _ _ .",
+      "options": [],
+      "answer": "bike",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “They are going to ride a _ _ _ _ .”, đáp án phù hợp là “bike”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 124.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image79.jpg"
+    },
+    {
+      "id": 80,
+      "question": "I went to the bake_ _ to buy some bread.",
+      "options": [],
+      "answer": "ry",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I went to the bake_ _ to buy some bread.”, đáp án phù hợp là “ry”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 12, câu 132.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image80.jpg"
+    },
+    {
+      "id": 81,
+      "question": "I spent my time at the sea_ _ de.",
+      "options": [],
+      "answer": "si",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I spent my time at the sea_ _ de.”, đáp án phù hợp là “si”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 13, câu 59.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image81.jpg"
+    },
+    {
+      "id": 82,
+      "question": "Hoi An is an ancient town in _____.",
+      "options": [],
+      "answer": "Quang Nam province",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Hoi An is an ancient town in _____.”, đáp án phù hợp là “Quang Nam province”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 14, câu 25.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image82.jpg"
+    },
+    {
+      "id": 83,
+      "question": "We often go to the _ _ _ _ _ _ _ to read books or magazines.",
+      "options": [],
+      "answer": "library",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “We often go to the _ _ _ _ _ _ _ to read books or magazines.”, đáp án phù hợp là “library”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 118.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image83.jpg"
+    },
+    {
+      "id": 84,
+      "question": "Last weekend, I went to the park by under_ _ _ _ _ _ .",
+      "options": [],
+      "answer": "ground",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Last weekend, I went to the park by under_ _ _ _ _ _ .”, đáp án phù hợp là “ground”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 39.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image84.jpg"
+    },
+    {
+      "id": 85,
+      "question": "At lunch _ _ _ _ , I have some hamburgers in the lunch room.",
+      "options": [],
+      "answer": "time",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “At lunch _ _ _ _ , I have some hamburgers in the lunch room.”, đáp án phù hợp là “time”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 117.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image85.jpg"
+    },
+    {
+      "id": 86,
+      "question": "What’s she doing? – She is _ _ _ _ _ _ a horse.",
+      "options": [],
+      "answer": "riding",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What’s she doing? – She is _ _ _ _ _ _ a horse.”, đáp án phù hợp là “riding”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 156.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image86.jpg"
+    },
+    {
+      "id": 87,
+      "question": "What time is it?",
+      "options": [],
+      "answer": "Seven twenty",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What time is it?”, đáp án phù hợp là “Seven twenty”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 18, câu 100.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image87.jpg"
+    },
+    {
+      "id": 88,
+      "question": "My uncle jogs around the _ _ _ _ to keep fit.",
+      "options": [],
+      "answer": "lake",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My uncle jogs around the _ _ _ _ to keep fit.”, đáp án phù hợp là “lake”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 3.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image88.jpg"
+    },
+    {
+      "id": 89,
+      "question": "Children often fly _ _ _ _ _ in summer.",
+      "options": [],
+      "answer": "kites",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Children often fly _ _ _ _ _ in summer.”, đáp án phù hợp là “kites”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 13, câu 191.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image89.jpg"
+    },
+    {
+      "id": 90,
+      "question": "She never goes out and eats at a _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "restaurant",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “She never goes out and eats at a _ _ _ _ _ _ _ _ _ _ .”, đáp án phù hợp là “restaurant”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 24.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image90.jpg"
+    },
+    {
+      "id": 91,
+      "question": "It is a b_ _ and pretty flat.",
+      "options": [],
+      "answer": "ig",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “It is a b_ _ and pretty flat.”, đáp án phù hợp là “ig”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 15, câu 139.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image91.jpg"
+    },
+    {
+      "id": 92,
+      "question": "I have a long ruler and an _ _ _ _ _ _ in my schoolbag.",
+      "options": [],
+      "answer": "eraser",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I have a long ruler and an _ _ _ _ _ _ in my schoolbag.”, đáp án phù hợp là “eraser”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 159.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image92.jpg"
+    },
+    {
+      "id": 93,
+      "question": "What’s your favorite sport? - _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "badminton",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What’s your favorite sport? - _ _ _ _ _ _ _ _ _ .”, đáp án phù hợp là “badminton”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 51.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image93.jpg"
+    },
+    {
+      "id": 94,
+      "question": "What time is it?",
+      "options": [],
+      "answer": "Five fifteen",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “What time is it?”, đáp án phù hợp là “Five fifteen”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 19, câu 49.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image94.jpg"
+    },
+    {
+      "id": 95,
+      "question": "There is so much _ _ _ _ _ in the air that it’s unhealthy to live in many of the world’s cities.",
+      "options": [],
+      "answer": "smoke",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There is so much _ _ _ _ _ in the air that it’s unhealthy to live in many of the world’s cities.”, đáp án phù hợp là “smoke”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 123.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image95.jpg"
+    },
+    {
+      "id": 96,
+      "question": "S_ _ MMING",
+      "options": [],
+      "answer": "WI",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “S_ _ MMING”, đáp án phù hợp là “WI”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 20, câu 76.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image96.jpg"
+    },
+    {
+      "id": 97,
+      "question": "The Story of Thanh Giong is abou_ a little boy named Giong.",
+      "options": [],
+      "answer": "t",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The Story of Thanh Giong is abou_ a little boy named Giong.”, đáp án phù hợp là “t”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 12, câu 78.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image97.jpg"
+    },
+    {
+      "id": 98,
+      "question": "I always go to my hometown by tr_ _ _ .",
+      "options": [],
+      "answer": "ain",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I always go to my hometown by tr_ _ _ .”, đáp án phù hợp là “ain”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 13, câu 137.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image98.jpg"
+    },
+    {
+      "id": 99,
+      "question": "You should wear a ____ when riding a motorbike.",
+      "options": [],
+      "answer": "helmet",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “You should wear a ____ when riding a motorbike.”, đáp án phù hợp là “helmet”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 15, câu 22.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image99.jpg"
+    },
+    {
+      "id": 100,
+      "question": "I often play _ _ _ _ _ _ _ _ _ _ with my friends after school.",
+      "options": [],
+      "answer": "volleyball",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I often play _ _ _ _ _ _ _ _ _ _ with my friends after school.”, đáp án phù hợp là “volleyball”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 163.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image100.jpg"
+    },
+    {
+      "id": 101,
+      "question": "December is the ______ month of the year.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “December is the ______ month of the year.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 16, câu 135.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image101.jpg"
+    },
+    {
+      "id": 102,
+      "question": "Could you bring me a bar of _ _ _ _ _ _ _ _ _ tomorrow?",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Could you bring me a bar of _ _ _ _ _ _ _ _ _ tomorrow?”, đáp án phù hợp là “chocolate”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 189.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image102.jpg"
+    },
+    {
+      "id": 103,
+      "question": "I go to the city to buy _ _ _ _ _ _ every Sunday morning.",
+      "options": [],
+      "answer": "fruits",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I go to the city to buy _ _ _ _ _ _ every Sunday morning.”, đáp án phù hợp là “fruits”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 10.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image103.jpg"
+    },
+    {
+      "id": 104,
+      "question": "It's a very sha_ _ knife.",
+      "options": [],
+      "answer": "rp",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “It's a very sha_ _ knife.”, đáp án phù hợp là “rp”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 18, câu 61.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image104.jpg"
+    },
+    {
+      "id": 105,
+      "question": "CL_ _ B",
+      "options": [],
+      "answer": "IM",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “CL_ _ B”, đáp án phù hợp là “IM”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 21, câu 161.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image105.jpg"
+    },
+    {
+      "id": 106,
+      "question": "I of_ _ _ go to sports center at the weekend.",
+      "options": [],
+      "answer": "ten",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I of_ _ _ go to sports center at the weekend.”, đáp án phù hợp là “ten”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 14, câu 92.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image106.jpg"
+    },
+    {
+      "id": 107,
+      "question": "My mom made a birthday ca_ _ on my birthday.",
+      "options": [],
+      "answer": "ke",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My mom made a birthday ca_ _ on my birthday.”, đáp án phù hợp là “ke”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 15, câu 8.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image107.jpg"
+    },
+    {
+      "id": 108,
+      "question": "We hope that we will ___ the competitions.",
+      "options": [],
+      "answer": "win",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “We hope that we will ___ the competitions.”, đáp án phù hợp là “win”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 17, câu 63.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image108.jpg"
+    },
+    {
+      "id": 109,
+      "question": "My uncle and aunt live in ____.",
+      "options": [],
+      "answer": "Chọn ý: D",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My uncle and aunt live in ____.”, đáp án phù hợp là “Chọn ý: D”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 18, câu 162.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image109.jpg"
+    },
+    {
+      "id": 110,
+      "question": "_ _ R",
+      "options": [],
+      "answer": "EA",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “_ _ R”, đáp án phù hợp là “EA”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 22, câu 66.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image110.jpg"
+    },
+    {
+      "id": 111,
+      "question": "We go to the ci_ _ _ _ to watch a movie.",
+      "options": [],
+      "answer": "nema",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “We go to the ci_ _ _ _ to watch a movie.”, đáp án phù hợp là “nema”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 14, câu 46.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image111.jpg"
+    },
+    {
+      "id": 112,
+      "question": "The sto_ _ of Mai An Tiem is about a hard-working man.",
+      "options": [],
+      "answer": "ry",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The sto_ _ of Mai An Tiem is about a hard-working man.”, đáp án phù hợp là “ry”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 14, câu 152.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image112.jpg"
+    },
+    {
+      "id": 113,
+      "question": "My grandfather likes playing _ _ _ _ _ at home.",
+      "options": [],
+      "answer": "chess",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My grandfather likes playing _ _ _ _ _ at home.”, đáp án phù hợp là “chess”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 15, câu 43.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image113.jpg"
+    },
+    {
+      "id": 114,
+      "question": "Our family will go to the res_ _ _ next summer.",
+      "options": [],
+      "answer": "ort",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Our family will go to the res_ _ _ next summer.”, đáp án phù hợp là “ort”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 15, câu 55.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image114.jpg"
+    },
+    {
+      "id": 115,
+      "question": "How much does this bar of _ _ _ _ cost?",
+      "options": [],
+      "answer": "soap",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “How much does this bar of _ _ _ _ cost?”, đáp án phù hợp là “soap”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 15, câu 113.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image115.jpg"
+    },
+    {
+      "id": 116,
+      "question": "This is my grandm_ _ _ _ _ .",
+      "options": [],
+      "answer": "other",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “This is my grandm_ _ _ _ _ .”, đáp án phù hợp là “other”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 17, câu 125.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image116.jpg"
+    },
+    {
+      "id": 117,
+      "question": "His mother heard him ____ down the stairs.",
+      "options": [],
+      "answer": "running",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “His mother heard him ____ down the stairs.”, đáp án phù hợp là “running”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 18, câu 10.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image117.jpg"
+    },
+    {
+      "id": 118,
+      "question": "Why don’t you come and help Tom _ _ _ _ _ some trees?",
+      "options": [],
+      "answer": "plant",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Why don’t you come and help Tom _ _ _ _ _ some trees?”, đáp án phù hợp là “plant”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 13, câu 85.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image118.jpg"
+    },
+    {
+      "id": 119,
+      "question": "My sister did her _ _ _ _ _ _ _ _ last night.",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “My sister did her _ _ _ _ _ _ _ _ last night.”, đáp án phù hợp là “homework”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 13, câu 143.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image119.jpg"
+    },
+    {
+      "id": 120,
+      "question": "Her sister does _ _ _ _ _ _ _ _ every afternoon.",
+      "options": [],
+      "answer": "aerobics",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Her sister does _ _ _ _ _ _ _ _ every afternoon.”, đáp án phù hợp là “aerobics”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 14, câu 118.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image120.jpg"
+    },
+    {
+      "id": 121,
+      "question": "There are only28 days in Feb_ _ _ _ _ .",
+      "options": [],
+      "answer": "ruary",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There are only28 days in Feb_ _ _ _ _ .”, đáp án phù hợp là “ruary”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 16, câu 108.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image121.jpg"
+    },
+    {
+      "id": 122,
+      "question": "The restaurant is _ _ _ _ to the bakery.",
+      "options": [],
+      "answer": "next",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “The restaurant is _ _ _ _ to the bakery.”, đáp án phù hợp là “next”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 17, câu 115.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image122.jpg"
+    },
+    {
+      "id": 123,
+      "question": "Football is a kind of sp_ _ _ .",
+      "options": [],
+      "answer": "ort",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Football is a kind of sp_ _ _ .”, đáp án phù hợp là “ort”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 18, câu 149.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image123.jpg"
+    },
+    {
+      "id": 124,
+      "question": "I have a cousin. He lives in _____.",
+      "options": [],
+      "answer": "America",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I have a cousin. He lives in _____.”, đáp án phù hợp là “America”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 19, câu 7.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image124.jpg"
+    },
+    {
+      "id": 125,
+      "question": "There is a _ _ _ _ _ _ _ _ _ _ _ near her school.",
+      "options": [],
+      "answer": "supermarket",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There is a _ _ _ _ _ _ _ _ _ _ _ near her school.”, đáp án phù hợp là “supermarket”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 21.",
+      "image": "data/images/lop5/cd4/lop5_cd4_v1_image125.jpg"
+    },
+    {
+      "id": 126,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. f<u>ar</u>m",
+        "B. w<u>ar</u>m",
+        "C. st<u>ar</u>t",
+        "D. p<u>ar</u>k"
+      ],
+      "answer": "B. w<u>ar</u>m",
+      "explanation": "Đọc “warm” là /wɔrm/; ba từ còn lại lần lượt là “farm” /fɑrm/, “start” /stɑrt/ và “park” /pɑrk/. Phần gạch chân “ar” trong “warm” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 51."
+    },
+    {
+      "id": 127,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. p<u>a</u>int",
+        "B. s<u>a</u>me",
+        "C. l<u>a</u>st",
+        "D. p<u>a</u>per"
+      ],
+      "answer": "C. l<u>a</u>st",
+      "explanation": "Đọc “last” là /læst/; ba từ còn lại lần lượt là “paint” /peɪnt/, “same” /seɪm/ và “paper” /peɪpɜ/. Phần gạch chân “a” trong “last” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 89."
+    },
+    {
+      "id": 128,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. l<u>oo</u>k",
+        "B. b<u>oo</u>k",
+        "C. c<u>oo</u>k",
+        "D. fl<u>oo</u>r"
+      ],
+      "answer": "D. fl<u>oo</u>r",
+      "explanation": "Đọc “floor” là /flɔr/; ba từ còn lại lần lượt là “look” /lʊk/, “book” /bʊk/ và “cook” /kʊk/. Phần gạch chân “oo” trong “floor” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 143."
+    },
+    {
+      "id": 129,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>s</u>un",
+        "B. <u>s</u>on",
+        "C. <u>s</u>ummer",
+        "D. <u>s</u>ugar"
+      ],
+      "answer": "D. <u>s</u>ugar",
+      "explanation": "Đọc “sugar” là /ʃʊɡɜ/; ba từ còn lại lần lượt là “sun” /sʌn/, “son” /sʌn/ và “summer” /sʌmɜ/. Ở “sugar”, phần gạch chân “s” có cách phát âm khác ba từ còn lại. Với đuôi -s/-es, cần xét âm cuối của từ gốc: sau /s, z, ʃ, tʃ, dʒ, ks/ thường đọc /ɪz/; sau phụ âm vô thanh thường đọc /s/; các trường hợp còn lại thường đọc /z/. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 60."
+    },
+    {
+      "id": 130,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. m<u>y</u>",
+        "B. famil<u>y</u>",
+        "C. man<u>y</u>",
+        "D. sport<u>y</u>"
+      ],
+      "answer": "A. m<u>y</u>",
+      "explanation": "Đọc “my” là /maɪ/; ba từ còn lại lần lượt là “family” /fæmʌliː/, “many” /meniː/ và “sporty” /spɔrtiː/. Phần gạch chân “y” trong “my” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 139."
+    },
+    {
+      "id": 131,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>o</u>nion",
+        "B. d<u>o</u>zen",
+        "C. <u>o</u>pen",
+        "D. c<u>o</u>me"
+      ],
+      "answer": "C. <u>o</u>pen",
+      "explanation": "Đọc “open” là /əʊpʌn/; ba từ còn lại lần lượt là “onion” /ʌnjʌn/, “dozen” /dʌzʌn/ và “come” /kʌm/. Phần gạch chân “o” trong “open” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 23."
+    },
+    {
+      "id": 132,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>h</u>our",
+        "B. <u>h</u>ouse",
+        "C. <u>h</u>en",
+        "D. <u>h</u>ot"
+      ],
+      "answer": "A. <u>h</u>our",
+      "explanation": "Đọc “hour” là /aʊɜ/; ba từ còn lại lần lượt là “house” /haʊs/, “hen” /hen/ và “hot” /hɑt/. Phần gạch chân “h” trong “hour” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 89."
+    },
+    {
+      "id": 133,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>c</u>lose",
+        "B. <u>c</u>ity",
+        "C. <u>c</u>lass",
+        "D. <u>c</u>lock"
+      ],
+      "answer": "B. <u>c</u>ity",
+      "explanation": "Đọc “city” là /sɪtiː/; ba từ còn lại lần lượt là “close” /kləʊs/, “class” /klæs/ và “clock” /klɑk/. Phần gạch chân “c” trong “city” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 147."
+    },
+    {
+      "id": 134,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. b<u>a</u>nk",
+        "B. st<u>a</u>tion",
+        "C. l<u>a</u>zy",
+        "D. er<u>a</u>ser"
+      ],
+      "answer": "A. b<u>a</u>nk",
+      "explanation": "Đọc “bank” là /bæŋk/; ba từ còn lại lần lượt là “station” /steɪʃʌn/, “lazy” /leɪziː/ và “eraser” /ɪreɪsɜ/. Phần gạch chân “a” trong “bank” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 67."
+    },
+    {
+      "id": 135,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. l<u>i</u>brary",
+        "B. l<u>i</u>nk",
+        "C. <u>i</u>f",
+        "D. w<u>i</u>ll"
+      ],
+      "answer": "A. l<u>i</u>brary",
+      "explanation": "Đọc “library” là /laɪbreriː/; ba từ còn lại lần lượt là “link” /lɪŋk/, “if” /ɪf/ và “will” /wɪl/. Phần gạch chân “i” trong “library” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 93."
+    },
+    {
+      "id": 136,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. fr<u>ee</u>",
+        "B. m<u>ee</u>t",
+        "C. s<u>ee</u>",
+        "D. b<u>ee</u>r"
+      ],
+      "answer": "D. b<u>ee</u>r",
+      "explanation": "Đọc “beer” là /bɪr/; ba từ còn lại lần lượt là “free” /friː/, “meet” /miːt/ và “see” /siː/. Phần gạch chân “ee” trong “beer” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 123."
+    },
+    {
+      "id": 137,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. str<u>o</u>ng",
+        "B. b<u>o</u>ttle",
+        "C. b<u>o</u>x",
+        "D. c<u>o</u>ld"
+      ],
+      "answer": "D. c<u>o</u>ld",
+      "explanation": "Đọc “cold” là /kəʊld/; ba từ còn lại lần lượt là “strong” /strɔŋ/, “bottle” /bɑtʌl/ và “box” /bɑks/. Phần gạch chân “o” trong “cold” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 76."
+    },
+    {
+      "id": 138,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>c</u>offee",
+        "B. <u>c</u>old",
+        "C. <u>c</u>ar",
+        "D. <u>c</u>eiling"
+      ],
+      "answer": "D. <u>c</u>eiling",
+      "explanation": "Đọc “ceiling” là /siːlɪŋ/; ba từ còn lại lần lượt là “coffee” /kɑfiː/, “cold” /kəʊld/ và “car” /kɑr/. Phần gạch chân “c” trong “ceiling” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 144."
+    },
+    {
+      "id": 139,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. ch<u>ea</u>p",
+        "B. m<u>ea</u>t",
+        "C. s<u>ea</u>son",
+        "D. w<u>ea</u>ther"
+      ],
+      "answer": "D. w<u>ea</u>ther",
+      "explanation": "Đọc “weather” là /weðɜ/; ba từ còn lại lần lượt là “cheap” /tʃiːp/, “meat” /miːt/ và “season” /siːzʌn/. Phần gạch chân “ea” trong “weather” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 156."
+    },
+    {
+      "id": 140,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>s</u>ee",
+        "B. <u>s</u>ure",
+        "C. <u>s</u>ix",
+        "D. <u>s</u>ing"
+      ],
+      "answer": "B. <u>s</u>ure",
+      "explanation": "Đọc “sure” là /ʃʊr/; ba từ còn lại lần lượt là “see” /siː/, “six” /sɪks/ và “sing” /sɪŋ/. Ở “sure”, phần gạch chân “s” có cách phát âm khác ba từ còn lại. Với đuôi -s/-es, cần xét âm cuối của từ gốc: sau /s, z, ʃ, tʃ, dʒ, ks/ thường đọc /ɪz/; sau phụ âm vô thanh thường đọc /s/; các trường hợp còn lại thường đọc /z/. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 129."
+    },
+    {
+      "id": 141,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. m<u>a</u>n",
+        "B. f<u>a</u>t",
+        "C. g<u>a</u>me",
+        "D. m<u>a</u>ths"
+      ],
+      "answer": "C. g<u>a</u>me",
+      "explanation": "Đọc “game” là /ɡeɪm/; ba từ còn lại lần lượt là “man” /mæn/, “fat” /fæt/ và “maths” /mæθs/. Phần gạch chân “a” trong “game” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 10."
+    },
+    {
+      "id": 142,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>ch</u>ildren",
+        "B. <u>ch</u>urch",
+        "C. heada<u>ch</u>e",
+        "D. bea<u>ch</u>"
+      ],
+      "answer": "C. heada<u>ch</u>e",
+      "explanation": "Đọc “headache” là /hedeɪk/; ba từ còn lại lần lượt là “children” /tʃɪldrʌn/, “church” /tʃɜtʃ/ và “beach” /biːtʃ/. Phần gạch chân “ch” trong “headache” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 40."
+    },
+    {
+      "id": 143,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. b<u>u</u>s",
+        "B. c<u>u</u>t",
+        "C. st<u>u</u>dent",
+        "D. br<u>u</u>sh"
+      ],
+      "answer": "C. st<u>u</u>dent",
+      "explanation": "Đọc “student” là /stuːdʌnt/; ba từ còn lại lần lượt là “bus” /bʌs/, “cut” /kʌt/ và “brush” /brʌʃ/. Phần gạch chân “u” trong “student” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 73."
+    },
+    {
+      "id": 144,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. <u>th</u>is",
+        "B. <u>th</u>ere",
+        "C. <u>th</u>anks",
+        "D. <u>th</u>at"
+      ],
+      "answer": "C. <u>th</u>anks",
+      "explanation": "Đọc “thanks” là /θæŋks/; ba từ còn lại lần lượt là “this” /ðɪs/, “there” /ðer/ và “that” /ðæt/. Ở “thanks”, “th” có âm khác ba từ còn lại. Hãy tách hai âm “th”: /θ/ như *think, thanks* và /ð/ như *this, that, there*. Nguồn đối chiếu: IOE Lớp 5, đề 1, câu 23."
+    },
+    {
+      "id": 145,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. d<u>o</u>",
+        "B. m<u>o</u>ther",
+        "C. br<u>o</u>ther",
+        "D. s<u>o</u>metimes"
+      ],
+      "answer": "A. d<u>o</u>",
+      "explanation": "Đọc “do” là /duː/; ba từ còn lại lần lượt là “mother” /mʌðɜ/, “brother” /brʌðɜ/ và “sometimes” /sʌmtaɪmz/. Phần gạch chân “o” trong “do” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 55."
+    },
+    {
+      "id": 146,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. r<u>o</u>pe",
+        "B. badmint<u>o</u>n",
+        "C. vide<u>o</u>",
+        "D. g<u>o</u>"
+      ],
+      "answer": "B. badmint<u>o</u>n",
+      "explanation": "Đọc “badminton” là /bædmɪntʌn/; ba từ còn lại lần lượt là “rope” /rəʊp/, “video” /vɪdiːəʊ/ và “go” /ɡəʊ/. Phần gạch chân “o” trong “badminton” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 166."
+    },
+    {
+      "id": 147,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. p<u>i</u>nk",
+        "B. n<u>i</u>ce",
+        "C. l<u>i</u>ke",
+        "D. r<u>i</u>ce"
+      ],
+      "answer": "A. p<u>i</u>nk",
+      "explanation": "Đọc “pink” là /pɪŋk/; ba từ còn lại lần lượt là “nice” /naɪs/, “like” /laɪk/ và “rice” /raɪs/. Phần gạch chân “i” trong “pink” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 23."
+    },
+    {
+      "id": 148,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. vi<u>s</u>it",
+        "B. bu<u>s</u>",
+        "C. la<u>s</u>t",
+        "D. <u>s</u>ummer"
+      ],
+      "answer": "A. vi<u>s</u>it",
+      "explanation": "Đọc “visit” là /vɪzɪt/; ba từ còn lại lần lượt là “bus” /bʌs/, “last” /læst/ và “summer” /sʌmɜ/. Ở “visit”, phần gạch chân “s” có cách phát âm khác ba từ còn lại. Với đuôi -s/-es, cần xét âm cuối của từ gốc: sau /s, z, ʃ, tʃ, dʒ, ks/ thường đọc /ɪz/; sau phụ âm vô thanh thường đọc /s/; các trường hợp còn lại thường đọc /z/. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 6."
+    },
+    {
+      "id": 149,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. twent<u>y</u>",
+        "B. happ<u>y</u>",
+        "C. b<u>y</u>",
+        "D. earl<u>y</u>"
+      ],
+      "answer": "C. b<u>y</u>",
+      "explanation": "Đọc “by” là /baɪ/; ba từ còn lại lần lượt là “twenty” /twentiː/, “happy” /hæpiː/ và “early” /ɜliː/. Phần gạch chân “y” trong “by” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 150."
+    },
+    {
+      "id": 150,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. l<u>i</u>ke",
+        "B. th<u>i</u>nk",
+        "C. dr<u>i</u>nk",
+        "D. th<u>i</u>ng"
+      ],
+      "answer": "A. l<u>i</u>ke",
+      "explanation": "Đọc “like” là /laɪk/; ba từ còn lại lần lượt là “think” /θɪŋk/, “drink” /drɪŋk/ và “thing” /θɪŋ/. Phần gạch chân “i” trong “like” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 28."
+    },
+    {
+      "id": 151,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. br<u>ea</u>d",
+        "B. cl<u>ea</u>n",
+        "C. m<u>ea</u>l",
+        "D. t<u>ea</u>"
+      ],
+      "answer": "A. br<u>ea</u>d",
+      "explanation": "Đọc “bread” là /bred/; ba từ còn lại lần lượt là “clean” /kliːn/, “meal” /miːl/ và “tea” /tiː/. Phần gạch chân “ea” trong “bread” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 88."
+    },
+    {
+      "id": 152,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. gr<u>a</u>de",
+        "B. cl<u>a</u>ss",
+        "C. l<u>a</u>te",
+        "D. n<u>a</u>me"
+      ],
+      "answer": "B. cl<u>a</u>ss",
+      "explanation": "Đọc “class” là /klæs/; ba từ còn lại lần lượt là “grade” /ɡreɪd/, “late” /leɪt/ và “name” /neɪm/. Phần gạch chân “a” trong “class” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 181."
+    },
+    {
+      "id": 153,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. b<u>u</u>t",
+        "B. c<u>o</u>me",
+        "C. s<u>o</u>",
+        "D. m<u>u</u>ch"
+      ],
+      "answer": "C. s<u>o</u>",
+      "explanation": "Đọc “so” là /səʊ/; ba từ còn lại lần lượt là “but” /bʌt/, “come” /kʌm/ và “much” /mʌtʃ/. Phần gạch chân “o” trong “so” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 3."
+    },
+    {
+      "id": 154,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. w<u>ea</u>r",
+        "B. h<u>ea</u>r",
+        "C. n<u>ea</u>r",
+        "D. y<u>ea</u>r"
+      ],
+      "answer": "A. w<u>ea</u>r",
+      "explanation": "Đọc “wear” là /wer/; ba từ còn lại lần lượt là “hear” /hiːr/, “near” /nɪr/ và “year” /jɪr/. Phần gạch chân “ea” trong “wear” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 32."
+    },
+    {
+      "id": 155,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. op<u>e</u>n",
+        "B. p<u>e</u>ncil",
+        "C. flow<u>e</u>r",
+        "D. pap<u>e</u>r"
+      ],
+      "answer": "B. p<u>e</u>ncil",
+      "explanation": "Đọc “pencil” là /pensʌl/; ba từ còn lại lần lượt là “open” /əʊpʌn/, “flower” /flaʊɜ/ và “paper” /peɪpɜ/. Phần gạch chân “e” trong “pencil” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 1."
+    },
+    {
+      "id": 156,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. r<u>i</u>de",
+        "B. b<u>i</u>ke",
+        "C. l<u>i</u>ke",
+        "D. w<u>i</u>nter"
+      ],
+      "answer": "D. w<u>i</u>nter",
+      "explanation": "Đọc “winter” là /wɪntɜ/; ba từ còn lại lần lượt là “ride” /raɪd/, “bike” /baɪk/ và “like” /laɪk/. Phần gạch chân “i” trong “winter” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 171."
+    },
+    {
+      "id": 157,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. i<u>s</u>",
+        "B. <u>s</u>ister",
+        "C. <u>s</u>on",
+        "D. <u>s</u>mall"
+      ],
+      "answer": "A. i<u>s</u>",
+      "explanation": "Đọc “is” là /ɪz/; ba từ còn lại lần lượt là “sister” /sɪstɜ/, “son” /sʌn/ và “small” /smɔl/. Ở “is”, phần gạch chân “s” có cách phát âm khác ba từ còn lại. Với đuôi -s/-es, cần xét âm cuối của từ gốc: sau /s, z, ʃ, tʃ, dʒ, ks/ thường đọc /ɪz/; sau phụ âm vô thanh thường đọc /s/; các trường hợp còn lại thường đọc /z/. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 184."
+    },
+    {
+      "id": 158,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. <u>i</u>nvent",
+        "B. dec<u>i</u>de",
+        "C. comb<u>i</u>ne",
+        "D. prov<u>i</u>de"
+      ],
+      "answer": "A. <u>i</u>nvent",
+      "explanation": "Đọc “invent” là /ɪnvent/; ba từ còn lại lần lượt là “decide” /dɪsaɪd/, “combine” /kɑmbaɪn/ và “provide” /prʌvaɪd/. Phần gạch chân “i” trong “invent” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 32."
+    },
+    {
+      "id": 159,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. visit<u>ed</u>",
+        "B. want<u>ed</u>",
+        "C. decid<u>ed</u>",
+        "D. look<u>ed</u>"
+      ],
+      "answer": "D. look<u>ed</u>",
+      "explanation": "Đọc “looked” là /lʊkt/; ba từ còn lại lần lượt là “visited” /vɪzɪtɪd/, “wanted” /wɔntɪd/ và “decided” /dɪsaɪdɪd/. Ở “looked”, phần “-ed” được đọc khác ba từ còn lại. Quy tắc: -ed sau /t/ hoặc /d/ đọc /ɪd/; sau phụ âm vô thanh đọc /t/; sau âm hữu thanh đọc /d/. Nguồn đối chiếu: IOE Lớp 5, đề 2, câu 167."
+    },
+    {
+      "id": 160,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. l<u>i</u>brary",
+        "B. r<u>i</u>ght",
+        "C. sc<u>i</u>ence",
+        "D. d<u>i</u>ctionary"
+      ],
+      "answer": "D. d<u>i</u>ctionary",
+      "explanation": "Đọc “dictionary” là /dɪkʃʌneriː/; ba từ còn lại lần lượt là “library” /laɪbreriː/, “right” /raɪt/ và “science” /saɪʌns/. Phần gạch chân “i” trong “dictionary” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 177."
+    },
+    {
+      "id": 161,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. m<u>a</u>n",
+        "B. f<u>a</u>n",
+        "C. f<u>a</u>t",
+        "D. t<u>a</u>ble"
+      ],
+      "answer": "D. t<u>a</u>ble",
+      "explanation": "Đọc “table” là /teɪbʌl/; ba từ còn lại lần lượt là “man” /mæn/, “fan” /fæn/ và “fat” /fæt/. Phần gạch chân “a” trong “table” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 124."
+    },
+    {
+      "id": 162,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. cr<u>a</u>zy",
+        "B. m<u>a</u>ybe",
+        "C. l<u>a</u>dy",
+        "D. c<u>a</u>r"
+      ],
+      "answer": "D. c<u>a</u>r",
+      "explanation": "Đọc “car” là /kɑr/; ba từ còn lại lần lượt là “crazy” /kreɪziː/, “maybe” /meɪbiː/ và “lady” /leɪdiː/. Phần gạch chân “a” trong “car” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 130."
+    },
+    {
+      "id": 163,
+      "question": "Choose the word with the underlined part pronounced differently.",
+      "options": [
+        "A. f<u>a</u>ce",
+        "B. sp<u>a</u>ce",
+        "C. c<u>a</u>mp",
+        "D. n<u>a</u>me"
+      ],
+      "answer": "C. c<u>a</u>mp",
+      "explanation": "Đọc “camp” là /kæmp/; ba từ còn lại lần lượt là “face” /feɪs/, “space” /speɪs/ và “name” /neɪm/. Phần gạch chân “a” trong “camp” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 11."
+    },
+    {
+      "id": 164,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>h</u>ome",
+        "B. <u>h</u>our",
+        "C. <u>h</u>im",
+        "D. <u>h</u>ot"
+      ],
+      "answer": "B. <u>h</u>our",
+      "explanation": "Đọc “hour” là /aʊɜ/; ba từ còn lại lần lượt là “home” /həʊm/, “him” /hɪm/ và “hot” /hɑt/. Phần gạch chân “h” trong “hour” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 198."
+    },
+    {
+      "id": 165,
+      "question": "Tick the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. engin<u>ee</u>r",
+        "B. gr<u>ee</u>ting",
+        "C. t<u>ee</u>th",
+        "D. str<u>ee</u>t"
+      ],
+      "answer": "A. engin<u>ee</u>r",
+      "explanation": "Đọc “engineer” là /endʒʌnɪr/; ba từ còn lại lần lượt là “greeting” /ɡriːtɪŋ/, “teeth” /tiːθ/ và “street” /striːt/. Phần gạch chân “ee” trong “engineer” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 5, câu 53."
+    },
+    {
+      "id": 166,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>h</u>ome",
+        "B. <u>h</u>our",
+        "C. <u>h</u>ouse",
+        "D. <u>h</u>elp"
+      ],
+      "answer": "B. <u>h</u>our",
+      "explanation": "Đọc “hour” là /aʊɜ/; ba từ còn lại lần lượt là “home” /həʊm/, “house” /haʊs/ và “help” /help/. Phần gạch chân “h” trong “hour” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 86."
+    },
+    {
+      "id": 167,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>c</u>ountry",
+        "B. <u>c</u>ome",
+        "C. <u>c</u>at",
+        "D. <u>c</u>ity"
+      ],
+      "answer": "D. <u>c</u>ity",
+      "explanation": "Đọc “city” là /sɪtiː/; ba từ còn lại lần lượt là “country” /kʌntriː/, “come” /kʌm/ và “cat” /kæt/. Phần gạch chân “c” trong “city” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 170."
+    },
+    {
+      "id": 168,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. l<u>a</u>te",
+        "B. gr<u>a</u>de",
+        "C. g<u>a</u>me",
+        "D. f<u>a</u>ctory"
+      ],
+      "answer": "D. f<u>a</u>ctory",
+      "explanation": "Đọc “factory” là /fæktɜiː/; ba từ còn lại lần lượt là “late” /leɪt/, “grade” /ɡreɪd/ và “game” /ɡeɪm/. Phần gạch chân “a” trong “factory” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 179."
+    },
+    {
+      "id": 169,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. b<u>a</u>g",
+        "B. b<u>a</u>nk",
+        "C. p<u>a</u>rent",
+        "D. pl<u>a</u>ce"
+      ],
+      "answer": "D. pl<u>a</u>ce",
+      "explanation": "Đọc “place” là /pleɪs/; ba từ còn lại lần lượt là “bag” /bæɡ/, “bank” /bæŋk/ và “parent” /perʌnt/. Phần gạch chân “a” trong “place” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 104."
+    },
+    {
+      "id": 170,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. b<u>u</u>tter",
+        "B. p<u>u</u>t",
+        "C. s<u>u</u>gar",
+        "D. p<u>u</u>sh"
+      ],
+      "answer": "A. b<u>u</u>tter",
+      "explanation": "Đọc “butter” là /bʌtɜ/; ba từ còn lại lần lượt là “put” /pʊt/, “sugar” /ʃʊɡɜ/ và “push” /pʊʃ/. Phần gạch chân “u” trong “butter” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 142."
+    },
+    {
+      "id": 171,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. t<u>i</u>me",
+        "B. f<u>i</u>ve",
+        "C. f<u>i</u>ne",
+        "D. c<u>i</u>ty"
+      ],
+      "answer": "D. c<u>i</u>ty",
+      "explanation": "Đọc “city” là /sɪtiː/; ba từ còn lại lần lượt là “time” /taɪm/, “five” /faɪv/ và “fine” /faɪn/. Phần gạch chân “i” trong “city” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 159."
+    },
+    {
+      "id": 172,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>ea</u>sy",
+        "B. h<u>ea</u>d",
+        "C. pl<u>ea</u>se",
+        "D. s<u>ea</u>"
+      ],
+      "answer": "B. h<u>ea</u>d",
+      "explanation": "Đọc “head” là /hed/; ba từ còn lại lần lượt là “easy” /iːziː/, “please” /pliːz/ và “sea” /siː/. Phần gạch chân “ea” trong “head” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 29."
+    },
+    {
+      "id": 173,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. f<u>a</u>ther",
+        "B. l<u>a</u>mp",
+        "C. f<u>a</u>mily",
+        "D. m<u>a</u>th"
+      ],
+      "answer": "A. f<u>a</u>ther",
+      "explanation": "Đọc “father” là /fɑðɜ/; ba từ còn lại lần lượt là “lamp” /læmp/, “family” /fæmʌliː/ và “math” /mæθ/. Phần gạch chân “a” trong “father” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 191."
+    },
+    {
+      "id": 174,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. stud<u>e</u>nt",
+        "B. p<u>e</u>n",
+        "C. d<u>e</u>sk",
+        "D. f<u>e</u>stival"
+      ],
+      "answer": "A. stud<u>e</u>nt",
+      "explanation": "Đọc “student” là /stuːdʌnt/; ba từ còn lại lần lượt là “pen” /pen/, “desk” /desk/ và “festival” /festʌvʌl/. Phần gạch chân “e” trong “student” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 167."
+    },
+    {
+      "id": 175,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>wh</u>at",
+        "B. <u>wh</u>en",
+        "C. <u>wh</u>ere",
+        "D. <u>wh</u>o"
+      ],
+      "answer": "D. <u>wh</u>o",
+      "explanation": "Đọc “who” là /huː/; ba từ còn lại lần lượt là “what” /wʌt/, “when” /wen/ và “where” /wer/. Phần gạch chân “wh” trong “who” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 184."
+    },
+    {
+      "id": 176,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. b<u>o</u>ttle",
+        "B. j<u>o</u>b",
+        "C. m<u>o</u>vie",
+        "D. ch<u>o</u>colate"
+      ],
+      "answer": "C. m<u>o</u>vie",
+      "explanation": "Đọc “movie” là /muːviː/; ba từ còn lại lần lượt là “bottle” /bɑtʌl/, “job” /dʒɑb/ và “chocolate” /tʃɔklʌt/. Phần gạch chân “o” trong “movie” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 170."
+    },
+    {
+      "id": 177,
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
+      "options": [
+        "A. c<u>i</u>ty",
+        "B. f<u>i</u>ve",
+        "C. f<u>i</u>ne",
+        "D. t<u>i</u>me"
+      ],
+      "answer": "A. c<u>i</u>ty",
+      "explanation": "Đọc “city” là /sɪtiː/; ba từ còn lại lần lượt là “five” /faɪv/, “fine” /faɪn/ và “time” /taɪm/. Phần gạch chân “i” trong “city” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 93."
+    },
+    {
+      "id": 178,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. r<u>ea</u>d",
+        "B. h<u>ea</u>d",
+        "C. w<u>ea</u>ther",
+        "D. r<u>ea</u>dy"
+      ],
+      "answer": "A. r<u>ea</u>d",
+      "explanation": "Đọc “read” là /red/; ba từ còn lại lần lượt là “head” /hed/, “weather” /weðɜ/ và “ready” /rediː/. Phần gạch chân “ea” trong “read” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 142."
+    },
+    {
+      "id": 179,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. f<u>u</u>n",
+        "B. s<u>u</u>nday",
+        "C. h<u>u</u>ngry",
+        "D. exc<u>u</u>se"
+      ],
+      "answer": "D. exc<u>u</u>se",
+      "explanation": "Đọc “excuse” là /ɪkskjuːs/; ba từ còn lại lần lượt là “fun” /fʌn/, “sunday” /sʌndeɪ/ và “hungry” /hʌŋɡriː/. Phần gạch chân “u” trong “excuse” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 155."
+    },
+    {
+      "id": 180,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. br<u>ea</u>d",
+        "B. m<u>ea</u>t",
+        "C. pl<u>ea</u>se",
+        "D. t<u>ea</u>m"
+      ],
+      "answer": "A. br<u>ea</u>d",
+      "explanation": "Đọc “bread” là /bred/; ba từ còn lại lần lượt là “meat” /miːt/, “please” /pliːz/ và “team” /tiːm/. Phần gạch chân “ea” trong “bread” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 181."
+    },
+    {
+      "id": 181,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. c<u>a</u>r",
+        "B. tr<u>a</u>ffic",
+        "C. tr<u>a</u>vel",
+        "D. f<u>a</u>ctory"
+      ],
+      "answer": "A. c<u>a</u>r",
+      "explanation": "Đọc “car” là /kɑr/; ba từ còn lại lần lượt là “traffic” /træfɪk/, “travel” /trævʌl/ và “factory” /fæktɜiː/. Phần gạch chân “a” trong “car” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 31."
+    },
+    {
+      "id": 182,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. stud<u>e</u>nt",
+        "B. p<u>e</u>n",
+        "C. d<u>e</u>sk",
+        "D. sp<u>e</u>ll"
+      ],
+      "answer": "A. stud<u>e</u>nt",
+      "explanation": "Đọc “student” là /stuːdʌnt/; ba từ còn lại lần lượt là “pen” /pen/, “desk” /desk/ và “spell” /spel/. Phần gạch chân “e” trong “student” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 121."
+    },
+    {
+      "id": 183,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. f<u>a</u>ctory",
+        "B. f<u>a</u>mily",
+        "C. l<u>a</u>mp",
+        "D. p<u>a</u>rk"
+      ],
+      "answer": "D. p<u>a</u>rk",
+      "explanation": "Đọc “park” là /pɑrk/; ba từ còn lại lần lượt là “factory” /fæktɜiː/, “family” /fæmʌliː/ và “lamp” /læmp/. Phần gạch chân “a” trong “park” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 163."
+    },
+    {
+      "id": 184,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. <u>i</u>ce cream",
+        "B. l<u>i</u>ke",
+        "C. s<u>i</u>ng",
+        "D. Fr<u>i</u>day"
+      ],
+      "answer": "C. s<u>i</u>ng",
+      "explanation": "Đọc “sing” là /sɪŋ/; ba từ còn lại lần lượt là “ice cream” /aɪs kriːm/, “like” /laɪk/ và “Friday” /fraɪdiː/. Phần gạch chân “i” trong “sing” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 170."
+    },
+    {
+      "id": 185,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. h<u>ea</u>d",
+        "B. d<u>ea</u>r",
+        "C. h<u>ea</u>r",
+        "D. cl<u>ea</u>r"
+      ],
+      "answer": "A. h<u>ea</u>d",
+      "explanation": "Đọc “head” là /hed/; ba từ còn lại lần lượt là “dear” /dɪr/, “hear” /hiːr/ và “clear” /klɪr/. Phần gạch chân “ea” trong “head” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 36."
+    },
+    {
+      "id": 186,
+      "question": "Choose the word that has the underlined part pronounced differently:",
+      "options": [
+        "A. t<u>a</u>ll",
+        "B. m<u>a</u>ny",
+        "C. sm<u>a</u>ll",
+        "D. <u>a</u>ll"
+      ],
+      "answer": "B. m<u>a</u>ny",
+      "explanation": "Đọc “many” là /meniː/; ba từ còn lại lần lượt là “tall” /tɔl/, “small” /smɔl/ và “all” /ɔl/. Phần gạch chân “a” trong “many” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 11, câu 144."
+    },
+    {
+      "id": 187,
+      "question": "How many syllables are there in the word \\\"underground\\\"?",
+      "options": [
+        "A. Two",
+        "B. Three",
+        "C. Four",
+        "D. Five"
+      ],
+      "answer": "B. Three",
+      "explanation": "Đọc “Three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 130."
+    },
+    {
+      "id": 188,
+      "question": "How many syllables are there in the word ’’cinema’’?",
+      "options": [
+        "A. two",
+        "B. one",
+        "C. four",
+        "D. three"
+      ],
+      "answer": "D. three",
+      "explanation": "Đọc “three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 41."
+    },
+    {
+      "id": 189,
+      "question": "Which word has two syllables?",
+      "options": [
+        "A. mountain",
+        "B. bakery",
+        "C. town",
+        "D. factory"
+      ],
+      "answer": "A. mountain",
+      "explanation": "Đọc “mountain” theo nhịp /maʊntʌn/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 74."
+    },
+    {
+      "id": 190,
+      "question": "How many syllables are there in the word \\\"beaches\\\"?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "B. 2",
+      "explanation": "Đọc “2” theo nhịp (xem âm của từ) và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 8."
+    },
+    {
+      "id": 191,
+      "question": "How many syllables are there in the word ’’location’’?",
+      "options": [
+        "A. three",
+        "B. four",
+        "C. five",
+        "D. two"
+      ],
+      "answer": "A. three",
+      "explanation": "Đọc “three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 23."
+    },
+    {
+      "id": 192,
+      "question": "How many syllables are there in the word ’’neighborhood’’?",
+      "options": [
+        "A. two",
+        "B. four",
+        "C. three",
+        "D. one"
+      ],
+      "answer": "C. three",
+      "explanation": "Đọc “three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 199."
+    },
+    {
+      "id": 193,
+      "question": "Which word has different stress pattern?",
+      "options": [
+        "A. destroy",
+        "B. tower",
+        "C. recycle",
+        "D. vacation"
+      ],
+      "answer": "B. tower",
+      "explanation": "Đọc “tower” theo nhịp /taʊɜ/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 21, câu 104."
+    },
+    {
+      "id": 194,
+      "question": "Choose the word which has different stress pattern:",
+      "options": [
+        "A. magazine",
+        "B. beautiful",
+        "C. vegetable",
+        "D. supermarket"
+      ],
+      "answer": "A. magazine",
+      "explanation": "“magazine” có mẫu trọng âm /mæɡʌziːn/. So sánh âm tiết được nhấn của bốn phương án: chỉ “magazine” có vị trí nhấn theo yêu cầu/khác với ba từ còn lại. Nguồn đối chiếu: IOE Lớp 5, đề 20, câu 95."
+    },
+    {
+      "id": 195,
+      "question": "Which word is stressed on the first syllable?",
+      "options": [
+        "A. natural",
+        "B. pollute",
+        "C. recycle",
+        "D. destroy"
+      ],
+      "answer": "A. natural",
+      "explanation": "“natural” được nhấn ở âm tiết thứ nhất (dạng đọc: /nætʃɜʌl/). Đề hỏi từ có trọng âm ở âm 1 nên chọn phương án này; các từ còn lại có vị trí nhấn khác. Nguồn đối chiếu: IOE Lớp 5, đề 24, câu 134."
+    },
+    {
+      "id": 196,
+      "question": "Which word has the different stress pattern?",
+      "options": [
+        "A. produce",
+        "B. recycle",
+        "C. destination",
+        "D. idea"
+      ],
+      "answer": "C. destination",
+      "explanation": "Đọc “destination” theo nhịp /destʌneɪʃʌn/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 28, câu 133."
+    },
+    {
+      "id": 197,
+      "question": "Which word has different stress pattern?",
+      "options": [
+        "A. shoulder",
+        "B. yellow",
+        "C. correct",
+        "D. bottle"
+      ],
+      "answer": "C. correct",
+      "explanation": "Đọc “correct” theo nhịp /kɜekt/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 30, câu 16."
+    },
+    {
+      "id": 198,
+      "question": "Which word has different stress pattern?",
+      "options": [
+        "A. correct",
+        "B. ahead",
+        "C. ruler",
+        "D. erase"
+      ],
+      "answer": "C. ruler",
+      "explanation": "Đọc “ruler” theo nhịp /ruːlɜ/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 31, câu 153."
+    },
+    {
+      "id": 199,
+      "question": "Which word has a different stress pattern?",
+      "options": [
+        "A. season",
+        "B. animal",
+        "C. danger",
+        "D. activity"
+      ],
+      "answer": "D. activity",
+      "explanation": "Đọc “activity” theo nhịp /æktɪvʌtiː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 31, câu 12."
+    },
+    {
+      "id": 200,
+      "question": "Which word is stressed on the second syllable?",
+      "options": [
+        "A. mountain",
+        "B. clinic",
+        "C. market",
+        "D. ahead"
+      ],
+      "answer": "D. ahead",
+      "explanation": "“ahead” được nhấn ở âm tiết thứ hai (dạng đọc: /ʌhed/). Vì yêu cầu là trọng âm âm 2, đây là phương án phù hợp; không dựa vào độ dài của từ. Nguồn đối chiếu: IOE Lớp 5, đề 35, câu 50."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
