@@ -996,7 +996,8 @@
         "D. lion"
       ],
       "answer": "B. brown/bear",
-      "explanation": "Hình ảnh cho thấy con gấu nâu (brown bear); \"brown/bear\" = gấu nâu."
+      "explanation": "Hình ảnh cho thấy con gấu nâu (brown bear); \"brown/bear\" = gấu nâu.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_b7260ab50bfa28ace8a5dfc56f9bbaf287560651.jpg"
     },
     {
       "id": 84,
@@ -1008,7 +1009,8 @@
         "D. four"
       ],
       "answer": "C. two",
-      "explanation": "Hình ảnh có 2 con bò (cows); đáp án C. two."
+      "explanation": "Hình ảnh có 2 con bò (cows); đáp án C. two.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_24c7d5d43c6a289ac699dab466747612d8a650c4.jpg"
     },
     {
       "id": 85,
@@ -1020,7 +1022,8 @@
         "D. twentieth-six"
       ],
       "answer": "A. twenty-sixth",
-      "explanation": "Sinh nhật vào ngày 26 tháng 3; \"twenty-sixth\" = thứ 26 → đáp án A."
+      "explanation": "Sinh nhật vào ngày 26 tháng 3; \"twenty-sixth\" = thứ 26 → đáp án A.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_30778e1f88d5d35ef2cb0fca608bbc03f1acf29b.jpg"
     },
     {
       "id": 86,
@@ -1032,7 +1035,8 @@
         "D. blue"
       ],
       "answer": "D. blue",
-      "explanation": "Quyển vở màu xanh (blue); đáp án D. blue."
+      "explanation": "Quyển vở màu xanh (blue); đáp án D. blue.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e7a44949247d598eb78534f99c1522745e6724e7.jpg"
     },
     {
       "id": 87,
@@ -1044,7 +1048,8 @@
         "D. A guinea pig"
       ],
       "answer": "D. A guinea pig",
-      "explanation": "Hình ảnh là con chuột lang (guinea pig); đáp án D."
+      "explanation": "Hình ảnh là con chuột lang (guinea pig); đáp án D.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_0f80088362af01a317cc1b2505354ef262776b20.jpg"
     },
     {
       "id": 88,
@@ -1056,7 +1061,8 @@
         "D. listens to music"
       ],
       "answer": "B. washes dishes",
-      "explanation": "Mẹ rửa bát sau bữa tối (washes dishes); đáp án B."
+      "explanation": "Mẹ rửa bát sau bữa tối (washes dishes); đáp án B.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_f775229025782bb4ab060eae624be143e2eaeb9f.jpg"
     },
     {
       "id": 89,
@@ -1068,7 +1074,8 @@
         "D. behind"
       ],
       "answer": "A. under",
-      "explanation": "Con chó ở phía dưới cái bàn (under); đáp án A. under."
+      "explanation": "Con chó ở phía dưới cái bàn (under); đáp án A. under.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_67e43c58f6f5b3812b6fd68820ef4c3c37b4253c.jpg"
     },
     {
       "id": 90,
@@ -1080,7 +1087,8 @@
         "D. He is sitting next to his sister on the floor."
       ],
       "answer": "C. His sister is holding a bowl of popcorn.",
-      "explanation": "Câu sai: chị của Peter không cầm bát bỏng ngô mà đang làm việc khác; đáp án C."
+      "explanation": "Câu sai: chị của Peter không cầm bát bỏng ngô mà đang làm việc khác; đáp án C.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_be3cc9cf65e31bae22da111f17d3a74d920715dd.jpg"
     },
     {
       "id": 91,
@@ -1092,7 +1100,8 @@
         "D. P.E"
       ],
       "answer": "D. P.E",
-      "explanation": "Thời khoá biểu của Linh thứ 6 có môn Thể dục (P.E); đáp án D."
+      "explanation": "Thời khoá biểu của Linh thứ 6 có môn Thể dục (P.E); đáp án D.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a77e5d390807d082690f3c02229b6b256d6d59d4.jpg"
     },
     {
       "id": 92,
@@ -1104,7 +1113,8 @@
         "D. blue"
       ],
       "answer": "A. green",
-      "explanation": "Những đôi giày thể thao màu xanh lá (green sneakers); đáp án A."
+      "explanation": "Những đôi giày thể thao màu xanh lá (green sneakers); đáp án A.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_f361392e183f51ca67b511caacf18da05814de27.jpg"
     },
     {
       "id": 93,
@@ -1116,7 +1126,8 @@
         "D. books"
       ],
       "answer": "C. numbers",
-      "explanation": "Trong giờ Toán học về các con số (numbers); đáp án C."
+      "explanation": "Trong giờ Toán học về các con số (numbers); đáp án C.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_d125f98b86e3910703dcec864b7f79438a6fc4b7.jpg"
     },
     {
       "id": 94,
@@ -1128,7 +1139,8 @@
         "D. park"
       ],
       "answer": "B. zoo",
-      "explanation": "Phương đi sở thú (zoo) vào thứ 7; đáp án B."
+      "explanation": "Phương đi sở thú (zoo) vào thứ 7; đáp án B.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_6967812c08a1cb967b608bef67d4d8549a8889dc.jpg"
     },
     {
       "id": 95,
@@ -1140,7 +1152,8 @@
         "D. reading"
       ],
       "answer": "B. cooking",
-      "explanation": "Mẹ đang nấu ăn (cooking) trong bếp; đáp án B."
+      "explanation": "Mẹ đang nấu ăn (cooking) trong bếp; đáp án B.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_9fdec94c7ef5d16f79e16d5a1abb08de0902b71d.jpg"
     },
     {
       "id": 96,
@@ -1152,7 +1165,8 @@
         "D. coffee"
       ],
       "answer": "D. coffee",
-      "explanation": "Hình ảnh là tách cà phê (coffee); đáp án D."
+      "explanation": "Hình ảnh là tách cà phê (coffee); đáp án D.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_0f97033593ae85170bc84a6a8999c649bb7581d1.jpg"
     },
     {
       "id": 97,
@@ -1164,7 +1178,8 @@
         "D. Picture4"
       ],
       "answer": "A. Picture 1",
-      "explanation": "Hình ảnh 1 hiển thị Toán, Tiếng Việt và Âm nhạc; đáp án A. Picture1."
+      "explanation": "Hình ảnh 1 hiển thị Toán, Tiếng Việt và Âm nhạc; đáp án A. Picture1.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_d690b67c76f53115f6e91f32c77a570726ab6cb4.jpg"
     },
     {
       "id": 98,
@@ -1176,7 +1191,8 @@
         "D. He is laughing at someone."
       ],
       "answer": "D. He is laughing at someone.",
-      "explanation": "Câu sai: người đó không cười với ai (not laughing); đáp án D."
+      "explanation": "Câu sai: người đó không cười với ai (not laughing); đáp án D.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_4aff37d2e8000cb6679260caa325dc2ef4bf88b9.jpg"
     },
     {
       "id": 99,
@@ -1188,7 +1204,8 @@
         "D. chairs"
       ],
       "answer": "B. crayons",
-      "explanation": "Hình ảnh là hộp bút màu (crayons); đáp án B."
+      "explanation": "Hình ảnh là hộp bút màu (crayons); đáp án B.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_9520eeba7b845129a84c1a473e874c7366d17cb7.jpg"
     },
     {
       "id": 100,
@@ -1200,7 +1217,8 @@
         "D. No, they don’t."
       ],
       "answer": "D. No, they don’t.",
-      "explanation": "\"Do they come from Japan?\" – Câu hỏi hiện tại đơn dùng \"do/don't\"; trả lời: \"No, they don't.\" → đáp án D."
+      "explanation": "\"Do they come from Japan?\" – Câu hỏi hiện tại đơn dùng \"do/don't\"; trả lời: \"No, they don't.\" → đáp án D.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_188de3ef6a3fe20c85d05a75a6327e391b355152.jpg"
     },
     {
       "id": 101,
@@ -1212,7 +1230,8 @@
         "D. living room"
       ],
       "answer": "C. bedroom",
-      "explanation": "Đây là phòng ngủ (bedroom) nhỏ; đáp án C."
+      "explanation": "Đây là phòng ngủ (bedroom) nhỏ; đáp án C.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_8365baa0bb0589791e6c06fb24b59dea45c6b318.jpg"
     },
     {
       "id": 102,
@@ -1224,7 +1243,8 @@
         "D. rainbow"
       ],
       "answer": "D. rainbow",
-      "explanation": "Đó là cầu vồng (rainbow) đẹp; đáp án D."
+      "explanation": "Đó là cầu vồng (rainbow) đẹp; đáp án D.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a496b93e8d75fa50136fbd05a72327dd94526a70.jpg"
     },
     {
       "id": 103,
@@ -1236,7 +1256,8 @@
         "D. black"
       ],
       "answer": "B. red",
-      "explanation": "Cái ô màu đỏ (red); đáp án B."
+      "explanation": "Cái ô màu đỏ (red); đáp án B.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_f0780a9089b207c4ec9a9f60b7766fa10778a7c7.jpg"
     },
     {
       "id": 104,
@@ -1248,7 +1269,8 @@
         "D. Malaysia"
       ],
       "answer": "B. Australia",
-      "explanation": "Liz đến từ Australia; đáp án B."
+      "explanation": "Liz đến từ Australia; đáp án B.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_19c5beba0db0f1b28d4f127c4f20f55c44e503c0.jpg"
     },
     {
       "id": 105,
@@ -1260,7 +1282,8 @@
         "D. black"
       ],
       "answer": "C. round",
-      "explanation": "Hộp hình tròn (round); đáp án C."
+      "explanation": "Hộp hình tròn (round); đáp án C.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_4462d29f40b1dac32b29c774a290df80bfb6b907.jpg"
     },
     {
       "id": 106,
@@ -1272,7 +1295,8 @@
         "D. mouse"
       ],
       "answer": "A. mask",
-      "explanation": "Chị thích vẽ mặt nạ (mask); đáp án A."
+      "explanation": "Chị thích vẽ mặt nạ (mask); đáp án A.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_cf18d91319c046232f46e7eaf3f609f84209ca6b.jpg"
     },
     {
       "id": 107,
@@ -1284,7 +1308,8 @@
         "D. five"
       ],
       "answer": "C. four",
-      "explanation": "Có 4 con cá heo (four dolphins); đáp án C."
+      "explanation": "Có 4 con cá heo (four dolphins); đáp án C.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_9c8fe5485cd77dc4c9f5b6373721604ee14e6780.jpg"
     },
     {
       "id": 108,
@@ -1296,651 +1321,744 @@
         "D. ride a pony"
       ],
       "answer": "A. ride a bike",
-      "explanation": "Chị gái có thể đi xe đạp (ride a bike); đáp án A."
+      "explanation": "Chị gái có thể đi xe đạp (ride a bike); đáp án A.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a38bdfe412de94b50b07d6b0dbd4238b0d2b5647.jpg"
     },
     {
       "id": 109,
       "question": "Sue often plays _ _ _ _ _ _ _ _ _ in her free time.",
       "options": [],
       "answer": "badminton",
-      "explanation": "\"_ _ _ _ _ _ _ _ _\" → \"badminton\" = cầu lông; Sue chơi cầu lông lúc rảnh rỗi."
+      "explanation": "\"_ _ _ _ _ _ _ _ _\" → \"badminton\" = cầu lông; Sue chơi cầu lông lúc rảnh rỗi.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_3503e26765b6f39b6b2f24eb8c8fb19f94807a22.jpg"
     },
     {
       "id": 110,
       "question": "My mother will buy me a new _ _ _ _ _ on my10th birthday.",
       "options": [],
       "answer": "dress",
-      "explanation": "\"_ _ _ _ _\" → \"dress\" = váy; mẹ mua váy mới cho sinh nhật thứ 10."
+      "explanation": "\"_ _ _ _ _\" → \"dress\" = váy; mẹ mua váy mới cho sinh nhật thứ 10.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_1d473ded56d1f394bf1290acffc2141a9a5ba669.jpg"
     },
     {
       "id": 111,
       "question": "The book is _ _ _ _ _ that chair",
       "options": [],
       "answer": "under",
-      "explanation": "\"_ _ _ _ _\" → \"under\" = dưới; quyển sách ở dưới cái ghế."
+      "explanation": "\"_ _ _ _ _\" → \"under\" = dưới; quyển sách ở dưới cái ghế.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_67ec88a1d4dbf08dee74ceddc187d12193888a44.jpg"
     },
     {
       "id": 112,
       "question": "We need some _ _ _ _ _ _ for the dish.",
       "options": [],
       "answer": "onions",
-      "explanation": "\"_ _ _ _ _ _\" → \"onions\" = hành tây; cần thêm hành tây cho món ăn."
+      "explanation": "\"_ _ _ _ _ _\" → \"onions\" = hành tây; cần thêm hành tây cho món ăn.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_14b3d6af3e64c79fc3f4d63bf1ff1bf1055b4abc.jpg"
     },
     {
       "id": 113,
       "question": "The flower is p_ _ k.",
       "options": [],
       "answer": "in",
-      "explanation": "\"p_ _ k\" → \"p-in-k\" = \"pink\" = màu hồng; điền \"in\"."
+      "explanation": "\"p_ _ k\" → \"p-in-k\" = \"pink\" = màu hồng; điền \"in\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a73f4d05558e93465dfe5cf7357d30584678374a.jpg"
     },
     {
       "id": 114,
       "question": "My father w_ _ _ _ to work every day.",
       "options": [],
       "answer": "alks",
-      "explanation": "\"w_ _ _ _\" → \"w-alks\" = \"walks\" = đi bộ; bố đi bộ đến công sở."
+      "explanation": "\"w_ _ _ _\" → \"w-alks\" = \"walks\" = đi bộ; bố đi bộ đến công sở.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_3fd20a32156d9b6a2c199c8b72112150f4741688.jpg"
     },
     {
       "id": 115,
       "question": "Sally is making a p_ _ _ _ boat.",
       "options": [],
       "answer": "aper",
-      "explanation": "\"p_ _ _ _\" → \"p-aper\" = \"paper\" = giấy; Sally đang làm thuyền giấy."
+      "explanation": "\"p_ _ _ _\" → \"p-aper\" = \"paper\" = giấy; Sally đang làm thuyền giấy.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_aaa4e8d579bdb2e5beebbcb7cbde1107236b40c6.jpg"
     },
     {
       "id": 116,
       "question": "He is writing a le_ _ _ r.",
       "options": [],
       "answer": "tte",
-      "explanation": "\"le_ _ _ r\" → \"le-tt-er\" = \"letter\" = lá thư; anh ấy đang viết thư."
+      "explanation": "\"le_ _ _ r\" → \"le-tt-er\" = \"letter\" = lá thư; anh ấy đang viết thư.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_81b3b89fa6db3c333d9643151c255230ba4a3c76.jpg"
     },
     {
       "id": 117,
       "question": "Elsa is beautiful in her b_ _ _ dress.",
       "options": [],
       "answer": "lue",
-      "explanation": "\"b_ _ _\" → \"b-lue\" = \"blue\" = màu xanh; Elsa đẹp trong chiếc váy xanh."
+      "explanation": "\"b_ _ _\" → \"b-lue\" = \"blue\" = màu xanh; Elsa đẹp trong chiếc váy xanh.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_37e6c5f8f626aa4235eefd4b9e8fa0fa1fb08d71.jpg"
     },
     {
       "id": 118,
       "question": "My parents took me to the _ _ _ last weekend.",
       "options": [],
       "answer": "zoo",
-      "explanation": "\"_ _ _\" → \"zoo\" = sở thú; bố mẹ đưa em đến sở thú cuối tuần qua."
+      "explanation": "\"_ _ _\" → \"zoo\" = sở thú; bố mẹ đưa em đến sở thú cuối tuần qua.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_048fc3a3a81eb599702619212064f94efb500f47.jpg"
     },
     {
       "id": 119,
       "question": "A f_ _ _ can swim but it can’t walk.",
       "options": [],
       "answer": "ish",
-      "explanation": "\"f_ _ _\" → \"f-ish\" = \"fish\" = cá; cá có thể bơi nhưng không đi bộ."
+      "explanation": "\"f_ _ _\" → \"f-ish\" = \"fish\" = cá; cá có thể bơi nhưng không đi bộ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_32007e2cb055b22e95de425636607b5b4224c385.jpg"
     },
     {
       "id": 120,
       "question": "This ba_ _ _ a is for you, Mary. – Thank you.",
       "options": [],
       "answer": "nan",
-      "explanation": "\"ba_ _ _ a\" → \"ba-nan-a\" = \"banana\" = quả chuối; điền \"nan\"."
+      "explanation": "\"ba_ _ _ a\" → \"ba-nan-a\" = \"banana\" = quả chuối; điền \"nan\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_28d86e066bec3cee5f613a6b812713ccd39ee9e8.jpg"
     },
     {
       "id": 121,
       "question": "BIC_ _ _ E",
       "options": [],
       "answer": "ycl",
-      "explanation": "\"BIC_ _ _ E\" → \"BIC-ycl-E\" = \"BICYCLE\" = xe đạp; điền \"ycl\"."
+      "explanation": "\"BIC_ _ _ E\" → \"BIC-ycl-E\" = \"BICYCLE\" = xe đạp; điền \"ycl\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_873113de8dc502426e969355c4263392a9434cb4.jpg"
     },
     {
       "id": 122,
       "question": "My father is helping me m_ _ _ a kite.",
       "options": [],
       "answer": "ake",
-      "explanation": "\"m_ _ _\" → \"m-ake\" = \"make\" = làm; bố giúp làm diều."
+      "explanation": "\"m_ _ _\" → \"m-ake\" = \"make\" = làm; bố giúp làm diều.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e1c2e46a5c114fc5dfab0d1a87affe06b19ed4aa.jpg"
     },
     {
       "id": 123,
       "question": "It’s clo_ _ _ today.",
       "options": [],
       "answer": "udy",
-      "explanation": "\"clo_ _ _\" → \"clo-udy\" = \"cloudy\" = nhiều mây; trời nhiều mây hôm nay."
+      "explanation": "\"clo_ _ _\" → \"clo-udy\" = \"cloudy\" = nhiều mây; trời nhiều mây hôm nay.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_5c5d050cbf549c330c742cd39c17199a9a37b2dd.jpg"
     },
     {
       "id": 124,
       "question": "The s_ _ _ _ is beautiful.",
       "options": [],
       "answer": "tamp",
-      "explanation": "\"s_ _ _ _\" → \"s-tamp\" = \"stamp\" = con tem; con tem rất đẹp."
+      "explanation": "\"s_ _ _ _\" → \"s-tamp\" = \"stamp\" = con tem; con tem rất đẹp.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e995c83b54adcce5bcd1148a8a884abcca5e4818.jpg"
     },
     {
       "id": 125,
       "question": "They played volleyball on the _ _ _ _ _ .",
       "options": [],
       "answer": "beach",
-      "explanation": "\"_ _ _ _ _\" → \"beach\" = bãi biển; họ chơi bóng chuyền ở bãi biển."
+      "explanation": "\"_ _ _ _ _\" → \"beach\" = bãi biển; họ chơi bóng chuyền ở bãi biển.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_47d22bbcb0098ec84db6d845872ad3d38ecf1824.jpg"
     },
     {
       "id": 126,
       "question": "My mother made me a pretty birthday c_ _ _ .",
       "options": [],
       "answer": "ake",
-      "explanation": "\"c_ _ _\" → \"c-ake\" = \"cake\" = bánh; mẹ làm bánh sinh nhật đẹp."
+      "explanation": "\"c_ _ _\" → \"c-ake\" = \"cake\" = bánh; mẹ làm bánh sinh nhật đẹp.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_2b257771e87876de27cacd6069820f1db4a38d3f.jpg"
     },
     {
       "id": 127,
       "question": "A_ _ _ _",
       "options": [],
       "answer": "LION",
-      "explanation": "\"A_ _ _ _\" → hoàn thành: \"LION\" = sư tử; điền \"LIO\" (hoặc theo đề là 4 ô → \"LION\")."
+      "explanation": "\"A_ _ _ _\" → hoàn thành: \"LION\" = sư tử; điền \"LIO\" (hoặc theo đề là 4 ô → \"LION\").",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_5d6a53e337ae0806dbd00c453c8f9726a7e26d89.jpg"
     },
     {
       "id": 128,
       "question": "Look at the duckl_ ng. It’s very cute.",
       "options": [],
       "answer": "i",
-      "explanation": "\"duckl_ ng\" → \"duckl-i-ng\" = \"duckling\" = vịt con; điền \"i\"."
+      "explanation": "\"duckl_ ng\" → \"duckl-i-ng\" = \"duckling\" = vịt con; điền \"i\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_ac6f5b6fba591ba360a3b0d3819b5a1695878c19.jpg"
     },
     {
       "id": 129,
       "question": "We spent a few days at the re_ _ _ _ last summer.",
       "options": [],
       "answer": "sort",
-      "explanation": "\"re_ _ _ _\" → \"re-sort\" = \"resort\" = khu nghỉ dưỡng; họ nghỉ ở resort mùa hè qua."
+      "explanation": "\"re_ _ _ _\" → \"re-sort\" = \"resort\" = khu nghỉ dưỡng; họ nghỉ ở resort mùa hè qua.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_2fd7e449191dcd991e88465a76276bfb629063de.jpg"
     },
     {
       "id": 130,
       "question": "Nick can s_ _ _ _ but he can’t swim.",
       "options": [],
       "answer": "kate",
-      "explanation": "\"s_ _ _ _\" → \"s-kate\" = \"skate\" = trượt băng; Nick có thể trượt băng nhưng không bơi."
+      "explanation": "\"s_ _ _ _\" → \"s-kate\" = \"skate\" = trượt băng; Nick có thể trượt băng nhưng không bơi.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_09615a1bc0f0077ede9132fb49e0a7884e94d68b.jpg"
     },
     {
       "id": 131,
       "question": "Little boys, let’s stomp like an e_ _ _ _ _ _ _ .",
       "options": [],
       "answer": "lephant",
-      "explanation": "\"e_ _ _ _ _ _ _\" → \"e-lephant\" = \"elephant\" = voi; điền \"lephant\"."
+      "explanation": "\"e_ _ _ _ _ _ _\" → \"e-lephant\" = \"elephant\" = voi; điền \"lephant\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_8ab7e38b3b308eb1b618bc09179b138ce016d1e0.jpg"
     },
     {
       "id": 132,
       "question": "She drew a _ _ _ _ er.",
       "options": [],
       "answer": "flow",
-      "explanation": "\"_ _ _ _ er\" → \"flow-er\" = \"flower\" = bông hoa; cô ấy vẽ một bông hoa."
+      "explanation": "\"_ _ _ _ er\" → \"flow-er\" = \"flower\" = bông hoa; cô ấy vẽ một bông hoa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e144cb61b62c01910c4fad763a28b687433a375d.jpg"
     },
     {
       "id": 133,
       "question": "The _ _ _ _ _ _ th of August is my birthday.",
       "options": [],
       "answer": "eleven",
-      "explanation": "\"_ _ _ _ _ _ th\" → \"eleven-th\" = \"eleventh\" = thứ mười một; sinh nhật ngày 11 tháng 8."
+      "explanation": "\"_ _ _ _ _ _ th\" → \"eleven-th\" = \"eleventh\" = thứ mười một; sinh nhật ngày 11 tháng 8.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_da1d0c3b6545f46c6f7953ca0b2de97371c81468.jpg"
     },
     {
       "id": 134,
       "question": "What’s the matter with you? - I’m b_ _ _ _ .",
       "options": [],
       "answer": "ored",
-      "explanation": "\"b_ _ _ _\" → \"b-ored\" = \"bored\" = chán; \"What's the matter?\" – \"I'm bored.\""
+      "explanation": "\"b_ _ _ _\" → \"b-ored\" = \"bored\" = chán; \"What's the matter?\" – \"I'm bored.\"",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_97c673a717d36858ab7df9c148e669f85dc83d25.jpg"
     },
     {
       "id": 135,
       "question": "My sister likes _ _ _ _ _ _ _ the piano.",
       "options": [],
       "answer": "playing",
-      "explanation": "\"_ _ _ _ _ _ _\" → \"playing\" = chơi; chị thích chơi đàn piano."
+      "explanation": "\"_ _ _ _ _ _ _\" → \"playing\" = chơi; chị thích chơi đàn piano.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_020a2a2d9a6434af8443971ed5e0113fb7d81eea.jpg"
     },
     {
       "id": 136,
       "question": "I can play table t_ _ _ _ _ .",
       "options": [],
       "answer": "ennis",
-      "explanation": "\"t_ _ _ _ _\" → \"t-ennis\" = \"tennis\" (table tennis = bóng bàn); điền \"ennis\"."
+      "explanation": "\"t_ _ _ _ _\" → \"t-ennis\" = \"tennis\" (table tennis = bóng bàn); điền \"ennis\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a76ff5087bb9d4a7518fa4bf06abcbb1a0caabc3.jpg"
     },
     {
       "id": 137,
       "question": "Wear these _ _ _ _ s. It’s very cold and wet.",
       "options": [],
       "answer": "boot",
-      "explanation": "\"_ _ _ _ s\" → \"boot-s\" = \"boots\" = ủng; trời lạnh ướt thì đi ủng."
+      "explanation": "\"_ _ _ _ s\" → \"boot-s\" = \"boots\" = ủng; trời lạnh ướt thì đi ủng.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_6672e621a02bf2c69b01ca1b36d3b03030e7797f.jpg"
     },
     {
       "id": 138,
       "question": "The _ _ _ _ _ _ th of August is my birthday.",
       "options": [],
       "answer": "eleven",
-      "explanation": "\"_ _ _ _ _ _ th\" → \"eleven-th\" = \"eleventh\" = thứ mười một; sinh nhật ngày 11 tháng 8."
+      "explanation": "\"_ _ _ _ _ _ th\" → \"eleven-th\" = \"eleventh\" = thứ mười một; sinh nhật ngày 11 tháng 8.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_da1d0c3b6545f46c6f7953ca0b2de97371c81468.jpg"
     },
     {
       "id": 139,
       "question": "This is my pen friend. He’s A_ _ _ _ can.",
       "options": [],
       "answer": "meri",
-      "explanation": "\"A_ _ _ _ can\" → \"A-meri-can\" = \"American\" = người Mỹ; điền \"meri\"."
+      "explanation": "\"A_ _ _ _ can\" → \"A-meri-can\" = \"American\" = người Mỹ; điền \"meri\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_be02fc3140ae4cf7c5cb3e381b4eb73fb6db4a07.jpg"
     },
     {
       "id": 140,
       "question": "- What colour is your plane?- It’s _ _ _ .",
       "options": [],
       "answer": "red",
-      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ."
+      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_df0ba95355fd39eee21d65b42ab8e8acbc3e4232.jpg"
     },
     {
       "id": 141,
       "question": "They are from L_ _ _ _ _ , England.",
       "options": [],
       "answer": "ondon",
-      "explanation": "\"L_ _ _ _ _\" → \"L-ondon\" = \"London\" = thành phố London, Anh; điền \"ondon\"."
+      "explanation": "\"L_ _ _ _ _\" → \"L-ondon\" = \"London\" = thành phố London, Anh; điền \"ondon\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_4cbff3ea3fc30758a417624e861463b259b198c0.jpg"
     },
     {
       "id": 142,
       "question": "We made a purple bo_ t.",
       "options": [],
       "answer": "a",
-      "explanation": "\"bo_ t\" → \"bo-a-t\" = \"boat\" = thuyền; chúng tôi làm thuyền màu tím."
+      "explanation": "\"bo_ t\" → \"bo-a-t\" = \"boat\" = thuyền; chúng tôi làm thuyền màu tím.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_0d72a90b681d7d83d141692f223598479dcd688e.jpg"
     },
     {
       "id": 143,
       "question": "A cat can _ _ _ _ _ a tree.",
       "options": [],
       "answer": "climb",
-      "explanation": "\"_ _ _ _ _\" → \"climb\" = leo trèo; mèo có thể leo cây."
+      "explanation": "\"_ _ _ _ _\" → \"climb\" = leo trèo; mèo có thể leo cây.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_c61fe6b85570d6be18b6cbc9f49172b79cb691cf.jpg"
     },
     {
       "id": 144,
       "question": "I’m _ _ _ _ _ _ _ . I want some milk.",
       "options": [],
       "answer": "thirsty",
-      "explanation": "\"_ _ _ _ _ _ _\" → \"thirsty\" = khát nước; tôi khát, tôi muốn uống sữa."
+      "explanation": "\"_ _ _ _ _ _ _\" → \"thirsty\" = khát nước; tôi khát, tôi muốn uống sữa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_07e0d44cab4ebd8979f3daab77f1931453c5e47e.jpg"
     },
     {
       "id": 145,
       "question": "Give me a gl_ _ _ of milk, please.",
       "options": [],
       "answer": "ass",
-      "explanation": "\"gl_ _ _\" → \"gl-ass\" = \"glass\" = ly; cho tôi một ly sữa."
+      "explanation": "\"gl_ _ _\" → \"gl-ass\" = \"glass\" = ly; cho tôi một ly sữa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_445bbc022bd45524837807026117be251e0e5861.jpg"
     },
     {
       "id": 146,
       "question": "We spent a few days at the re_ _ _ _ last summer.",
       "options": [],
       "answer": "sort",
-      "explanation": "\"re_ _ _ _\" → \"re-sort\" = \"resort\" = khu nghỉ dưỡng; họ nghỉ ở resort mùa hè qua."
+      "explanation": "\"re_ _ _ _\" → \"re-sort\" = \"resort\" = khu nghỉ dưỡng; họ nghỉ ở resort mùa hè qua.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_2fd7e449191dcd991e88465a76276bfb629063de.jpg"
     },
     {
       "id": 147,
       "question": "Adam is my new classmate. He’s from A_ _ _ _ ca.",
       "options": [],
       "answer": "meri",
-      "explanation": "\"A_ _ _ _ ca\" → \"A-meri-ca\" = \"America\"; Adam là người Mỹ."
+      "explanation": "\"A_ _ _ _ ca\" → \"A-meri-ca\" = \"America\"; Adam là người Mỹ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a565b808929af2d4622a517029ee4675a951604e.jpg"
     },
     {
       "id": 148,
       "question": "My pencil sh_ _ _ _ _ _ _ is new.",
       "options": [],
       "answer": "arpener",
-      "explanation": "\"sh_ _ _ _ _ _ _\" → \"sh-arpener\" = \"sharpener\" = cái gọt bút chì; điền \"arpener\"."
+      "explanation": "\"sh_ _ _ _ _ _ _\" → \"sh-arpener\" = \"sharpener\" = cái gọt bút chì; điền \"arpener\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_14fc6aefc0564e7bdfce123d30be8cbdd51fa0b7.jpg"
     },
     {
       "id": 149,
       "question": "The map is on the w_ _ _ .",
       "options": [],
       "answer": "all",
-      "explanation": "\"w_ _ _\" → \"w-all\" = \"wall\" = bức tường; tấm bản đồ treo trên tường."
+      "explanation": "\"w_ _ _\" → \"w-all\" = \"wall\" = bức tường; tấm bản đồ treo trên tường.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_aaa3354ae907d5dd2a26d69a2e3273b96e95f5dc.jpg"
     },
     {
       "id": 150,
       "question": "She drew a _ _ _ _ er.",
       "options": [],
       "answer": "flow",
-      "explanation": "\"_ _ _ _ er\" → \"flow-er\" = \"flower\" = bông hoa; cô ấy vẽ một bông hoa."
+      "explanation": "\"_ _ _ _ er\" → \"flow-er\" = \"flower\" = bông hoa; cô ấy vẽ một bông hoa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e144cb61b62c01910c4fad763a28b687433a375d.jpg"
     },
     {
       "id": 151,
       "question": "She has three _ _ _ _ _ _ on her desk.",
       "options": [],
       "answer": "rulers",
-      "explanation": "\"_ _ _ _ _ _\" → \"rulers\" = thước kẻ (số nhiều); cô ấy có 3 cái thước trên bàn."
+      "explanation": "\"_ _ _ _ _ _\" → \"rulers\" = thước kẻ (số nhiều); cô ấy có 3 cái thước trên bàn.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_d98d38aa7f27e41abc007497a9e35e552d185854.jpg"
     },
     {
       "id": 152,
       "question": "- What colour is your plane?- It’s _ _ _ .",
       "options": [],
       "answer": "red",
-      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ."
+      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_df0ba95355fd39eee21d65b42ab8e8acbc3e4232.jpg"
     },
     {
       "id": 153,
       "question": "She likes playing vo_ _ _ _ _ _ _ _ .",
       "options": [],
       "answer": "lleyball",
-      "explanation": "\"vo_ _ _ _ _ _ _ _\" → \"vo-lleyball\" = \"volleyball\" = bóng chuyền; điền \"lleyball\"."
+      "explanation": "\"vo_ _ _ _ _ _ _ _\" → \"vo-lleyball\" = \"volleyball\" = bóng chuyền; điền \"lleyball\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_7212991bfc9df657736bdb27083fbc69a0f3a126.jpg"
     },
     {
       "id": 154,
       "question": "She drew a _ _ _ _ er.",
       "options": [],
       "answer": "flow",
-      "explanation": "\"_ _ _ _ er\" → \"flow-er\" = \"flower\" = bông hoa; cô ấy vẽ một bông hoa."
+      "explanation": "\"_ _ _ _ er\" → \"flow-er\" = \"flower\" = bông hoa; cô ấy vẽ một bông hoa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e144cb61b62c01910c4fad763a28b687433a375d.jpg"
     },
     {
       "id": 155,
       "question": "His favourite hobby is playing c_ _ _ s.",
       "options": [],
       "answer": "hes",
-      "explanation": "\"c_ _ _ s\" → \"c-hes-s\" = \"chess\" = cờ vua; điền \"hes\"."
+      "explanation": "\"c_ _ _ s\" → \"c-hes-s\" = \"chess\" = cờ vua; điền \"hes\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_d111651927e0f5ad6ef16cd3d6d22e4eeaa9a90d.jpg"
     },
     {
       "id": 156,
       "question": "The name of my _ _ _ _ _ _ _ _ is Thomas.",
       "options": [],
       "answer": "goldfish",
-      "explanation": "\"_ _ _ _ _ _ _ _\" → \"goldfish\" = cá vàng; tên cá vàng là Thomas."
+      "explanation": "\"_ _ _ _ _ _ _ _\" → \"goldfish\" = cá vàng; tên cá vàng là Thomas.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_4aa96441208efece4687625a8e4f4451f42972fc.jpg"
     },
     {
       "id": 157,
       "question": "Would you like a ham_ _ _ _ _ _ ?",
       "options": [],
       "answer": "burger",
-      "explanation": "\"ham_ _ _ _ _ _\" → \"ham-burger\" = \"hamburger\" = hamburger; điền \"burger\"."
+      "explanation": "\"ham_ _ _ _ _ _\" → \"ham-burger\" = \"hamburger\" = hamburger; điền \"burger\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_04c059bd57e53e07453b1bb5cb1c71109f7c9374.jpg"
     },
     {
       "id": 158,
       "question": "Do you like _ _ _ f?",
       "options": [],
       "answer": "bee",
-      "explanation": "\"_ _ _ f\" → \"bee-f\" = \"beef\" = thịt bò; bạn có thích thịt bò không?"
+      "explanation": "\"_ _ _ f\" → \"bee-f\" = \"beef\" = thịt bò; bạn có thích thịt bò không?",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_5924c39784e8fc0e0bd20ac19dd657caaec11655.jpg"
     },
     {
       "id": 159,
       "question": "She is painting a _ _ _ _ .",
       "options": [],
       "answer": "mask",
-      "explanation": "\"_ _ _ _\" → \"mask\" = mặt nạ; cô ấy đang vẽ mặt nạ."
+      "explanation": "\"_ _ _ _\" → \"mask\" = mặt nạ; cô ấy đang vẽ mặt nạ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_38c8b08aefbd6cba471ff1376eb8c7b4590f0178.jpg"
     },
     {
       "id": 160,
       "question": "This is my aunt. She’s E_ _ _ ish.",
       "options": [],
       "answer": "ngl",
-      "explanation": "\"E_ _ _ ish\" → \"E-ngl-ish\" = \"English\" = người Anh; điền \"ngl\"."
+      "explanation": "\"E_ _ _ ish\" → \"E-ngl-ish\" = \"English\" = người Anh; điền \"ngl\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_dff7f8c57a8982b84b8a4b64c7492ef08df9cf73.jpg"
     },
     {
       "id": 161,
       "question": "The map is on the w_ _ _ .",
       "options": [],
       "answer": "all",
-      "explanation": "\"w_ _ _\" → \"w-all\" = \"wall\" = bức tường; tấm bản đồ treo trên tường."
+      "explanation": "\"w_ _ _\" → \"w-all\" = \"wall\" = bức tường; tấm bản đồ treo trên tường.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_aaa3354ae907d5dd2a26d69a2e3273b96e95f5dc.jpg"
     },
     {
       "id": 162,
       "question": "An um_ _ _ _ _ _ looks like a mushroom.",
       "options": [],
       "answer": "brella",
-      "explanation": "\"um_ _ _ _ _ _\" → \"um-brella\" = \"umbrella\" = ô/dù; điền \"brella\"."
+      "explanation": "\"um_ _ _ _ _ _\" → \"um-brella\" = \"umbrella\" = ô/dù; điền \"brella\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_83e56a37a9c7a4c2cf00ca0475db49bfe9cb1621.jpg"
     },
     {
       "id": 163,
       "question": "They are d_ _ _ ing cats now.",
       "options": [],
       "answer": "raw",
-      "explanation": "\"d_ _ _ ing\" → \"d-raw-ing\" = \"drawing\" = vẽ; họ đang vẽ mèo."
+      "explanation": "\"d_ _ _ ing\" → \"d-raw-ing\" = \"drawing\" = vẽ; họ đang vẽ mèo.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_1a56ec4682e1a5c196a2c5517223b829d70abf2d.jpg"
     },
     {
       "id": 164,
       "question": "Don’t s_ _ m in this river.",
       "options": [],
       "answer": "wi",
-      "explanation": "\"s_ _ m\" → \"s-wi-m\" = \"swim\" = bơi; đừng bơi ở con sông này."
+      "explanation": "\"s_ _ m\" → \"s-wi-m\" = \"swim\" = bơi; đừng bơi ở con sông này.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_367bd1d74e11d478c54ad03930a965a2802fc114.jpg"
     },
     {
       "id": 165,
       "question": "Johnny enjoys collecting _ _ _ _ _ ers.",
       "options": [],
       "answer": "stick",
-      "explanation": "\"_ _ _ _ _ ers\" → \"stick-ers\" = \"stickers\" = nhãn dán; Johnny thích sưu tầm nhãn dán."
+      "explanation": "\"_ _ _ _ _ ers\" → \"stick-ers\" = \"stickers\" = nhãn dán; Johnny thích sưu tầm nhãn dán.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_c1345ad1e80df70a5985ebb23dbca9228d2ccfd9.jpg"
     },
     {
       "id": 166,
       "question": "Wear your _ _ _ , please!",
       "options": [],
       "answer": "hat",
-      "explanation": "\"_ _ _\" → \"hat\" = mũ; hãy đội mũ vào nhé!"
+      "explanation": "\"_ _ _\" → \"hat\" = mũ; hãy đội mũ vào nhé!",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_ea82a894e0de15e76c8179bb225e4ef11694e715.jpg"
     },
     {
       "id": 167,
       "question": "My toys are in that b_ _ .",
       "options": [],
       "answer": "ox",
-      "explanation": "\"b_ _\" → \"b-ox\" = \"box\" = hộp; đồ chơi của tôi trong cái hộp đó."
+      "explanation": "\"b_ _\" → \"b-ox\" = \"box\" = hộp; đồ chơi của tôi trong cái hộp đó.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_5db5586bd515663cefe6368c359952abf6592791.jpg"
     },
     {
       "id": 168,
       "question": "This ba_ _ _ a is for you, Mary. – Thank you.",
       "options": [],
       "answer": "nan",
-      "explanation": "\"ba_ _ _ a\" → \"ba-nan-a\" = \"banana\" = quả chuối; điền \"nan\"."
+      "explanation": "\"ba_ _ _ a\" → \"ba-nan-a\" = \"banana\" = quả chuối; điền \"nan\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_28d86e066bec3cee5f613a6b812713ccd39ee9e8.jpg"
     },
     {
       "id": 169,
       "question": "They are drawing fl_ _ _ _ _ .",
       "options": [],
       "answer": "owers",
-      "explanation": "\"fl_ _ _ _ _\" → \"fl-owers\" = \"flowers\" = những bông hoa; họ đang vẽ hoa."
+      "explanation": "\"fl_ _ _ _ _\" → \"fl-owers\" = \"flowers\" = những bông hoa; họ đang vẽ hoa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_7597740c2908d7774da76d8ff9350f7830981071.jpg"
     },
     {
       "id": 170,
       "question": "Have you got any _ _ _ _ _ _ _ _ _ ?",
       "options": [],
       "answer": "envelopes",
-      "explanation": "\"_ _ _ _ _ _ _ _ _\" → \"envelopes\" = phong bì thư; bạn có phong bì không?"
+      "explanation": "\"_ _ _ _ _ _ _ _ _\" → \"envelopes\" = phong bì thư; bạn có phong bì không?",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_835e26c4f00b2e6cab9932ed2af34561aec0b281.jpg"
     },
     {
       "id": 171,
       "question": "- What colour is your plane?- It’s _ _ _ .",
       "options": [],
       "answer": "red",
-      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ."
+      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_df0ba95355fd39eee21d65b42ab8e8acbc3e4232.jpg"
     },
     {
       "id": 172,
       "question": "Why do you like Music? – Because I like to _ _ _ _ songs.",
       "options": [],
       "answer": "sing",
-      "explanation": "\"_ _ _ _\" → \"sing\" = hát; vì tôi thích hát các bài hát."
+      "explanation": "\"_ _ _ _\" → \"sing\" = hát; vì tôi thích hát các bài hát.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_f31ab4cb7db8534ac19f86b3815d27273740952c.jpg"
     },
     {
       "id": 173,
       "question": "They are ___ together.A. drawing pictures B. listening to music C. making a kite D. making pictures",
       "options": [],
       "answer": "making a kite",
-      "explanation": "Hình ảnh cho thấy họ đang làm diều cùng nhau (making a kite); đáp án C."
+      "explanation": "Hình ảnh cho thấy họ đang làm diều cùng nhau (making a kite); đáp án C.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_3afc016142357dc7d6cfae2b777de59f6e8acc9a.jpg"
     },
     {
       "id": 174,
       "question": "My parents took me to the _ _ _ last weekend.",
       "options": [],
       "answer": "zoo",
-      "explanation": "\"_ _ _\" → \"zoo\" = sở thú; bố mẹ đưa em đến sở thú cuối tuần qua."
+      "explanation": "\"_ _ _\" → \"zoo\" = sở thú; bố mẹ đưa em đến sở thú cuối tuần qua.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_048fc3a3a81eb599702619212064f94efb500f47.jpg"
     },
     {
       "id": 175,
       "question": "The flower is p_ _ k.",
       "options": [],
       "answer": "in",
-      "explanation": "\"p_ _ k\" → \"p-in-k\" = \"pink\" = màu hồng; điền \"in\"."
+      "explanation": "\"p_ _ k\" → \"p-in-k\" = \"pink\" = màu hồng; điền \"in\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_a73f4d05558e93465dfe5cf7357d30584678374a.jpg"
     },
     {
       "id": 176,
       "question": "A: Can you play _ _ _ _ _ tennis? - B: Yes, I can.",
       "options": [],
       "answer": "table",
-      "explanation": "\"_ _ _ _ _\" → \"table\" (table tennis = bóng bàn); bạn có thể chơi bóng bàn không?"
+      "explanation": "\"_ _ _ _ _\" → \"table\" (table tennis = bóng bàn); bạn có thể chơi bóng bàn không?",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e1d3f0409249504b9cf29168edcfd6a4435350af.jpg"
     },
     {
       "id": 177,
       "question": "I’d like a glass of _ _ _ _ , please.",
       "options": [],
       "answer": "milk",
-      "explanation": "\"_ _ _ _\" → \"milk\" = sữa; cho tôi một ly sữa."
+      "explanation": "\"_ _ _ _\" → \"milk\" = sữa; cho tôi một ly sữa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e71e8e91d9a0d9b050cccff15d679cc9782e8268.jpg"
     },
     {
       "id": 178,
       "question": "A: Do you have a M_ _ _ _ lesson today? - B: Yes, we do.",
       "options": [],
       "answer": "aths",
-      "explanation": "\"M_ _ _ _ _\" → \"M-aths\" = \"Maths\" = Toán học; điền \"aths\"."
+      "explanation": "\"M_ _ _ _ _\" → \"M-aths\" = \"Maths\" = Toán học; điền \"aths\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_4ad305d7cbd745dc730293c5a877a4489332a11b.jpg"
     },
     {
       "id": 179,
       "question": "She has three _ _ _ _ _ _ on her desk.",
       "options": [],
       "answer": "rulers",
-      "explanation": "\"_ _ _ _ _ _\" → \"rulers\" = thước kẻ (số nhiều); cô ấy có 3 cái thước trên bàn."
+      "explanation": "\"_ _ _ _ _ _\" → \"rulers\" = thước kẻ (số nhiều); cô ấy có 3 cái thước trên bàn.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_d98d38aa7f27e41abc007497a9e35e552d185854.jpg"
     },
     {
       "id": 180,
       "question": "A bee makes _ _ _ _ _ .",
       "options": [],
       "answer": "honey",
-      "explanation": "\"_ _ _ _ _\" → \"honey\" = mật ong; ong tạo ra mật ong."
+      "explanation": "\"_ _ _ _ _\" → \"honey\" = mật ong; ong tạo ra mật ong.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_4bf79096bdcca23775f4b698de6131a0fce1c4ee.jpg"
     },
     {
       "id": 181,
       "question": "Let’s play _ _ _ _ _ _ _ _ _ after school.",
       "options": [],
       "answer": "badminton",
-      "explanation": "\"_ _ _ _ _ _ _ _ _\" → \"badminton\" = cầu lông; cùng chơi cầu lông sau giờ học."
+      "explanation": "\"_ _ _ _ _ _ _ _ _\" → \"badminton\" = cầu lông; cùng chơi cầu lông sau giờ học.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_3278d67cb2777862251047c17c38d989eecfd59a.jpg"
     },
     {
       "id": 182,
       "question": "This is an invitat_ _ n card. I have a birthday party tomorrow.",
       "options": [],
       "answer": "io",
-      "explanation": "\"invitat_ _ n\" → \"invitati-on\" = \"invitation\" = thiệp mời; điền \"io\"."
+      "explanation": "\"invitat_ _ n\" → \"invitati-on\" = \"invitation\" = thiệp mời; điền \"io\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_5fcf06a56bc226de28cb726f155ab107fc93e80c.jpg"
     },
     {
       "id": 183,
       "question": "There are two r_ _ _ _ _ .",
       "options": [],
       "answer": "ulers",
-      "explanation": "\"r_ _ _ _ _\" → \"r-ulers\" = \"rulers\" = thước kẻ; có 2 cái thước."
+      "explanation": "\"r_ _ _ _ _\" → \"r-ulers\" = \"rulers\" = thước kẻ; có 2 cái thước.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_24bbd2a3a3a0d03b02a0cfc85e87678409a39428.jpg"
     },
     {
       "id": 184,
       "question": "Brian is a good dr_ _ _ r.",
       "options": [],
       "answer": "ive",
-      "explanation": "\"dr_ _ _ r\" → \"dr-ive-r\" = \"driver\" = tài xế; Brian là tài xế giỏi."
+      "explanation": "\"dr_ _ _ r\" → \"dr-ive-r\" = \"driver\" = tài xế; Brian là tài xế giỏi.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e69d07fc77ea072347e19ce909e5505afd59bba6.jpg"
     },
     {
       "id": 185,
       "question": "Do you want to c_ _ _ _ with me?",
       "options": [],
       "answer": "ycle",
-      "explanation": "\"c_ _ _ _\" → \"c-ycle\" = \"cycle\" = đạp xe; bạn muốn đạp xe cùng tôi không?"
+      "explanation": "\"c_ _ _ _\" → \"c-ycle\" = \"cycle\" = đạp xe; bạn muốn đạp xe cùng tôi không?",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_f303d5c30b9b1a2db064bb205ccd098f7a9df4ca.jpg"
     },
     {
       "id": 186,
       "question": "- What colour is your plane?- It’s _ _ _ .",
       "options": [],
       "answer": "red",
-      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ."
+      "explanation": "\"_ _ _\" → \"red\" = màu đỏ; máy bay màu đỏ.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_df0ba95355fd39eee21d65b42ab8e8acbc3e4232.jpg"
     },
     {
       "id": 187,
       "question": "My brother can c_ _ _ very well.",
       "options": [],
       "answer": "ook",
-      "explanation": "\"c_ _ _\" → \"c-ook\" = \"cook\" = nấu ăn; anh trai nấu ăn rất giỏi."
+      "explanation": "\"c_ _ _\" → \"c-ook\" = \"cook\" = nấu ăn; anh trai nấu ăn rất giỏi.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e229e504b3ce432220dab4033545445a173d7beb.jpg"
     },
     {
       "id": 188,
       "question": "Little boys, let’s stomp like an e_ _ _ _ _ _ _ .",
       "options": [],
       "answer": "lephant",
-      "explanation": "\"e_ _ _ _ _ _ _\" → \"e-lephant\" = \"elephant\" = voi; điền \"lephant\"."
+      "explanation": "\"e_ _ _ _ _ _ _\" → \"e-lephant\" = \"elephant\" = voi; điền \"lephant\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_8ab7e38b3b308eb1b618bc09179b138ce016d1e0.jpg"
     },
     {
       "id": 189,
       "question": "My father is helping me m_ _ _ a kite.",
       "options": [],
       "answer": "ake",
-      "explanation": "\"m_ _ _\" → \"m-ake\" = \"make\" = làm; bố giúp làm diều."
+      "explanation": "\"m_ _ _\" → \"m-ake\" = \"make\" = làm; bố giúp làm diều.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e1c2e46a5c114fc5dfab0d1a87affe06b19ed4aa.jpg"
     },
     {
       "id": 190,
       "question": "This is my uncle. He’s Mal_ _ sian.",
       "options": [],
       "answer": "ay",
-      "explanation": "\"Mal_ _ sian\" → \"Mal-ay-sian\" = \"Malaysian\" = người Malaysia; điền \"ay\"."
+      "explanation": "\"Mal_ _ sian\" → \"Mal-ay-sian\" = \"Malaysian\" = người Malaysia; điền \"ay\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_dbc06c297837d55894dd53d28ef63613d57622d1.jpg"
     },
     {
       "id": 191,
       "question": "The _ _ _ _ _ _ th of August is my birthday.",
       "options": [],
       "answer": "eleven",
-      "explanation": "\"_ _ _ _ _ _ th\" → \"eleven-th\" = \"eleventh\" = thứ mười một; sinh nhật ngày 11 tháng 8."
+      "explanation": "\"_ _ _ _ _ _ th\" → \"eleven-th\" = \"eleventh\" = thứ mười một; sinh nhật ngày 11 tháng 8.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_da1d0c3b6545f46c6f7953ca0b2de97371c81468.jpg"
     },
     {
       "id": 192,
       "question": "Give me a gl_ _ _ of milk, please.",
       "options": [],
       "answer": "ass",
-      "explanation": "\"gl_ _ _\" → \"gl-ass\" = \"glass\" = ly; cho tôi một ly sữa."
+      "explanation": "\"gl_ _ _\" → \"gl-ass\" = \"glass\" = ly; cho tôi một ly sữa.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_445bbc022bd45524837807026117be251e0e5861.jpg"
     },
     {
       "id": 193,
       "question": "An um_ _ _ _ _ _ looks like a mushroom.",
       "options": [],
       "answer": "brella",
-      "explanation": "\"um_ _ _ _ _ _\" → \"um-brella\" = \"umbrella\" = ô/dù; điền \"brella\"."
+      "explanation": "\"um_ _ _ _ _ _\" → \"um-brella\" = \"umbrella\" = ô/dù; điền \"brella\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_83e56a37a9c7a4c2cf00ca0475db49bfe9cb1621.jpg"
     },
     {
       "id": 194,
       "question": "Nancy has got a lot of clothes but these are her favourite tr_ _ _ _ _ _ .",
       "options": [],
       "answer": "ousers",
-      "explanation": "\"tr_ _ _ _ _ _\" → \"tr-ousers\" = \"trousers\" = quần dài; điền \"ousers\"."
+      "explanation": "\"tr_ _ _ _ _ _\" → \"tr-ousers\" = \"trousers\" = quần dài; điền \"ousers\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_10b19948cc9ebd1c0826bc713ad3988797a32539.jpg"
     },
     {
       "id": 195,
       "question": "Jack is b_ _ _ d . He wants to play football.",
       "options": [],
       "answer": "ore",
-      "explanation": "\"b_ _ _ d\" → \"b-ore-d\" = \"bored\" = chán; Jack chán và muốn đá bóng."
+      "explanation": "\"b_ _ _ d\" → \"b-ore-d\" = \"bored\" = chán; Jack chán và muốn đá bóng.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_174ca7a497ff15d470d47f98d2b823984b93c9ea.jpg"
     },
     {
       "id": 196,
       "question": "My brother can c_ _ _ very well.",
       "options": [],
       "answer": "ook",
-      "explanation": "\"c_ _ _\" → \"c-ook\" = \"cook\" = nấu ăn; anh trai nấu ăn rất giỏi."
+      "explanation": "\"c_ _ _\" → \"c-ook\" = \"cook\" = nấu ăn; anh trai nấu ăn rất giỏi.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_e229e504b3ce432220dab4033545445a173d7beb.jpg"
     },
     {
       "id": 197,
       "question": "I’m w_ _ _ ing a dictation now.",
       "options": [],
       "answer": "rit",
-      "explanation": "\"w_ _ _ ing\" → \"w-rit-ing\" = \"writing\" = viết; tôi đang viết chính tả."
+      "explanation": "\"w_ _ _ ing\" → \"w-rit-ing\" = \"writing\" = viết; tôi đang viết chính tả.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_5019d929bf97a8e577526e941b3d9b0b3d2e8395.jpg"
     },
     {
       "id": 198,
       "question": "Those zeb_ _ _ are on the grassland.",
       "options": [],
       "answer": "ras",
-      "explanation": "\"zeb_ _ _\" → \"zeb-ras\" = \"zebras\" = ngựa vằn; điền \"ras\"."
+      "explanation": "\"zeb_ _ _\" → \"zeb-ras\" = \"zebras\" = ngựa vằn; điền \"ras\".",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_84a478f8fe0dbae9ca54f52d1bdaa2960bfd413e.jpg"
     },
     {
       "id": 199,
       "question": "My little brother can _ _ _ _ a picture.",
       "options": [],
       "answer": "draw",
-      "explanation": "\"_ _ _ _\" → \"draw\" = vẽ; em trai nhỏ có thể vẽ tranh."
+      "explanation": "\"_ _ _ _\" → \"draw\" = vẽ; em trai nhỏ có thể vẽ tranh.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_f450201be71d279937d45c218b3904adf2c3a3bd.jpg"
     },
     {
       "id": 200,
       "question": "They are playing _ _ _ _ _ _ _ _ .",
       "options": [],
       "answer": "football",
-      "explanation": "\"_ _ _ _ _ _ _ _\" → \"football\" = bóng đá; họ đang chơi bóng đá."
+      "explanation": "\"_ _ _ _ _ _ _ _\" → \"football\" = bóng đá; họ đang chơi bóng đá.",
+      "image": "data/images/lop4/cd4/lop4_cd4_v1_2b96e32f487f1d4e9dabfaa56f1669e8ab310eee.jpg"
     }
   ],
   "part_B": [],
