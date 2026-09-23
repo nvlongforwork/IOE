@@ -738,7 +738,7 @@
         function isAnswerCorrect(q) {
             const a = appState.answers[q.id];
             if (a===undefined) return false;
-            if (q.options&&q.options.length>0) return a===q.correct;
+            if (q.options&&q.options.length>0) { const strip=s=>s.replace(/<[^>]+>/g,''); return strip(a)===strip(q.correct); }
             return a.trim().toLowerCase()===getFillAnswer(q.correct);
         }
 

@@ -6,10 +6,10 @@
       "id": 1,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Number",
-        "B. Sunday",
-        "C. Student",
-        "D. Fun"
+        "A. N<u>u</u>mber",
+        "B. S<u>u</u>nday",
+        "C. St<u>u</u>dent",
+        "D. F<u>u</u>n"
       ],
       "answer": "C. Student",
       "explanation": "\"u\" trong Student đọc /juː/, còn Number/Sunday/Fun đọc /ʌ/ → Student khác âm."
@@ -18,10 +18,10 @@
       "id": 2,
       "question": "Which word has the underlined part pronounced like the letter ‘A’ in “RAINY”?",
       "options": [
-        "A. skating",
-        "B. bathroom",
-        "C. garden",
-        "D. sofa"
+        "A. sk<u>a</u>ting",
+        "B. b<u>a</u>throom",
+        "C. g<u>a</u>rden",
+        "D. sof<u>a</u>"
       ],
       "answer": "A. skating",
       "explanation": "\"a\" trong RAINY đọc /eɪ/; \"a\" trong skating cũng đọc /eɪ/ → đáp án A. skating."
@@ -30,10 +30,10 @@
       "id": 3,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. books",
-        "B. pencils",
-        "C. rulers",
-        "D. bags"
+        "A. book<u>s</u>",
+        "B. pencil<u>s</u>",
+        "C. ruler<u>s</u>",
+        "D. bag<u>s</u>"
       ],
       "answer": "A. books",
       "explanation": "\"s\" trong books đọc /s/, còn pencils/rulers/bags đọc /z/ → books khác âm."
@@ -42,10 +42,10 @@
       "id": 4,
       "question": "Choose the word that has the underlined part pronounced differently from others.",
       "options": [
-        "A. Mother",
-        "B. Brother",
-        "C. Maths",
-        "D. Father"
+        "A. Mo<u>th</u>er",
+        "B. Bro<u>th</u>er",
+        "C. Ma<u>th</u>s",
+        "D. Fa<u>th</u>er"
       ],
       "answer": "C. Maths",
       "explanation": "\"th\" trong Maths đọc /θ/, còn Mother/Brother/Father đọc /ð/ → Maths khác âm."
@@ -54,10 +54,10 @@
       "id": 5,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. man",
-        "B. fat",
-        "C. game",
-        "D. maths"
+        "A. m<u>a</u>n",
+        "B. f<u>a</u>t",
+        "C. g<u>a</u>me",
+        "D. m<u>a</u>ths"
       ],
       "answer": "C. game",
       "explanation": "\"a\" trong game đọc /eɪ/, còn man/fat/maths đọc /æ/ → game khác âm."
@@ -66,10 +66,10 @@
       "id": 6,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Birthday",
-        "B. Today",
-        "C. Yesterday",
-        "D. January"
+        "A. Birthd<u>a</u>y",
+        "B. Tod<u>a</u>y",
+        "C. Yesterd<u>a</u>y",
+        "D. J<u>a</u>nuary"
       ],
       "answer": "D. January",
       "explanation": "\"a\" trong January đọc /æ/, còn Birthday/Today/Yesterday đọc /eɪ/ hoặc /ɜː/ → January khác âm."
@@ -78,10 +78,10 @@
       "id": 7,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Moon",
-        "B. School",
-        "C. Book",
-        "D. Food"
+        "A. M<u>oo</u>n",
+        "B. Sch<u>oo</u>l",
+        "C. B<u>oo</u>k",
+        "D. F<u>oo</u>d"
       ],
       "answer": "C. Book",
       "explanation": "\"oo\" trong Book đọc /ʊ/, còn Moon/School/Food đọc /uː/ → Book khác âm."
@@ -90,10 +90,10 @@
       "id": 8,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. House",
-        "B. Cloud",
-        "C. Pour",
-        "D. Round"
+        "A. H<u>ou</u>se",
+        "B. Cl<u>ou</u>d",
+        "C. P<u>ou</u>r",
+        "D. R<u>ou</u>nd"
       ],
       "answer": "C. Pour",
       "explanation": "\"ou\" trong Pour đọc /ɔː/, còn House/Cloud/Round đọc /aʊ/ → Pour khác âm."
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. near",
-        "B. hear",
-        "C. ear",
-        "D. read"
+        "A. n<u>ea</u>r",
+        "B. h<u>ea</u>r",
+        "C. <u>ea</u>r",
+        "D. r<u>ea</u>d"
       ],
       "answer": "D. read",
       "explanation": "\"ea\" trong read đọc /iː/ (đọc sách), còn near/hear/ear đọc /ɪə/ → read khác âm."
@@ -114,10 +114,10 @@
       "id": 10,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. tea",
-        "B. heavy",
-        "C. bread",
-        "D. breakfast"
+        "A. t<u>ea</u>",
+        "B. h<u>ea</u>vy",
+        "C. br<u>ea</u>d",
+        "D. br<u>ea</u>kfast"
       ],
       "answer": "A. tea",
       "explanation": "\"ea\" trong tea đọc /iː/, còn heavy/bread/breakfast đọc /ɛ/ → tea khác âm."
@@ -126,10 +126,10 @@
       "id": 11,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Which",
-        "B. Whose",
-        "C. Why",
-        "D. Where"
+        "A. <u>Wh</u>ich",
+        "B. <u>Wh</u>ose",
+        "C. <u>Wh</u>y",
+        "D. <u>Wh</u>ere"
       ],
       "answer": "B. Whose",
       "explanation": "\"wh\" trong Whose đọc /h/, còn Which/Why/Where đọc /w/ → Whose khác âm."
@@ -138,10 +138,10 @@
       "id": 12,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. my",
-        "B. country",
-        "C. family",
-        "D. every"
+        "A. m<u>y</u>",
+        "B. countr<u>y</u>",
+        "C. famil<u>y</u>",
+        "D. ever<u>y</u>"
       ],
       "answer": "A. my",
       "explanation": "\"y\" trong my đọc /aɪ/, còn country/family/every đọc /iː/ → my khác âm."
@@ -150,10 +150,10 @@
       "id": 13,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. examine",
-        "B. fine",
-        "C. nine",
-        "D. wine"
+        "A. exam<u>ine</u>",
+        "B. f<u>ine</u>",
+        "C. n<u>ine</u>",
+        "D. w<u>ine</u>"
       ],
       "answer": "A. examine",
       "explanation": "\"i\" trong examine đọc /ɪ/, còn fine/nine/wine đọc /aɪ/ → examine khác âm."
@@ -162,10 +162,10 @@
       "id": 14,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. read",
-        "B. speak",
-        "C. please",
-        "D. head"
+        "A. r<u>ea</u>d",
+        "B. sp<u>ea</u>k",
+        "C. pl<u>ea</u>se",
+        "D. h<u>ea</u>d"
       ],
       "answer": "D. head",
       "explanation": "\"ea\" trong head đọc /ɛ/, còn read/speak/please đọc /iː/ → head khác âm."
@@ -174,10 +174,10 @@
       "id": 15,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. teach",
-        "B. watch",
-        "C. school",
-        "D. match"
+        "A. tea<u>ch</u>",
+        "B. wat<u>ch</u>",
+        "C. s<u>ch</u>ool",
+        "D. mat<u>ch</u>"
       ],
       "answer": "C. school",
       "explanation": "\"ch\" trong school đọc /k/, còn teach/watch/match đọc /tʃ/ → school khác âm."
@@ -186,10 +186,10 @@
       "id": 16,
       "question": "Which word has the underlined part pronounced like the letter ‘O’ in “PIANO”?",
       "options": [
-        "A. mother",
-        "B. poster",
-        "C. flower",
-        "D. young"
+        "A. m<u>o</u>ther",
+        "B. p<u>o</u>ster",
+        "C. fl<u>o</u>wer",
+        "D. y<u>o</u>ung"
       ],
       "answer": "B. poster",
       "explanation": "\"o\" trong PIANO đọc /əʊ/; \"o\" trong poster cũng đọc /əʊ/ → đáp án B. poster."
@@ -198,10 +198,10 @@
       "id": 17,
       "question": "Which word has the underlined part pronounced differently:",
       "options": [
-        "A. cold",
-        "B. bottle",
-        "C. box",
-        "D. volleyball"
+        "A. c<u>o</u>ld",
+        "B. b<u>o</u>ttle",
+        "C. b<u>o</u>x",
+        "D. v<u>o</u>lleyball"
       ],
       "answer": "A. cold",
       "explanation": "\"o\" trong cold đọc /əʊ/, còn bottle/box/volleyball đọc /ɒ/ → cold khác âm."
@@ -210,10 +210,10 @@
       "id": 18,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. photo",
-        "B. go",
-        "C. home",
-        "D. hot"
+        "A. ph<u>o</u>to",
+        "B. g<u>o</u>",
+        "C. h<u>o</u>me",
+        "D. h<u>o</u>t"
       ],
       "answer": "D. hot",
       "explanation": "\"o\" trong hot đọc /ɒ/, còn photo/go/home đọc /əʊ/ → hot khác âm."
@@ -222,10 +222,10 @@
       "id": 19,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. evening",
-        "B. bench",
-        "C. engineer",
-        "D. desk"
+        "A. <u>e</u>vening",
+        "B. b<u>e</u>nch",
+        "C. <u>e</u>ngineer",
+        "D. d<u>e</u>sk"
       ],
       "answer": "A. evening",
       "explanation": "\"e\" trong evening đọc /iː/, còn bench/engineer/desk đọc /ɛ/ hoặc /ɪ/ → evening khác âm."
@@ -234,10 +234,10 @@
       "id": 20,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Brother",
-        "B. Mother",
-        "C. Yellow",
-        "D. Grandmother"
+        "A. Broth<u>e</u>r",
+        "B. Moth<u>e</u>r",
+        "C. Y<u>e</u>llow",
+        "D. Grandmoth<u>e</u>r"
       ],
       "answer": "C. Yellow",
       "explanation": "\"ow\" trong Yellow đọc /əʊ/, còn Brother/Mother/Grandmother đọc /ʌ/ → Yellow khác âm."
@@ -246,10 +246,10 @@
       "id": 21,
       "question": "Choose the word that has the underlined part pronounced differently from others.",
       "options": [
-        "A. Subject",
-        "B. Up",
-        "C. Student",
-        "D. Club"
+        "A. S<u>u</u>bject",
+        "B. <u>U</u>p",
+        "C. St<u>u</u>dent",
+        "D. Cl<u>u</u>b"
       ],
       "answer": "C. Student",
       "explanation": "\"u\" trong Student đọc /juː/, còn Subject/Up/Club đọc /ʌ/ → Student khác âm."
@@ -258,10 +258,10 @@
       "id": 22,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. son",
-        "B. come",
-        "C. home",
-        "D. mother"
+        "A. s<u>o</u>n",
+        "B. c<u>o</u>me",
+        "C. h<u>o</u>me",
+        "D. m<u>o</u>ther"
       ],
       "answer": "C. home",
       "explanation": "\"o\" trong home đọc /əʊ/, còn son/come/mother đọc /ʌ/ → home khác âm."
@@ -270,10 +270,10 @@
       "id": 23,
       "question": "Which word has the underlined part pronounced LIKE the letter H in 'HOUSE'?",
       "options": [
-        "A. father",
-        "B. hello",
-        "C. school",
-        "D. Maths"
+        "A. fat<u>h</u>er",
+        "B. <u>h</u>ello",
+        "C. sc<u>h</u>ool",
+        "D. Mat<u>h</u>s"
       ],
       "answer": "B. hello",
       "explanation": "\"H\" trong HOUSE đọc /h/; hello cũng bắt đầu bằng /h/ → đáp án B. hello."
@@ -282,10 +282,10 @@
       "id": 24,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. desk",
-        "B. engineer",
-        "C. evening",
-        "D. dress"
+        "A. d<u>e</u>sk",
+        "B. <u>e</u>ngineer",
+        "C. <u>e</u>vening",
+        "D. dr<u>e</u>ss"
       ],
       "answer": "C. evening",
       "explanation": "\"e\" trong evening đọc /iː/, còn desk/engineer/dress đọc /ɛ/ → evening khác âm."
@@ -294,10 +294,10 @@
       "id": 25,
       "question": "Choose the word that has the underlined part pronounced differently from others.",
       "options": [
-        "A. May",
-        "B. Day",
-        "C. Say",
-        "D. At"
+        "A. M<u>a</u>y",
+        "B. D<u>a</u>y",
+        "C. S<u>a</u>y",
+        "D. <u>A</u>t"
       ],
       "answer": "D. At",
       "explanation": "\"ay\" trong At đọc /æ/, còn May/Day/Say đọc /eɪ/ → At khác âm."
@@ -318,10 +318,10 @@
       "id": 27,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Thin",
-        "B. Think",
-        "C. Thank",
-        "D. These"
+        "A. <u>Th</u>in",
+        "B. <u>Th</u>ink",
+        "C. <u>Th</u>ank",
+        "D. <u>Th</u>ese"
       ],
       "answer": "D. These",
       "explanation": "\"th\" trong These đọc /ð/ (hữu thanh), còn Thin/Think/Thank đọc /θ/ (vô thanh) → These khác âm."
@@ -330,10 +330,10 @@
       "id": 28,
       "question": "Choose the word that has underlined part pronounced differently from the others.",
       "options": [
-        "A. Book",
-        "B. Good",
-        "C. Afternoon",
-        "D. Football"
+        "A. B<u>oo</u>k",
+        "B. G<u>oo</u>d",
+        "C. Aftern<u>oo</u>n",
+        "D. F<u>oo</u>tball"
       ],
       "answer": "C. Afternoon",
       "explanation": "\"oo\" trong Afternoon đọc /uː/, còn Book/Good/Football đọc /ʊ/ → Afternoon khác âm."
@@ -342,10 +342,10 @@
       "id": 29,
       "question": "Which word has the underlined part pronounced differently from the letter ‘o’ in ’’hot’’?",
       "options": [
-        "A. dog",
-        "B. clock",
-        "C. doctor",
-        "D. old"
+        "A. d<u>o</u>g",
+        "B. cl<u>o</u>ck",
+        "C. d<u>o</u>ctor",
+        "D. <u>o</u>ld"
       ],
       "answer": "D. old",
       "explanation": "\"o\" trong old đọc /əʊ/, còn dog/clock/doctor đọc /ɒ/ → old khác âm."
@@ -354,10 +354,10 @@
       "id": 30,
       "question": "Choose the word that has the underlined part pronounced differently from the others",
       "options": [
-        "A. Zoo",
-        "B. School",
-        "C. Book",
-        "D. Food"
+        "A. Z<u>oo</u>",
+        "B. Sch<u>oo</u>l",
+        "C. B<u>oo</u>k",
+        "D. F<u>oo</u>d"
       ],
       "answer": "C. Book",
       "explanation": "\"oo\" trong Book đọc /ʊ/, còn Zoo/School/Food đọc /uː/ → Book khác âm."
