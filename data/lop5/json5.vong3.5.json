@@ -1,0 +1,1883 @@
+{
+  "title": "IOE Lớp 5 - Chuyên đề 5 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Twenty thousand workers used one thousand elephants and _ _ _ _ _ _ _ _ it in1653.",
+      "options": [],
+      "answer": "finished",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “finished”. Câu hoàn chỉnh là “Twenty thousand workers used one thousand elephants and finished it in1653.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 30, câu 61.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582773054940289_Audio.mp3"
+    },
+    {
+      "id": 2,
+      "question": "I can also learn about _ _ _ _ _ _ people’s lives by reading books about them.",
+      "options": [],
+      "answer": "famous",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “famous”. Câu hoàn chỉnh là “I can also learn about famous people’s lives by reading books about them.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 30, câu 159.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582772407438770_Audio.mp3"
+    },
+    {
+      "id": 3,
+      "question": "My backyard has a _ _ _ _ _ _ _ _ pool.",
+      "options": [],
+      "answer": "swimming",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “swimming”. Câu hoàn chỉnh là “My backyard has a swimming pool.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 34, câu 112.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821821295939_Audio.mp3"
+    },
+    {
+      "id": 4,
+      "question": "What were the camels doing when they got near?",
+      "options": [
+        "A. standing up",
+        "B. going around",
+        "C. lying down",
+        "D. sitting down"
+      ],
+      "answer": "C. lying down",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “lying down”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 27, câu 5.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/26/635236648689449117_Audio.mp3"
+    },
+    {
+      "id": 5,
+      "question": "- Don’t ride your bike too fast. - Don’t _ _ _ _ _ , I won’t.",
+      "options": [],
+      "answer": "worry",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “worry”. Câu hoàn chỉnh là “- Don’t ride your bike too fast. - Don’t worry , I won’t.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 31, câu 136.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582774837599827_Audio.mp3"
+    },
+    {
+      "id": 6,
+      "question": "Who will win when he or she finds all of the children? - ....",
+      "options": [
+        "A. The finder",
+        "B. The chaser",
+        "C. The seeker",
+        "D. The player"
+      ],
+      "answer": "C. The seeker",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “The seeker”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 23, câu 125.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/30/635240153076296115_Audio.mp3"
+    },
+    {
+      "id": 7,
+      "question": "What is she going to show? - ....",
+      "options": [
+        "A. Some Indonesian mates",
+        "B. Some Indonesian masks",
+        "C. Some Indian masks",
+        "D. A mask"
+      ],
+      "answer": "B. Some Indonesian masks",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “Some Indonesian masks”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 28, câu 70.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/8/635563303273391698_Audio.mp3"
+    },
+    {
+      "id": 8,
+      "question": "Why should the boy go to the doctor?",
+      "options": [
+        "A. Because he has a toothache.",
+        "B. Because he has a stomach ache.",
+        "C. Because he has a headache.",
+        "D. Because he has a backache."
+      ],
+      "answer": "B. Because he has a stomach ache.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “Because he has a stomach ache.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 28, câu 180.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi%20Th%E1%BB%AD/Thi_trai_nghiem_2021/Lop5/Capquanhuyen/Audio/tn-07.mp3"
+    },
+    {
+      "id": 9,
+      "question": "You must be _ _ _ _ _ during the class.",
+      "options": [],
+      "answer": "quiet",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “quiet”. Câu hoàn chỉnh là “You must be quiet during the class.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 47.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302326938903713_Audio.mp3"
+    },
+    {
+      "id": 10,
+      "question": "Jing and Tania are in the _ _ _ _ class.",
+      "options": [],
+      "answer": "same",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “same”. Câu hoàn chỉnh là “Jing and Tania are in the same class.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 71.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L5/nghe/de1/1%20(mp3cut_net).mp3"
+    },
+    {
+      "id": 11,
+      "question": "There is a ... in the water.",
+      "options": [
+        "A. goldfish",
+        "B. crocodile",
+        "C. shark",
+        "D. whale"
+      ],
+      "answer": "B. crocodile",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “crocodile”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 29, câu 26.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302314263725450_Audio.mp3"
+    },
+    {
+      "id": 12,
+      "question": "Which type of manga is NOT mentioned?",
+      "options": [
+        "A. Adventure",
+        "B. Mystery",
+        "C. Action",
+        "D. Science fiction"
+      ],
+      "answer": "C. Action",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “Action”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 29, câu 54.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583533382736559_Audio.mp3"
+    },
+    {
+      "id": 13,
+      "question": "The sports centre is in the _ _ _ _ _ _ of the town.",
+      "options": [],
+      "answer": "middle",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “middle”. Câu hoàn chỉnh là “The sports centre is in the middle of the town.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 33, câu 143.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302324085814702_Audio.mp3"
+    },
+    {
+      "id": 14,
+      "question": "Listen and choose the fruit which is NOT in the recording.",
+      "options": [
+        "A. oranges",
+        "B. bananas",
+        "C. grapes",
+        "D. apples"
+      ],
+      "answer": "D. apples",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “apples”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 26, câu 50.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199025673287784_Audio.mp3"
+    },
+    {
+      "id": 15,
+      "question": "What’s that noise? Sounds dangerous. Be _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "careful",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “careful”. Câu hoàn chỉnh là “What’s that noise? Sounds dangerous. Be careful .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 34, câu 57.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583528247337680_Audio.mp3"
+    },
+    {
+      "id": 16,
+      "question": "Do you like to travel to _ _ _ _ _ _ _ _ _ _ _ places?",
+      "options": [],
+      "answer": "interesting",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “interesting”. Câu hoàn chỉnh là “Do you like to travel to interesting places?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 31, câu 16.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582772519470858_Audio.mp3"
+    },
+    {
+      "id": 17,
+      "question": "She puts on her white _ _ _ _ _ _ _ dress.",
+      "options": [],
+      "answer": "wedding",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “wedding”. Câu hoàn chỉnh là “She puts on her white wedding dress.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 35, câu 38.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239824700520331_Audio.mp3"
+    },
+    {
+      "id": 18,
+      "question": "I have a pet cat. My cat’s _ _ _ _ is Milo.",
+      "options": [],
+      "answer": "name",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “name”. Câu hoàn chỉnh là “I have a pet cat. My cat’s name is Milo.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 35, câu 100.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821917702374_Audio.mp3"
+    },
+    {
+      "id": 19,
+      "question": "Where is Tony going early in the morning? – He’s going to …",
+      "options": [
+        "A. the cinema",
+        "B. school",
+        "C. the park",
+        "D. the bus stop"
+      ],
+      "answer": "C. the park",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “the park”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 25, câu 96.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/1/636555192598448231_Audio.mp3"
+    },
+    {
+      "id": 20,
+      "question": "Ben and Melissa hang _ _ _ _ _ _ _ _ _ on the fireplace.",
+      "options": [],
+      "answer": "stockings",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “stockings”. Câu hoàn chỉnh là “Ben and Melissa hang stockings on the fireplace.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 33, câu 170.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239837357107625_Audio.mp3"
+    },
+    {
+      "id": 21,
+      "question": "Jennifer is married. Her _ _ _ _ _ _ _ is a school teacher.",
+      "options": [],
+      "answer": "husband",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “husband”. Câu hoàn chỉnh là “Jennifer is married. Her husband is a school teacher.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 34, câu 65.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239827970682981_Audio.mp3"
+    },
+    {
+      "id": 22,
+      "question": "What lessons does Minh have today?",
+      "options": [
+        "A. Science, Art, Music and IT.",
+        "B. Science, Maths, Music, Vietnamese.",
+        "C. Science, PE, Art, Music.",
+        "D. Science, Art, IT and PE."
+      ],
+      "answer": "A. Science, Art, Music and IT.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “Science, Art, Music and IT.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 31, câu 193.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583532451640971_Audio.mp3"
+    },
+    {
+      "id": 23,
+      "question": "Today, most people can read. Most towns have _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "libraries",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “libraries”. Câu hoàn chỉnh là “Today, most people can read. Most towns have libraries .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 32, câu 3.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582772282907311_Audio.mp3"
+    },
+    {
+      "id": 24,
+      "question": "How does she learn vocabulary?",
+      "options": [
+        "A. By writing new words in the notebook and reading them aloud.",
+        "B. By learning new words by heart.",
+        "C. By reading English novels.",
+        "D. By looking up new words in her dictionary."
+      ],
+      "answer": "A. By writing new words in the notebook and reading them aloud.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “By writing new words in the notebook and reading them aloud.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 32, câu 124.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582776350102994_Audio.mp3"
+    },
+    {
+      "id": 25,
+      "question": "Susan needs _ _ _ _ _ _ _ _ _ blue.",
+      "options": [],
+      "answer": "something",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “something”. Câu hoàn chỉnh là “Susan needs something blue.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 94.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239835252259912_Audio.mp3"
+    },
+    {
+      "id": 26,
+      "question": "He’s playing the _ _ _ _ _ _ in his room.",
+      "options": [],
+      "answer": "guitar",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “guitar”. Câu hoàn chỉnh là “He’s playing the guitar in his room.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 99.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612595550486656_Audio.mp3"
+    },
+    {
+      "id": 27,
+      "question": "Who will win when he or she finds all of the children? - ....",
+      "options": [
+        "A. The finder",
+        "B. The chaser",
+        "C. The seeker",
+        "D. The player"
+      ],
+      "answer": "C. The seeker",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “The seeker”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 25, câu 75.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/8/635563316979117771_Audio.mp3"
+    },
+    {
+      "id": 28,
+      "question": "Why didn’t Nam come to Linda’s party? - Because he came to visit his … in the countryside.",
+      "options": [
+        "A. grandmother",
+        "B. grandfather",
+        "C. mother",
+        "D. grandparents"
+      ],
+      "answer": "A. grandmother",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “grandmother”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 22, câu 16.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/1/636555194575639404_Audio.mp3"
+    },
+    {
+      "id": 29,
+      "question": "Listening to music can help you calm down if you are excited or _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "nervous",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “nervous”. Câu hoàn chỉnh là “Listening to music can help you calm down if you are excited or nervous .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 30, câu 143.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529219840709_Audio.mp3"
+    },
+    {
+      "id": 30,
+      "question": "What was TRUE?",
+      "options": [
+        "A. It was rainy and wet.",
+        "B. They played on the beach.",
+        "C. They visited an old house.",
+        "D. They swam on the sea"
+      ],
+      "answer": "B. They played on the beach.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “They played on the beach.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 34, câu 133.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240651581383061_Audio.mp3"
+    },
+    {
+      "id": 31,
+      "question": "He must _ _ _ the money back to his dad.",
+      "options": [],
+      "answer": "pay",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “pay”. Câu hoàn chỉnh là “He must pay the money back to his dad.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 38, câu 72.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239834799915219_Audio.mp3"
+    },
+    {
+      "id": 32,
+      "question": "Helen’s birthday is on the twenty _ _ _ _ _ _ of October.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “second”. Câu hoàn chỉnh là “Helen’s birthday is on the twenty second of October.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 13.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642470426189_Audio.mp3"
+    },
+    {
+      "id": 33,
+      "question": "- How does he practise speaking English? - He speaks English with his _ _ _ _ _ _ _ friends every day.",
+      "options": [],
+      "answer": "foreign",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “foreign”. Câu hoàn chỉnh là “- How does he practise speaking English? - He speaks English with his foreign friends every day.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 29, câu 41.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583527924993281_Audio.mp3"
+    },
+    {
+      "id": 34,
+      "question": "You can find me in a room in the ....",
+      "options": [
+        "A. street",
+        "B. house",
+        "C. school",
+        "D. zoo"
+      ],
+      "answer": "B. house",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “house”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 29, câu 127.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302315346991353_Audio.mp3"
+    },
+    {
+      "id": 35,
+      "question": "Susan _ _ _ _ _ up early, has her hair and make up done. She looks beautiful.",
+      "options": [],
+      "answer": "wakes",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “wakes”. Câu hoàn chỉnh là “Susan wakes up early, has her hair and make up done. She looks beautiful.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 33, câu 12.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239835133665964_Audio.mp3"
+    },
+    {
+      "id": 36,
+      "question": "Where did he play football?",
+      "options": [
+        "A. In the playground.",
+        "B. In the park.",
+        "C. In the schoolyard.",
+        "D. In the classroom."
+      ],
+      "answer": "B. In the park.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “In the park.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 33, câu 32.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240653210915341_Audio.mp3"
+    },
+    {
+      "id": 37,
+      "question": "Jim is ... than Jenny.",
+      "options": [
+        "A. bigger",
+        "B. taller",
+        "C. stronger",
+        "D. smarter"
+      ],
+      "answer": "B. taller",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “taller”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 33, câu 160.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302316343209103_Audio.mp3"
+    },
+    {
+      "id": 38,
+      "question": "There were lots of _ _ _ _ _ _ in the countryside.",
+      "options": [],
+      "answer": "horses",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “horses”. Câu hoàn chỉnh là “There were lots of horses in the countryside.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 67.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302324426207300_Audio.mp3"
+    },
+    {
+      "id": 39,
+      "question": "Don’t _ _ _ _ fun of people.",
+      "options": [],
+      "answer": "make",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “make”. Câu hoàn chỉnh là “Don’t make fun of people.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 91.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957141465567271_Audio.mp3"
+    },
+    {
+      "id": 40,
+      "question": "There are two _ _ _ _ _ _ in the car.",
+      "options": [],
+      "answer": "people",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “people”. Câu hoàn chỉnh là “There are two people in the car.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 38, câu 182.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612595422410431_Audio.mp3"
+    },
+    {
+      "id": 41,
+      "question": "Why would he like to be a teacher?",
+      "options": [
+        "A. Because he loves children.",
+        "B. Because his parents would like him to teach children.",
+        "C. Because his parents are teachers, too.",
+        "D. Because he would like to teach young children."
+      ],
+      "answer": "D. Because he would like to teach young children.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “Because he would like to teach young children.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 31, câu 24.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582775740882760_Audio.mp3"
+    },
+    {
+      "id": 42,
+      "question": "You should take a _ _ _ _ and shouldn’t play sports for a few days.",
+      "options": [],
+      "answer": "rest",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “rest”. Câu hoàn chỉnh là “You should take a rest and shouldn’t play sports for a few days.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 35, câu 101.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582772616814177_Audio.mp3"
+    },
+    {
+      "id": 43,
+      "question": "At10:30 AM, the students go to _ _ _ class.",
+      "options": [],
+      "answer": "gym",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “gym”. Câu hoàn chỉnh là “At10:30 AM, the students go to gym class.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 40, câu 66.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821023950707_Audio.mp3"
+    },
+    {
+      "id": 44,
+      "question": "Is your family from _ _ _ _ _ ?",
+      "options": [],
+      "answer": "spain",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “spain”. Câu hoàn chỉnh là “Is your family from spain ?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 40, câu 76.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302326198370412_Audio.mp3"
+    },
+    {
+      "id": 45,
+      "question": "The monkey is ... the car.",
+      "options": [
+        "A. near",
+        "B. under",
+        "C. next to",
+        "D. on"
+      ],
+      "answer": "B. under",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “under”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 33, câu 79.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302314463405801_Audio.mp3"
+    },
+    {
+      "id": 46,
+      "question": "When does he stay at home and surf for free e-books for kids? - ....",
+      "options": [
+        "A. Saturday",
+        "B. Sundays",
+        "C. Mondays",
+        "D. Fridays"
+      ],
+      "answer": "B. Sundays",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “Sundays”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 26, câu 62.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/8/635563317524026729_Audio.mp3"
+    },
+    {
+      "id": 47,
+      "question": "When’s Teachers’ Day in Indonesia?",
+      "options": [
+        "A. On November the twentieth.",
+        "B. On November the twenty-fifth.",
+        "C. On September the fifth.",
+        "D. On the last Friday of October."
+      ],
+      "answer": "B. On November the twenty-fifth.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “On November the twenty-fifth.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 34, câu 22.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583531054530641_Audio.mp3"
+    },
+    {
+      "id": 48,
+      "question": "The monkey has got a ... in its hand.",
+      "options": [
+        "A. monkey",
+        "B. bananas",
+        "C. banana",
+        "D. melon"
+      ],
+      "answer": "C. banana",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “banana”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 31, câu 11.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302315094582909_Audio.mp3"
+    },
+    {
+      "id": 49,
+      "question": "The zebra is between the ... and the goat.",
+      "options": [
+        "A. tiger",
+        "B. giraffe",
+        "C. zebra",
+        "D. tigers"
+      ],
+      "answer": "B. giraffe",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “giraffe”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 31, câu 42.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302314795842385_Audio.mp3"
+    },
+    {
+      "id": 50,
+      "question": "How was the boy?",
+      "options": [
+        "A. Tired and bored.",
+        "B. Hungry and happy.",
+        "C. Tired but happy.",
+        "D. Sleepy but happy."
+      ],
+      "answer": "C. Tired but happy.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “Tired but happy.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 35, câu 116.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240651325443033_Audio.mp3"
+    },
+    {
+      "id": 51,
+      "question": "We’re on our _ _ _ home.",
+      "options": [],
+      "answer": "way",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “way”. Câu hoàn chỉnh là “We’re on our way home.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 72.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957256426203188_Audio.mp3"
+    },
+    {
+      "id": 52,
+      "question": "Susan is getting _ _ _ _ _ _ _ . Her fiancee’s name is Michael.",
+      "options": [],
+      "answer": "married",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “married”. Câu hoàn chỉnh là “Susan is getting married . Her fiancee’s name is Michael.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 15.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239824592239279_Audio.mp3"
+    },
+    {
+      "id": 53,
+      "question": "_ _ _ _ _ _ _ _ _ ! I haven’t got any more exams!",
+      "options": [],
+      "answer": "Fantastic",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Fantastic”. Câu hoàn chỉnh là “Fantastic ! I haven’t got any more exams!”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 43.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302324661611713_Audio.mp3"
+    },
+    {
+      "id": 54,
+      "question": "Dolphins aren’t dangerous. They are very ....",
+      "options": [
+        "A. dangerous",
+        "B. annoying",
+        "C. friendly",
+        "D. funny"
+      ],
+      "answer": "C. friendly",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “friendly”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 33, câu 50.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302321689026492_Audio.mp3"
+    },
+    {
+      "id": 55,
+      "question": "P_ _ _ _ _",
+      "options": [],
+      "answer": "hotos",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “hotos”. Câu hoàn chỉnh là “Photos”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 45, câu 106.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Quoc%20Gia/L5/nghe/2/E5_9.mp3"
+    },
+    {
+      "id": 56,
+      "question": "Jane and I were thirsty, but John felt ... and thirsty!",
+      "options": [
+        "A. thirsty",
+        "B. hungry",
+        "C. cold",
+        "D. full"
+      ],
+      "answer": "B. hungry",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “hungry”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 30, câu 78.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302316614337579_Audio.mp3"
+    },
+    {
+      "id": 57,
+      "question": "What would you like for ….?",
+      "options": [
+        "A. brunch",
+        "B. lunch",
+        "C. dinner",
+        "D. desser"
+      ],
+      "answer": "B. lunch",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “lunch”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 34, câu 42.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L5/nghe/de1/10.mp3"
+    },
+    {
+      "id": 58,
+      "question": "How do you make a _ _ _ ?",
+      "options": [],
+      "answer": "box",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “box”. Câu hoàn chỉnh là “How do you make a box ?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 101.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957138886702822_Audio.mp3"
+    },
+    {
+      "id": 59,
+      "question": "Mai will be at the _ _ _ _ _ _ _ on Saturday.",
+      "options": [],
+      "answer": "seaside",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “seaside”. Câu hoàn chỉnh là “Mai will be at the seaside on Saturday.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 38, câu 18.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529880466864_Audio.mp3"
+    },
+    {
+      "id": 60,
+      "question": "The Bright family went _ _ _ _ _ _ _ on the weekend.",
+      "options": [],
+      "answer": "camping",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “camping”. Câu hoàn chỉnh là “The Bright family went camping on the weekend.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 38, câu 103.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821438951609_Audio.mp3"
+    },
+    {
+      "id": 61,
+      "question": "Australia is very far from England, but they speak ....",
+      "options": [
+        "A. English",
+        "B. French",
+        "C. German",
+        "D. Australian"
+      ],
+      "answer": "A. English",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “English”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 31, câu 70.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302319728259048_Audio.mp3"
+    },
+    {
+      "id": 62,
+      "question": "What is she going to do in her days off?",
+      "options": [
+        "A. She’s going to visit her friend in Da Nang.",
+        "B. She’s going to visit her grandparents in her hometown.",
+        "C. She’s going to visit a friend in Bac Giang.",
+        "D. She’s going to go for a picnic with her friend."
+      ],
+      "answer": "C. She’s going to visit a friend in Bac Giang.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “She’s going to visit a friend in Bac Giang.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 31, câu 149.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582775064006514_Audio.mp3"
+    },
+    {
+      "id": 63,
+      "question": "Count from10 _ _ _ _ to zero.",
+      "options": [],
+      "answer": "down",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “down”. Câu hoàn chỉnh là “Count from10 down to zero.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 150.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957141080243198_Audio.mp3"
+    },
+    {
+      "id": 64,
+      "question": "September, October and November are the months of ....",
+      "options": [
+        "A. Winter",
+        "B. Autumn",
+        "C. Spring",
+        "D. Summer"
+      ],
+      "answer": "B. Autumn",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “Autumn”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 32, câu 177.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302317011202276_Audio.mp3"
+    },
+    {
+      "id": 65,
+      "question": "He wants to buy a _ _ _ _ _ _ car.",
+      "options": [],
+      "answer": "sports",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sports”. Câu hoàn chỉnh là “He wants to buy a sports car.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 40, câu 161.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239823241298633_Audio.mp3"
+    },
+    {
+      "id": 66,
+      "question": "Children like reading these comics because they’re ....",
+      "options": [
+        "A. boring",
+        "B. interesting",
+        "C. funny",
+        "D. cheap"
+      ],
+      "answer": "C. funny",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “funny”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 33, câu 115.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302319315014322_Audio.mp3"
+    },
+    {
+      "id": 67,
+      "question": "The Bright family had a _ _ _ _ _ _ _ _ on Friday.",
+      "options": [],
+      "answer": "campfire",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “campfire”. Câu hoàn chỉnh là “The Bright family had a campfire on Friday.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 38, câu 8.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239833270849671_Audio.mp3"
+    },
+    {
+      "id": 68,
+      "question": "My house has a kitchen. My Mom and Dad cook dinner _ _ _ _ _ every night.",
+      "options": [],
+      "answer": "there",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “there”. Câu hoàn chỉnh là “My house has a kitchen. My Mom and Dad cook dinner there every night.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 145.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239821661764431_Audio.mp3"
+    },
+    {
+      "id": 69,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "travel",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “travel”. Câu hoàn chỉnh là “travel”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 133.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/1/career.mp3"
+    },
+    {
+      "id": 70,
+      "question": "- I want to buy some presents. - Ok, let’s go to the _ _ _ _ _ _ _ _ shops.",
+      "options": [],
+      "answer": "souvenir",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “souvenir”. Câu hoàn chỉnh là “- I want to buy some presents. - Ok, let’s go to the souvenir shops.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 33, câu 83.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582771840240389_Audio.mp3"
+    },
+    {
+      "id": 71,
+      "question": "My mom buys candy, potato chips and _ _ _ _ _ _ _ _ _ bars.",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “chocolate”. Câu hoàn chỉnh là “My mom buys candy, potato chips and chocolate bars.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 38.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/1/636239825138333650_Audio.mp3"
+    },
+    {
+      "id": 72,
+      "question": "Don’t talk about people behind their _ _ _ _ _ .",
+      "options": [],
+      "answer": "backs",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “backs”. Câu hoàn chỉnh là “Don’t talk about people behind their backs .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 168.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277572651821219_Audio.mp3"
+    },
+    {
+      "id": 73,
+      "question": "Dolphins can’t live in _ _ _ _ _ _ _ _ water, but a lot of the sea is polluted.",
+      "options": [],
+      "answer": "polluted",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “polluted”. Câu hoàn chỉnh là “Dolphins can’t live in polluted water, but a lot of the sea is polluted.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 34, câu 157.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302323495197664_Audio.mp3"
+    },
+    {
+      "id": 74,
+      "question": "Cathy looked for some other _ _ _ _ _ .",
+      "options": [],
+      "answer": "tents",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “tents”. Câu hoàn chỉnh là “Cathy looked for some other tents .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 21.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641992296109258_Audio.mp3"
+    },
+    {
+      "id": 75,
+      "question": "- What would Nam like to be in the future? - He’d like to be a football _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "player",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “player”. Câu hoàn chỉnh là “- What would Nam like to be in the future? - He’d like to be a football player .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 32, câu 144.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582772791502660_Audio.mp3"
+    },
+    {
+      "id": 76,
+      "question": "Listen and choose the fruit which is NOT in the recording.",
+      "options": [
+        "A. oranges",
+        "B. bananas",
+        "C. grapes",
+        "D. apples"
+      ],
+      "answer": "D. apples",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “apples”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 32, câu 150.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240656400765312_Audio.mp3"
+    },
+    {
+      "id": 77,
+      "question": "Emma and Bob don’t like _ _ _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "skateboarding",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “skateboarding”. Câu hoàn chỉnh là “Emma and Bob don’t like skateboarding .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 36, câu 154.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302322299611564_Audio.mp3"
+    },
+    {
+      "id": 78,
+      "question": "A _ _ _ _ _ _ _ is taller than a horse.",
+      "options": [],
+      "answer": "giraffe",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “giraffe”. Câu hoàn chỉnh là “A giraffe is taller than a horse.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 84.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339715936605331_Audio.mp3"
+    },
+    {
+      "id": 79,
+      "question": "Another name of fruit bats are flying _ _ _ _ _ .",
+      "options": [],
+      "answer": "foxes",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “foxes”. Câu hoàn chỉnh là “Another name of fruit bats are flying foxes .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 160.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604241287945336_Audio.mp3"
+    },
+    {
+      "id": 80,
+      "question": "When it rains, water _ _ _ _ _ from the sky.",
+      "options": [],
+      "answer": "falls",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “falls”. Câu hoàn chỉnh là “When it rains, water falls from the sky.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 72.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604241924977995_Audio.mp3"
+    },
+    {
+      "id": 81,
+      "question": "Joe had a _ _ _ _ _ _ _ _ _ cake on his birthday.",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “chocolate”. Câu hoàn chỉnh là “Joe had a chocolate cake on his birthday.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 39, câu 167.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302324821511994_Audio.mp3"
+    },
+    {
+      "id": 82,
+      "question": "Can you turn the _ _ _ _ _ off, Sam?",
+      "options": [],
+      "answer": "radio",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “radio”. Câu hoàn chỉnh là “Can you turn the radio off, Sam?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 152.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339718099688360_Audio.mp3"
+    },
+    {
+      "id": 83,
+      "question": "Rock ‘n roll music first became popular in1950s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
+      "options": [],
+      "answer": "singers",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “singers”. Câu hoàn chỉnh là “Rock ‘n roll music first became popular in1950s. There were many popular rock ‘n roll singers during that time.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 32, câu 41.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529113589307_Audio.mp3"
+    },
+    {
+      "id": 84,
+      "question": "I want to be your email _ _ _ friend.",
+      "options": [],
+      "answer": "pen",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “pen”. Câu hoàn chỉnh là “I want to be your email pen friend.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 44, câu 27.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641991610176053_Audio.mp3"
+    },
+    {
+      "id": 85,
+      "question": "- Don’t play with the _ _ _ _ _ knife. You may cut yourself. -Ok. I won’t, mom.",
+      "options": [],
+      "answer": "sharp",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sharp”. Câu hoàn chỉnh là “- Don’t play with the sharp knife. You may cut yourself. -Ok. I won’t, mom.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 59.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582773989941854_Audio.mp3"
+    },
+    {
+      "id": 86,
+      "question": "I don’t have enough _ _ _ _ _ to buy such a thing.",
+      "options": [],
+      "answer": "money",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “money”. Câu hoàn chỉnh là “I don’t have enough money to buy such a thing.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 128.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277578226363392_Audio.mp3"
+    },
+    {
+      "id": 87,
+      "question": "It’s nice to be _ _ _ _ .",
+      "options": [],
+      "answer": "home",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “home”. Câu hoàn chỉnh là “It’s nice to be home .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 45, câu 172.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604239892786417_Audio.mp3"
+    },
+    {
+      "id": 88,
+      "question": "They cook food on a fire and they use ... to make paper and clothes.",
+      "options": [
+        "A. fire",
+        "B. plants",
+        "C. paper",
+        "D. food"
+      ],
+      "answer": "B. plants",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “plants”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 30, câu 149.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302319995643518_Audio.mp3"
+    },
+    {
+      "id": 89,
+      "question": "Be sure to put out the _ _ _ _ before you leave.",
+      "options": [],
+      "answer": "fire",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “fire”. Câu hoàn chỉnh là “Be sure to put out the fire before you leave.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 29.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277572768696345_Audio.mp3"
+    },
+    {
+      "id": 90,
+      "question": "Look, Max! All the waiters are wearing green today. They usually wear blue _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "uniforms",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “uniforms”. Câu hoàn chỉnh là “Look, Max! All the waiters are wearing green today. They usually wear blue uniforms .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 35, câu 43.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583528682807274_Audio.mp3"
+    },
+    {
+      "id": 91,
+      "question": "I can’t _ _ _ _ _ the cups. They’re really high.",
+      "options": [],
+      "answer": "reach",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “reach”. Câu hoàn chỉnh là “I can’t reach the cups. They’re really high.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 130.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957138711669531_Audio.mp3"
+    },
+    {
+      "id": 92,
+      "question": "- How was your grandma? - She was sick before, but now she’s _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "better",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “better”. Câu hoàn chỉnh là “- How was your grandma? - She was sick before, but now she’s better .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 2.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583530084685732_Audio.mp3"
+    },
+    {
+      "id": 93,
+      "question": "I play with my ... after school.",
+      "options": [
+        "A. father",
+        "B. friends",
+        "C. dog",
+        "D. brother"
+      ],
+      "answer": "B. friends",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “friends”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 37, câu 88.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302321921934901_Audio.mp3"
+    },
+    {
+      "id": 94,
+      "question": "Long ago, the Incas lived in the _ _ _ _ _ _ _ city.",
+      "options": [],
+      "answer": "ancient",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “ancient”. Câu hoàn chỉnh là “Long ago, the Incas lived in the ancient city.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 31.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604457210507574_Audio.mp3"
+    },
+    {
+      "id": 95,
+      "question": "It was lovely at the beach last _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "weekend",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “weekend”. Câu hoàn chỉnh là “It was lovely at the beach last weekend .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 83.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339719345226104_Audio.mp3"
+    },
+    {
+      "id": 96,
+      "question": "There is some b_ _ _ d.",
+      "options": [],
+      "answer": "rea",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “rea”. Câu hoàn chỉnh là “There is some brea d.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 32.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642992926841_Audio.mp3"
+    },
+    {
+      "id": 97,
+      "question": "I want you to meet my _ _ _ _ _ _ Amy.",
+      "options": [],
+      "answer": "sister",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sister”. Câu hoàn chỉnh là “I want you to meet my sister Amy.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 60.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957139003236378_Audio.mp3"
+    },
+    {
+      "id": 98,
+      "question": "What does the Australian king parrot look like?",
+      "options": [],
+      "answer": "It has a red head with a yellow circle around each eye, green wings and a blue tail.",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “It has a red head with a yellow circle around each eye, green wings and a blue tail.”. Câu hoàn chỉnh là “What does the Australian king parrot look like?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 11.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604236264168364_Audio.mp3"
+    },
+    {
+      "id": 99,
+      "question": "What an interesting _ _ _ _ !",
+      "options": [],
+      "answer": "book",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “book”. Câu hoàn chỉnh là “What an interesting book !”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 173.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957139243946761_Audio.mp3"
+    },
+    {
+      "id": 100,
+      "question": "What did he do?",
+      "options": [
+        "A. He played basketball.",
+        "B. He helped her dad.",
+        "C. He watched TV in the afternoon.",
+        "D. He mended his bike."
+      ],
+      "answer": "B. He helped her dad.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “He helped her dad.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 40, câu 111.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240650562160324_Audio.mp3"
+    },
+    {
+      "id": 101,
+      "question": "The bag is behind the _ _ _ _ .",
+      "options": [],
+      "answer": "Flexibility is one of the qualities required of a social worker.",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Flexibility is one of the qualities required of a social worker.”. Câu hoàn chỉnh là “The bag is behind the Flexibility is one of the qualities required of a social worker. .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 108.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649551064378_Audio.mp3"
+    },
+    {
+      "id": 102,
+      "question": "Write your name and address on this _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "envelope",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “envelope”. Câu hoàn chỉnh là “Write your name and address on this envelope .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 15.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277574311355712_Audio.mp3"
+    },
+    {
+      "id": 103,
+      "question": "I’ve got a great _ _ _ _ _ _ _ _ _ _ of badges.",
+      "options": [],
+      "answer": "collection",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “collection”. Câu hoàn chỉnh là “I’ve got a great collection of badges.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 155.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339713326101677_Audio.mp3"
+    },
+    {
+      "id": 104,
+      "question": "When the weather is cold and wet, they move to a ... and make a home there.",
+      "options": [
+        "A. hotel",
+        "B. house",
+        "C. cave",
+        "D. tent"
+      ],
+      "answer": "C. cave",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “cave”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 30, câu 56.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302321140841529_Audio.mp3"
+    },
+    {
+      "id": 105,
+      "question": "... is a colder season than spring.",
+      "options": [
+        "A. Autumn",
+        "B. Spring",
+        "C. Summer",
+        "D. Winter"
+      ],
+      "answer": "D. Winter",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “Winter”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 38, câu 24.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302318133780248_Audio.mp3"
+    },
+    {
+      "id": 106,
+      "question": "It’s ... and it snows in winter.",
+      "options": [
+        "A. sunny",
+        "B. windy",
+        "C. cool",
+        "D. cold"
+      ],
+      "answer": "D. cold",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “cold”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 38, câu 149.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302317274686739_Audio.mp3"
+    },
+    {
+      "id": 107,
+      "question": "What is he doing? – He’s _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "laughing",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “laughing”. Câu hoàn chỉnh là “What is he doing? – He’s laughing .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 103.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957140740783207_Audio.mp3"
+    },
+    {
+      "id": 108,
+      "question": "Mai is writing a _ _ _ _ _ story.",
+      "options": [],
+      "answer": "short",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “short”. Câu hoàn chỉnh là “Mai is writing a short story.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 98.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Quoc%20Gia/L5/nghe/1/E5_5.mp3"
+    },
+    {
+      "id": 109,
+      "question": "Swifts can _ _ _ _ _ in the air.",
+      "options": [],
+      "answer": "sleep",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sleep”. Câu hoàn chỉnh là “Swifts can sleep in the air.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 154.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604240195286905_Audio.mp3"
+    },
+    {
+      "id": 110,
+      "question": "_ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "postcard",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “postcard”. Câu hoàn chỉnh là “postcard”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 70.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/1/postcard.mp3"
+    },
+    {
+      "id": 111,
+      "question": "A kangaroo looks like a rabbit, but much bigger. It stands and _ _ _ _ with two legs.",
+      "options": [],
+      "answer": "hops",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “hops”. Câu hoàn chỉnh là “A kangaroo looks like a rabbit, but much bigger. It stands and hops with two legs.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 39, câu 81.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583528564369518_Audio.mp3"
+    },
+    {
+      "id": 112,
+      "question": "Listening to very loud music with earphones can _ _ _ _ your ears.",
+      "options": [],
+      "answer": "hurt",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “hurt”. Câu hoàn chỉnh là “Listening to very loud music with earphones can hurt your ears.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 146.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604239731848511_Audio.mp3"
+    },
+    {
+      "id": 113,
+      "question": "Don’t _ _ _ any attention to the boss.",
+      "options": [],
+      "answer": "pay",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “pay”. Câu hoàn chỉnh là “Don’t pay any attention to the boss.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 77.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277574199324261_Audio.mp3"
+    },
+    {
+      "id": 114,
+      "question": "First, it’s going to be a running race. That’s going to start soon. And it’s going to be really _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "exciting",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “exciting”. Câu hoàn chỉnh là “First, it’s going to be a running race. That’s going to start soon. And it’s going to be really exciting .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 32, câu 194.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582771432114355_Audio.mp3"
+    },
+    {
+      "id": 115,
+      "question": "- You’re our first _ _ _ _ _ _ _ _ _ . Have free ice creams! - Wow! Thank you!",
+      "options": [],
+      "answer": "customers",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “customers”. Câu hoàn chỉnh là “- You’re our first customers . Have free ice creams! - Wow! Thank you!”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 37, câu 53.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583528838432623_Audio.mp3"
+    },
+    {
+      "id": 116,
+      "question": "Peas and tomatoes are good _ _ _ _ _ _ _ to grow up a wall.",
+      "options": [],
+      "answer": "choices",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “choices”. Câu hoàn chỉnh là “Peas and tomatoes are good choices to grow up a wall.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 88.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604242684510701_Audio.mp3"
+    },
+    {
+      "id": 117,
+      "question": "I _ _ _ _ _ _ visit my family at weekend.",
+      "options": [],
+      "answer": "always",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “always”. Câu hoàn chỉnh là “I always visit my family at weekend.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 45, câu 129.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641989578574485_Audio.mp3"
+    },
+    {
+      "id": 118,
+      "question": "Which sentence is correct?",
+      "options": [
+        "A. Norm used to go to the gym four times a week.",
+        "B. At the moment, he goes jogging for morning exercise.",
+        "C. He has never gone to the gym before.",
+        "D. He doesn’t do morning exercise."
+      ],
+      "answer": "B. At the moment, he goes jogging for morning exercise.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “At the moment, he goes jogging for morning exercise.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 41, câu 16.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277581199494201_Audio.mp3"
+    },
+    {
+      "id": 119,
+      "question": "The parents do not understand that people making rap music have _ _ _ _ _ _ _ _ _ abilities.",
+      "options": [],
+      "answer": "important",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “important”. Câu hoàn chỉnh là “The parents do not understand that people making rap music have important abilities.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 38, câu 185.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583529026557989_Audio.mp3"
+    },
+    {
+      "id": 120,
+      "question": "She stayed in a hotel in front of a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "castle",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “castle”. Câu hoàn chỉnh là “She stayed in a hotel in front of a castle .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 39.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604242294509959_Audio.mp3"
+    },
+    {
+      "id": 121,
+      "question": "How many _ _ _ _ _ has the boy got?",
+      "options": [],
+      "answer": "kites",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “kites”. Câu hoàn chỉnh là “How many kites has the boy got?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 99.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339716103305565_Audio.mp3"
+    },
+    {
+      "id": 122,
+      "question": "Do you like _ _ _ _ _ _ _ ? – Yes, I do.",
+      "options": [],
+      "answer": "pumpkin",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “pumpkin”. Câu hoàn chỉnh là “Do you like pumpkin ? – Yes, I do.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 3.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957141672425730_Audio.mp3"
+    },
+    {
+      "id": 123,
+      "question": "How do you get to school? – I ride my _ _ _ _ .",
+      "options": [],
+      "answer": "bike",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “bike”. Câu hoàn chỉnh là “How do you get to school? – I ride my bike .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 151.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957139795412613_Audio.mp3"
+    },
+    {
+      "id": 124,
+      "question": "The giant is happy because it is _ _ _ _ _ _ again.",
+      "options": [],
+      "answer": "spring",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “spring”. Câu hoàn chỉnh là “The giant is happy because it is spring again.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 44, câu 199.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641987684107157_Audio.mp3"
+    },
+    {
+      "id": 125,
+      "question": "Where did you spend your _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "A",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “A”. Câu hoàn chỉnh là “Where did you spend your A ?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 184.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/20/635205607815204851_Audio.mp3"
+    },
+    {
+      "id": 126,
+      "question": "I don’t like playing chess and I really hate ....",
+      "options": [
+        "A. playing",
+        "B. shopping",
+        "C. dating",
+        "D. studying"
+      ],
+      "answer": "B. shopping",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “shopping”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 37, câu 131.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302321421954023_Audio.mp3"
+    },
+    {
+      "id": 127,
+      "question": "Which statement is NOT correct?",
+      "options": [
+        "A. The belt colour shows Tae Kwon Do students’ level.",
+        "B. Tae Kwon Do belts are white, yellow, green, blue, red and black.",
+        "C. A striped belt means the student wearing it is practising for the next level.",
+        "D. A Tae Kwon Do student wears the white belt when he/she is at the highest level."
+      ],
+      "answer": "D. A Tae Kwon Do student wears the white belt when he/she is at the highest level.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “A Tae Kwon Do student wears the white belt when he/she is at the highest level.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 41, câu 171.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604237029326018_Audio.mp3"
+    },
+    {
+      "id": 128,
+      "question": "They weren’t in a _ _ _ _ _ _ _ _ - they were in a field.",
+      "options": [],
+      "answer": "campsite",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “campsite”. Câu hoàn chỉnh là “They weren’t in a campsite - they were in a field.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 180.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339715074704125_Audio.mp3"
+    },
+    {
+      "id": 129,
+      "question": "I’ve got seventy _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "postcards",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “postcards”. Câu hoàn chỉnh là “I’ve got seventy postcards .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 45, câu 40.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641988222932103_Audio.mp3"
+    },
+    {
+      "id": 130,
+      "question": "Two children are _ _ _ _ _ _ _ on the fence.",
+      "options": [],
+      "answer": "sitting",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sitting”. Câu hoàn chỉnh là “Two children are sitting on the fence.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 45, câu 137.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957139951258682_Audio.mp3"
+    },
+    {
+      "id": 131,
+      "question": "The _ _ _ _ _ _ _ river on Earth is the River Nile in Africa.",
+      "options": [],
+      "answer": "longest",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “longest”. Câu hoàn chỉnh là “The longest river on Earth is the River Nile in Africa.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 65.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604455367294641_Audio.mp3"
+    },
+    {
+      "id": 132,
+      "question": "Now, Vernie is safe, happy and _ _ _ _ _ _ _ in the koala reserve.",
+      "options": [],
+      "answer": "healthy",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “healthy”. Câu hoàn chỉnh là “Now, Vernie is safe, happy and healthy in the koala reserve.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 128.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604242052946899_Audio.mp3"
+    },
+    {
+      "id": 133,
+      "question": "The park was very dirty and there was litter on the _ _ _ _ _ .",
+      "options": [],
+      "answer": "grass",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “grass”. Câu hoàn chỉnh là “The park was very dirty and there was litter on the grass .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 133.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339719678466684_Audio.mp3"
+    },
+    {
+      "id": 134,
+      "question": "Annie wants people to think about the _ _ _ _ _ _ _ of her photos.",
+      "options": [],
+      "answer": "stories",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “stories”. Câu hoàn chỉnh là “Annie wants people to think about the stories of her photos.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 156.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604242451697923_Audio.mp3"
+    },
+    {
+      "id": 135,
+      "question": "You take photos with this _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “camera”. Câu hoàn chỉnh là “You take photos with this camera .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 27.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339718305288648_Audio.mp3"
+    },
+    {
+      "id": 136,
+      "question": "Books are _ _ _ _ _ _ good presents.",
+      "options": [],
+      "answer": "always",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “always”. Câu hoàn chỉnh là “Books are always good presents.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 87.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864380946953891_Audio.mp3"
+    },
+    {
+      "id": 137,
+      "question": "Add some _ _ _ _ _ to the coffee.",
+      "options": [],
+      "answer": "sugar",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sugar”. Câu hoàn chỉnh là “Add some sugar to the coffee.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 158.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209996247191765_Audio.mp3"
+    },
+    {
+      "id": 138,
+      "question": "Spiders hear by using not ears, but _ _ _ _ _ on their legs.",
+      "options": [],
+      "answer": "hairs",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “hairs”. Câu hoàn chỉnh là “Spiders hear by using not ears, but hairs on their legs.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 44, câu 128.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604242572010304_Audio.mp3"
+    },
+    {
+      "id": 139,
+      "question": "Plants live in soil and they find _ _ _ _ _ there.",
+      "options": [],
+      "answer": "Do not pick wild flowers.",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Do not pick wild flowers.”. Câu hoàn chỉnh là “Plants live in soil and they find Do not pick wild flowers. there.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 54.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864902626592940_Audio.mp3"
+    },
+    {
+      "id": 140,
+      "question": "The library is _ _ _ _ _ _ _ _ the drugstore.",
+      "options": [],
+      "answer": "L",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “L”. Câu hoàn chỉnh là “The library is L the drugstore.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 72.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/25/635209944896425572_Audio.mp3"
+    },
+    {
+      "id": 141,
+      "question": "What is the _ _ _ _ _ of a box of chocolates?",
+      "options": [],
+      "answer": "Have you finished",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Have you finished”. Câu hoàn chỉnh là “What is the Have you finished of a box of chocolates?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 157.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/17/635306499893725994_Audio.mp3"
+    },
+    {
+      "id": 142,
+      "question": "The boy with _ _ _ _ _ hair has taken a photo.",
+      "options": [],
+      "answer": "ought",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “ought”. Câu hoàn chỉnh là “The boy with ought hair has taken a photo.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 164.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303882832908496_Audio.mp3"
+    },
+    {
+      "id": 143,
+      "question": "Andy is playing _ _ _ _ ball.",
+      "options": [],
+      "answer": "foot",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “foot”. Câu hoàn chỉnh là “Andy is playing foot ball.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 5, câu 9.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240642848707465_Audio.mp3"
+    },
+    {
+      "id": 144,
+      "question": "Brian can play the _ _ _ tar.",
+      "options": [],
+      "answer": "gui",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “gui”. Câu hoàn chỉnh là “Brian can play the gui tar.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 5, câu 53.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648754501722_Audio.mp3"
+    },
+    {
+      "id": 145,
+      "question": "When do you have _ _ _ lessons?",
+      "options": [],
+      "answer": "art",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “art”. Câu hoàn chỉnh là “When do you have art lessons?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 5, câu 96.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240649690127259_Audio.mp3"
+    },
+    {
+      "id": 146,
+      "question": "Try to do it to the _ _ _ _ of your abilities.",
+      "options": [],
+      "answer": "best",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “best”. Câu hoàn chỉnh là “Try to do it to the best of your abilities.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 57.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277573839636321_Audio.mp3"
+    },
+    {
+      "id": 147,
+      "question": "I’m _ _ _ _ _ your age.",
+      "options": [],
+      "answer": "twice",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “twice”. Câu hoàn chỉnh là “I’m twice your age.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 50, câu 62.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277573056196995_Audio.mp3"
+    },
+    {
+      "id": 148,
+      "question": "Our dad buys us two new ... every Saturday.",
+      "options": [
+        "A. toys",
+        "B. books",
+        "C. comics",
+        "D. drinks"
+      ],
+      "answer": "C. comics",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “comics”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 39, câu 178.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302320250391965_Audio.mp3"
+    },
+    {
+      "id": 149,
+      "question": "What do the Swedish decorate their homes with for the festival of Mid-summer?",
+      "options": [
+        "A. Flowers and candles.",
+        "B. Leaves and flowers.",
+        "C. Flowers, leaves and beautiful costumes.",
+        "D. Colourful lights."
+      ],
+      "answer": "B. Leaves and flowers.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “Leaves and flowers.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 36, câu 11.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582777173698095_Audio.mp3"
+    },
+    {
+      "id": 150,
+      "question": "We live in a _ _ _ _ near the park.",
+      "options": [],
+      "answer": "flat",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “flat”. Câu hoàn chỉnh là “We live in a flat near the park.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 48, câu 36.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641988983589440_Audio.mp3"
+    },
+    {
+      "id": 151,
+      "question": "We draw with _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "crayons",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “crayons”. Câu hoàn chỉnh là “We draw with crayons .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 48, câu 160.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339713085101339_Audio.mp3"
+    },
+    {
+      "id": 152,
+      "question": "There’s a _ _ _ _ _ _ _ at the theatre on Sunday.",
+      "options": [],
+      "answer": "between",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “between”. Câu hoàn chỉnh là “There’s a between at the theatre on Sunday.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 27.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864385929081563_Audio.mp3"
+    },
+    {
+      "id": 153,
+      "question": "He says his ... is a teacher.",
+      "options": [
+        "A. dad",
+        "B. uncle",
+        "C. grandma",
+        "D. mother"
+      ],
+      "answer": "D. mother",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án D: “mother”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 41, câu 90.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/4/4/636899959124711243_Audio.mp3"
+    },
+    {
+      "id": 154,
+      "question": "The picnic food was very good, and we were all very _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "cheerful",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “cheerful”. Câu hoàn chỉnh là “The picnic food was very good, and we were all very cheerful .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 41, câu 162.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339719530890425_Audio.mp3"
+    },
+    {
+      "id": 155,
+      "question": "It’s very _ _ _ _ _ .",
+      "options": [],
+      "answer": "foggy",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “foggy”. Câu hoàn chỉnh là “It’s very foggy .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 6, câu 188.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303882705144272_Audio.mp3"
+    },
+    {
+      "id": 156,
+      "question": "If you try your best now, _ _ _ _ _ _ _ _ _ will come to you.",
+      "options": [],
+      "answer": "happiness",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “happiness”. Câu hoàn chỉnh là “If you try your best now, happiness will come to you.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 68.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277574550106278_Audio.mp3"
+    },
+    {
+      "id": 157,
+      "question": "You should bring a _ _ _ _ _ _ _ with you or you will catch a cold.",
+      "options": [],
+      "answer": "sweater",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “sweater”. Câu hoàn chỉnh là “You should bring a sweater with you or you will catch a cold.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 85.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277576808393279_Audio.mp3"
+    },
+    {
+      "id": 158,
+      "question": "There’s a concert at the theatre on _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Sunday",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Sunday”. Câu hoàn chỉnh là “There’s a concert at the theatre on Sunday .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 182.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641990264819690_Audio.mp3"
+    },
+    {
+      "id": 159,
+      "question": "Every apartment has a _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "balcony",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “balcony”. Câu hoàn chỉnh là “Every apartment has a balcony .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 42.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/3/23.mp3"
+    },
+    {
+      "id": 160,
+      "question": "The fox asked, ’’Can you sing?’’ ’’Yes, ...’’ the crow opened his beak and said. He _ _ _ _ _ _ _ his meat on the ground.",
+      "options": [],
+      "answer": "dropped",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “dropped”. Câu hoàn chỉnh là “The fox asked, ’’Can you sing?’’ ’’Yes, dropped’’ the crow opened his beak and said. He _ _ _ _ _ _ _ his meat on the ground.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 35, câu 172.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582771569458447_Audio.mp3"
+    },
+    {
+      "id": 161,
+      "question": "She thinks that gorillas are very _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "intelligent",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “intelligent”. Câu hoàn chỉnh là “She thinks that gorillas are very intelligent .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 197.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604241407164285_Audio.mp3"
+    },
+    {
+      "id": 162,
+      "question": "Can I use the _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “computer”. Câu hoàn chỉnh là “Can I use the computer ?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 7.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339716968986777_Audio.mp3"
+    },
+    {
+      "id": 163,
+      "question": "What does Phong’s father often do in his free time?",
+      "options": [
+        "A. He often goes skating.",
+        "B. He often does karate.",
+        "C. He often goes shopping.",
+        "D. He often does the housework."
+      ],
+      "answer": "B. He often does karate.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “He often does karate.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 39, câu 193.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/2/636582775480101077_Audio.mp3"
+    },
+    {
+      "id": 164,
+      "question": "Well, congratulations on your new _ _ _ _ _ .",
+      "options": [],
+      "answer": "house",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “house”. Câu hoàn chỉnh là “Well, congratulations on your new house .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 4, câu 165.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920012668432975_Audio.mp3"
+    },
+    {
+      "id": 165,
+      "question": "There are no _ _ _ _ _ _ in the sky on a nice clear day.",
+      "options": [],
+      "answer": "clouds",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “clouds”. Câu hoàn chỉnh là “There are no clouds in the sky on a nice clear day.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 44, câu 110.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277572009632475_Audio.mp3"
+    },
+    {
+      "id": 166,
+      "question": "A: What animals first flew on Earth? - B: _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Insects",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Insects”. Câu hoàn chỉnh là “A: What animals first flew on Earth? - B: Insects .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 44, câu 117.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604240732162941_Audio.mp3"
+    },
+    {
+      "id": 167,
+      "question": "Where is Marika living?",
+      "options": [
+        "A. Japan",
+        "B. England",
+        "C. Holland",
+        "D. Germany"
+      ],
+      "answer": "A. Japan",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “Japan”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 44, câu 124.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/4/4/636899956671966455_Audio.mp3"
+    },
+    {
+      "id": 168,
+      "question": "Keep away… the dog.",
+      "options": [
+        "A. front",
+        "B. for",
+        "C. from",
+        "D. fond"
+      ],
+      "answer": "C. from",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “from”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 44, câu 162.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957135413012480_Audio.mp3"
+    },
+    {
+      "id": 169,
+      "question": "In _ _ _ weather, the ocean can be rough.",
+      "options": [],
+      "answer": "bad",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “bad”. Câu hoàn chỉnh là “In bad weather, the ocean can be rough.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 5, câu 76.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/23/636864903025499956_Audio.mp3"
+    },
+    {
+      "id": 170,
+      "question": "They won’t go to the _ _ _ _ .",
+      "options": [],
+      "answer": "shop",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “shop”. Câu hoàn chỉnh là “They won’t go to the shop .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 5, câu 131.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240648305436899_Audio.mp3"
+    },
+    {
+      "id": 171,
+      "question": "What’s her name?",
+      "options": [
+        "A. Betty Parat",
+        "B. Barett Betty",
+        "C. Betty Barratt",
+        "D. Parrett Betty"
+      ],
+      "answer": "C. Betty Barratt",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “Betty Barratt”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 45, câu 65.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604239009819206_Audio.mp3"
+    },
+    {
+      "id": 172,
+      "question": "Another name of the Beijing National Stadium is the Bird’s _ _ _ _ .",
+      "options": [],
+      "answer": "nest",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “nest”. Câu hoàn chỉnh là “Another name of the Beijing National Stadium is the Bird’s nest .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 46, câu 131.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604456779641301_Audio.mp3"
+    },
+    {
+      "id": 173,
+      "question": "She thinks that mobile phones for _ _ _ _ _ _ reason.",
+      "options": [],
+      "answer": "safety",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “safety”. Câu hoàn chỉnh là “She thinks that mobile phones for safety reason.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 91.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/2/25/635920009976623553_Audio.mp3"
+    },
+    {
+      "id": 174,
+      "question": "There are four _ _ _ _ _ _ _ in the room.",
+      "options": [],
+      "answer": "benches",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “benches”. Câu hoàn chỉnh là “There are four benches in the room.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 116.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884366703190_Audio.mp3"
+    },
+    {
+      "id": 175,
+      "question": "When will the party take place?",
+      "options": [
+        "A. On Saturday morning.",
+        "B. On Sunday night.",
+        "C. On Saturday night.",
+        "D. On Monday night."
+      ],
+      "answer": "C. On Saturday night.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “On Saturday night.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 43, câu 157.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Quoc%20Gia/L5/nghe/2/E5_18.mp3"
+    },
+    {
+      "id": 176,
+      "question": "People collect _ _ _ _ _ _ _ _ _ on the beach.",
+      "options": [],
+      "answer": "seashells",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “seashells”. Câu hoàn chỉnh là “People collect seashells on the beach.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 95.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/4/9/635641994495869122_Audio.mp3"
+    },
+    {
+      "id": 177,
+      "question": "They saw elephants, g_ _ _ _ _ _ _ , flamingos and fish.",
+      "options": [],
+      "answer": "iraffes",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “iraffes”. Câu hoàn chỉnh là “They saw elephants, giraffes , flamingos and fish.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 101.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Quoc%20Gia/L5/nghe/2/E5_10.mp3"
+    },
+    {
+      "id": 178,
+      "question": "Bob and Emma like playing the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "guitar",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “guitar”. Câu hoàn chỉnh là “Bob and Emma like playing the guitar .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 48, câu 142.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339716668086356_Audio.mp3"
+    },
+    {
+      "id": 179,
+      "question": "You mustn’t be lazy and you _ _ _ _ prepare for winter!",
+      "options": [],
+      "answer": "must",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “must”. Câu hoàn chỉnh là “You mustn’t be lazy and you must prepare for winter!”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 48, câu 150.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Quoc%20Gia/L5/nghe/2/E5_12.mp3"
+    },
+    {
+      "id": 180,
+      "question": "Hi. My name’s … .",
+      "options": [
+        "A. Josh",
+        "B. John",
+        "C. Jacob",
+        "D. Jared"
+      ],
+      "answer": "A. Josh",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “Josh”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 44, câu 97.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957136792379395_Audio.mp3"
+    },
+    {
+      "id": 181,
+      "question": "What is her favourite season?",
+      "options": [
+        "A. Spring",
+        "B. Summer",
+        "C. Autumn",
+        "D. Winter"
+      ],
+      "answer": "A. Spring",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “Spring”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 44, câu 125.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957131769903801_Audio.mp3"
+    },
+    {
+      "id": 182,
+      "question": "She reads in the _ _ _ _ _ _ _ from 7 o’clock to 9.30.",
+      "options": [],
+      "answer": "must",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “must”. Câu hoàn chỉnh là “She reads in the must from 7 o’clock to 9.30.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 186.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884671371725_Audio.mp3"
+    },
+    {
+      "id": 183,
+      "question": "_ _ _ _ _ _",
+      "options": [],
+      "answer": "energy",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “energy”. Câu hoàn chỉnh là “energy”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 9, câu 78.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/1/energy.mp3"
+    },
+    {
+      "id": 184,
+      "question": "I really should drink more _ _ _ _ _ before I go for a long run.",
+      "options": [],
+      "answer": "water",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “water”. Câu hoàn chỉnh là “I really should drink more water before I go for a long run.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 45, câu 21.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/4/8/635957140551241586_Audio.mp3"
+    },
+    {
+      "id": 185,
+      "question": "The ... is the longest river in the world.",
+      "options": [
+        "A. Nile",
+        "B. Amazon",
+        "C. Potomac",
+        "D. Seine"
+      ],
+      "answer": "A. Nile",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “Nile”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 41, câu 18.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339727118285752_Audio.mp3"
+    },
+    {
+      "id": 186,
+      "question": "How long ago did he join the health club?",
+      "options": [
+        "A. 1 year ago",
+        "B. 1 month ago",
+        "C. 2 months ago",
+        "D. Last week"
+      ],
+      "answer": "C. 2 months ago",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án C: “2 months ago”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 41, câu 74.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/4/4/636899956061652684_Audio.mp3"
+    },
+    {
+      "id": 187,
+      "question": "What did Alice do after she finished her homework?",
+      "options": [
+        "A. She tidied her desk.",
+        "B. She cleaned the living room.",
+        "C. She tidied her bedroom.",
+        "D. She cleaned her bedroom."
+      ],
+      "answer": "A. She tidied her desk.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “She tidied her desk.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 41, câu 120.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Quoc%20Gia/L5/nghe/3/E5_20(1).mp3"
+    },
+    {
+      "id": 188,
+      "question": "In his town, there are lots of ....",
+      "options": [
+        "A. gas stations",
+        "B. businesses",
+        "C. parks",
+        "D. theaters"
+      ],
+      "answer": "A. gas stations",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án A: “gas stations”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 42, câu 124.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/4/4/636899957811812502_Audio.mp3"
+    },
+    {
+      "id": 189,
+      "question": "_ _ _ _ _ _ _ _ _ _ _ are one of the fastest flying insects in the world.",
+      "options": [],
+      "answer": "Dragonflies",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “Dragonflies”. Câu hoàn chỉnh là “Dragonflies are one of the fastest flying insects in the world.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 42, câu 144.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604241150601240_Audio.mp3"
+    },
+    {
+      "id": 190,
+      "question": "I don’t _ _ _ _ if it’s a little cold.",
+      "options": [],
+      "answer": "mind",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “mind”. Câu hoàn chỉnh là “I don’t mind if it’s a little cold.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 50, câu 41.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/4/14/636277573934011389_Audio.mp3"
+    },
+    {
+      "id": 191,
+      "question": "We are _ _ _ _ _ _ _ _ _ too much trash.",
+      "options": [],
+      "answer": "producing",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “producing”. Câu hoàn chỉnh là “We are producing too much trash.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 77.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303884216006926_Audio.mp3"
+    },
+    {
+      "id": 192,
+      "question": "What’s her address? – It’s 17 _ _ _ _ _ _ _ Street.",
+      "options": [],
+      "answer": "randall",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “randall”. Câu hoàn chỉnh là “What’s her address? – It’s 17 randall Street.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 84.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/2/20.mp3"
+    },
+    {
+      "id": 193,
+      "question": "Well, books are always good _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "presents",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “presents”. Câu hoàn chỉnh là “Well, books are always good presents .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 3, câu 132.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/14/635303882551172001_Audio.mp3"
+    },
+    {
+      "id": 194,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "adventure",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “adventure”. Câu hoàn chỉnh là “adventure”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 7, câu 90.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2019-2020/Tinh_Thanhpho/L6/nghe/De1/1/adventure.mp3"
+    },
+    {
+      "id": 195,
+      "question": "- Why do many countries celebrate Teachers’ Day? - To thank the teachers for their _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "teaching",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “teaching”. Câu hoàn chỉnh là “- Why do many countries celebrate Teachers’ Day? - To thank the teachers for their teaching .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 40, câu 124.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583528479994506_Audio.mp3"
+    },
+    {
+      "id": 196,
+      "question": "In _ _ _ _ _ _ _ _ _ , there are about twenty six kilometers of coast and about eleven thousand beaches.",
+      "options": [],
+      "answer": "australia",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “australia”. Câu hoàn chỉnh là “In australia , there are about twenty six kilometers of coast and about eleven thousand beaches.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 40, câu 187.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/3/636583530227966824_Audio.mp3"
+    },
+    {
+      "id": 197,
+      "question": "Which is NOT in the audio?",
+      "options": [
+        "A. Machu Picchu is in Peru.",
+        "B. The whole of the Andes is in Peru.",
+        "C. Machu Picchu was the place where the Incas lived long ago.",
+        "D. The city Machu Picchu disappeared many centuries ago."
+      ],
+      "answer": "B. The whole of the Andes is in Peru.",
+      "explanation": "Nghe file gốc và xác định đúng chi tiết mà câu hỏi yêu cầu. Đáp án gốc khớp với phương án B: “The whole of the Andes is in Peru.”. Hãy đối chiếu cả nghĩa câu hỏi và thông tin nghe được; không chọn phương án có từ khóa giống nhưng khác chi tiết. Nguồn: IOE Lớp 5, đề 44, câu 194.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604236671981565_Audio.mp3"
+    },
+    {
+      "id": 198,
+      "question": "A jellyfish doesn’t have a _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "skeleton",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “skeleton”. Câu hoàn chỉnh là “A jellyfish doesn’t have a skeleton .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 48, câu 34.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/27/636604456370265294_Audio.mp3"
+    },
+    {
+      "id": 199,
+      "question": "You mustn’t drop litter on the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "streets",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “streets”. Câu hoàn chỉnh là “You mustn’t drop litter on the streets .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 48, câu 132.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/4/24/635339714395703174_Audio.mp3"
+    },
+    {
+      "id": 200,
+      "question": "In the story, there was a princess living in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "On the moon there's dust and rock.",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “On the moon there's dust and rock.”. Câu hoàn chỉnh là “In the story, there was a princess living in the On the moon there's dust and rock. .”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 65.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/2/22/636864381057509638_Audio.mp3"
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
