@@ -1,0 +1,1808 @@
+{
+  "title": "IOE Lớp 4 - Chuyên đề 5 - Vòng Quốc Gia",
+  "vong": "Vòng Quốc Gia",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "_ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "pharmacy",
+      "explanation": "Nghe → điền từ: PHARMACY. Đánh vần: P-H-A-R-M-A-C-Y."
+    },
+    {
+      "id": 2,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "dictation",
+      "explanation": "Nghe → điền từ: DICTATION. Đánh vần: D-I-C-T-A-T-I-O-N."
+    },
+    {
+      "id": 3,
+      "question": "Billy doesn’t like _ _ _ _ _ _ nts.",
+      "options": [],
+      "answer": "elepha",
+      "explanation": "Nghe câu → điền từ: \"Billy doesn’t like elephants.\". Đánh vần: E-L-E-P-H-A."
+    },
+    {
+      "id": 4,
+      "question": "There is a _ _ _ _ _ _ near my home.",
+      "options": [],
+      "answer": "bakery",
+      "explanation": "Nghe câu → điền từ: \"There is a bakerynear my home.\". Đánh vần: B-A-K-E-R-Y."
+    },
+    {
+      "id": 5,
+      "question": "My dad is a _ _ _ _ _ _ man.",
+      "options": [],
+      "answer": "police",
+      "explanation": "Nghe câu → điền từ: \"My dad is a policeman.\". Đánh vần: P-O-L-I-C-E."
+    },
+    {
+      "id": 6,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A."
+    },
+    {
+      "id": 7,
+      "question": "Mrs. Smith is in the super_ _ _ _ _ _ today.",
+      "options": [],
+      "answer": "market",
+      "explanation": "Nghe câu → điền từ: \"Mrs. Smith is in the supermarkettoday.\". Đánh vần: M-A-R-K-E-T."
+    },
+    {
+      "id": 8,
+      "question": "Wear your school _ _ _ _ _ _ _ on Wednesday.",
+      "options": [],
+      "answer": "clothes",
+      "explanation": "Nghe câu → điền từ: \"Wear your school clotheson Wednesday.\". Đánh vần: C-L-O-T-H-E-S."
+    },
+    {
+      "id": 9,
+      "question": "I don’t have a music _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "lesson",
+      "explanation": "Nghe câu → điền từ: \"I don’t have a music lesson.\". Đánh vần: L-E-S-S-O-N."
+    },
+    {
+      "id": 10,
+      "question": "I learn at _ _ _ _ _ _ in the afternoon.",
+      "options": [],
+      "answer": "school",
+      "explanation": "Nghe câu → điền từ: \"I learn at schoolin the afternoon.\" (trường). Đánh vần: S-C-H-O-O-L."
+    },
+    {
+      "id": 11,
+      "question": "She goes running at seven _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "fifteen",
+      "explanation": "Nghe câu → điền từ: \"She goes running at seven fifteen.\". Đánh vần: F-I-F-T-E-E-N."
+    },
+    {
+      "id": 12,
+      "question": "He’s playing the _ _ _ _ _ _ in his room.",
+      "options": [],
+      "answer": "guitar",
+      "explanation": "Nghe câu → điền từ: \"He’s playing the guitarin his room.\". Đánh vần: G-U-I-T-A-R."
+    },
+    {
+      "id": 13,
+      "question": "What _ _ _ _ _ _ would you like?",
+      "options": [],
+      "answer": "colour",
+      "explanation": "Nghe câu → điền từ: \"What colourwould you like?.\". Đánh vần: C-O-L-O-U-R."
+    },
+    {
+      "id": 14,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 15,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 16,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 17,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 18,
+      "question": "My dad is a _ _ _ _ _ _ man.",
+      "options": [],
+      "answer": "police",
+      "explanation": "Nghe câu → điền từ: \"My dad is a policeman.\". Đánh vần: P-O-L-I-C-E."
+    },
+    {
+      "id": 19,
+      "question": "Can she play _ _ _ _ _ _ ? - Yes, she can.",
+      "options": [],
+      "answer": "tennis",
+      "explanation": "Nghe câu → điền từ: \"Can she play tennis? - Yes, she can.\". Đánh vần: T-E-N-N-I-S."
+    },
+    {
+      "id": 20,
+      "question": "He is a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He is a doctor.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 21,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A."
+    },
+    {
+      "id": 22,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A."
+    },
+    {
+      "id": 23,
+      "question": "Where were you last _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "weekend",
+      "explanation": "Nghe câu → điền từ: \"Where were you last weekend?.\". Đánh vần: W-E-E-K-E-N-D."
+    },
+    {
+      "id": 24,
+      "question": "Her brother has _ _ _ _ _ _ at seven o’clock.",
+      "options": [],
+      "answer": "dinner",
+      "explanation": "Nghe câu → điền từ: \"Her brother has dinnerat seven o’clock.\". Đánh vần: D-I-N-N-E-R."
+    },
+    {
+      "id": 25,
+      "question": "I don’t have a music _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "lesson",
+      "explanation": "Nghe câu → điền từ: \"I don’t have a music lesson.\". Đánh vần: L-E-S-S-O-N."
+    },
+    {
+      "id": 26,
+      "question": "My sister is _ _ _ _ _ _ _ than my mother.",
+      "options": [],
+      "answer": "slimmer",
+      "explanation": "Nghe câu → điền từ: \"My sister is slimmerthan my mother.\". Đánh vần: S-L-I-M-M-E-R."
+    },
+    {
+      "id": 27,
+      "question": "My dad is a _ _ _ _ _ _ man.",
+      "options": [],
+      "answer": "police",
+      "explanation": "Nghe câu → điền từ: \"My dad is a policeman.\". Đánh vần: P-O-L-I-C-E."
+    },
+    {
+      "id": 28,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 29,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 30,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 31,
+      "question": "After school, he goes home and he has _ _ _ _ _ with his family.",
+      "options": [],
+      "answer": "lunch",
+      "explanation": "Nghe câu → điền từ: \"After school, he goes home and he has lunchwith his family.\". Đánh vần: L-U-N-C-H."
+    },
+    {
+      "id": 32,
+      "question": "Thanks for your _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "answers",
+      "explanation": "Nghe câu → điền từ: \"Thanks for your answers.\". Đánh vần: A-N-S-W-E-R-S."
+    },
+    {
+      "id": 33,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "sixteenth",
+      "explanation": "Nghe → điền từ: SIXTEENTH. Đánh vần: S-I-X-T-E-E-N-T-H."
+    },
+    {
+      "id": 34,
+      "question": "I _ _ _ _ _ _ to my CDs.",
+      "options": [],
+      "answer": "listen",
+      "explanation": "Nghe câu → điền từ: \"I listento my CDs.\" (nghe). Đánh vần: L-I-S-T-E-N."
+    },
+    {
+      "id": 35,
+      "question": "He’s a _ _ _ _ _ _ . He works at night.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works at night.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 36,
+      "question": "We’re going to go to the _ _ _ _ _ _ tonight.",
+      "options": [],
+      "answer": "cinema",
+      "explanation": "Nghe câu → điền từ: \"We’re going to go to the cinematonight.\". Đánh vần: C-I-N-E-M-A."
+    },
+    {
+      "id": 37,
+      "question": "There is a clock on the table and another on the _ _ _ _ .",
+      "options": [],
+      "answer": "wall",
+      "explanation": "Nghe câu → điền từ: \"There is a clock on the table and another on the wall.\". Đánh vần: W-A-L-L."
+    },
+    {
+      "id": 38,
+      "question": "_ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "hospital",
+      "explanation": "Nghe → điền từ: HOSPITAL. Đánh vần: H-O-S-P-I-T-A-L."
+    },
+    {
+      "id": 39,
+      "question": "Scott speaks _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "English",
+      "explanation": "Nghe câu → điền từ: \"Scott speaks English.\" (tiếng Anh). Đánh vần: E-N-G-L-I-S-H."
+    },
+    {
+      "id": 40,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 41,
+      "question": "It’s the fifth of _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "October",
+      "explanation": "Nghe câu → điền từ: \"It’s the fifth of October.\". Đánh vần: O-C-T-O-B-E-R."
+    },
+    {
+      "id": 42,
+      "question": "He’s talking to his _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "friends",
+      "explanation": "Nghe câu → điền từ: \"He’s talking to his friends.\". Đánh vần: F-R-I-E-N-D-S."
+    },
+    {
+      "id": 43,
+      "question": "Many fish and other little animals live in the water near the _ _ _ _ _ .",
+      "options": [],
+      "answer": "beach",
+      "explanation": "Nghe câu → điền từ: \"Many fish and other little animals live in the water near the beach.\". Đánh vần: B-E-A-C-H."
+    },
+    {
+      "id": 44,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A."
+    },
+    {
+      "id": 45,
+      "question": "Mai is in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "kitchen",
+      "explanation": "Nghe câu → điền từ: \"Mai is in the kitchen.\". Đánh vần: K-I-T-C-H-E-N."
+    },
+    {
+      "id": 46,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "sixteenth",
+      "explanation": "Nghe → điền từ: SIXTEENTH. Đánh vần: S-I-X-T-E-E-N-T-H."
+    },
+    {
+      "id": 47,
+      "question": "Lynda comes from _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sydney",
+      "explanation": "Nghe câu → điền từ: \"Lynda comes from sydney.\". Đánh vần: S-Y-D-N-E-Y."
+    },
+    {
+      "id": 48,
+      "question": "Someone’s in the _ _ _ _ _ _ room.",
+      "options": [],
+      "answer": "living",
+      "explanation": "Nghe câu → điền từ: \"Someone’s in the livingroom.\". Đánh vần: L-I-V-I-N-G."
+    },
+    {
+      "id": 49,
+      "question": "Her grandmother lives on the _ _ _ _ _ _ floor.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe câu → điền từ: \"Her grandmother lives on the secondfloor.\". Đánh vần: S-E-C-O-N-D."
+    },
+    {
+      "id": 50,
+      "question": "_ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "twentieth",
+      "explanation": "Nghe → điền từ: TWENTIETH. Đánh vần: T-W-E-N-T-I-E-T-H."
+    },
+    {
+      "id": 51,
+      "question": "She goes running at seven _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "fifteen",
+      "explanation": "Nghe câu → điền từ: \"She goes running at seven fifteen.\". Đánh vần: F-I-F-T-E-E-N."
+    },
+    {
+      "id": 52,
+      "question": "She goes running at seven _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "fifteen",
+      "explanation": "Nghe câu → điền từ: \"She goes running at seven fifteen.\". Đánh vần: F-I-F-T-E-E-N."
+    },
+    {
+      "id": 53,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 54,
+      "question": "Billy doesn’t like _ _ _ _ _ _ nts.",
+      "options": [],
+      "answer": "elepha",
+      "explanation": "Nghe câu → điền từ: \"Billy doesn’t like elephants.\". Đánh vần: E-L-E-P-H-A."
+    },
+    {
+      "id": 55,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y."
+    },
+    {
+      "id": 56,
+      "question": "The _ _ _ _ _ _ works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"The doctorworks in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 57,
+      "question": "I learn at _ _ _ _ _ _ in the afternoon.",
+      "options": [],
+      "answer": "school",
+      "explanation": "Nghe câu → điền từ: \"I learn at schoolin the afternoon.\" (trường). Đánh vần: S-C-H-O-O-L."
+    },
+    {
+      "id": 58,
+      "question": "Thanks for your _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "answers",
+      "explanation": "Nghe câu → điền từ: \"Thanks for your answers.\". Đánh vần: A-N-S-W-E-R-S."
+    },
+    {
+      "id": 59,
+      "question": "_ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "pharmacy",
+      "explanation": "Nghe → điền từ: PHARMACY. Đánh vần: P-H-A-R-M-A-C-Y."
+    },
+    {
+      "id": 60,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 61,
+      "question": "There are _ _ _ _ _ _ girls in his class.",
+      "options": [],
+      "answer": "twelve",
+      "explanation": "Nghe câu → điền từ: \"There are twelvegirls in his class.\" (mười hai). Đánh vần: T-W-E-L-V-E."
+    },
+    {
+      "id": 62,
+      "question": "Thanks for your _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "answers",
+      "explanation": "Nghe câu → điền từ: \"Thanks for your answers.\". Đánh vần: A-N-S-W-E-R-S."
+    },
+    {
+      "id": 63,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 64,
+      "question": "Mai _ _ _ _ _ _ _ a big picture last weekend.",
+      "options": [],
+      "answer": "painted",
+      "explanation": "Nghe câu → điền từ: \"Mai painteda big picture last weekend.\". Đánh vần: P-A-I-N-T-E-D."
+    },
+    {
+      "id": 65,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A."
+    },
+    {
+      "id": 66,
+      "question": "I don’t have a music _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "lesson",
+      "explanation": "Nghe câu → điền từ: \"I don’t have a music lesson.\". Đánh vần: L-E-S-S-O-N."
+    },
+    {
+      "id": 67,
+      "question": "Someone’s in the _ _ _ _ _ _ room.",
+      "options": [],
+      "answer": "living",
+      "explanation": "Nghe câu → điền từ: \"Someone’s in the livingroom.\". Đánh vần: L-I-V-I-N-G."
+    },
+    {
+      "id": 68,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R."
+    },
+    {
+      "id": 69,
+      "question": "I _ _ _ _ _ _ chess with my father.",
+      "options": [],
+      "answer": "played",
+      "explanation": "Nghe câu → điền từ: \"I playedchess with my father.\". Đánh vần: P-L-A-Y-E-D."
+    },
+    {
+      "id": 70,
+      "question": "How old is her brother? – He’s _ _ _ _ _ _ years old.",
+      "options": [],
+      "answer": "eleven",
+      "explanation": "Nghe câu → điền từ: \"How old is her brother? – He’s elevenyears old.\" (mười một). Đánh vần: E-L-E-V-E-N."
+    },
+    {
+      "id": 71,
+      "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe câu → điền từ: \"In the afternoon she has got lessons in the library.\". Đánh vần: L-I-B-R-A-R-Y."
+    },
+    {
+      "id": 72,
+      "question": "The crab has two _ _ _ _ on top of its body. It can see big animals, and then it can run away.",
+      "options": [],
+      "answer": "eyes",
+      "explanation": "Nghe câu → điền từ: \"The crab has two eyeson top of its body. It can see big animals, and then it can run away.\". Đánh vần: E-Y-E-S."
+    },
+    {
+      "id": 73,
+      "question": "He is from _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Singapore",
+      "explanation": "Nghe câu → điền từ: \"He is from Singapore.\". Đánh vần: S-I-N-G-A-P-O-R-E."
+    },
+    {
+      "id": 74,
+      "question": "Max does his _ _ _ _ _ _ _ _ after school.",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"Max does his homeworkafter school.\". Đánh vần: H-O-M-E-W-O-R-K."
+    },
+    {
+      "id": 75,
+      "question": "They painted many beautiful _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "pictures",
+      "explanation": "Nghe câu → điền từ: \"They painted many beautiful pictures.\". Đánh vần: P-I-C-T-U-R-E-S."
+    },
+    {
+      "id": 76,
+      "question": "Her _ _ _ _ _ _ _ _ _ food is ice-cream.",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Nghe câu → điền từ: \"Her favouritefood is ice-cream.\". Đánh vần: F-A-V-O-U-R-I-T-E."
+    },
+    {
+      "id": 77,
+      "question": "After school, I do my _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"After school, I do my homework.\". Đánh vần: H-O-M-E-W-O-R-K."
+    },
+    {
+      "id": 78,
+      "question": "I go _ _ _ _ _ _ _ _ every Monday.",
+      "options": [],
+      "answer": "swimming",
+      "explanation": "Nghe câu → điền từ: \"I go swimmingevery Monday.\" (bơi lội). Đánh vần: S-W-I-M-M-I-N-G."
+    },
+    {
+      "id": 79,
+      "question": "He likes _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E."
+    },
+    {
+      "id": 80,
+      "question": "Excuse me. Can I see that blue _ _ _ _ _ _ , please? - Here you are.",
+      "options": [],
+      "answer": "jumper",
+      "explanation": "Nghe câu → điền từ: \"Excuse me. Can I see that blue jumper, please? - Here you are.\". Đánh vần: J-U-M-P-E-R."
+    },
+    {
+      "id": 81,
+      "question": "It’s Billy’s _ _ _ _ _ _ _ _ tomorrow.",
+      "options": [],
+      "answer": "birthday",
+      "explanation": "Nghe câu → điền từ: \"It’s Billy’s birthdaytomorrow.\". Đánh vần: B-I-R-T-H-D-A-Y."
+    },
+    {
+      "id": 82,
+      "question": "He likes _ _ _ _ _ _ _ _ _ very much.",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolatevery much.\". Đánh vần: C-H-O-C-O-L-A-T-E."
+    },
+    {
+      "id": 83,
+      "question": "HE GOES SWIMMING ON _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "SATURDAY",
+      "explanation": "Nghe câu → điền từ: \"HE GOES SWIMMING ON SATURDAY.\". Đánh vần: S-A-T-U-R-D-A-Y."
+    },
+    {
+      "id": 84,
+      "question": "Linda has P.E. lesson on _ _ _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "thursday",
+      "explanation": "Nghe câu → điền từ: \"Linda has P.E. lesson on thursdayafternoon.\". Đánh vần: T-H-U-R-S-D-A-Y."
+    },
+    {
+      "id": 85,
+      "question": "This is the new _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"This is the new computer.\". Đánh vần: C-O-M-P-U-T-E-R."
+    },
+    {
+      "id": 86,
+      "question": "The _ _ _ _ _ _ _ jumps out of the water, and little fish are scared.",
+      "options": [],
+      "answer": "dolphin",
+      "explanation": "Nghe câu → điền từ: \"The dolphinjumps out of the water, and little fish are scared.\". Đánh vần: D-O-L-P-H-I-N."
+    },
+    {
+      "id": 87,
+      "question": "Can you play _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "football",
+      "explanation": "Nghe câu → điền từ: \"Can you play football?.\" (bóng đá). Đánh vần: F-O-O-T-B-A-L-L."
+    },
+    {
+      "id": 88,
+      "question": "Her _ _ _ _ _ _ _ _ _ food is ice-cream.",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Nghe câu → điền từ: \"Her favouritefood is ice-cream.\". Đánh vần: F-A-V-O-U-R-I-T-E."
+    },
+    {
+      "id": 89,
+      "question": "After school, I do my _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"After school, I do my homework.\". Đánh vần: H-O-M-E-W-O-R-K."
+    },
+    {
+      "id": 90,
+      "question": "He likes _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E."
+    },
+    {
+      "id": 91,
+      "question": "SHE HAS A LOT OF FUN ON S_ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "ATURDAY",
+      "explanation": "Nghe câu → điền từ: \"SHE HAS A LOT OF FUN ON SATURDAY.\". Đánh vần: A-T-U-R-D-A-Y."
+    },
+    {
+      "id": 92,
+      "question": "Bat Trang Primary School is in Bat Trang V_ _ _ _ _ _ .",
+      "options": [],
+      "answer": "illage",
+      "explanation": "Nghe câu → điền từ: \"Bat Trang Primary School is in Bat Trang Village.\". Đánh vần: I-L-L-A-G-E."
+    },
+    {
+      "id": 93,
+      "question": "The crab has two _ _ _ _ on top of its body. It can see big animals, and then it can run away.",
+      "options": [],
+      "answer": "eyes",
+      "explanation": "Nghe câu → điền từ: \"The crab has two eyeson top of its body. It can see big animals, and then it can run away.\". Đánh vần: E-Y-E-S."
+    },
+    {
+      "id": 94,
+      "question": "Where are they from? – They’re from _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "america",
+      "explanation": "Nghe câu → điền từ: \"Where are they from? – They’re from america.\". Đánh vần: A-M-E-R-I-C-A."
+    },
+    {
+      "id": 95,
+      "question": "This is the new _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"This is the new computer.\". Đánh vần: C-O-M-P-U-T-E-R."
+    },
+    {
+      "id": 96,
+      "question": "She’s a teacher. She works in a _ _ _ _ _ _ _ school.",
+      "options": [],
+      "answer": "primary",
+      "explanation": "Nghe câu → điền từ: \"She’s a teacher. She works in a primaryschool.\". Đánh vần: P-R-I-M-A-R-Y."
+    },
+    {
+      "id": 97,
+      "question": "This is the new _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"This is the new computer.\". Đánh vần: C-O-M-P-U-T-E-R."
+    },
+    {
+      "id": 98,
+      "question": "She is _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Japanese",
+      "explanation": "Nghe câu → điền từ: \"She is Japanese.\". Đánh vần: J-A-P-A-N-E-S-E."
+    },
+    {
+      "id": 99,
+      "question": "Max does his _ _ _ _ _ _ _ _ after school.",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"Max does his homeworkafter school.\". Đánh vần: H-O-M-E-W-O-R-K."
+    },
+    {
+      "id": 100,
+      "question": "He likes _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E."
+    },
+    {
+      "id": 101,
+      "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe câu → điền từ: \"In the afternoon she has got lessons in the library.\". Đánh vần: L-I-B-R-A-R-Y."
+    },
+    {
+      "id": 102,
+      "question": "After school, I do my _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"After school, I do my homework.\". Đánh vần: H-O-M-E-W-O-R-K."
+    },
+    {
+      "id": 103,
+      "question": "She has three _ _ _ _ _ _ _ _ _ on her desk.",
+      "options": [],
+      "answer": "notebooks",
+      "explanation": "Nghe câu → điền từ: \"She has three notebookson her desk.\". Đánh vần: N-O-T-E-B-O-O-K-S."
+    },
+    {
+      "id": 104,
+      "question": "_ _ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "dictionary",
+      "explanation": "Nghe → điền từ: DICTIONARY. Đánh vần: D-I-C-T-I-O-N-A-R-Y."
+    },
+    {
+      "id": 105,
+      "question": "Tony’s _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Australian",
+      "explanation": "Nghe câu → điền từ: \"Tony’s Australian.\". Đánh vần: A-U-S-T-R-A-L-I-A-N."
+    },
+    {
+      "id": 106,
+      "question": "There is a blue _ _ _ _ _ _ _ _ on the desk.",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"There is a blue computeron the desk.\". Đánh vần: C-O-M-P-U-T-E-R."
+    },
+    {
+      "id": 107,
+      "question": "I want a piece of _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"I want a piece of chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E."
+    },
+    {
+      "id": 108,
+      "question": "What’s his _ _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "nationality",
+      "explanation": "Nghe câu → điền từ: \"What’s his nationality?.\"."
+    },
+    {
+      "id": 109,
+      "question": "I want a piece of _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"I want a piece of chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E."
+    },
+    {
+      "id": 110,
+      "question": "_ _ _ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "celebration",
+      "explanation": "Nghe → điền từ: CELEBRATION. Đánh vần: C-E-L-E-B-R-A-T-I-O-N."
+    },
+    {
+      "id": 111,
+      "question": "_ _ _ _ _ _ _ _ _ _ _",
+      "options": [],
+      "answer": "celebration",
+      "explanation": "Nghe → điền từ: CELEBRATION. Đánh vần: C-E-L-E-B-R-A-T-I-O-N."
+    },
+    {
+      "id": 112,
+      "question": "She has three _ _ _ _ _ _ _ _ _ on her desk.",
+      "options": [],
+      "answer": "notebooks",
+      "explanation": "Nghe câu → điền từ: \"She has three notebookson her desk.\". Đánh vần: N-O-T-E-B-O-O-K-S."
+    },
+    {
+      "id": 113,
+      "question": "Is your brother a doctor or an _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "engineer",
+      "explanation": "Nghe câu → điền từ: \"Is your brother a doctor or an engineer?.\". Đánh vần: E-N-G-I-N-E-E-R."
+    },
+    {
+      "id": 114,
+      "question": "She has three _ _ _ _ _ _ _ _ _ on her desk.",
+      "options": [],
+      "answer": "notebooks",
+      "explanation": "Nghe câu → điền từ: \"She has three notebookson her desk.\". Đánh vần: N-O-T-E-B-O-O-K-S."
+    },
+    {
+      "id": 115,
+      "question": "She tells her friend to come to her house at7 o’clock on _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "saturday",
+      "explanation": "Nghe câu → điền từ: \"She tells her friend to come to her house at7 o’clock on saturday.\". Đánh vần: S-A-T-U-R-D-A-Y."
+    },
+    {
+      "id": 116,
+      "question": "She tells her friend to come to her house at7 o’clock on _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "saturday",
+      "explanation": "Nghe câu → điền từ: \"She tells her friend to come to her house at7 o’clock on saturday.\". Đánh vần: S-A-T-U-R-D-A-Y."
+    },
+    {
+      "id": 117,
+      "question": "My grandparents’ house is big and _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "comfortable",
+      "explanation": "Nghe câu → điền từ: \"My grandparents’ house is big and comfortable.\"."
+    },
+    {
+      "id": 118,
+      "question": "He would like some _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sandwiches",
+      "explanation": "Nghe câu → điền từ: \"He would like some sandwiches.\" (bánh mì kẹp). Đánh vần: S-A-N-D-W-I-C-H-E-S."
+    },
+    {
+      "id": 119,
+      "question": "My grandparents’ house is big and _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "comfortable",
+      "explanation": "Nghe câu → điền từ: \"My grandparents’ house is big and comfortable.\"."
+    },
+    {
+      "id": 120,
+      "question": "My grandparents’ house is big and _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "comfortable",
+      "explanation": "Nghe câu → điền từ: \"My grandparents’ house is big and comfortable.\"."
+    },
+    {
+      "id": 121,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. hair",
+        "B. scare",
+        "C. chair",
+        "D. share"
+      ],
+      "answer": "B. scare",
+      "explanation": "Nghe → tích đáp án B: \"scare\"."
+    },
+    {
+      "id": 122,
+      "question": "What does Phong have at the breakfast? - ....",
+      "options": [
+        "A. Eggs",
+        "B. Breads with milk",
+        "C. Noodle",
+        "D. Rice"
+      ],
+      "answer": "B. Breads with milk",
+      "explanation": "Nghe và chọn đáp án B: Breads with milk."
+    },
+    {
+      "id": 123,
+      "question": "Joe likes … and … .",
+      "options": [
+        "A. basketball – swimming",
+        "B. badminton – fishing",
+        "C. volleyball – cooking",
+        "D. football - jogging"
+      ],
+      "answer": "A. basketball – swimming",
+      "explanation": "Nghe và chọn đáp án A: basketball – swimming."
+    },
+    {
+      "id": 124,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. green",
+        "B. blue",
+        "C. black",
+        "D. white"
+      ],
+      "answer": "D. white",
+      "explanation": "Nghe và chọn đáp án D: \"white\" (trắng)."
+    },
+    {
+      "id": 125,
+      "question": "What is she going to show? - ....",
+      "options": [
+        "A. Some Indonesian mates",
+        "B. Some Indonesian masks",
+        "C. Some Indian masks",
+        "D. A mask"
+      ],
+      "answer": "B. Some Indonesian masks",
+      "explanation": "Nghe và chọn đáp án B: Some Indonesian masks."
+    },
+    {
+      "id": 126,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. pot",
+        "B. mop",
+        "C. hot",
+        "D. box"
+      ],
+      "answer": "C. hot",
+      "explanation": "Nghe → tích đáp án C: \"hot\"."
+    },
+    {
+      "id": 127,
+      "question": "The children come to the computer room every … and ….",
+      "options": [
+        "A. Tuesday - Wednesday",
+        "B. Monday - Thursday",
+        "C. Tuesday – Thursday",
+        "D. Monday - Wednesday"
+      ],
+      "answer": "C. Tuesday – Thursday",
+      "explanation": "Nghe và chọn đáp án C: Tuesday – Thursday."
+    },
+    {
+      "id": 128,
+      "question": "Where are the keys?",
+      "options": [
+        "A. They are on the table.",
+        "B. They are under the car.",
+        "C. They are in the car.",
+        "D. They are in the living room."
+      ],
+      "answer": "B. They are under the car.",
+      "explanation": "Nghe và chọn đáp án B: They are under the car.."
+    },
+    {
+      "id": 129,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. fries",
+        "B. fire",
+        "C. five",
+        "D. field"
+      ],
+      "answer": "A. fries",
+      "explanation": "Nghe → tích đáp án A: \"fries\"."
+    },
+    {
+      "id": 130,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. classroom",
+        "B. classmate",
+        "C. skateboard",
+        "D. milkshake"
+      ],
+      "answer": "B. classmate",
+      "explanation": "Nghe → tích đáp án B: \"classmate\"."
+    },
+    {
+      "id": 131,
+      "question": "An anaconda is _______.",
+      "options": [
+        "A. a snake",
+        "B. a fish",
+        "C. a big cat",
+        "D. a bird"
+      ],
+      "answer": "A. a snake",
+      "explanation": "Nghe và chọn đáp án A: a snake."
+    },
+    {
+      "id": 132,
+      "question": "The girl has to do the washing-up on ___.",
+      "options": [
+        "A. Tuesdays and Wednesdays",
+        "B. Tuesdays and Fridays",
+        "C. Tuesdays and Thursdays",
+        "D. Mondays and Thursdays"
+      ],
+      "answer": "C. Tuesdays and Thursdays",
+      "explanation": "Nghe và chọn đáp án C: Tuesdays and Thursdays."
+    },
+    {
+      "id": 133,
+      "question": "What is Sam doing?",
+      "options": [
+        "A. He is washing the carrots.",
+        "B. He is cooking carrots.",
+        "C. He is counting the carrots.",
+        "D. He is peeling the carrots."
+      ],
+      "answer": "C. He is counting the carrots.",
+      "explanation": "Nghe và chọn đáp án C: He is counting the carrots.."
+    },
+    {
+      "id": 134,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. eighty",
+        "B. angry",
+        "C. honey",
+        "D. hungry"
+      ],
+      "answer": "D. hungry",
+      "explanation": "Nghe và chọn đáp án D: \"hungry\"."
+    },
+    {
+      "id": 135,
+      "question": "What has the woman got? - ....",
+      "options": [
+        "A. A bowl of pineapples",
+        "B. A red skirt",
+        "C. A bowl of apple",
+        "D. A pineapples"
+      ],
+      "answer": "A. A bowl of pineapples",
+      "explanation": "Nghe và chọn đáp án A: A bowl of pineapples."
+    },
+    {
+      "id": 136,
+      "question": "Sam is … the steps and Amy is … flowers.",
+      "options": [
+        "A. brushing – watering",
+        "B. brushing – carrying",
+        "C. walking – buying",
+        "D. checking –planting"
+      ],
+      "answer": "B. brushing – carrying",
+      "explanation": "Nghe và chọn đáp án B: brushing – carrying."
+    },
+    {
+      "id": 137,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. slim",
+        "B. christmas",
+        "C. class",
+        "D. salad"
+      ],
+      "answer": "D. salad",
+      "explanation": "Nghe và chọn đáp án D: \"salad\"."
+    },
+    {
+      "id": 138,
+      "question": "What is Sam doing?",
+      "options": [
+        "A. He is washing the carrots.",
+        "B. He is cooking carrots.",
+        "C. He is counting the carrots.",
+        "D. He is peeling the carrots."
+      ],
+      "answer": "C. He is counting the carrots.",
+      "explanation": "Nghe và chọn đáp án C: He is counting the carrots.."
+    },
+    {
+      "id": 139,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. green",
+        "B. blue",
+        "C. black",
+        "D. white"
+      ],
+      "answer": "D. white",
+      "explanation": "Nghe và chọn đáp án D: \"white\" (trắng)."
+    },
+    {
+      "id": 140,
+      "question": "An anaconda is _______.",
+      "options": [
+        "A. a snake",
+        "B. a fish",
+        "C. a big cat",
+        "D. a bird"
+      ],
+      "answer": "A. a snake",
+      "explanation": "Nghe và chọn đáp án A: a snake."
+    },
+    {
+      "id": 141,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. map",
+        "B. shop",
+        "C. mop",
+        "D. rope"
+      ],
+      "answer": "C. mop",
+      "explanation": "Nghe → tích đáp án C: \"mop\"."
+    },
+    {
+      "id": 142,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sandals",
+        "B. student",
+        "C. science",
+        "D. seafood"
+      ],
+      "answer": "C. science",
+      "explanation": "Nghe → tích đáp án C: \"science\"."
+    },
+    {
+      "id": 143,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. a board",
+        "B. a park",
+        "C. a bus",
+        "D. a bat"
+      ],
+      "answer": "C. a bus",
+      "explanation": "Nghe → tích đáp án C: \"a bus\"."
+    },
+    {
+      "id": 144,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sad",
+        "B. star",
+        "C. cat",
+        "D. car"
+      ],
+      "answer": "B. star",
+      "explanation": "Nghe → tích đáp án B: \"star\"."
+    },
+    {
+      "id": 145,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He is Vietnamese.",
+        "B. She is Vietnamese.",
+        "C. I’m Vietnamese.",
+        "D. We are Vietnamese."
+      ],
+      "answer": "C. I’m Vietnamese.",
+      "explanation": "Nghe → tích đáp án C: \"I’m Vietnamese.\"."
+    },
+    {
+      "id": 146,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. angry",
+        "B. happy",
+        "C. baby",
+        "D. ninety"
+      ],
+      "answer": "A. angry",
+      "explanation": "Nghe → tích đáp án A: \"angry\"."
+    },
+    {
+      "id": 147,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sandals",
+        "B. student",
+        "C. science",
+        "D. seafood"
+      ],
+      "answer": "C. science",
+      "explanation": "Nghe → tích đáp án C: \"science\"."
+    },
+    {
+      "id": 148,
+      "question": "What is Sam doing?",
+      "options": [
+        "A. He is washing the carrots.",
+        "B. He is cooking carrots.",
+        "C. He is counting the carrots.",
+        "D. He is peeling the carrots."
+      ],
+      "answer": "C. He is counting the carrots.",
+      "explanation": "Nghe và chọn đáp án C: He is counting the carrots.."
+    },
+    {
+      "id": 149,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. a cake",
+        "B. date",
+        "C. curly",
+        "D. club"
+      ],
+      "answer": "A. a cake",
+      "explanation": "Nghe → tích đáp án A: \"a cake\"."
+    },
+    {
+      "id": 150,
+      "question": "What class are you in? – I’m in Class _____.",
+      "options": [
+        "A. 4A",
+        "B. 4B",
+        "C. 4C",
+        "D. 4D"
+      ],
+      "answer": "A. 4A",
+      "explanation": "Nghe và chọn đáp án A: 4A."
+    },
+    {
+      "id": 151,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. a lake",
+        "B. a cake",
+        "C. a snake",
+        "D. black"
+      ],
+      "answer": "A. a lake",
+      "explanation": "Nghe → tích đáp án A: \"a lake\"."
+    },
+    {
+      "id": 152,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He’s five.",
+        "B. He’s nine.",
+        "C. He’s fine.",
+        "D. He’s find."
+      ],
+      "answer": "B. He’s nine.",
+      "explanation": "Nghe → tích đáp án B: \"He’s nine.\"."
+    },
+    {
+      "id": 153,
+      "question": "Where are the children in the summer camp? - ....",
+      "options": [
+        "A. A cultural camp",
+        "B. A summer show",
+        "C. A cultural show",
+        "D. A camp"
+      ],
+      "answer": "C. A cultural show",
+      "explanation": "Nghe và chọn đáp án C: A cultural show."
+    },
+    {
+      "id": 154,
+      "question": "The children come to the computer room every … and ….",
+      "options": [
+        "A. Tuesday - Wednesday",
+        "B. Monday - Thursday",
+        "C. Tuesday – Thursday",
+        "D. Monday - Wednesday"
+      ],
+      "answer": "C. Tuesday – Thursday",
+      "explanation": "Nghe và chọn đáp án C: Tuesday – Thursday."
+    },
+    {
+      "id": 155,
+      "question": "What does he do on Thursday?",
+      "options": [
+        "A. He studies Art on Thursday.",
+        "B. He studies English on Thursday.",
+        "C. He studies Maths on Thursday.",
+        "D. He studies Music on Thursday."
+      ],
+      "answer": "C. He studies Maths on Thursday.",
+      "explanation": "Nghe và chọn đáp án C: He studies Maths on Thursday.."
+    },
+    {
+      "id": 156,
+      "question": "Bill is wearing … and ….",
+      "options": [
+        "A. red T-shirt – blue jeans",
+        "B. blue T-shirt – red jeans",
+        "C. red shirt – blue trousers",
+        "D. blue shirt – red trousers"
+      ],
+      "answer": "A. red T-shirt – blue jeans",
+      "explanation": "Nghe và chọn đáp án A: red T-shirt – blue jeans."
+    },
+    {
+      "id": 157,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Mary’s from England.",
+        "B. Mary’s from Thailand.",
+        "C. Mary’s from Holland.",
+        "D. Mary’s from Poland."
+      ],
+      "answer": "A. Mary’s from England.",
+      "explanation": "Nghe → tích đáp án A: \"Mary’s from England.\"."
+    },
+    {
+      "id": 158,
+      "question": "I’m sitting ___ a train looking out ___ the rain.",
+      "options": [
+        "A. on/of",
+        "B. at / on",
+        "C. on/at",
+        "D. on/in"
+      ],
+      "answer": "C. on/at",
+      "explanation": "Nghe và chọn đáp án C: on/at."
+    },
+    {
+      "id": 159,
+      "question": "I’m sitting ___ a train looking out ___ the rain.",
+      "options": [
+        "A. on/of",
+        "B. at / on",
+        "C. on/at",
+        "D. on/in"
+      ],
+      "answer": "C. on/at",
+      "explanation": "Nghe và chọn đáp án C: on/at."
+    },
+    {
+      "id": 160,
+      "question": "Bill is wearing … and ….",
+      "options": [
+        "A. red T-shirt – blue jeans",
+        "B. blue T-shirt – red jeans",
+        "C. red shirt – blue trousers",
+        "D. blue shirt – red trousers"
+      ],
+      "answer": "A. red T-shirt – blue jeans",
+      "explanation": "Nghe và chọn đáp án A: red T-shirt – blue jeans."
+    },
+    {
+      "id": 161,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I like drawing.",
+        "B. I like gardening.",
+        "C. I like dancing.",
+        "D. I like skating."
+      ],
+      "answer": "C. I like dancing.",
+      "explanation": "Nghe → tích đáp án C: \"I like dancing.\"."
+    },
+    {
+      "id": 162,
+      "question": "What time does she get up?",
+      "options": [
+        "A. She gets up at7.15",
+        "B. She gets up at8.15",
+        "C. She gets up at7.30",
+        "D. She gets up at8.30"
+      ],
+      "answer": "C. She gets up at7.30",
+      "explanation": "Đáp án đúng: She gets up at 7.30."
+    },
+    {
+      "id": 163,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. It’s7:30 o’clock.",
+        "B. It’s7:13 o’clock.",
+        "C. It’s8:30 o’clock.",
+        "D. It’s8:13 o’clock."
+      ],
+      "answer": "B. It’s7:13 o’clock.",
+      "explanation": "Nghe → đáp án đúng: \"It’s 7:13 o’clock.\"."
+    },
+    {
+      "id": 164,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. swimming pool",
+        "B. orange juice",
+        "C. cheese sandwich",
+        "D. sweets shop"
+      ],
+      "answer": "C. cheese sandwich",
+      "explanation": "Nghe → tích đáp án C: \"cheese sandwich\"."
+    },
+    {
+      "id": 165,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. a board",
+        "B. a park",
+        "C. a bus",
+        "D. a bat"
+      ],
+      "answer": "C. a bus",
+      "explanation": "Nghe → tích đáp án C: \"a bus\"."
+    },
+    {
+      "id": 166,
+      "question": "What does he do on Thursday?",
+      "options": [
+        "A. He studies Art on Thursday.",
+        "B. He studies English on Thursday.",
+        "C. He studies Maths on Thursday.",
+        "D. He studies Music on Thursday."
+      ],
+      "answer": "C. He studies Maths on Thursday.",
+      "explanation": "Nghe và chọn đáp án C: He studies Maths on Thursday.."
+    },
+    {
+      "id": 167,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I like drawing.",
+        "B. I like gardening.",
+        "C. I like dancing.",
+        "D. I like skating."
+      ],
+      "answer": "C. I like dancing.",
+      "explanation": "Nghe → tích đáp án C: \"I like dancing.\"."
+    },
+    {
+      "id": 168,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Where is Kate’s birthday party?",
+        "B. When is Kate’s holiday?",
+        "C. When is Kate’s birthday?",
+        "D. What is the date today?"
+      ],
+      "answer": "C. When is Kate’s birthday?",
+      "explanation": "Nghe → tích đáp án C: \"When is Kate’s birthday?\"."
+    },
+    {
+      "id": 169,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. It’s her birthday today.",
+        "B. It’s my birthday today.",
+        "C. It’s his birthday today.",
+        "D. It’s his birthday."
+      ],
+      "answer": "B. It’s my birthday today.",
+      "explanation": "Nghe → tích đáp án B: \"It’s my birthday today.\"."
+    },
+    {
+      "id": 170,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. This is my pencil.",
+        "B. This is my pen case.",
+        "C. This is my pen.",
+        "D. This is my ball."
+      ],
+      "answer": "C. This is my pen.",
+      "explanation": "Nghe → tích đáp án C: \"This is my pen.\"."
+    },
+    {
+      "id": 171,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He can speak English.",
+        "B. He can’t speak English.",
+        "C. She can speak English.",
+        "D. She can’t speak English."
+      ],
+      "answer": "A. He can speak English.",
+      "explanation": "Nghe → tích đáp án A: \"He can speak English.\"."
+    },
+    {
+      "id": 172,
+      "question": "Choose the FALSE statement.",
+      "options": [
+        "A. Molly likes elephants.",
+        "B. There are eight elephants at the zoo.",
+        "C. There are two young elephants.",
+        "D. The young elephants are cute."
+      ],
+      "answer": "B. There are eight elephants at the zoo.",
+      "explanation": "Nghe và chọn đáp án B: There are eight elephants at the zoo.."
+    },
+    {
+      "id": 173,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. It’s her birthday today.",
+        "B. It’s my birthday today.",
+        "C. It’s his birthday today.",
+        "D. It’s his birthday."
+      ],
+      "answer": "B. It’s my birthday today.",
+      "explanation": "Nghe → tích đáp án B: \"It’s my birthday today.\"."
+    },
+    {
+      "id": 174,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He can speak English.",
+        "B. He can’t speak English.",
+        "C. She can speak English.",
+        "D. She can’t speak English."
+      ],
+      "answer": "A. He can speak English.",
+      "explanation": "Nghe → tích đáp án A: \"He can speak English.\"."
+    },
+    {
+      "id": 175,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I’ve got two rulers",
+        "B. I’ve got two erasers.",
+        "C. I’ve got two scissors.",
+        "D. I’ve got two eggs."
+      ],
+      "answer": "B. I’ve got two erasers.",
+      "explanation": "Nghe → tích đáp án B: \"I’ve got two erasers.\"."
+    },
+    {
+      "id": 176,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. This is my pencil.",
+        "B. This is my pen case.",
+        "C. This is my pen.",
+        "D. This is my ball."
+      ],
+      "answer": "C. This is my pen.",
+      "explanation": "Nghe → tích đáp án C: \"This is my pen.\"."
+    },
+    {
+      "id": 177,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Can you play badminton?",
+        "B. Can you play football?",
+        "C. Do you play badminton?",
+        "D. Do you play football?"
+      ],
+      "answer": "A. Can you play badminton?",
+      "explanation": "Nghe → tích đáp án A: \"Can you play badminton?\"."
+    },
+    {
+      "id": 178,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. She can ride a bicycle.",
+        "B. She can ski a board.",
+        "C. She can’t ride a bicycle.",
+        "D. She can fly a kite."
+      ],
+      "answer": "C. She can’t ride a bicycle.",
+      "explanation": "Nghe → tích đáp án C: \"She can’t ride a bicycle.\"."
+    },
+    {
+      "id": 179,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I can draw a dog.",
+        "B. I can draw a fish.",
+        "C. I can draw a cat.",
+        "D. I can draw a coat."
+      ],
+      "answer": "C. I can draw a cat.",
+      "explanation": "Nghe → tích đáp án C: \"I can draw a cat.\"."
+    },
+    {
+      "id": 180,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. We are late. Hurry up!",
+        "B. They are late. Stand up!",
+        "C. He is late.Get up!",
+        "D. You are late. Shut up!"
+      ],
+      "answer": "A. We are late. Hurry up!",
+      "explanation": "Nghe → tích đáp án A: \"We are late. Hurry up!\"."
+    },
+    {
+      "id": 181,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you want some grape?",
+        "B. Do you want some grapes?",
+        "C. Do you want some chips?",
+        "D. Do you want some great?"
+      ],
+      "answer": "B. Do you want some grapes?",
+      "explanation": "Nghe → tích đáp án B: \"Do you want some grapes?\"."
+    },
+    {
+      "id": 182,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. What do you keep, Tony?",
+        "B. Where do you live, Tony?",
+        "C. What do you like, Tony?",
+        "D."
+      ],
+      "answer": "B. Where do you live, Tony?",
+      "explanation": "Nghe → tích đáp án B: \"Where do you live, Tony?\"."
+    },
+    {
+      "id": 183,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I would like a cake.",
+        "B. I would like a banana.",
+        "C. I would like a candy.",
+        "D. I would like a biscuit."
+      ],
+      "answer": "B. I would like a banana.",
+      "explanation": "Nghe → tích đáp án B: \"I would like a banana.\"."
+    },
+    {
+      "id": 184,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. These are our school bags.",
+        "B. Those are our school bags.",
+        "C. This is my school bus.",
+        "D. That is my school board."
+      ],
+      "answer": "B. Those are our school bags.",
+      "explanation": "Nghe → tích đáp án B: \"Those are our school bags.\"."
+    },
+    {
+      "id": 185,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. My birthday is in September.",
+        "B. His birthday is in December.",
+        "C. My birthday is in October.",
+        "D. His birthday is in August."
+      ],
+      "answer": "C. My birthday is in October.",
+      "explanation": "Nghe → tích đáp án C: \"My birthday is in October.\"."
+    },
+    {
+      "id": 186,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Where is your school bag?",
+        "B. Where is your school bus?",
+        "C. Where is your school yard?",
+        "D. Where is your school lab?"
+      ],
+      "answer": "B. Where is your school bus?",
+      "explanation": "Nghe → tích đáp án B: \"Where is your school bus?\"."
+    },
+    {
+      "id": 187,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you want some grape?",
+        "B. Do you want some grapes?",
+        "C. Do you want some chips?",
+        "D. Do you want some great?"
+      ],
+      "answer": "B. Do you want some grapes?",
+      "explanation": "Nghe → tích đáp án B: \"Do you want some grapes?\"."
+    },
+    {
+      "id": 188,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you want some grape?",
+        "B. Do you want some grapes?",
+        "C. Do you want some chips?",
+        "D. Do you want some great?"
+      ],
+      "answer": "B. Do you want some grapes?",
+      "explanation": "Nghe → tích đáp án B: \"Do you want some grapes?\"."
+    },
+    {
+      "id": 189,
+      "question": "When do you have PE? – I have it on _____.",
+      "options": [
+        "A. Tuesdays",
+        "B. Thursdays",
+        "C. A and B are correct.",
+        "D. A and B are incorrect."
+      ],
+      "answer": "C. A and B are correct.",
+      "explanation": "Nghe và chọn đáp án C: A and B are correct.."
+    },
+    {
+      "id": 190,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. They go to pet at10.",
+        "B. They go to bed at11.",
+        "C. They go to bet at10.",
+        "D. They go to lab at11."
+      ],
+      "answer": "B. They go to bed at11.",
+      "explanation": "Nghe → đáp án đúng: \"They go to bed at 11.\"."
+    },
+    {
+      "id": 191,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Let’s go for a talk now.",
+        "B. Let’s go for a walk now.",
+        "C. How about talking now?",
+        "D. Let’s take a shower now."
+      ],
+      "answer": "B. Let’s go for a walk now.",
+      "explanation": "Nghe → tích đáp án B: \"Let’s go for a walk now.\"."
+    },
+    {
+      "id": 192,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you like cooking? Yes, I do.",
+        "B. Do you like cooking? No, I don’t.",
+        "C. Do you like dancing? Yes, I do.",
+        "D. Do you like drawing? No, I don’t."
+      ],
+      "answer": "B. Do you like cooking? No, I don’t.",
+      "explanation": "Nghe → tích đáp án B: \"Do you like cooking? No, I don’t.\"."
+    },
+    {
+      "id": 193,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. My grandparents’ house is big and colorful.",
+        "B. My grandparents’ house is big and comfortable.",
+        "C. My grandparents’ house is nice and comfortable.",
+        "D. My grandparents’ house is thick and enjoyable."
+      ],
+      "answer": "B. My grandparents’ house is big and comfortable.",
+      "explanation": "Nghe → tích đáp án B: \"My grandparents’ house is big and comfortable.\"."
+    },
+    {
+      "id": 194,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. There are three books under the table.",
+        "B. There are three boats on the table.",
+        "C. There are three books on the table.",
+        "D. There are three boxes on the table."
+      ],
+      "answer": "C. There are three books on the table.",
+      "explanation": "Nghe → tích đáp án C: \"There are three books on the table.\"."
+    },
+    {
+      "id": 195,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. There are three books under the table.",
+        "B. There are three boats on the table.",
+        "C. There are three books on the table.",
+        "D. There are three boxes on the table."
+      ],
+      "answer": "C. There are three books on the table.",
+      "explanation": "Nghe → tích đáp án C: \"There are three books on the table.\"."
+    },
+    {
+      "id": 196,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. My grandparents’ house is big and colorful.",
+        "B. My grandparents’ house is big and comfortable.",
+        "C. My grandparents’ house is nice and comfortable.",
+        "D. My grandparents’ house is thick and enjoyable."
+      ],
+      "answer": "B. My grandparents’ house is big and comfortable.",
+      "explanation": "Nghe → tích đáp án B: \"My grandparents’ house is big and comfortable.\"."
+    },
+    {
+      "id": 197,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. How many tables are there in your classroom?",
+        "B. How many people are there in your room?",
+        "C. How many students are there in your classroom?",
+        "D. How many people are there in your classroom?"
+      ],
+      "answer": "C. How many students are there in your classroom?",
+      "explanation": "Nghe → tích đáp án C: \"How many students are there in your classroom?\"."
+    },
+    {
+      "id": 198,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. How many tables are there in your classroom?",
+        "B. How many people are there in your room?",
+        "C. How many students are there in your classroom?",
+        "D. How many people are there in your classroom?"
+      ],
+      "answer": "C. How many students are there in your classroom?",
+      "explanation": "Nghe → tích đáp án C: \"How many students are there in your classroom?\"."
+    },
+    {
+      "id": 199,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. We’re cooking dinner on Saturday evening.",
+        "B. We’re going out for dinner on Saturday evening.",
+        "C. We’re going out for a party on Sunday evening.",
+        "D. We’re going for a walk on Saturday evening."
+      ],
+      "answer": "B. We’re going out for dinner on Saturday evening.",
+      "explanation": "Nghe → tích đáp án B: \"We’re going out for dinner on Saturday evening.\"."
+    },
+    {
+      "id": 200,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. There is a clock on the school wall.",
+        "B. There is a knock on the school gate.",
+        "C. There is a frog on the school wall.",
+        "D. There is a dog at the school gate."
+      ],
+      "answer": "A. There is a clock on the school wall.",
+      "explanation": "Nghe → tích đáp án A: \"There is a clock on the school wall.\"."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
