@@ -1,0 +1,1523 @@
+{
+  "title": "IOE Lớp 5 - Chuyên đề 3 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Mary is _ _ _ only child of her parents.",
+      "options": [],
+      "answer": "the",
+      "explanation": "Chọn “the” vì danh từ trong ngữ cảnh đã xác định rõ (ví dụ: vật duy nhất, nhóm người cụ thể hoặc cấu trúc cố định như *the same*). “A/an” dùng khi giới thiệu một đối tượng chưa xác định. Câu đúng là: “Mary is the only child of her parents.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 153."
+    },
+    {
+      "id": 2,
+      "question": "We are in ... same class.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. an",
+        "D. Ø"
+      ],
+      "answer": "A. the",
+      "explanation": "Chọn “the” vì danh từ trong ngữ cảnh đã xác định rõ (ví dụ: vật duy nhất, nhóm người cụ thể hoặc cấu trúc cố định như *the same*). “A/an” dùng khi giới thiệu một đối tượng chưa xác định. Câu đúng là: “We are in... same class. → the”. Nguồn đối chiếu: đề IOE gốc số 2, câu 177."
+    },
+    {
+      "id": 3,
+      "question": "_ _ _ _ _ grade is Quan in? - He’s in grade5.",
+      "options": [],
+      "answer": "Which",
+      "explanation": "“Which” đứng trước danh từ “grade” để hỏi/chọn một đối tượng trong số những lựa chọn xác định. Vì sau chỗ trống có danh từ, cần dùng “which” như từ hạn định nghi vấn, không dùng đại từ nhân xưng. Câu đúng là: “Which grade is Quan in? - He’s in grade 5.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 112."
+    },
+    {
+      "id": 4,
+      "question": "How ... money do you have?",
+      "options": [
+        "A. many",
+        "B. much",
+        "C. little",
+        "D. a lot of"
+      ],
+      "answer": "B. much",
+      "explanation": "“much” đi với danh từ không đếm được. “Much” nói lượng nhiều; “a little” là có một ít, còn “little” nhấn mạnh lượng rất ít. Câu đúng là: “How... money do you have? → much”. Nguồn đối chiếu: đề IOE gốc số 1, câu 144."
+    },
+    {
+      "id": 5,
+      "question": "What is ... favorite color? - I like red.",
+      "options": [
+        "A. his",
+        "B. her",
+        "C. your",
+        "D. you"
+      ],
+      "answer": "C. your",
+      "explanation": "“your” là tính từ sở hữu và phải đứng ngay trước danh từ để chỉ người sở hữu. Không dùng đại từ sở hữu độc lập vì sau chỗ trống vẫn còn danh từ. Câu đúng là: “What is... favorite color? - I like red. → your”. Nguồn đối chiếu: đề IOE gốc số 1, câu 74."
+    },
+    {
+      "id": 6,
+      "question": "Do you think tennis is the _ _ _ _ expensive sport?",
+      "options": [],
+      "answer": "most",
+      "explanation": "“most” diễn tả lượng/số lượng trong ngữ cảnh này. Cần nhìn danh từ đi kèm để xác định đó là danh từ số nhiều hay không đếm được, rồi chọn từ chỉ lượng phù hợp. Câu đúng là: “Do you think tennis is the most expensive sport?”. Nguồn đối chiếu: đề IOE gốc số 2, câu 190."
+    },
+    {
+      "id": 7,
+      "question": "Look! ... woman is painting the wall.",
+      "options": [
+        "A. That",
+        "B. Those",
+        "C. These",
+        "D. This is"
+      ],
+      "answer": "A. That",
+      "explanation": "“That” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “Look!... woman is painting the wall. → That”. Nguồn đối chiếu: đề IOE gốc số 3, câu 30."
+    },
+    {
+      "id": 8,
+      "question": "Our uncle is an engineer. ’’Our uncle’’ means ’’…’’.",
+      "options": [
+        "A. he",
+        "B. him",
+        "C. his",
+        "D. they"
+      ],
+      "answer": "A. he",
+      "explanation": "“he” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “Our uncle is an engineer. ’’Our uncle’’ means ’’…’’. → he”. Nguồn đối chiếu: đề IOE gốc số 2, câu 27."
+    },
+    {
+      "id": 9,
+      "question": "I’m cleaning the floor. Can you help ...?",
+      "options": [
+        "A. I",
+        "B. me",
+        "C. my",
+        "D. you"
+      ],
+      "answer": "B. me",
+      "explanation": "“me” là đại từ làm tân ngữ, nên đứng sau động từ hoặc giới từ. Dạng chủ ngữ không thể đứng ở vị trí nhận hành động này. Câu đúng là: “I’m cleaning the floor. Can you help...? → me”. Nguồn đối chiếu: đề IOE gốc số 2, câu 188."
+    },
+    {
+      "id": 10,
+      "question": "What are you doing? - ... are planting some trees.",
+      "options": [
+        "A. We",
+        "B. Us",
+        "C. Our",
+        "D. Ours"
+      ],
+      "answer": "A. We",
+      "explanation": "“We” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “What are you doing? -... are planting some trees. → We”. Nguồn đối chiếu: đề IOE gốc số 2, câu 198."
+    },
+    {
+      "id": 11,
+      "question": "How _ _ _ _ homework does she have everyday?",
+      "options": [],
+      "answer": "much",
+      "explanation": "“much” đi với danh từ không đếm được. “Much” nói lượng nhiều; “a little” là có một ít, còn “little” nhấn mạnh lượng rất ít. Câu đúng là: “How much homework does she have everyday?”. Nguồn đối chiếu: đề IOE gốc số 5, câu 119."
+    },
+    {
+      "id": 12,
+      "question": "I have _ _ elder brother but no sister.",
+      "options": [],
+      "answer": "an",
+      "explanation": "Chọn “an” vì từ theo sau là “elder”, bắt đầu bằng nguyên âm hoặc âm nguyên âm khi đọc. “A” chỉ dùng trước âm phụ âm; “the” dùng khi người nghe đã xác định một đối tượng cụ thể. Câu đúng là: “I have an elder brother but no sister.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 179."
+    },
+    {
+      "id": 13,
+      "question": "it./ I/ really/ enjoy/",
+      "options": [],
+      "answer": "I really enjoy it.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “i” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “I really enjoy it.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 79."
+    },
+    {
+      "id": 14,
+      "question": "Please, look at my hands. What are …?",
+      "options": [
+        "A. this",
+        "B. that",
+        "C. these",
+        "D. those"
+      ],
+      "answer": "C. these",
+      "explanation": "“these” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “Please, look at my hands. What are …? → these”. Nguồn đối chiếu: đề IOE gốc số 4, câu 43."
+    },
+    {
+      "id": 15,
+      "question": "This is my teacher. ... name is John.",
+      "options": [
+        "A. He",
+        "B. His",
+        "C. Her",
+        "D. Your"
+      ],
+      "answer": "B. His",
+      "explanation": "“His” là tính từ sở hữu và phải đứng ngay trước danh từ để chỉ người sở hữu. Không dùng đại từ sở hữu độc lập vì sau chỗ trống vẫn còn danh từ. Câu đúng là: “This is my teacher.... name is John. → His”. Nguồn đối chiếu: đề IOE gốc số 4, câu 85."
+    },
+    {
+      "id": 16,
+      "question": "_ _ _ did you invite to your party? - Some of my classmates.",
+      "options": [],
+      "answer": "who",
+      "explanation": "“Who” dùng để hỏi về người và đứng đầu câu hỏi. Trong mẫu “Who + do/does/did + chủ ngữ + động từ?”, “who” hỏi người nhận hành động; trong giao tiếp thông thường vẫn dùng “who” thay cho “whom”. Câu đúng là: “Who did you invite to your party? - Some of my classmates.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 171."
+    },
+    {
+      "id": 17,
+      "question": "Would you like … apple juice? - No, thanks.",
+      "options": [
+        "A. any",
+        "B. some",
+        "C. a",
+        "D. an"
+      ],
+      "answer": "B. some",
+      "explanation": "“Some” thường dùng trong câu khẳng định và trong lời mời/lời đề nghị. Nó có thể đi với danh từ số nhiều hoặc danh từ không đếm được. Câu đúng là: “Would you like … apple juice? - No, thanks. → some”. Nguồn đối chiếu: đề IOE gốc số 3, câu 23."
+    },
+    {
+      "id": 18,
+      "question": "How many ... are there? - There are ten.",
+      "options": [
+        "A. pencils",
+        "B. box",
+        "C. notebook",
+        "D. pen"
+      ],
+      "answer": "A. pencils",
+      "explanation": "“How many” hỏi số lượng danh từ đếm được, vì vậy “danh từ đứng sau” phải ở dạng số nhiều. Không dùng dạng số ít sau *how many*. Câu đúng là: “How many... are there? - There are ten. → pencils”. Nguồn đối chiếu: đề IOE gốc số 2, câu 28."
+    },
+    {
+      "id": 19,
+      "question": "_ _ _ _ _ country do you want to visit?",
+      "options": [],
+      "answer": "which",
+      "explanation": "“Which” đứng trước danh từ “country” để hỏi/chọn một đối tượng trong số những lựa chọn xác định. Vì sau chỗ trống có danh từ, cần dùng “which” như từ hạn định nghi vấn, không dùng đại từ nhân xưng. Câu đúng là: “Which country do you want to visit?”. Nguồn đối chiếu: đề IOE gốc số 8, câu 150."
+    },
+    {
+      "id": 20,
+      "question": "We have _ _ _ _ of rain, so the country is very green.",
+      "options": [],
+      "answer": "lots",
+      "explanation": "“lots” diễn tả lượng/số lượng trong ngữ cảnh này. Cần nhìn danh từ đi kèm để xác định đó là danh từ số nhiều hay không đếm được, rồi chọn từ chỉ lượng phù hợp. Câu đúng là: “We have lots of rain, so the country is very green.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 170."
+    },
+    {
+      "id": 21,
+      "question": "... is she speaking to? - She’s speaking to Mrs Thuy.",
+      "options": [
+        "A. What",
+        "B. When",
+        "C. Where",
+        "D. Who"
+      ],
+      "answer": "D. Who",
+      "explanation": "“Who” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “... is she speaking to? - She’s speaking to Mrs Thuy. → Who”. Nguồn đối chiếu: đề IOE gốc số 2, câu 146."
+    },
+    {
+      "id": 22,
+      "question": "How many minutes are there in … hour?",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. these"
+      ],
+      "answer": "B. an",
+      "explanation": "Chọn “an” vì từ theo sau là “từ đứng sau”, bắt đầu bằng nguyên âm hoặc âm nguyên âm khi đọc. “A” chỉ dùng trước âm phụ âm; “the” dùng khi người nghe đã xác định một đối tượng cụ thể. Câu đúng là: “How many minutes are there in … hour? → an”. Nguồn đối chiếu: đề IOE gốc số 7, câu 90."
+    },
+    {
+      "id": 23,
+      "question": "This is my desk. ... is new and beautiful.",
+      "options": [
+        "A. This",
+        "B. That",
+        "C. It",
+        "D. Desk"
+      ],
+      "answer": "C. It",
+      "explanation": "“It” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “This is my desk.... is new and beautiful. → It”. Nguồn đối chiếu: đề IOE gốc số 4, câu 122."
+    },
+    {
+      "id": 24,
+      "question": "How _ _ _ _ lessons do you have on Monday?",
+      "options": [],
+      "answer": "many",
+      "explanation": "“many” đi với danh từ đếm được số nhiều. “Many” nói số lượng nhiều; “a few” là có một vài, còn “few” nhấn mạnh là gần như không có. Câu đúng là: “How many lessons do you have on Monday?”. Nguồn đối chiếu: đề IOE gốc số 6, câu 141."
+    },
+    {
+      "id": 25,
+      "question": "Are there … pens on the table?",
+      "options": [
+        "A. some",
+        "B. any",
+        "C. a",
+        "D. an"
+      ],
+      "answer": "B. any",
+      "explanation": "“Any” thường dùng trong câu hỏi và câu phủ định. Vì câu này cần hỏi/nhấn mạnh sự không có, “some” không phù hợp bằng “any”. Câu đúng là: “Are there … pens on the table? → any”. Nguồn đối chiếu: đề IOE gốc số 5, câu 142."
+    },
+    {
+      "id": 26,
+      "question": "the second/ on/ She/ floor./ lives/",
+      "options": [],
+      "answer": "She lives on the second floor.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “second”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “She lives on the second floor.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 9."
+    },
+    {
+      "id": 27,
+      "question": "My father is _ _ engineer.",
+      "options": [],
+      "answer": "an",
+      "explanation": "Chọn “an” vì từ theo sau là “engineer”, bắt đầu bằng nguyên âm hoặc âm nguyên âm khi đọc. “A” chỉ dùng trước âm phụ âm; “the” dùng khi người nghe đã xác định một đối tượng cụ thể. Câu đúng là: “My father is an engineer.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 50."
+    },
+    {
+      "id": 28,
+      "question": "You shouldn’t eat too _ _ _ _ meat.",
+      "options": [],
+      "answer": "much",
+      "explanation": "“much” đi với danh từ không đếm được. “Much” nói lượng nhiều; “a little” là có một ít, còn “little” nhấn mạnh lượng rất ít. Câu đúng là: “You shouldn’t eat too much meat.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 139."
+    },
+    {
+      "id": 29,
+      "question": "a/ Mr. Smith/ Does/ new raincoat?/ want/",
+      "options": [],
+      "answer": "Does Mr. Smith want a new raincoat?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “new”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Does Mr. Smith want a new raincoat?”. Nguồn đối chiếu: đề IOE gốc số 1, câu 100."
+    },
+    {
+      "id": 30,
+      "question": "What/ do?/ does/ your/ father/",
+      "options": [],
+      "answer": "What does your father do?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “your” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “What does your father do?”. Nguồn đối chiếu: đề IOE gốc số 3, câu 16."
+    },
+    {
+      "id": 31,
+      "question": "erasers/ in/ There are/ ten/ my bag./",
+      "options": [],
+      "answer": "There are ten erasers in my bag.",
+      "explanation": "Kết cấu “There are + danh từ số nhiều” dùng để nói có nhiều người/vật. Dạng số nhiều và động từ “are” phải khớp nhau trong câu này. Câu đúng là: “There are ten erasers in my bag.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 127."
+    },
+    {
+      "id": 32,
+      "question": "My mother often walks to the farm in _ _ _ afternoon.",
+      "options": [],
+      "answer": "the",
+      "explanation": "Chọn “the” vì danh từ trong ngữ cảnh đã xác định rõ (ví dụ: vật duy nhất, nhóm người cụ thể hoặc cấu trúc cố định như *the same*). “A/an” dùng khi giới thiệu một đối tượng chưa xác định. Câu đúng là: “My mother often walks to the farm in the afternoon.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 200."
+    },
+    {
+      "id": 33,
+      "question": "Who is Mrs. Nanny? – _ _ _ is my new teacher.",
+      "options": [],
+      "answer": "she",
+      "explanation": "“she” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “Who is Mrs. Nanny? – she is my new teacher.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 48."
+    },
+    {
+      "id": 34,
+      "question": "have breakfast/ time/ every day?/ What/ do you/",
+      "options": [],
+      "answer": "What time do you have breakfast every day?",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “every” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “What time do you have breakfast every day?”. Nguồn đối chiếu: đề IOE gốc số 1, câu 15."
+    },
+    {
+      "id": 35,
+      "question": "to buy?/ those/ the toys/ you want/ Are/",
+      "options": [],
+      "answer": "Are those the toys you want to buy?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “toys”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Are those the toys you want to buy?”. Nguồn đối chiếu: đề IOE gốc số 1, câu 140."
+    },
+    {
+      "id": 36,
+      "question": "father/ doctor./ a famous/ Emmy’s/ is/",
+      "options": [],
+      "answer": "Emmy’s father is a famous doctor.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “famous”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Emmy’s father is a famous doctor.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 95."
+    },
+    {
+      "id": 37,
+      "question": "miss/ you/ very much,/ I/ Mom./",
+      "options": [],
+      "answer": "I miss you very much, Mom.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “much” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “I miss you very much, Mom.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 88."
+    },
+    {
+      "id": 38,
+      "question": "Thanks/ inviting/ for/ me./",
+      "options": [],
+      "answer": "Thanks for inviting me.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “me” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Thanks for inviting me.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 56."
+    },
+    {
+      "id": 39,
+      "question": "What is ... favorite drink? - He likes soda.",
+      "options": [
+        "A. your",
+        "B. his",
+        "C. her",
+        "D. you"
+      ],
+      "answer": "B. his",
+      "explanation": "“his” là tính từ sở hữu và phải đứng ngay trước danh từ để chỉ người sở hữu. Không dùng đại từ sở hữu độc lập vì sau chỗ trống vẫn còn danh từ. Câu đúng là: “What is... favorite drink? - He likes soda. → his”. Nguồn đối chiếu: đề IOE gốc số 8, câu 120."
+    },
+    {
+      "id": 40,
+      "question": "There are twenty _ _ _ _ hours a day.",
+      "options": [],
+      "answer": "four",
+      "explanation": "Kết cấu “There are + danh từ số nhiều” dùng để nói có nhiều người/vật. Dạng số nhiều và động từ “are” phải khớp nhau trong câu này. Câu đúng là: “There are twenty four hours a day.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 196."
+    },
+    {
+      "id": 41,
+      "question": "How _ _ _ _ money do you have?",
+      "options": [],
+      "answer": "much",
+      "explanation": "“much” đi với danh từ không đếm được. “Much” nói lượng nhiều; “a little” là có một ít, còn “little” nhấn mạnh lượng rất ít. Câu đúng là: “How much money do you have?”. Nguồn đối chiếu: đề IOE gốc số 11, câu 68."
+    },
+    {
+      "id": 42,
+      "question": "have/ after/ Let’s/ some ice-cream/ school./",
+      "options": [],
+      "answer": "Let’s have some ice-cream after school.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “some” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Let’s have some ice-cream after school.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 54."
+    },
+    {
+      "id": 43,
+      "question": "this morning./ English and/ Science/ have got/ We/",
+      "options": [],
+      "answer": "We have got English and Science this morning.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “we” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “We have got English and Science this morning.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 171."
+    },
+    {
+      "id": 44,
+      "question": "My mother/ busy/ the time./ all/ is/",
+      "options": [],
+      "answer": "My mother is busy all the time.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “all” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “My mother is busy all the time.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 121."
+    },
+    {
+      "id": 45,
+      "question": "food/ My/ favorite/ chicken./ is/",
+      "options": [],
+      "answer": "My favorite food is chicken.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “my” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “My favorite food is chicken.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 187."
+    },
+    {
+      "id": 46,
+      "question": "… jacket is that? – It’s Uncle Tom’s.",
+      "options": [
+        "A. Who",
+        "B. How",
+        "C. Whose",
+        "D. Which"
+      ],
+      "answer": "C. Whose",
+      "explanation": "“Whose” là tính từ sở hữu và phải đứng ngay trước danh từ để chỉ người sở hữu. Không dùng đại từ sở hữu độc lập vì sau chỗ trống vẫn còn danh từ. Câu đúng là: “… jacket is that? – It’s Uncle Tom’s. → Whose”. Nguồn đối chiếu: đề IOE gốc số 8, câu 63."
+    },
+    {
+      "id": 47,
+      "question": "car is/ The man/ teacher./ in the/ our new/",
+      "options": [],
+      "answer": "The man in the car is our new teacher.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “man”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “The man in the car is our new teacher.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 69."
+    },
+    {
+      "id": 48,
+      "question": "tells me/ about/ her parents./ She/ a story/",
+      "options": [],
+      "answer": "She tells me a story about her parents.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “story”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “She tells me a story about her parents.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 134."
+    },
+    {
+      "id": 49,
+      "question": "clean/ going/ the floor?/ to/ Who is/",
+      "options": [],
+      "answer": "Who is going to clean the floor?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “floor”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Who is going to clean the floor?”. Nguồn đối chiếu: đề IOE gốc số 4, câu 143."
+    },
+    {
+      "id": 50,
+      "question": "visit our dentist/ How many/ times/ every year?/ should we/",
+      "options": [],
+      "answer": "How many times should we visit our dentist every year?",
+      "explanation": "“How many” hỏi số lượng danh từ đếm được, vì vậy “times” phải ở dạng số nhiều. Không dùng dạng số ít sau *how many*. Câu đúng là: “How many times should we visit our dentist every year?”. Nguồn đối chiếu: đề IOE gốc số 2, câu 185."
+    },
+    {
+      "id": 51,
+      "question": "Mai likes flowers because _ _ _ _ are beautiful.",
+      "options": [],
+      "answer": "they",
+      "explanation": "“they” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “Mai likes flowers because they are beautiful.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 36."
+    },
+    {
+      "id": 52,
+      "question": "How _ _ _ _ books are there on the bookshelf?",
+      "options": [],
+      "answer": "many",
+      "explanation": "“many” đi với danh từ đếm được số nhiều. “Many” nói số lượng nhiều; “a few” là có một vài, còn “few” nhấn mạnh là gần như không có. Câu đúng là: “How many books are there on the bookshelf?”. Nguồn đối chiếu: đề IOE gốc số 11, câu 46."
+    },
+    {
+      "id": 53,
+      "question": "any milk./ making coffee/ We are/ don’t have/ but we/",
+      "options": [],
+      "answer": "We are making coffee but we don’t have any milk.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “any” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “We are making coffee but we don’t have any milk.”. Nguồn đối chiếu: đề IOE gốc số 1, câu 55."
+    },
+    {
+      "id": 54,
+      "question": "to play/ during/ They learn/ Music lessons./ the guitar/",
+      "options": [],
+      "answer": "They learn to play the guitar during Music lessons.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “guitar”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “They learn to play the guitar during Music lessons.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 154."
+    },
+    {
+      "id": 55,
+      "question": "last night?/ go to/ you/ Did/ the theatre/",
+      "options": [],
+      "answer": "Did you go to the theatre last night?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “theatre”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Did you go to the theatre last night?”. Nguồn đối chiếu: đề IOE gốc số 4, câu 199."
+    },
+    {
+      "id": 56,
+      "question": "in/ Please/ your teacher/ describe/ some sentences./",
+      "options": [],
+      "answer": "Please describe your teacher in some sentences.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “some” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Please describe your teacher in some sentences.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 84."
+    },
+    {
+      "id": 57,
+      "question": "his/ favourite/ drink./ is/ Apple juice/",
+      "options": [],
+      "answer": "Apple juice is his favourite drink.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “his” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Apple juice is his favourite drink.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 53."
+    },
+    {
+      "id": 58,
+      "question": "How _ _ _ _ is this pair of trousers? - It is290.000 dong.",
+      "options": [],
+      "answer": "much",
+      "explanation": "“much” đi với danh từ không đếm được. “Much” nói lượng nhiều; “a little” là có một ít, còn “little” nhấn mạnh lượng rất ít. Câu đúng là: “How much is this pair of trousers? - It is 290.000 dong.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 7."
+    },
+    {
+      "id": 59,
+      "question": "and watches TV./ the afternoon/ she plays/ with her friends/ In/",
+      "options": [],
+      "answer": "In the afternoon she plays with her friends and watches TV.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “afternoon”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “In the afternoon she plays with her friends and watches TV.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 100."
+    },
+    {
+      "id": 60,
+      "question": "I often/ the morning./ go to/ the gym/ in/",
+      "options": [],
+      "answer": "I often go to the gym in the morning.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “gym”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “I often go to the gym in the morning.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 53."
+    },
+    {
+      "id": 61,
+      "question": "experiments/ moment./ doing some/ They are/ at the/",
+      "options": [],
+      "answer": "They are doing some experiments at the moment.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “some” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “They are doing some experiments at the moment.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 89."
+    },
+    {
+      "id": 62,
+      "question": "her leg./ on/ has/ Jenny/ a pain/",
+      "options": [],
+      "answer": "Jenny has a pain on her leg.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “pain”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Jenny has a pain on her leg.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 164."
+    },
+    {
+      "id": 63,
+      "question": "Hoa was very surprised when she looked at … in the mirror.",
+      "options": [
+        "A. she",
+        "B. hers",
+        "C. herself",
+        "D. her"
+      ],
+      "answer": "C. herself",
+      "explanation": "“herself” là đại từ phản thân, chỉ hành động quay lại chính chủ ngữ. Dạng này thường theo sau động từ khi người làm và người nhận hành động là một. Câu đúng là: “Hoa was very surprised when she looked at … in the mirror. → herself”. Nguồn đối chiếu: đề IOE gốc số 8, câu 190."
+    },
+    {
+      "id": 64,
+      "question": "Don’t give Jane _ _ _ cheese. She doesn’t like it.",
+      "options": [],
+      "answer": "any",
+      "explanation": "“Any” thường dùng trong câu hỏi và câu phủ định. Vì câu này cần hỏi/nhấn mạnh sự không có, “some” không phù hợp bằng “any”. Câu đúng là: “Don’t give Jane any cheese. She doesn’t like it.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 108."
+    },
+    {
+      "id": 65,
+      "question": "I’m delighted … you passed your exam.",
+      "options": [
+        "A. that",
+        "B. to",
+        "C. in order to",
+        "D. so that"
+      ],
+      "answer": "A. that",
+      "explanation": "“that” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “I’m delighted … you passed your exam. → that”. Nguồn đối chiếu: đề IOE gốc số 12, câu 95."
+    },
+    {
+      "id": 66,
+      "question": "What’s … nationality? – He is Japanese.",
+      "options": [
+        "A. his",
+        "B. her",
+        "C. him",
+        "D. hers"
+      ],
+      "answer": "A. his",
+      "explanation": "“his” là tính từ sở hữu và phải đứng ngay trước danh từ để chỉ người sở hữu. Không dùng đại từ sở hữu độc lập vì sau chỗ trống vẫn còn danh từ. Câu đúng là: “What’s … nationality? – He is Japanese. → his”. Nguồn đối chiếu: đề IOE gốc số 13, câu 9."
+    },
+    {
+      "id": 67,
+      "question": "during break time./ playing games/ excited while/ look very/ The children/",
+      "options": [],
+      "answer": "The children look very excited while playing games during break time.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “children”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “The children look very excited while playing games during break time.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 56."
+    },
+    {
+      "id": 68,
+      "question": "for my little son?/ can/ Where/ some toys/ I buy/",
+      "options": [],
+      "answer": "Where can I buy some toys for my little son?",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “some” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Where can I buy some toys for my little son?”. Nguồn đối chiếu: đề IOE gốc số 4, câu 131."
+    },
+    {
+      "id": 69,
+      "question": "go to/ birthday party/ Did you/ Linda’s/ yesterday?/",
+      "options": [],
+      "answer": "Did you go to Linda’s birthday party yesterday?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “Did you go to Linda’s birthday party yesterday?”. Nguồn đối chiếu: đề IOE gốc số 5, câu 188."
+    },
+    {
+      "id": 70,
+      "question": "a week./ four times/ has/ Bruno/ Maths/",
+      "options": [],
+      "answer": "Bruno has Maths four times a week.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “week”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Bruno has Maths four times a week.”. Nguồn đối chiếu: đề IOE gốc số 7, câu 17."
+    },
+    {
+      "id": 71,
+      "question": "You/ after/ eating./ mustn’t/ swim/",
+      "options": [],
+      "answer": "You mustn’t swim after eating.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “You mustn’t swim after eating.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 158."
+    },
+    {
+      "id": 72,
+      "question": "She doesn’t do _ _ _ exercises. She is very lazy.",
+      "options": [],
+      "answer": "any",
+      "explanation": "“Any” thường dùng trong câu hỏi và câu phủ định. Vì câu này cần hỏi/nhấn mạnh sự không có, “some” không phù hợp bằng “any”. Câu đúng là: “She doesn’t do any exercises. She is very lazy.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 172."
+    },
+    {
+      "id": 73,
+      "question": "careful driver/ than I am./ He is/ a slower/ and more/",
+      "options": [],
+      "answer": "He is a slower and more careful driver than I am.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “more” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “He is a slower and more careful driver than I am.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 175."
+    },
+    {
+      "id": 74,
+      "question": "lives/ village/ in Hue./ My friend/ in a small/",
+      "options": [],
+      "answer": "My friend lives in a small village in Hue.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “small”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “My friend lives in a small village in Hue.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 2."
+    },
+    {
+      "id": 75,
+      "question": "There are ... boys in our class.",
+      "options": [
+        "A. no",
+        "B. not",
+        "C. none",
+        "D. no of"
+      ],
+      "answer": "A. no",
+      "explanation": "“no” là từ chỉ lượng phù hợp với loại danh từ và ý nghĩa câu. Không chỉ nhìn nghĩa “nhiều/ít”; cần xét danh từ sau chỗ trống có đếm được hay không. Câu đúng là: “There are... boys in our class. → no”. Nguồn đối chiếu: đề IOE gốc số 13, câu 173."
+    },
+    {
+      "id": 76,
+      "question": "Our/ is hide/ favourite/ game/ and seek./",
+      "options": [],
+      "answer": "Our favourite game is hide and seek.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “our” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Our favourite game is hide and seek.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 126."
+    },
+    {
+      "id": 77,
+      "question": "the/ refrigerator./ in/ nothing/ There is/",
+      "options": [],
+      "answer": "There is nothing in the refrigerator.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “refrigerator”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “There is nothing in the refrigerator.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 164."
+    },
+    {
+      "id": 78,
+      "question": "because/ we wanted/ We went/ to buy some books./ to the bookshop/",
+      "options": [],
+      "answer": "We went to the bookshop because we wanted to buy some books.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “some” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “We went to the bookshop because we wanted to buy some books.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 8."
+    },
+    {
+      "id": 79,
+      "question": "at6 am/ does morning/ Linh always/ every morning./ exercise/",
+      "options": [],
+      "answer": "Linh always does morning exercise at 6 am every morning.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “every” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Linh always does morning exercise at 6 am every morning.”. Nguồn đối chiếu: đề IOE gốc số 7, câu 59."
+    },
+    {
+      "id": 80,
+      "question": "is a/ city/ beautiful/ New York/ in America./",
+      "options": [],
+      "answer": "New York is a beautiful city in America.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “beautiful”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “New York is a beautiful city in America.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 79."
+    },
+    {
+      "id": 81,
+      "question": "the classroom./ Don’t/ make/ in/ noise/",
+      "options": [],
+      "answer": "Don’t make noise in the classroom.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “classroom”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Don’t make noise in the classroom.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 46."
+    },
+    {
+      "id": 82,
+      "question": "There is … oil in this bottle. We should buy some more.",
+      "options": [
+        "A. a few",
+        "B. few",
+        "C. little",
+        "D. a little"
+      ],
+      "answer": "D. a little",
+      "explanation": "“a little” đi với danh từ không đếm được. “Much” nói lượng nhiều; “a little” là có một ít, còn “little” nhấn mạnh lượng rất ít. Câu đúng là: “There is … oil in this bottle. We should buy some more. → a little”. Nguồn đối chiếu: đề IOE gốc số 4, câu 144."
+    },
+    {
+      "id": 83,
+      "question": "need/ There is/ hurry./ no/ to/",
+      "options": [],
+      "answer": "There is no need to hurry.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “no” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “There is no need to hurry.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 133."
+    },
+    {
+      "id": 84,
+      "question": "How _ _ _ _ foreign languages can she speak?",
+      "options": [],
+      "answer": "many",
+      "explanation": "“many” đi với danh từ đếm được số nhiều. “Many” nói số lượng nhiều; “a few” là có một vài, còn “few” nhấn mạnh là gần như không có. Câu đúng là: “How many foreign languages can she speak?”. Nguồn đối chiếu: đề IOE gốc số 17, câu 26."
+    },
+    {
+      "id": 85,
+      "question": "go to/ get a/ the shop and/ cold drink./ Let’s/",
+      "options": [],
+      "answer": "Let’s go to the shop and get a cold drink.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “shop”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Let’s go to the shop and get a cold drink.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 88."
+    },
+    {
+      "id": 86,
+      "question": "_ _ _ is that? Is that Jenny? - No, it’s Barbara.",
+      "options": [],
+      "answer": "Who",
+      "explanation": "“Who” là đại từ làm chủ ngữ, nên đứng trước động từ. Nó thay cho người/vật được nói đến trong câu; không dùng dạng tân ngữ hoặc tính từ sở hữu ở vị trí này. Câu đúng là: “Who is that? Is that Jenny? - No, it’s Barbara.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 167."
+    },
+    {
+      "id": 87,
+      "question": "Why does/ morning?/ he get/ up early/ in the/",
+      "options": [],
+      "answer": "Why does he get up early in the morning?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “morning”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Why does he get up early in the morning?”. Nguồn đối chiếu: đề IOE gốc số 8, câu 124."
+    },
+    {
+      "id": 88,
+      "question": "are happy/ their new life./ with/ They/",
+      "options": [],
+      "answer": "They are happy with their new life.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “they” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “They are happy with their new life.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 16."
+    },
+    {
+      "id": 89,
+      "question": "languages/ you/ Which/ speak?/ can/",
+      "options": [],
+      "answer": "Which languages can you speak?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “which” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Which languages can you speak?”. Nguồn đối chiếu: đề IOE gốc số 12, câu 19."
+    },
+    {
+      "id": 90,
+      "question": "Didn’t/ you want/ the house/ to sell/ last year?/",
+      "options": [],
+      "answer": "Didn’t you want to sell the house last year?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “house”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Didn’t you want to sell the house last year?”. Nguồn đối chiếu: đề IOE gốc số 8, câu 40."
+    },
+    {
+      "id": 91,
+      "question": "the English club/ twice/ Nga/ a week./ goes to/",
+      "options": [],
+      "answer": "Nga goes to the English club twice a week.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “english”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Nga goes to the English club twice a week.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 169."
+    },
+    {
+      "id": 92,
+      "question": "I don’t like pork. - _ _ _ _ _ _ _ do I.",
+      "options": [],
+      "answer": "Neither",
+      "explanation": "“Neither” dùng khi nói về hai người/vật. “Both” là cả hai, “either” là một trong hai, còn “neither” là không cái nào trong hai. Câu đúng là: “I don’t like pork. - Neither do I.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 194."
+    },
+    {
+      "id": 93,
+      "question": "He speaks/ man./ English/ like an/ English/",
+      "options": [],
+      "answer": "He speaks English like an English man.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “an” ngay trước cụm danh từ “english”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “He speaks English like an English man.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 179."
+    },
+    {
+      "id": 94,
+      "question": "goes to the cafeteria/ at lunch time./ alone/ He/ never/",
+      "options": [],
+      "answer": "He never goes to the cafeteria alone at lunch time.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “cafeteria”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “He never goes to the cafeteria alone at lunch time.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 1."
+    },
+    {
+      "id": 95,
+      "question": "from London?/ of the girl/ is/ What/ the name/",
+      "options": [],
+      "answer": "What is the name of the girl from London?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “name”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “What is the name of the girl from London?”. Nguồn đối chiếu: đề IOE gốc số 10, câu 131."
+    },
+    {
+      "id": 96,
+      "question": "the library/ a week./ go to/ once/ I/",
+      "options": [],
+      "answer": "I go to the library once a week.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “library”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “I go to the library once a week.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 150."
+    },
+    {
+      "id": 97,
+      "question": "How _ _ _ _ windows are there in your classroom? - There is only one.",
+      "options": [],
+      "answer": "many",
+      "explanation": "“many” đi với danh từ đếm được số nhiều. “Many” nói số lượng nhiều; “a few” là có một vài, còn “few” nhấn mạnh là gần như không có. Câu đúng là: “How many windows are there in your classroom? - There is only one.”. Nguồn đối chiếu: đề IOE gốc số 15, câu 197."
+    },
+    {
+      "id": 98,
+      "question": "she/ school./ doesn’t/ go to/ Today/",
+      "options": [],
+      "answer": "Today she doesn’t go to school.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “she” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “Today she doesn’t go to school.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 109."
+    },
+    {
+      "id": 99,
+      "question": "times a day/ do you/ your teeth?/ brush/ How many/",
+      "options": [],
+      "answer": "How many times a day do you brush your teeth?",
+      "explanation": "“How many” hỏi số lượng danh từ đếm được, vì vậy “times” phải ở dạng số nhiều. Không dùng dạng số ít sau *how many*. Câu đúng là: “How many times a day do you brush your teeth?”. Nguồn đối chiếu: đề IOE gốc số 10, câu 182."
+    },
+    {
+      "id": 100,
+      "question": "My little son doesn’t have _ _ _ friends in that city.",
+      "options": [],
+      "answer": "any",
+      "explanation": "“Any” thường dùng trong câu hỏi và câu phủ định. Vì câu này cần hỏi/nhấn mạnh sự không có, “some” không phù hợp bằng “any”. Câu đúng là: “My little son doesn’t have any friends in that city.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 138."
+    },
+    {
+      "id": 101,
+      "question": "a big/ am/ I/ dinner./ having/",
+      "options": [],
+      "answer": "I am having a big dinner.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “big”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “I am having a big dinner.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 198."
+    },
+    {
+      "id": 102,
+      "question": "Do you have … ideas for our next holiday?",
+      "options": [
+        "A. much",
+        "B. any",
+        "C. little",
+        "D. an"
+      ],
+      "answer": "B. any",
+      "explanation": "“Any” thường dùng trong câu hỏi và câu phủ định. Vì câu này cần hỏi/nhấn mạnh sự không có, “some” không phù hợp bằng “any”. Câu đúng là: “Do you have … ideas for our next holiday? → any”. Nguồn đối chiếu: đề IOE gốc số 16, câu 154."
+    },
+    {
+      "id": 103,
+      "question": "Hoi An/ is an/ in/ Quang Nam province./ ancient town/",
+      "options": [],
+      "answer": "Hoi An is an ancient town in Quang Nam province.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “an” ngay trước cụm danh từ “is”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Hoi An is an ancient town in Quang Nam province.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 50."
+    },
+    {
+      "id": 104,
+      "question": "the piano./ Phong/ played/ guitar and Linda/ played the/",
+      "options": [],
+      "answer": "Phong played the guitar and Linda played the piano.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “guitar”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Phong played the guitar and Linda played the piano.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 172."
+    },
+    {
+      "id": 105,
+      "question": "gray clouds/ in the sky./ many/ There are/",
+      "options": [],
+      "answer": "There are many gray clouds in the sky.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “many” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “There are many gray clouds in the sky.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 186."
+    },
+    {
+      "id": 106,
+      "question": "like/ lollipops/ does not/ She/ or cakes./",
+      "options": [],
+      "answer": "She does not like lollipops or cakes.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “she” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “She does not like lollipops or cakes.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 80."
+    },
+    {
+      "id": 107,
+      "question": "late/ school./ They are/ for/ never/",
+      "options": [],
+      "answer": "They are never late for school.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “they” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “They are never late for school.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 52."
+    },
+    {
+      "id": 108,
+      "question": "noisy./ a market,/ My house is/ near/ so it’s/",
+      "options": [],
+      "answer": "My house is near a market, so it’s noisy.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “market”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “My house is near a market, so it’s noisy.”. Nguồn đối chiếu: đề IOE gốc số 11, câu 117."
+    },
+    {
+      "id": 109,
+      "question": "Close/ me./ your book/ and/ look at/",
+      "options": [],
+      "answer": "Close your book and look at me.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “your” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Close your book and look at me.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 10."
+    },
+    {
+      "id": 110,
+      "question": "you/ give me/ Can/ some/ paper?/",
+      "options": [],
+      "answer": "Can you give me some paper?",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “some” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Can you give me some paper?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 58."
+    },
+    {
+      "id": 111,
+      "question": "Nha Trang/ by airplane./ We often/ travel to/ on summer/",
+      "options": [],
+      "answer": "We often travel to Nha Trang on summer by airplane.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “we” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “We often travel to Nha Trang on summer by airplane.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 56."
+    },
+    {
+      "id": 112,
+      "question": "We will/ carefully./ our hands/ have meals/ after washing/",
+      "options": [],
+      "answer": "We will have meals after washing our hands carefully.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “we” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “We will have meals after washing our hands carefully.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 125."
+    },
+    {
+      "id": 113,
+      "question": "roar loudly./ and they/ are big/ The lions/",
+      "options": [],
+      "answer": "The lions are big and they roar loudly.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “lions”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “The lions are big and they roar loudly.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 140."
+    },
+    {
+      "id": 114,
+      "question": "be/ your/ What will/ dream job/ like?/",
+      "options": [],
+      "answer": "What will your dream job be like?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “your” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “What will your dream job be like?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 151."
+    },
+    {
+      "id": 115,
+      "question": "do/ the forest?/ farmers/ burn/ Why/",
+      "options": [],
+      "answer": "Why do farmers burn the forest?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “forest”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Why do farmers burn the forest?”. Nguồn đối chiếu: đề IOE gốc số 16, câu 145."
+    },
+    {
+      "id": 116,
+      "question": "go to/ the swimming-pool/ three times/ a week?/ Does Jannie/",
+      "options": [],
+      "answer": "Does Jannie go to the swimming-pool three times a week?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “swimming”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Does Jannie go to the swimming-pool three times a week?”. Nguồn đối chiếu: đề IOE gốc số 12, câu 108."
+    },
+    {
+      "id": 117,
+      "question": "English, Science/ Which/ do you/ or Vietnamese?/ perfer,/",
+      "options": [],
+      "answer": "Which do you perfer, English, Science or Vietnamese?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “which” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Which do you perfer, English, Science or Vietnamese?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 150."
+    },
+    {
+      "id": 118,
+      "question": "She/ goes/ camping/ week./ once a/",
+      "options": [],
+      "answer": "She goes camping once a week.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “week”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “She goes camping once a week.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 43."
+    },
+    {
+      "id": 119,
+      "question": "is/ and the toy store./ between/ the cinema/ The post office/",
+      "options": [],
+      "answer": "The post office is between the cinema and the toy store.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “post”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “The post office is between the cinema and the toy store.”. Nguồn đối chiếu: đề IOE gốc số 13, câu 120."
+    },
+    {
+      "id": 120,
+      "question": "Where will/ you and your father/ go/ this weekend?/",
+      "options": [],
+      "answer": "Where will you and your father go this weekend?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “Where will you and your father go this weekend?”. Nguồn đối chiếu: đề IOE gốc số 15, câu 179."
+    },
+    {
+      "id": 121,
+      "question": "under the/ My little/ sleeping/ dog is/ table./",
+      "options": [],
+      "answer": "My little dog is sleeping under the table.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “little” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “My little dog is sleeping under the table.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 153."
+    },
+    {
+      "id": 122,
+      "question": "in front of/ the park./ meet/ at7 o’clock/ Let’s/",
+      "options": [],
+      "answer": "Let’s meet at 7 o’clock in front of the park.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “park”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Let’s meet at 7 o’clock in front of the park.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 32."
+    },
+    {
+      "id": 123,
+      "question": "clock/ a grandfather/ There is/ in the living/ room./",
+      "options": [],
+      "answer": "There is a grandfather clock in the living room.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “grandfather”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “There is a grandfather clock in the living room.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 194."
+    },
+    {
+      "id": 124,
+      "question": "on the/ is/ a letter/ There/ desk./",
+      "options": [],
+      "answer": "There is a letter on the desk.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “letter”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “There is a letter on the desk.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 13."
+    },
+    {
+      "id": 125,
+      "question": "do/ did/ last summer?/ you/ What/",
+      "options": [],
+      "answer": "What did you do last summer?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “What did you do last summer?”. Nguồn đối chiếu: đề IOE gốc số 19, câu 139."
+    },
+    {
+      "id": 126,
+      "question": "are in/ in his library/ the books/ All/ English./",
+      "options": [],
+      "answer": "All the books in his library are in English.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “all” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “All the books in his library are in English.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 124."
+    },
+    {
+      "id": 127,
+      "question": "highest/ in/ the world./ Mount Everest/ is the/",
+      "options": [],
+      "answer": "Mount Everest is the highest in the world.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “highest”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Mount Everest is the highest in the world.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 105."
+    },
+    {
+      "id": 128,
+      "question": "please./ Stand/ up/ to greet/ our teacher,/",
+      "options": [],
+      "answer": "Stand up to greet our teacher, please.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “our” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Stand up to greet our teacher, please.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 28."
+    },
+    {
+      "id": 129,
+      "question": "her name?/ spell/ you/ How/ do/",
+      "options": [],
+      "answer": "How do you spell her name?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “How do you spell her name?”. Nguồn đối chiếu: đề IOE gốc số 20, câu 28."
+    },
+    {
+      "id": 130,
+      "question": "next month?/ spend two weeks/ in New York/ you going to/ Why are/",
+      "options": [],
+      "answer": "Why are you going to spend two weeks in New York next month?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “Why are you going to spend two weeks in New York next month?”. Nguồn đối chiếu: đề IOE gốc số 14, câu 23."
+    },
+    {
+      "id": 131,
+      "question": "please?/ Could you/ show me/ the way/ to the supermarket,/",
+      "options": [],
+      "answer": "Could you show me the way to the supermarket, please?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “way”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Could you show me the way to the supermarket, please?”. Nguồn đối chiếu: đề IOE gốc số 17, câu 190."
+    },
+    {
+      "id": 132,
+      "question": "they do/ free time?/ What do/ in their/",
+      "options": [],
+      "answer": "What do they do in their free time?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “they” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “What do they do in their free time?”. Nguồn đối chiếu: đề IOE gốc số 19, câu 97."
+    },
+    {
+      "id": 133,
+      "question": "for/ our health./ Playing sports/ is/ good/",
+      "options": [],
+      "answer": "Playing sports is good for our health.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “our” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Playing sports is good for our health.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 193."
+    },
+    {
+      "id": 134,
+      "question": "in the park/ go for/ We always/ in the afternoon./ a walk/",
+      "options": [],
+      "answer": "We always go for a walk in the park in the afternoon.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “walk”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “We always go for a walk in the park in the afternoon.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 104."
+    },
+    {
+      "id": 135,
+      "question": "in the holidays./ have to/ do any homework/ I don't/",
+      "options": [],
+      "answer": "I don't have to do any homework in the holidays.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “any” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “I don't have to do any homework in the holidays.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 59."
+    },
+    {
+      "id": 136,
+      "question": "We/ these rules./ can help/ by following/ the environment/",
+      "options": [],
+      "answer": "We can help the environment by following these rules.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “environment”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “We can help the environment by following these rules.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 73."
+    },
+    {
+      "id": 137,
+      "question": "rain/ We/ in every summer./ have/ lots of/",
+      "options": [],
+      "answer": "We have lots of rain in every summer.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “lots” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “We have lots of rain in every summer.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 123."
+    },
+    {
+      "id": 138,
+      "question": "plays tennis/ times/ a week./ She/ three/",
+      "options": [],
+      "answer": "She plays tennis three times a week.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “week”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “She plays tennis three times a week.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 144."
+    },
+    {
+      "id": 139,
+      "question": "a lot of/ and took/ photos./ Marie visited/ Dam Sen park/",
+      "options": [],
+      "answer": "Marie visited Dam Sen park and took a lot of photos.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “lot”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Marie visited Dam Sen park and took a lot of photos.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 5."
+    },
+    {
+      "id": 140,
+      "question": "fruits and milk,/ smoothies./ often drinks/ Max likes/ so he/",
+      "options": [],
+      "answer": "Max likes fruits and milk, so he often drinks smoothies.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “he” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “Max likes fruits and milk, so he often drinks smoothies.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 77."
+    },
+    {
+      "id": 141,
+      "question": "We can/ meet in/ front of/ gate./ the school/",
+      "options": [],
+      "answer": "We can meet in front of the school gate.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “school”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “We can meet in front of the school gate.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 35."
+    },
+    {
+      "id": 142,
+      "question": "the girl/ talking/ Who is/ to/ your mother?/",
+      "options": [],
+      "answer": "Who is the girl talking to your mother?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “girl”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Who is the girl talking to your mother?”. Nguồn đối chiếu: đề IOE gốc số 21, câu 86."
+    },
+    {
+      "id": 143,
+      "question": "her room./ Daisy/ in/ has/ no dolls/",
+      "options": [],
+      "answer": "Daisy has no dolls in her room.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “no” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Daisy has no dolls in her room.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 65."
+    },
+    {
+      "id": 144,
+      "question": "the garden/ football in/ Two of my/ children are playing/ behind my house./",
+      "options": [],
+      "answer": "Two of my children are playing football in the garden behind my house.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “garden”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Two of my children are playing football in the garden behind my house.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 76."
+    },
+    {
+      "id": 145,
+      "question": "playing/ with her friends./ lots of time/ Tanya/ spent/",
+      "options": [],
+      "answer": "Tanya spent lots of time playing with her friends.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “lots” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Tanya spent lots of time playing with her friends.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 34."
+    },
+    {
+      "id": 146,
+      "question": "is the/ How much/ over there?/ black/ coat/",
+      "options": [],
+      "answer": "How much is the black coat over there?",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “much” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “How much is the black coat over there?”. Nguồn đối chiếu: đề IOE gốc số 22, câu 97."
+    },
+    {
+      "id": 147,
+      "question": "the neighbour's/ Be careful/ dog!/ with/",
+      "options": [],
+      "answer": "Be careful with the neighbour's dog!",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “neighbour's”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Be careful with the neighbour's dog!”. Nguồn đối chiếu: đề IOE gốc số 24, câu 56."
+    },
+    {
+      "id": 148,
+      "question": "and fishing?/ sitting in a boat/ Mr. Grim/ interested in/ Why is/",
+      "options": [],
+      "answer": "Why is Mr. Grim interested in sitting in a boat and fishing?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “boat”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Why is Mr. Grim interested in sitting in a boat and fishing?”. Nguồn đối chiếu: đề IOE gốc số 19, câu 128."
+    },
+    {
+      "id": 149,
+      "question": "shells/ were/ when we/ on the beach./ We collected/",
+      "options": [],
+      "answer": "We collected shells when we were on the beach.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “beach”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “We collected shells when we were on the beach.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 134."
+    },
+    {
+      "id": 150,
+      "question": "from/ fantastic./ my bedroom window/ is/ The view/",
+      "options": [],
+      "answer": "The view from my bedroom window is fantastic.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “view”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “The view from my bedroom window is fantastic.”. Nguồn đối chiếu: đề IOE gốc số 23, câu 153."
+    },
+    {
+      "id": 151,
+      "question": "You have to/ at the traffic light/ to the shop./ turn right/ to get/",
+      "options": [],
+      "answer": "You have to turn right at the traffic light to get to the shop.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “traffic”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “You have to turn right at the traffic light to get to the shop.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 31."
+    },
+    {
+      "id": 152,
+      "question": "library?/ classmates do/ their homework/ Do your/ in the/",
+      "options": [],
+      "answer": "Do your classmates do their homework in the library?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “library”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Do your classmates do their homework in the library?”. Nguồn đối chiếu: đề IOE gốc số 23, câu 2."
+    },
+    {
+      "id": 153,
+      "question": "Geography/ Nicky often/ helps me/ do my/ housework./",
+      "options": [],
+      "answer": "Nicky often helps me do my Geography housework.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “me” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Nicky often helps me do my Geography housework.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 54."
+    },
+    {
+      "id": 154,
+      "question": "for dinner?/ like/ What/ would you/ vegetables/",
+      "options": [],
+      "answer": "What vegetables would you like for dinner?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “What vegetables would you like for dinner?”. Nguồn đối chiếu: đề IOE gốc số 25, câu 134."
+    },
+    {
+      "id": 155,
+      "question": "often has music/ playing the guitar and/ My brother likes/ lessons after school./ singing so he/",
+      "options": [],
+      "answer": "My brother likes playing the guitar and singing so he often has music lessons after school.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “guitar”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “My brother likes playing the guitar and singing so he often has music lessons after school.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 133."
+    },
+    {
+      "id": 156,
+      "question": "after work?/ How do/ they feel/ get home/ when they/",
+      "options": [],
+      "answer": "How do they feel when they get home after work?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “they” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “How do they feel when they get home after work?”. Nguồn đối chiếu: đề IOE gốc số 23, câu 64."
+    },
+    {
+      "id": 157,
+      "question": "Tuesday,/30th December./ There is/ examination on/ an English/",
+      "options": [],
+      "answer": "There is an English examination on Tuesday, 30th December.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “an” ngay trước cụm danh từ “english”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “There is an English examination on Tuesday, 30th December.”. Nguồn đối chiếu: đề IOE gốc số 24, câu 173."
+    },
+    {
+      "id": 158,
+      "question": "to clean/ the house./ They stay/ at home/",
+      "options": [],
+      "answer": "They stay at home to clean the house.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “house”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “They stay at home to clean the house.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 144."
+    },
+    {
+      "id": 159,
+      "question": "near her office./ work every working/ day by bike because/ her house is/ Miss Young goes to/",
+      "options": [],
+      "answer": "Miss Young goes to work every working day by bike because her house is near her office.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “every” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Miss Young goes to work every working day by bike because her house is near her office.”. Nguồn đối chiếu: đề IOE gốc số 17, câu 112."
+    },
+    {
+      "id": 160,
+      "question": "reading/ Do/ comic books/ in your free time?/ you like/",
+      "options": [],
+      "answer": "Do you like reading comic books in your free time?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “Do you like reading comic books in your free time?”. Nguồn đối chiếu: đề IOE gốc số 24, câu 110."
+    },
+    {
+      "id": 161,
+      "question": "a lot of/ outside/ There were/ the cinema./ people/",
+      "options": [],
+      "answer": "There were a lot of people outside the cinema.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “lot”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “There were a lot of people outside the cinema.”. Nguồn đối chiếu: đề IOE gốc số 25, câu 199."
+    },
+    {
+      "id": 162,
+      "question": "friends/ and her/ comic books./ like/ She/",
+      "options": [],
+      "answer": "She and her friends like comic books.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “she” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “She and her friends like comic books.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 52."
+    },
+    {
+      "id": 163,
+      "question": "by/ often/ car./ They/ travel/",
+      "options": [],
+      "answer": "They often travel by car.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “they” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “They often travel by car.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 140."
+    },
+    {
+      "id": 164,
+      "question": "far/ from Hanoi/ How/ to Ho Chi Minh City?/ is it/",
+      "options": [],
+      "answer": "How far is it from Hanoi to Ho Chi Minh City?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “it” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “How far is it from Hanoi to Ho Chi Minh City?”. Nguồn đối chiếu: đề IOE gốc số 24, câu 189."
+    },
+    {
+      "id": 165,
+      "question": "by bike/ What about/ going/ the post office?/ to/",
+      "options": [],
+      "answer": "What about going by bike to the post office?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “post”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “What about going by bike to the post office?”. Nguồn đối chiếu: đề IOE gốc số 26, câu 163."
+    },
+    {
+      "id": 166,
+      "question": "for three days./ They are going to/ a friend’s house/ stay at/ in Da Lat/",
+      "options": [],
+      "answer": "They are going to stay at a friend’s house in Da Lat for three days.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “friend”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “They are going to stay at a friend’s house in Da Lat for three days.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 96."
+    },
+    {
+      "id": 167,
+      "question": "What did/ he went?/ before/ say to him/ Peter's mother/",
+      "options": [],
+      "answer": "What did Peter's mother say to him before he went?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “him” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “What did Peter's mother say to him before he went?”. Nguồn đối chiếu: đề IOE gốc số 26, câu 18."
+    },
+    {
+      "id": 168,
+      "question": "did/ all the things/ on her list./ Linda/",
+      "options": [],
+      "answer": "Linda did all the things on her list.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “all” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Linda did all the things on her list.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 50."
+    },
+    {
+      "id": 169,
+      "question": "do/ their children/ Which/ go to?/ school/",
+      "options": [],
+      "answer": "Which school do their children go to?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “which” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Which school do their children go to?”. Nguồn đối chiếu: đề IOE gốc số 29, câu 91."
+    },
+    {
+      "id": 170,
+      "question": "every day?/ come back home/ leave home and/ What time/ does she often/",
+      "options": [],
+      "answer": "What time does she often leave home and come back home every day?",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “every” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “What time does she often leave home and come back home every day?”. Nguồn đối chiếu: đề IOE gốc số 24, câu 177."
+    },
+    {
+      "id": 171,
+      "question": "this gift/ I/ send/ want to/ to my little sister./",
+      "options": [],
+      "answer": "I want to send this gift to my little sister.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “little” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “I want to send this gift to my little sister.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 165."
+    },
+    {
+      "id": 172,
+      "question": "It is/ difficult/ Maths well./ to study/ not/",
+      "options": [],
+      "answer": "It is not difficult to study Maths well.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “it” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “It is not difficult to study Maths well.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 78."
+    },
+    {
+      "id": 173,
+      "question": "in the/ garden./ is/ A bird/ singing/",
+      "options": [],
+      "answer": "A bird is singing in the garden.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “bird”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “A bird is singing in the garden.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 167."
+    },
+    {
+      "id": 174,
+      "question": "do Susan’s/ start in/ the afternoon?/ What time/ classes/",
+      "options": [],
+      "answer": "What time do Susan’s classes start in the afternoon?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “afternoon”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “What time do Susan’s classes start in the afternoon?”. Nguồn đối chiếu: đề IOE gốc số 28, câu 29."
+    },
+    {
+      "id": 175,
+      "question": "of/ the name/ you know/ the book?/ Do/",
+      "options": [],
+      "answer": "Do you know the name of the book?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “name”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Do you know the name of the book?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 40."
+    },
+    {
+      "id": 176,
+      "question": "in the yard?/ there/ any/ flowers/ Are/",
+      "options": [],
+      "answer": "Are there any flowers in the yard?",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “any” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Are there any flowers in the yard?”. Nguồn đối chiếu: đề IOE gốc số 31, câu 21."
+    },
+    {
+      "id": 177,
+      "question": "is/ favourite/ drink/ iced coffee./ My/",
+      "options": [],
+      "answer": "My favourite drink is iced coffee.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “my” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “My favourite drink is iced coffee.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 75."
+    },
+    {
+      "id": 178,
+      "question": "his house./ is climbing/ James/ in front of/ the tall tree/",
+      "options": [],
+      "answer": "James is climbing the tall tree in front of his house.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “tall”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “James is climbing the tall tree in front of his house.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 56."
+    },
+    {
+      "id": 179,
+      "question": "are brown./ Jane’s hair/ her eyes/ is/ black and/",
+      "options": [],
+      "answer": "Jane’s hair is black and her eyes are brown.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “her” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Jane’s hair is black and her eyes are brown.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 131."
+    },
+    {
+      "id": 180,
+      "question": "often help/ My classmates/ each other/ with/ their homework./",
+      "options": [],
+      "answer": "My classmates often help each other with their homework.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “each” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “My classmates often help each other with their homework.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 141."
+    },
+    {
+      "id": 181,
+      "question": "do your/ homework before/ TV./ watching/ You must/",
+      "options": [],
+      "answer": "You must do your homework before watching TV.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “You must do your homework before watching TV.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 128."
+    },
+    {
+      "id": 182,
+      "question": "comedies at/ often/ She/ weekends./ watches/",
+      "options": [],
+      "answer": "She often watches comedies at weekends.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “she” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “She often watches comedies at weekends.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 31."
+    },
+    {
+      "id": 183,
+      "question": "after school?/ Lan and her brother/ often do/ What/ do/",
+      "options": [],
+      "answer": "What do Lan and her brother often do after school?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “her” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “What do Lan and her brother often do after school?”. Nguồn đối chiếu: đề IOE gốc số 30, câu 111."
+    },
+    {
+      "id": 184,
+      "question": "enough to/ old/ My brother/ is/ drive a car./",
+      "options": [],
+      "answer": "My brother is old enough to drive a car.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “enough” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “My brother is old enough to drive a car.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 185."
+    },
+    {
+      "id": 185,
+      "question": "on his parents’/ farm/ last month?/ Was/ John/",
+      "options": [],
+      "answer": "Was John on his parents’ farm last month?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “his” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Was John on his parents’ farm last month?”. Nguồn đối chiếu: đề IOE gốc số 32, câu 182."
+    },
+    {
+      "id": 186,
+      "question": "her house is/ near her office./ by bike because/ Miss Young goes to/ work/",
+      "options": [],
+      "answer": "Miss Young goes to work by bike because her house is near her office.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “her” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Miss Young goes to work by bike because her house is near her office.”. Nguồn đối chiếu: đề IOE gốc số 27, câu 87."
+    },
+    {
+      "id": 187,
+      "question": "from/ It takes/ me10 minutes/ to walk home/ the bus station./",
+      "options": [],
+      "answer": "It takes me 10 minutes to walk home from the bus station.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “bus”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “It takes me 10 minutes to walk home from the bus station.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 165."
+    },
+    {
+      "id": 188,
+      "question": "often buys/ many new clothes/ Her mother/ at weekends./ her/",
+      "options": [],
+      "answer": "Her mother often buys her many new clothes at weekends.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “many” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “Her mother often buys her many new clothes at weekends.”. Nguồn đối chiếu: đề IOE gốc số 31, câu 165."
+    },
+    {
+      "id": 189,
+      "question": "lesson do you/ the story?/ from/ learn/ What/",
+      "options": [],
+      "answer": "What lesson do you learn from the story?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “story”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “What lesson do you learn from the story?”. Nguồn đối chiếu: đề IOE gốc số 33, câu 6."
+    },
+    {
+      "id": 190,
+      "question": "easy to find a/ Is it/ apartment with/ good/ cheap price in Hanoi?/",
+      "options": [],
+      "answer": "Is it easy to find a good apartment with cheap price in Hanoi?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “good”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Is it easy to find a good apartment with cheap price in Hanoi?”. Nguồn đối chiếu: đề IOE gốc số 29, câu 8."
+    },
+    {
+      "id": 191,
+      "question": "My sister/ all day long/ in summer./ sunbathe/ wants to/",
+      "options": [],
+      "answer": "My sister wants to sunbathe all day long in summer.",
+      "explanation": "Câu gốc bị xáo trộn. Khi sắp xếp, giữ cụm chỉ lượng “all” sát với danh từ/cụm danh từ mà nó bổ nghĩa. Cụm này phải nằm đúng vị trí để thể hiện số lượng, không tách rời khỏi danh từ. Sau khi ghép đúng, câu hoàn chỉnh là: “My sister wants to sunbathe all day long in summer.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 43."
+    },
+    {
+      "id": 192,
+      "question": "flowers./ beautiful/ I walked/ to see/ around the park/",
+      "options": [],
+      "answer": "I walked around the park to see beautiful flowers.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “park”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “I walked around the park to see beautiful flowers.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 153."
+    },
+    {
+      "id": 193,
+      "question": "go to?/ primary/ did you/ Which/ school/",
+      "options": [],
+      "answer": "Which primary school did you go to?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “which” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Which primary school did you go to?”. Nguồn đối chiếu: đề IOE gốc số 35, câu 46."
+    },
+    {
+      "id": 194,
+      "question": "told us fairy/ tales when we/ were young./ My grandmother/ often/",
+      "options": [],
+      "answer": "My grandmother often told us fairy tales when we were young.",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “my” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “My grandmother often told us fairy tales when we were young.”. Nguồn đối chiếu: đề IOE gốc số 32, câu 151."
+    },
+    {
+      "id": 195,
+      "question": "holiday?/ to do/ What are you/ going/ this winter/",
+      "options": [],
+      "answer": "What are you going to do this winter holiday?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “you” làm chủ ngữ nên đứng trước cụm động từ. Sắp xếp chủ ngữ trước rồi mới đặt động từ và các thành phần bổ sung sau nó. Sau khi ghép đúng, câu hoàn chỉnh là: “What are you going to do this winter holiday?”. Nguồn đối chiếu: đề IOE gốc số 34, câu 130."
+    },
+    {
+      "id": 196,
+      "question": "homework?/ often does/ do his/ How/ John/",
+      "options": [],
+      "answer": "How often does John do his homework?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “his” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “How often does John do his homework?”. Nguồn đối chiếu: đề IOE gốc số 36, câu 20."
+    },
+    {
+      "id": 197,
+      "question": "speak?/ he/ language/ Which/ does/",
+      "options": [],
+      "answer": "Which language does he speak?",
+      "explanation": "Câu gốc bị xáo trộn. Đại từ “which” phải đứng ở vị trí ngữ pháp phù hợp trong câu: sau động từ/giới từ nếu là tân ngữ, hoặc trước danh từ nếu là từ chỉ sở hữu. Sau khi ghép đúng, câu hoàn chỉnh là: “Which language does he speak?”. Nguồn đối chiếu: đề IOE gốc số 38, câu 84."
+    },
+    {
+      "id": 198,
+      "question": "rises/ in the East/ and sets in/ the West./ The sun/",
+      "options": [],
+      "answer": "The sun rises in the East and sets in the West.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “sun”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “The sun rises in the East and sets in the West.”. Nguồn đối chiếu: đề IOE gốc số 33, câu 65."
+    },
+    {
+      "id": 199,
+      "question": "in London?/ of parks/ and gardens/ Are there/ a lot/",
+      "options": [],
+      "answer": "Are there a lot of parks and gardens in London?",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “a” ngay trước cụm danh từ “lot”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Are there a lot of parks and gardens in London?”. Nguồn đối chiếu: đề IOE gốc số 34, câu 76."
+    },
+    {
+      "id": 200,
+      "question": "Her parents/ are going/ for sightseeing./ the countryside/ to/",
+      "options": [],
+      "answer": "Her parents are going to the countryside for sightseeing.",
+      "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “countryside”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Her parents are going to the countryside for sightseeing.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 154."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
