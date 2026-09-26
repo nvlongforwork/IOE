@@ -1,0 +1,1408 @@
+{
+  "title": "IOE Lớp 8 - Chuyên đề 1 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "They kept me ____ for twenty minutes.",
+      "options": [],
+      "answer": "waiting",
+      "explanation": "The missing word/part is “waiting”. It completes “They kept me____for twenty minutes.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 2,
+      "question": "I arrived _____ home at ten fifteen last night.",
+      "options": [],
+      "answer": "Ø",
+      "explanation": "The missing word/part is “Ø”. It completes “I arrived____home at ten fifteen last night.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 3,
+      "question": "To Huu was a famous Vietnamese _____.",
+      "options": [],
+      "answer": "poet",
+      "explanation": "The missing word/part is “poet”. It completes “To Huu was a famous Vietnamese____.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 4,
+      "question": "You'd better ____ to the dentist regularly.",
+      "options": [],
+      "answer": "go",
+      "explanation": "The missing word/part is “go”. It completes “You'd better____to the dentist regularly.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 5,
+      "question": "She walks to school. It means she goes to school on _ _ _ _ .",
+      "options": [],
+      "answer": "foot",
+      "explanation": "“foot” is the appropriate vocabulary answer for the meaning and context of this item: “She walks to school. It means she goes to school on _ _ _ _ .”"
+    },
+    {
+      "id": 6,
+      "question": "Rahmad has his temperature ____ before class.",
+      "options": [],
+      "answer": "checked",
+      "explanation": "The missing word/part is “checked”. It completes “Rahmad has his temperature____before class.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 7,
+      "question": "____ energy can be cheap and clean.",
+      "options": [],
+      "answer": "Solar",
+      "explanation": "The missing word/part is “Solar”. It completes “____energy can be cheap and clean.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 8,
+      "question": "The ____ vase could be repaired.",
+      "options": [],
+      "answer": "broken",
+      "explanation": "The missing word/part is “broken”. It completes “The____vase could be repaired.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 9,
+      "question": "The cake is divided into 5 parts ____.",
+      "options": [],
+      "answer": "equally",
+      "explanation": "The missing word/part is “equally”. It completes “The cake is divided into 5 parts____.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 10,
+      "question": "He isn’t coming tonight. He might ___ next week.",
+      "options": [],
+      "answer": "come",
+      "explanation": "The missing word/part is “come”. It completes “He isn’t coming tonight. He might____next week.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 11,
+      "question": "You must be _____ when going across the road.",
+      "options": [],
+      "answer": "careful",
+      "explanation": "The missing word/part is “careful”. It completes “You must be____when going across the road.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 12,
+      "question": "It started to rain, _______ we stopped playing tennis.",
+      "options": [],
+      "answer": "so",
+      "explanation": "The missing word/part is “so”. It completes “It started to rain,____we stopped playing tennis.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 13,
+      "question": "Columbus discovered ____ in the 15th century.",
+      "options": [],
+      "answer": "America",
+      "explanation": "The missing word/part is “America”. It completes “Columbus discovered____in the 15th century.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 14,
+      "question": "I haven’t come home ____ last semester.",
+      "options": [],
+      "answer": "since",
+      "explanation": "The missing word/part is “since”. It completes “I haven’t come home____last semester.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 15,
+      "question": "___ is standing for Unidentified Flying Object.",
+      "options": [],
+      "answer": "UFO",
+      "explanation": "The missing word/part is “UFO”. It completes “____is standing for Unidentified Flying Object.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 16,
+      "question": "They are going to see the temple tomorrow. “See” here means ....",
+      "options": [],
+      "answer": "visit",
+      "explanation": "The correct answer is “visit” because it gives the appropriate word or expression for the context: “They are going to see the temple tomorrow. “See” here means ....”"
+    },
+    {
+      "id": 17,
+      "question": "In 2019, more than 1,300 tourists ____ through Sary-Mogol.",
+      "options": [],
+      "answer": "passed",
+      "explanation": "The missing word/part is “passed”. It completes “In 2019, more than 1,300 tourists____through Sary-Mogol.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 18,
+      "question": "He was ______ tired that he went to bed early.",
+      "options": [],
+      "answer": "so",
+      "explanation": "The missing word/part is “so”. It completes “He was____tired that he went to bed early.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 19,
+      "question": "If he _____ up late, he will get sick soon.",
+      "options": [],
+      "answer": "stays",
+      "explanation": "The missing word/part is “stays”. It completes “If he____up late, he will get sick soon.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 20,
+      "question": "It rained _____, so they couldn’t go out for a walk.",
+      "options": [],
+      "answer": "heavily",
+      "explanation": "The missing word/part is “heavily”. It completes “It rained____, so they couldn’t go out for a walk.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 21,
+      "question": "“Many happy returns!” – “___”",
+      "options": [],
+      "answer": "Thanks",
+      "explanation": "The missing word/part is “Thanks”. It completes ““Many happy returns!” – “____”” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 22,
+      "question": "His uncle _____ English in our school five years ago.",
+      "options": [],
+      "answer": "taught",
+      "explanation": "The missing word/part is “taught”. It completes “His uncle____English in our school five years ago.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 23,
+      "question": "Mai had to stay up late to finish her thesis ______ she is tired now.",
+      "options": [],
+      "answer": "so",
+      "explanation": "The missing word/part is “so”. It completes “Mai had to stay up late to finish her thesis____she is tired now.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 24,
+      "question": "They watched an ______ football match on TV last week.",
+      "options": [],
+      "answer": "exciting",
+      "explanation": "The missing word/part is “exciting”. It completes “They watched an____football match on TV last week.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 25,
+      "question": "Remember _______ your warm clothes when it’s cold.",
+      "options": [],
+      "answer": "to wear",
+      "explanation": "The missing word/part is “to wear”. It completes “Remember____your warm clothes when it’s cold.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 26,
+      "question": "Dad allowed Dora ____ to the party.",
+      "options": [],
+      "answer": "to go",
+      "explanation": "The missing word/part is “to go”. It completes “Dad allowed Dora____to the party.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 27,
+      "question": "It's impossible ____ in the condition.",
+      "options": [],
+      "answer": "to work",
+      "explanation": "The missing word/part is “to work”. It completes “It's impossible____in the condition.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 28,
+      "question": "They are ___ that their son won the championship.",
+      "options": [],
+      "answer": "delighted",
+      "explanation": "The missing word/part is “delighted”. It completes “They are____that their son won the championship.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 29,
+      "question": "The opposite of “hard-working” is “_ _ _ _ ”.",
+      "options": [],
+      "answer": "lazy",
+      "explanation": "“lazy” has the opposite meaning to “hard-working”, so it is the correct antonym."
+    },
+    {
+      "id": 30,
+      "question": "You are responsible ____ her ____ your serious mistakes.",
+      "options": [],
+      "answer": "to - for",
+      "explanation": "The missing word/part is “to - for”. It completes “You are responsible____her____your serious mistakes.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 31,
+      "question": "Rice ____ in many parts of Asia.",
+      "options": [],
+      "answer": "is grown",
+      "explanation": "The missing word/part is “is grown”. It completes “Rice____in many parts of Asia.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 32,
+      "question": "Lots of people choose to buy houses in the suburbs ____ they can avoid the noise and pollution in the city.",
+      "options": [],
+      "answer": "so that",
+      "explanation": "The missing word/part is “so that”. It completes “Lots of people choose to buy houses in the suburbs____they can avoid the noise and pollution in the city.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 33,
+      "question": "The policemen are happy ______ the kids safe and sound now.",
+      "options": [],
+      "answer": "to find",
+      "explanation": "The missing word/part is “to find”. It completes “The policemen are happy____the kids safe and sound now.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 34,
+      "question": "VTV is a ___ television channel in Viet Nam, and it attracts millions of TV viewers in Viet Nam.",
+      "options": [],
+      "answer": "national",
+      "explanation": "The missing word/part is “national”. It completes “VTV is a____television channel in Viet Nam, and it attracts millions of TV viewers in Viet Nam.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 35,
+      "question": "“Can you give me some information about the city?”–“___”",
+      "options": [],
+      "answer": "Certainly.",
+      "explanation": "The missing word/part is “Certainly.”. It completes ““Can you give me some information about the city?”–“____”” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 36,
+      "question": "In order to keep fit, we should do exercise ____.",
+      "options": [],
+      "answer": "regularly",
+      "explanation": "The missing word/part is “regularly”. It completes “In order to keep fit, we should do exercise____.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 37,
+      "question": "They arrived ... Malaysia ... 10 o’clock yesterday morning.",
+      "options": [],
+      "answer": "in/ at",
+      "explanation": "The correct order is “in/ at”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 38,
+      "question": "According to the WHO, 3 million people die every year _____ the harmful use of alcohol.",
+      "options": [],
+      "answer": "due to",
+      "explanation": "The missing word/part is “due to”. It completes “According to the WHO, 3 million people die every year____the harmful use of alcohol.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 39,
+      "question": "_____ sugar is produced in Vietnam every year?",
+      "options": [],
+      "answer": "How much",
+      "explanation": "The missing word/part is “How much”. It completes “____sugar is produced in Vietnam every year?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 40,
+      "question": "‘Different’ is the opposite of ‘...’.",
+      "options": [],
+      "answer": "similar",
+      "explanation": "“similar” has the opposite meaning to “the given word”, so it is the correct antonym."
+    },
+    {
+      "id": 41,
+      "question": "She arrived early in order ______ a good seat.",
+      "options": [],
+      "answer": "to get",
+      "explanation": "The missing word/part is “to get”. It completes “She arrived early in order____a good seat.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 42,
+      "question": "The manager asked me ______ the report.",
+      "options": [],
+      "answer": "to submit",
+      "explanation": "The missing word/part is “to submit”. It completes “The manager asked me____the report.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 43,
+      "question": "How about ____ Ben Thanh Market?",
+      "options": [],
+      "answer": "getting to",
+      "explanation": "The missing word/part is “getting to”. It completes “How about____Ben Thanh Market?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 44,
+      "question": "She ______ to Hanoi next Monday.",
+      "options": [],
+      "answer": "is flying",
+      "explanation": "The missing word/part is “is flying”. It completes “She____to Hanoi next Monday.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 45,
+      "question": "Give the correct form of the word REPAIR in the following sentence: My car was _ _ _ _ _ _ _ _  yesterday.",
+      "options": [],
+      "answer": "repaired",
+      "explanation": "The base word is “repair”. “repaired” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 46,
+      "question": "12-year-old Touch Pavchhay wants ____ a mobile app that makes education fun and easy.",
+      "options": [],
+      "answer": "to design",
+      "explanation": "The missing word/part is “to design”. It completes “12-year-old Touch Pavchhay wants____a mobile app that makes education fun and easy.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 47,
+      "question": "The weather forecast said it ____ heavily the following day.",
+      "options": [],
+      "answer": "would rain",
+      "explanation": "The missing word/part is “would rain”. It completes “The weather forecast said it____heavily the following day.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 48,
+      "question": "Where ___ he ___ some English students?",
+      "options": [],
+      "answer": "did - meet",
+      "explanation": "The missing word/part is “did - meet”. It completes “Where____he____some English students?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 49,
+      "question": "I am in trouble. Would you mind giving me ___?",
+      "options": [],
+      "answer": "some advice",
+      "explanation": "The missing word/part is “some advice”. It completes “I am in trouble. Would you mind giving me____?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 50,
+      "question": "Give the correct form of the word EXCITE in the following sentence: They felt _ _ _ _ _ _ _  when Tet was coming near.",
+      "options": [],
+      "answer": "excited",
+      "explanation": "The base word is “excite”. “excited” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 51,
+      "question": "Mr Parker should go to the doctor, ______?",
+      "options": [],
+      "answer": "shouldn’t he",
+      "explanation": "The missing word/part is “shouldn’t he”. It completes “Mr Parker should go to the doctor,____?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 52,
+      "question": "It’s a pity that I ___ “Green Summer” programme last year.",
+      "options": [],
+      "answer": "didn’t join",
+      "explanation": "The missing word/part is “didn’t join”. It completes “It’s a pity that I____“Green Summer” programme last year.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 53,
+      "question": "Millions of Christmas cards _____ this month.",
+      "options": [],
+      "answer": "will be sent",
+      "explanation": "The missing word/part is “will be sent”. It completes “Millions of Christmas cards____this month.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 54,
+      "question": "She ____ a letter when the telephone rang.",
+      "options": [],
+      "answer": "was writing",
+      "explanation": "The missing word/part is “was writing”. It completes “She____a letter when the telephone rang.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 55,
+      "question": "If he ______ soon, we might miss the last bus.",
+      "options": [],
+      "answer": "didn’t come",
+      "explanation": "The missing word/part is “didn’t come”. It completes “If he____soon, we might miss the last bus.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 56,
+      "question": "... you ... from George recently?",
+      "options": [],
+      "answer": "Have/ heard",
+      "explanation": "The correct order is “Have/ heard”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 57,
+      "question": "My parents always tell me ____ bad words.",
+      "options": [],
+      "answer": "not to say",
+      "explanation": "The missing word/part is “not to say”. It completes “My parents always tell me____bad words.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 58,
+      "question": "The librarian told us ____ reference books out of the library.",
+      "options": [],
+      "answer": "not to take",
+      "explanation": "The missing word/part is “not to take”. It completes “The librarian told us____reference books out of the library.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 59,
+      "question": "I have told you many times ____ the door open.",
+      "options": [],
+      "answer": "not to leave",
+      "explanation": "The missing word/part is “not to leave”. It completes “I have told you many times____the door open.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 60,
+      "question": "Give the correct form of the word SILENT in the following sentence: The boy sat _ _ _ _ _ _ _ _  for a few minutes.",
+      "options": [],
+      "answer": "silently",
+      "explanation": "The base word is “silent”. “silently” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 61,
+      "question": "Choose the correct response to the following exchange: Mike: “A motorbike knocked Ted down.” Jane: “___”",
+      "options": [],
+      "answer": "Poor Ted!",
+      "explanation": "The missing word/part is “Poor Ted!”. It completes “Choose the correct response to the following exchange: Mike: “A motorbike knocked Ted down.” Jane: “____”” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 62,
+      "question": "If I had a typewriter, I _______ the report myself.",
+      "options": [],
+      "answer": "would type",
+      "explanation": "The missing word/part is “would type”. It completes “If I had a typewriter, I____the report myself.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 63,
+      "question": "The teacher asked me _______ a passage into Vietnamese.",
+      "options": [],
+      "answer": "to translate",
+      "explanation": "The missing word/part is “to translate”. It completes “The teacher asked me____a passage into Vietnamese.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 64,
+      "question": "Give the correct form of the word HISTORY in the following sentence: London is a city of _ _ _ _ _ _ _ _  buildings and churches.",
+      "options": [],
+      "answer": "historic",
+      "explanation": "The base word is “history”. “historic” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 65,
+      "question": "You have read this article on the website, ____?",
+      "options": [],
+      "answer": "haven’t you",
+      "explanation": "The missing word/part is “haven’t you”. It completes “You have read this article on the website,____?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 66,
+      "question": "Are you used ______ to the left in England?",
+      "options": [],
+      "answer": "to driving",
+      "explanation": "The missing word/part is “to driving”. It completes “Are you used____to the left in England?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 67,
+      "question": "Give the correct form of the word DIE in the following sentence: The first COVID-19 _ _ _ _ _  was reported in United State in February 28, 2020.",
+      "options": [],
+      "answer": "death",
+      "explanation": "The base word is “die”. “death” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 68,
+      "question": "The old lighthouse in Vung Tau ____ in 1907.",
+      "options": [],
+      "answer": "was built",
+      "explanation": "The missing word/part is “was built”. It completes “The old lighthouse in Vung Tau____in 1907.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 69,
+      "question": "to Mai/ a birthday card/ I forgot/ yesterday./ to send/",
+      "options": [],
+      "answer": "I forgot to send a birthday card to Mai yesterday",
+      "explanation": "The correct order is “I forgot to send a birthday card to Mai yesterday”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 70,
+      "question": "their fields./ and use the dung/ for fertilizing/ Farmers grow food/ for their animals/",
+      "options": [],
+      "answer": "Farmers grow food for their animals and use the dung for fertilizing their fields",
+      "explanation": "The correct order is “Farmers grow food for their animals and use the dung for fertilizing their fields”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 71,
+      "question": "There will/ people in our/ country in the/ near future./ be more elderly/",
+      "options": [],
+      "answer": "There will be more elderly people in our country in the near future",
+      "explanation": "The correct order is “There will be more elderly people in our country in the near future”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 72,
+      "question": "importing flowers/ from Vietnam./ Miss. Susan visited/ many flower gardens in Dalat/ and thought of/",
+      "options": [],
+      "answer": "Miss. Susan visited many flower gardens in Dalat and thought of importing flowers from Vietnam",
+      "explanation": "The correct order is “Miss. Susan visited many flower gardens in Dalat and thought of importing flowers from Vietnam”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 73,
+      "question": "Bill Gates/ important person/ in the/ computer industry./ is a very/",
+      "options": [],
+      "answer": "Bill Gates is a very important person in the computer industry",
+      "explanation": "The correct order is “Bill Gates is a very important person in the computer industry”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 74,
+      "question": "to drink./ too hot / is / This tea /",
+      "options": [],
+      "answer": "This tea is too hot to drink",
+      "explanation": "The correct order is “This tea is too hot to drink”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 75,
+      "question": "his mother/ is very angry./ Tom is always/ going home/ late, so/",
+      "options": [],
+      "answer": "Tom is always going home late, so his mother is very angry",
+      "explanation": "The correct order is “Tom is always going home late, so his mother is very angry”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 76,
+      "question": "The chair is beside the door. “Beside” here means “...”.",
+      "options": [],
+      "answer": "next to",
+      "explanation": "The correct answer is “next to” because it gives the appropriate word or expression for the context: “The chair is beside the door. “Beside” here means “...”.”"
+    },
+    {
+      "id": 77,
+      "question": "isn't very/ My sister/ keen on/ games./ computer/",
+      "options": [],
+      "answer": "My sister isn't very keen on computer games",
+      "explanation": "The correct order is “My sister isn't very keen on computer games”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 78,
+      "question": "Many people / have an / think that / easy life./ students /",
+      "options": [],
+      "answer": "Many people think that students have an easy life",
+      "explanation": "The correct order is “Many people think that students have an easy life”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 79,
+      "question": "to get/ married./ are not/ These girls/ old enough/",
+      "options": [],
+      "answer": "These girls are not old enough to get married",
+      "explanation": "The correct order is “These girls are not old enough to get married”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 80,
+      "question": "was quite/ The journey/ different from/ what I thought/ it would be./",
+      "options": [],
+      "answer": "The journey was quite different from what I thought it would be",
+      "explanation": "The correct order is “The journey was quite different from what I thought it would be”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 81,
+      "question": "will arrange/ The secretary/ our factory/ next week./ for you to visit/",
+      "options": [],
+      "answer": "The secretary will arrange for you to visit our factory next week",
+      "explanation": "The correct order is “The secretary will arrange for you to visit our factory next week”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 82,
+      "question": "nobody could/ He locked/ disturb him./ the door/ so that/",
+      "options": [],
+      "answer": "He locked the door so that nobody could disturb him",
+      "explanation": "The correct order is “He locked the door so that nobody could disturb him”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 83,
+      "question": "1967./ established / in / was / The ASEAN /",
+      "options": [],
+      "answer": "The ASEAN was established in 1967",
+      "explanation": "The correct order is “The ASEAN was established in 1967”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 84,
+      "question": "My sister/ loves/ at night./ to watch/ the stars/",
+      "options": [],
+      "answer": "My sister loves to watch the stars at night",
+      "explanation": "The correct order is “My sister loves to watch the stars at night”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 85,
+      "question": "One of/ the important/ leaning language/ is writing./ skills in/",
+      "options": [],
+      "answer": "One of the important skills in leaning language is writing",
+      "explanation": "The correct order is “One of the important skills in leaning language is writing”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 86,
+      "question": "were talking/ noisily/ when the teacher/ The students/ came in./",
+      "options": [],
+      "answer": "The students were talking noisily when the teacher came in",
+      "explanation": "The correct order is “The students were talking noisily when the teacher came in”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 87,
+      "question": "He asked me where / the next day./ I / go / would /",
+      "options": [],
+      "answer": "He asked me where I would go the next day",
+      "explanation": "The correct order is “He asked me where I would go the next day”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 88,
+      "question": "It took/ an hour to walk/ the old woman/ to the provision shop/ and return./",
+      "options": [],
+      "answer": "It took the old woman an hour to walk to the provision shop and return",
+      "explanation": "The correct order is “It took the old woman an hour to walk to the provision shop and return”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 89,
+      "question": "Every week,/ from Ha Noi/ there are/ to Nha Trang./ two flights/",
+      "options": [],
+      "answer": "Every week, there are two flights from Ha Noi to Nha Trang",
+      "explanation": "The correct order is “Every week, there are two flights from Ha Noi to Nha Trang”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 90,
+      "question": "climbers from/ their adventure./ The storm/ prevented the/ continuing/",
+      "options": [],
+      "answer": "The storm prevented the climbers from continuing their adventure",
+      "explanation": "The correct order is “The storm prevented the climbers from continuing their adventure”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 91,
+      "question": "very often./ use it / has a car/ My brother/ but he does not /",
+      "options": [],
+      "answer": "My brother has a car but he does not use it very often",
+      "explanation": "The correct order is “My brother has a car but he does not use it very often”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 92,
+      "question": "the rice fields./ a lot of women/ rice in/ planting/ We saw/",
+      "options": [],
+      "answer": "We saw a lot of women planting rice in the rice fields",
+      "explanation": "The correct order is “We saw a lot of women planting rice in the rice fields”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 93,
+      "question": "a nuisance!/ What/ him again./ we won’t meet/ I hope/",
+      "options": [],
+      "answer": "What a nuisance! I hope we won’t meet him again",
+      "explanation": "The correct order is “What a nuisance! I hope we won’t meet him again”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 94,
+      "question": "How can/ items?/ we remember/ vocabulary/ all these/",
+      "options": [],
+      "answer": "How can we remember all these vocabulary items?",
+      "explanation": "The correct order is “How can we remember all these vocabulary items?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 95,
+      "question": "your grandfather/ do/ What does/ farm?/ on his/",
+      "options": [],
+      "answer": "What does your grandfather do on his farm?",
+      "explanation": "The correct order is “What does your grandfather do on his farm?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 96,
+      "question": "me that / new class./ enjoying his / he was / Jack told /",
+      "options": [],
+      "answer": "Jack told me that he was enjoying his new class",
+      "explanation": "The correct order is “Jack told me that he was enjoying his new class”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 97,
+      "question": "you can/ go home. / is finished/ by lunchtime/ If the work/",
+      "options": [],
+      "answer": "If the work is finished by lunchtime you can go home",
+      "explanation": "The correct order is “If the work is finished by lunchtime you can go home”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 98,
+      "question": "to meet him./ when I came/ was painting/ Mr. James/ a picture/",
+      "options": [],
+      "answer": "Mr. James was painting a picture when I came to meet him",
+      "explanation": "The correct order is “Mr. James was painting a picture when I came to meet him”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 99,
+      "question": "sunshine./ is lying/ The cat/ the morning/ leisurely in/",
+      "options": [],
+      "answer": "The cat is lying leisurely in the morning sunshine",
+      "explanation": "The correct order is “The cat is lying leisurely in the morning sunshine”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 100,
+      "question": "he is always/ Nobody wants to/ because/ neglecting his duties./ work with him/",
+      "options": [],
+      "answer": "Nobody wants to work with him because he is always neglecting his duties",
+      "explanation": "The correct order is “Nobody wants to work with him because he is always neglecting his duties”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 101,
+      "question": "people find it/ Smoking/ is unhealthy/ but lots of/ difficult to stop./",
+      "options": [],
+      "answer": "Smoking is unhealthy but lots of people find it difficult to stop",
+      "explanation": "The correct order is “Smoking is unhealthy but lots of people find it difficult to stop”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 102,
+      "question": "kind/ help me./ of you/ to/ It’s very/",
+      "options": [],
+      "answer": "It’s very kind of you to help me",
+      "explanation": "The correct order is “It’s very kind of you to help me”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 103,
+      "question": "central London./ is a/ very large/ Hyde Park/ park in/",
+      "options": [],
+      "answer": "Hyde Park is a very large park in central London",
+      "explanation": "The correct order is “Hyde Park is a very large park in central London”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 104,
+      "question": "accessible than ever before./ facilities/ easily/ Medical/ are more/",
+      "options": [],
+      "answer": "Medical facilities are more easily accessible than ever before",
+      "explanation": "The correct order is “Medical facilities are more easily accessible than ever before”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 105,
+      "question": "in the/ computer industry./ important person/ is a very/ Bill Gates/",
+      "options": [],
+      "answer": "Bill Gates is a very important person in the computer industry",
+      "explanation": "The correct order is “Bill Gates is a very important person in the computer industry”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 106,
+      "question": "His / that he should / do his homework more / teacher said / carefully./",
+      "options": [],
+      "answer": "His teacher said that he should do his homework more carefully",
+      "explanation": "The correct order is “His teacher said that he should do his homework more carefully”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 107,
+      "question": "for everyone./ difficult to/ arrange a day/ which was convenient/ It was/",
+      "options": [],
+      "answer": "It was difficult to arrange a day which was convenient for everyone",
+      "explanation": "The correct order is “It was difficult to arrange a day which was convenient for everyone”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 108,
+      "question": "are / made / from / metal./ These spoons /",
+      "options": [],
+      "answer": "These spoons are made from metal",
+      "explanation": "The correct order is “These spoons are made from metal”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 109,
+      "question": "to be/ are beautiful enough/ These kinds of flowers/ exported to/ foreign markets./",
+      "options": [],
+      "answer": "These kinds of flowers are beautiful enough to be exported to foreign markets",
+      "explanation": "The correct order is “These kinds of flowers are beautiful enough to be exported to foreign markets”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 110,
+      "question": "but has now lost/ interest in it./ pop music/ She used to/ be fond of/",
+      "options": [],
+      "answer": "She used to be fond of pop music but has now lost interest in it",
+      "explanation": "The correct order is “She used to be fond of pop music but has now lost interest in it”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 111,
+      "question": "other people laugh/ because he likes telling jokes./ Nam/ often/ makes/",
+      "options": [],
+      "answer": "Nam often makes other people laugh because he likes telling jokes",
+      "explanation": "The correct order is “Nam often makes other people laugh because he likes telling jokes”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 112,
+      "question": "______ Van Hau plays football!",
+      "options": [],
+      "answer": "How skilfully",
+      "explanation": "The missing word/part is “How skilfully”. It completes “____Van Hau plays football!” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 113,
+      "question": "touch / not to / John / the wall./ told Mary /",
+      "options": [],
+      "answer": "John told Mary not to touch the wall",
+      "explanation": "The correct order is “John told Mary not to touch the wall”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 114,
+      "question": "Friday night./ phoned to say that/ till/ they aren’t coming back/ They have just/",
+      "options": [],
+      "answer": "They have just phoned to say that they aren’t coming back till Friday night",
+      "explanation": "The correct order is “They have just phoned to say that they aren’t coming back till Friday night”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 115,
+      "question": "have an / Many people / think that / easy life./ students /",
+      "options": [],
+      "answer": "Many people think that students have an easy life",
+      "explanation": "The correct order is “Many people think that students have an easy life”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 116,
+      "question": "I didn’t sleep/ and got a/ very well that night/ terrible headache the/ following morning./",
+      "options": [],
+      "answer": "I didn’t sleep very well that night and got a terrible headache the following morning",
+      "explanation": "The correct order is “I didn’t sleep very well that night and got a terrible headache the following morning”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 117,
+      "question": "is / to drink./ This tea / too hot /",
+      "options": [],
+      "answer": "This tea is too hot to drink",
+      "explanation": "The correct order is “This tea is too hot to drink”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 118,
+      "question": "very ashamed now/ John feels/ stealing money/ from his friends./ because he was seen/",
+      "options": [],
+      "answer": "John feels very ashamed now because he was seen stealing money from his friends",
+      "explanation": "The correct order is “John feels very ashamed now because he was seen stealing money from his friends”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 119,
+      "question": "Although/ the box. / he is strong,/ he can't/ lift/",
+      "options": [],
+      "answer": "Although he is strong, he can't lift the box",
+      "explanation": "The correct order is “Although he is strong, he can't lift the box”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 120,
+      "question": "Open/ more light./ as to let in/ the windows/ wide so/",
+      "options": [],
+      "answer": "Open the windows wide so as to let in more light",
+      "explanation": "The correct order is “Open the windows wide so as to let in more light”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 121,
+      "question": "village to/ Hanoi last week./ an hour driving/ Nam spent/ from his home/",
+      "options": [],
+      "answer": "Nam spent an hour driving from his home village to Hanoi last week",
+      "explanation": "The correct order is “Nam spent an hour driving from his home village to Hanoi last week”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 122,
+      "question": "to tell you/ coming to visit/ that we are/ you next weekend./ I am calling/",
+      "options": [],
+      "answer": "I am calling to tell you that we are coming to visit you next weekend",
+      "explanation": "The correct order is “I am calling to tell you that we are coming to visit you next weekend”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 123,
+      "question": "this village/ living in/ All the people/ can speak French/ and English./",
+      "options": [],
+      "answer": "All the people living in this village can speak French and English",
+      "explanation": "The correct order is “All the people living in this village can speak French and English”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 124,
+      "question": "buy / If I / that car./ were you, / I wouldn’t /",
+      "options": [],
+      "answer": "If I were you, I wouldn’t buy that car",
+      "explanation": "The correct order is “If I were you, I wouldn’t buy that car”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 125,
+      "question": "were in beautiful school uniforms/ All the teachers/ in the English language festival./ and students/",
+      "options": [],
+      "answer": "All the teachers and students were in beautiful school uniforms in the English language festival",
+      "explanation": "The correct order is “All the teachers and students were in beautiful school uniforms in the English language festival”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 126,
+      "question": "enjoying his / me that / new class./ he was / Jack told /",
+      "options": [],
+      "answer": "Jack told me that he was enjoying his new class",
+      "explanation": "The correct order is “Jack told me that he was enjoying his new class”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 127,
+      "question": "asked/ began./ the meeting/ what time/ He/",
+      "options": [],
+      "answer": "He asked what time the meeting began",
+      "explanation": "The correct order is “He asked what time the meeting began”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 128,
+      "question": "other place/ is farther north/ The North Pole/ than any/ on earth./",
+      "options": [],
+      "answer": "The North Pole is farther north than any other place on earth",
+      "explanation": "The correct order is “The North Pole is farther north than any other place on earth”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 129,
+      "question": "but cold./ says/ will be sunny/ the weather/ The forecast/",
+      "options": [],
+      "answer": "The forecast says the weather will be sunny but cold",
+      "explanation": "The correct order is “The forecast says the weather will be sunny but cold”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 130,
+      "question": "was two / years ago./ The last time / to a concert / we went /",
+      "options": [],
+      "answer": "The last time we went to a concert was two years ago",
+      "explanation": "The correct order is “The last time we went to a concert was two years ago”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 131,
+      "question": "Traveling/ to Bach Long Vi/ interesting to us./ island by boat/ will be/",
+      "options": [],
+      "answer": "Traveling to Bach Long Vi island by boat will be interesting to us",
+      "explanation": "The correct order is “Traveling to Bach Long Vi island by boat will be interesting to us”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 132,
+      "question": "presented him one./ his uncle/ He didn’t afford/ a computer but luckily,/ from America/",
+      "options": [],
+      "answer": "He didn’t afford a computer but luckily, his uncle from America presented him one",
+      "explanation": "The correct order is “He didn’t afford a computer but luckily, his uncle from America presented him one”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 133,
+      "question": "the capital/ in the 12th century./ of Japan/ Kyoto/ used to be/",
+      "options": [],
+      "answer": "Kyoto used to be the capital of Japan in the 12th century",
+      "explanation": "The correct order is “Kyoto used to be the capital of Japan in the 12th century”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 134,
+      "question": "These animals/ the crocodile/ but/ are all/ eating/ is sleeping./",
+      "options": [],
+      "answer": "These animals are all eating but the crocodile is sleeping",
+      "explanation": "The correct order is “These animals are all eating but the crocodile is sleeping”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 135,
+      "question": "back from / When did / your holiday / in Hong Kong?/ you come /",
+      "options": [],
+      "answer": "When did you come back from your holiday in Hong Kong?",
+      "explanation": "The correct order is “When did you come back from your holiday in Hong Kong?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 136,
+      "question": "from other classes./ in the school yard/ Every Saturday afternoon,/ with my friends/ we play football/",
+      "options": [],
+      "answer": "Every Saturday afternoon, we play football in the school yard with my friends from other classes",
+      "explanation": "The correct order is “Every Saturday afternoon, we play football in the school yard with my friends from other classes”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 137,
+      "question": "eat meat so he/ a vegetarian restaurant./ prefers to have/ Cuong doesn’t/ his meals in/",
+      "options": [],
+      "answer": "Cuong doesn’t eat meat so he prefers to have his meals in a vegetarian restaurant",
+      "explanation": "The correct order is “Cuong doesn’t eat meat so he prefers to have his meals in a vegetarian restaurant”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 138,
+      "question": "my arm./ The doctor/ injected/ into/ penicillin/",
+      "options": [],
+      "answer": "The doctor injected penicillin into my arm",
+      "explanation": "The correct order is “The doctor injected penicillin into my arm”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 139,
+      "question": "encouraged me/ have always/ of career./ in my choice/ My parents/",
+      "options": [],
+      "answer": "My parents have always encouraged me in my choice of career",
+      "explanation": "The correct order is “My parents have always encouraged me in my choice of career”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 140,
+      "question": "come to / Ann’s place / for his holiday./ Jim has / decided to /",
+      "options": [],
+      "answer": "Jim has decided to come to Ann’s place for his holiday",
+      "explanation": "The correct order is “Jim has decided to come to Ann’s place for his holiday”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 141,
+      "question": "known/ each other?/ have/ How long/ you/",
+      "options": [],
+      "answer": "How long have you known each other?",
+      "explanation": "The correct order is “How long have you known each other?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 142,
+      "question": "early/ to go the cinema/ a good seat./ She decided/ to get/",
+      "options": [],
+      "answer": "She decided to go the cinema early to get a good seat",
+      "explanation": "The correct order is “She decided to go the cinema early to get a good seat”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 143,
+      "question": "this banner to/ you on/ congratulate/ We made/ winning the race./",
+      "options": [],
+      "answer": "We made this banner to congratulate you on winning the race",
+      "explanation": "The correct order is “We made this banner to congratulate you on winning the race”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 144,
+      "question": "on doing / projects / He is keen / on / handicrafts./",
+      "options": [],
+      "answer": "He is keen on doing projects on handicrafts",
+      "explanation": "The correct order is “He is keen on doing projects on handicrafts”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 145,
+      "question": "and English./ can speak French/ All the people/ living in/ this village/",
+      "options": [],
+      "answer": "All the people living in this village can speak French and English",
+      "explanation": "The correct order is “All the people living in this village can speak French and English”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 146,
+      "question": "me./ you / very kind of / It was / to help /",
+      "options": [],
+      "answer": "It was very kind of you to help me",
+      "explanation": "The correct order is “It was very kind of you to help me”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 147,
+      "question": "to you./ understand, I / will explain / it again / Unless you /",
+      "options": [],
+      "answer": "Unless you understand, I will explain it again to you",
+      "explanation": "The correct order is “Unless you understand, I will explain it again to you”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 148,
+      "question": "in/ the gallery./ is / forbidden/ Photography/",
+      "options": [],
+      "answer": "Photography is forbidden in the gallery",
+      "explanation": "The correct order is “Photography is forbidden in the gallery”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 149,
+      "question": "to reduce/ We should/ bottles/ reuse and recycle/ and cans/ garbage./",
+      "options": [],
+      "answer": "We should reuse and recycle bottles and cans to reduce garbage",
+      "explanation": "The correct order is “We should reuse and recycle bottles and cans to reduce garbage”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 150,
+      "question": "No one/ expected that/ of the company./ he would be/ the president/",
+      "options": [],
+      "answer": "No one expected that he would be the president of the company",
+      "explanation": "The correct order is “No one expected that he would be the president of the company”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 151,
+      "question": "and worse./ is getting worse/ in the world/ The problem of/ food for everyone/",
+      "options": [],
+      "answer": "The problem of food for everyone in the world is getting worse and worse",
+      "explanation": "The correct order is “The problem of food for everyone in the world is getting worse and worse”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 152,
+      "question": "They took/ Hawaiian island/ to the/ a small plane/ of Oahu./",
+      "options": [],
+      "answer": "They took a small plane to the Hawaiian island of Oahu",
+      "explanation": "The correct order is “They took a small plane to the Hawaiian island of Oahu”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 153,
+      "question": "to see/ terrible cough,/ With that/ Linda had/ a doctor./",
+      "options": [],
+      "answer": "With that terrible cough, Linda had to see a doctor",
+      "explanation": "The correct order is “With that terrible cough, Linda had to see a doctor”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 154,
+      "question": "one of/ the most/ interesting people/ I’ve met./ He is/",
+      "options": [],
+      "answer": "He is one of the most interesting people I’ve met",
+      "explanation": "The correct order is “He is one of the most interesting people I’ve met”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 155,
+      "question": "was opened/ week./ A new restaurant/ on Main Street/ last/",
+      "options": [],
+      "answer": "A new restaurant was opened on Main Street last week",
+      "explanation": "The correct order is “A new restaurant was opened on Main Street last week”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 156,
+      "question": "when they are/ at school./ high school girls/ should wear “Ao dai”/ My opinion is that/",
+      "options": [],
+      "answer": "My opinion is that high school girls should wear “Ao dai” when they are at school",
+      "explanation": "The correct order is “My opinion is that high school girls should wear “Ao dai” when they are at school”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 157,
+      "question": "It was / to help / very kind of / you / me./",
+      "options": [],
+      "answer": "It was very kind of you to help me",
+      "explanation": "The correct order is “It was very kind of you to help me”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 158,
+      "question": "not enough/ back home/ There was/ by bike./ time to go/",
+      "options": [],
+      "answer": "There was not enough time to go back home by bike",
+      "explanation": "The correct order is “There was not enough time to go back home by bike”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 159,
+      "question": "handicrafts./ on / on doing / projects / He is keen /",
+      "options": [],
+      "answer": "He is keen on doing projects on handicrafts",
+      "explanation": "The correct order is “He is keen on doing projects on handicrafts”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 160,
+      "question": "this mistake/ us to report/ Will it be/ necessary for/ to the teacher?/",
+      "options": [],
+      "answer": "Will it be necessary for us to report this mistake to the teacher?",
+      "explanation": "The correct order is “Will it be necessary for us to report this mistake to the teacher?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 161,
+      "question": "for fertilizing/ Farmers grow food/ for their animals/ their fields./ and use the dung/",
+      "options": [],
+      "answer": "Farmers grow food for their animals and use the dung for fertilizing their fields",
+      "explanation": "The correct order is “Farmers grow food for their animals and use the dung for fertilizing their fields”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 162,
+      "question": "the street./ around / wandering / much time / We spent/",
+      "options": [],
+      "answer": "We spent much time wandering around the street",
+      "explanation": "The correct order is “We spent much time wandering around the street”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 163,
+      "question": "that it's/ for you/ a difficult decision/ to make./ I appreciate/",
+      "options": [],
+      "answer": "I appreciate that it's a difficult decision for you to make",
+      "explanation": "The correct order is “I appreciate that it's a difficult decision for you to make”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 164,
+      "question": "under the fireworks/ , they’re / so sparkling./ to stand / I love /",
+      "options": [],
+      "answer": "I love to stand under the fireworks , they’re so sparkling",
+      "explanation": "The correct order is “I love to stand under the fireworks , they’re so sparkling”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 165,
+      "question": "for me / impossible / case./ It is / to lift that /",
+      "options": [],
+      "answer": "It is impossible for me to lift that case",
+      "explanation": "The correct order is “It is impossible for me to lift that case”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 166,
+      "question": "The door/ being/ painted/ by him./ is/",
+      "options": [],
+      "answer": "The door is being painted by him",
+      "explanation": "The correct order is “The door is being painted by him”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 167,
+      "question": "Our school/ has three floors/ classroom/ is on the first floor./ and my/",
+      "options": [],
+      "answer": "Our school has three floors and my classroom is on the first floor",
+      "explanation": "The correct order is “Our school has three floors and my classroom is on the first floor”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 168,
+      "question": "to tell you/ that we are/ you next weekend./ I am calling/ coming to visit/",
+      "options": [],
+      "answer": "I am calling to tell you that we are coming to visit you next weekend",
+      "explanation": "The correct order is “I am calling to tell you that we are coming to visit you next weekend”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 169,
+      "question": "prefers to have/ eat meat so he/ Cuong doesn’t/ a vegetarian restaurant./ his meals in/",
+      "options": [],
+      "answer": "Cuong doesn’t eat meat so he prefers to have his meals in a vegetarian restaurant",
+      "explanation": "The correct order is “Cuong doesn’t eat meat so he prefers to have his meals in a vegetarian restaurant”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 170,
+      "question": "the race./ In spite of/ a pain/ Jill finished/ in her leg,/",
+      "options": [],
+      "answer": "In spite of a pain in her leg, Jill finished the race",
+      "explanation": "The correct order is “In spite of a pain in her leg, Jill finished the race”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 171,
+      "question": "The ASEAN / 1967./ was / established / in /",
+      "options": [],
+      "answer": "The ASEAN was established in 1967",
+      "explanation": "The correct order is “The ASEAN was established in 1967”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 172,
+      "question": "her / to him./ He asked / describe / me to /",
+      "options": [],
+      "answer": "He asked me to describe her to him",
+      "explanation": "The correct order is “He asked me to describe her to him”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 173,
+      "question": "can grow/ potatoes/ in/ People/ this farm./",
+      "options": [],
+      "answer": "People can grow potatoes in this farm",
+      "explanation": "The correct order is “People can grow potatoes in this farm”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 174,
+      "question": "your aunt?/ Did the dressmaker / dress for / and make the / buy material /",
+      "options": [],
+      "answer": "Did the dressmaker buy material and make the dress for your aunt?",
+      "explanation": "The correct order is “Did the dressmaker buy material and make the dress for your aunt?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 175,
+      "question": "an interesting / last / There was / night./ quiz on /",
+      "options": [],
+      "answer": "There was an interesting quiz on last night",
+      "explanation": "The correct order is “There was an interesting quiz on last night”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 176,
+      "question": "took the child’s/ hand and/ helped him/ The mother/ climb the steps./",
+      "options": [],
+      "answer": "The mother took the child’s hand and helped him climb the steps",
+      "explanation": "The correct order is “The mother took the child’s hand and helped him climb the steps”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 177,
+      "question": "your car?/ mind/ Do you/ if I/ borrow/",
+      "options": [],
+      "answer": "Do you mind if I borrow your car?",
+      "explanation": "The correct order is “Do you mind if I borrow your car?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 178,
+      "question": "whether Justin/ his parents./ living with/ I wondered/ was /",
+      "options": [],
+      "answer": "I wondered whether Justin was living with his parents",
+      "explanation": "The correct order is “I wondered whether Justin was living with his parents”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 179,
+      "question": "the weather/ The forecast/ but cold./ says/ will be sunny/",
+      "options": [],
+      "answer": "The forecast says the weather will be sunny but cold",
+      "explanation": "The correct order is “The forecast says the weather will be sunny but cold”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 180,
+      "question": "I find / Harold’s / incomprehensible./ behaviour / quite /",
+      "options": [],
+      "answer": "I find Harold’s behaviour quite incomprehensible",
+      "explanation": "The correct order is “I find Harold’s behaviour quite incomprehensible”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 181,
+      "question": "worn by/ school students./ should be/ Uniform/ Secondary/",
+      "options": [],
+      "answer": "Uniform should be worn by Secondary school students",
+      "explanation": "The correct order is “Uniform should be worn by Secondary school students”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 182,
+      "question": "me / It takes / ten minutes / to go / to school./",
+      "options": [],
+      "answer": "It takes me ten minutes to go to school",
+      "explanation": "The correct order is “It takes me ten minutes to go to school”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 183,
+      "question": "looking / after/ their time/ My grandparents / spend/ the garden./",
+      "options": [],
+      "answer": "My grandparents spend their time looking after the garden",
+      "explanation": "The correct order is “My grandparents spend their time looking after the garden”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 184,
+      "question": "is crying/ her mother./ for/ in an armchair/ The baby sitting/",
+      "options": [],
+      "answer": "The baby sitting in an armchair is crying for her mother",
+      "explanation": "The correct order is “The baby sitting in an armchair is crying for her mother”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 185,
+      "question": "the news./ I'll / Tom / tell him / If I see /",
+      "options": [],
+      "answer": "If I see Tom I'll tell him the news",
+      "explanation": "The correct order is “If I see Tom I'll tell him the news”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 186,
+      "question": "the country/ was born?/ tell me/ Can you/ where she/",
+      "options": [],
+      "answer": "Can you tell me the country where she was born?",
+      "explanation": "The correct order is “Can you tell me the country where she was born?”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 187,
+      "question": "I have/ nothing/ more to/ the subject./ say on/",
+      "options": [],
+      "answer": "I have nothing more to say on the subject",
+      "explanation": "The correct order is “I have nothing more to say on the subject”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 188,
+      "question": "at/ I am/ the weekend./ going shopping/ interested in/",
+      "options": [],
+      "answer": "I am interested in going shopping at the weekend",
+      "explanation": "The correct order is “I am interested in going shopping at the weekend”. This arrangement makes a complete, meaningful sentence and keeps the vocabulary in its natural phrase(s)."
+    },
+    {
+      "id": 189,
+      "question": "Give the correct form of the word MINIMUM in the following sentence: We can protect our environment by _ _ _ _ _ _ _ _ _ _  pollution.",
+      "options": [],
+      "answer": "minimizing",
+      "explanation": "The base word is “minimum”. “minimizing” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 190,
+      "question": "“Don’t forget. We are invited out to dinner tonight.” – “___”“Pána:”Oh, I almost forgot.                        B. It’s so unforgettable.               C. OK, I’ll try it first.             D. I remember you.",
+      "options": [],
+      "answer": "Oh, I almost forgot",
+      "explanation": "The missing word/part is “Oh, I almost forgot”. It completes ““Don’t forget. We are invited out to dinner tonight.” – “____”“Pána:”Oh, I almost forgot. B. It’s so unforgettable. C. OK, I’ll try it first. D. I remember you.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 191,
+      "question": "We ___ to Ha Noi several times, but last summer we ___ by train.",
+      "options": [],
+      "answer": "have flown - went",
+      "explanation": "The missing word/part is “have flown - went”. It completes “We____to Ha Noi several times, but last summer we____by train.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 192,
+      "question": "Minh Mang Tomb ___ construction in 1841, and ___ three years later.",
+      "options": [],
+      "answer": "was started – was completed",
+      "explanation": "The missing word/part is “was started – was completed”. It completes “Minh Mang Tomb____construction in 1841, and____three years later.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 193,
+      "question": "It was ______ hot day that we decided ______ the picnic.",
+      "options": [],
+      "answer": "such a – to cancel",
+      "explanation": "The missing word/part is “such a – to cancel”. It completes “It was____hot day that we decided____the picnic.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 194,
+      "question": "My family enjoys ___ because we can sell vegetables and flowers ___ money.",
+      "options": [],
+      "answer": "gardening – for",
+      "explanation": "The missing word/part is “gardening – for”. It completes “My family enjoys____because we can sell vegetables and flowers____money.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 195,
+      "question": "Oxford University ___ the oldest university in the English speaking world.",
+      "options": [],
+      "answer": "is regarded as",
+      "explanation": "The missing word/part is “is regarded as”. It completes “Oxford University____the oldest university in the English speaking world.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 196,
+      "question": "Give the correct form of the word VILLAGE in the following sentence: These _ _ _ _ _ _ _ _ _  live mainly on farming and making incenses when crops are over.",
+      "options": [],
+      "answer": "villagers",
+      "explanation": "The base word is “village”. “villagers” is the form that fits the grammar and meaning of the sentence."
+    },
+    {
+      "id": 197,
+      "question": "What _____ at 8 a.m. yesterday?",
+      "options": [],
+      "answer": "were you doing",
+      "explanation": "The missing word/part is “were you doing”. It completes “What____at 8 a.m. yesterday?” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 198,
+      "question": "In the future, robots will be able to do ___ things than they do now.",
+      "options": [],
+      "answer": "more complicated",
+      "explanation": "The missing word/part is “more complicated”. It completes “In the future, robots will be able to do____things than they do now.” with the intended meaning and natural English usage."
+    },
+    {
+      "id": 199,
+      "question": "’’You can’t step on the grass’’ means ’’...’’.",
+      "options": [],
+      "answer": "Don’t step on the grass",
+      "explanation": "The correct answer is “Don’t step on the grass” because it gives the appropriate word or expression for the context: “’’You can’t step on the grass’’ means ’’...’’.”"
+    },
+    {
+      "id": 200,
+      "question": "The opposite of ’’sensible’’ is:",
+      "options": [],
+      "answer": "unreasonable",
+      "explanation": "“unreasonable” has the opposite meaning to “the given word”, so it is the correct antonym."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
