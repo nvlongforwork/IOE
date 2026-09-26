@@ -1,0 +1,1408 @@
+{
+  "title": "IOE Lớp 8 - Chuyên đề 2 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "The doctor is/ that the girl/ relieved to know/ falling off her bike/ is still conscious./",
+      "options": [],
+      "answer": "The doctor is relieved to know that the girl falling off her bike is still conscious",
+      "explanation": "The correct order is “The doctor is relieved to know that the girl falling off her bike is still conscious”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 2,
+      "question": "My lawyer / anything / advised me / to the police./ not to say /",
+      "options": [],
+      "answer": "My lawyer advised me not to say anything to the police",
+      "explanation": "The correct order is “My lawyer advised me not to say anything to the police”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 3,
+      "question": "to radio./ The majority/ of people/ prefer TV/ interviewed /",
+      "options": [],
+      "answer": "The majority of people interviewed prefer TV to radio",
+      "explanation": "The correct order is “The majority of people interviewed prefer TV to radio”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 4,
+      "question": "and learned/ lived./ We went/ how dinosaurs/ dinosaur museum/ to the/",
+      "options": [],
+      "answer": "We went to the dinosaur museum and learned how dinosaurs lived",
+      "explanation": "The correct order is “We went to the dinosaur museum and learned how dinosaurs lived”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 5,
+      "question": "We broke / tradition by / travelling / with / abroad at Tet./",
+      "options": [],
+      "answer": "We broke with tradition by travelling abroad at Tet",
+      "explanation": "The correct order is “We broke with tradition by travelling abroad at Tet”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 6,
+      "question": "They/ a day to visit/ all the tourist/ attractions./ only had/",
+      "options": [],
+      "answer": "They only had a day to visit all the tourist attractions",
+      "explanation": "The correct order is “They only had a day to visit all the tourist attractions”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 7,
+      "question": "soon revived/ the brandy/ her./ but/ She fainted/",
+      "options": [],
+      "answer": "She fainted but the brandy soon revived her",
+      "explanation": "The correct order is “She fainted but the brandy soon revived her”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 8,
+      "question": "redundant./ 600 workers/ compulsorily/ Over/ were made/",
+      "options": [],
+      "answer": "Over 600 workers were made compulsorily redundant",
+      "explanation": "The correct order is “Over 600 workers were made compulsorily redundant”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 9,
+      "question": "shown on TV/ around Ba Be Lake./ The natural program/ last night/ was about wildlife/",
+      "options": [],
+      "answer": "The natural program shown on TV last night was about wildlife around Ba Be Lake",
+      "explanation": "The correct order is “The natural program shown on TV last night was about wildlife around Ba Be Lake”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 10,
+      "question": "the countryside./ buffalo told us/ a lot about/ The boy/ riding a water/",
+      "options": [],
+      "answer": "The boy riding a water buffalo told us a lot about the countryside",
+      "explanation": "The correct order is “The boy riding a water buffalo told us a lot about the countryside”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 11,
+      "question": "in the countryside/ plans to live/ after he retires./ My father/ permanently/",
+      "options": [],
+      "answer": "My father plans to live permanently in the countryside after he retires",
+      "explanation": "The correct order is “My father plans to live permanently in the countryside after he retires”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 12,
+      "question": "the room/ out of/ when the/ phone rang./ I ran/",
+      "options": [],
+      "answer": "I ran out of the room when the phone rang",
+      "explanation": "The correct order is “I ran out of the room when the phone rang”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 13,
+      "question": "for this disease./ Doctors/ a better treatment/ in finding/ have succeeded/",
+      "options": [],
+      "answer": "Doctors have succeeded in finding a better treatment for this disease",
+      "explanation": "The correct order is “Doctors have succeeded in finding a better treatment for this disease”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 14,
+      "question": "came into/ he/ my house./ as soon as/ Recognized her/",
+      "options": [],
+      "answer": "Recognized her as soon as he came into my house",
+      "explanation": "The correct order is “Recognized her as soon as he came into my house”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 15,
+      "question": "Nam is/ in order to/ to work earlier/ going to get/ impress the boss./",
+      "options": [],
+      "answer": "Nam is going to get to work earlier in order to impress the boss",
+      "explanation": "The correct order is “Nam is going to get to work earlier in order to impress the boss”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 16,
+      "question": "with your friends./ Thanks to the/ to keep in touch/ won’t be difficult/ internet, it/",
+      "options": [],
+      "answer": "Thanks to the internet, it won’t be difficult to keep in touch with your friends",
+      "explanation": "The correct order is “Thanks to the internet, it won’t be difficult to keep in touch with your friends”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 17,
+      "question": "office?/ Can you / tickets from / the college / get the /",
+      "options": [],
+      "answer": "Can you get the tickets from the college office?",
+      "explanation": "The correct order is “Can you get the tickets from the college office?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 18,
+      "question": "Friday night./ They have just/ they aren’t coming back/ till/ phoned to say that/",
+      "options": [],
+      "answer": "They have just phoned to say that they aren’t coming back till Friday night",
+      "explanation": "The correct order is “They have just phoned to say that they aren’t coming back till Friday night”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 19,
+      "question": "We are going/ the animals./ to give/ to look after/ some money/ to the zoo/",
+      "options": [],
+      "answer": "We are going to give some money to the zoo to look after the animals",
+      "explanation": "The correct order is “We are going to give some money to the zoo to look after the animals”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 20,
+      "question": "difficult to/ for everyone./ which was convenient/ It was/ arrange a day/",
+      "options": [],
+      "answer": "It was difficult to arrange a day which was convenient for everyone",
+      "explanation": "The correct order is “It was difficult to arrange a day which was convenient for everyone”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 21,
+      "question": "made tomorrow/ The final team/ will be/ selection/ morning./",
+      "options": [],
+      "answer": "The final team selection will be made tomorrow morning",
+      "explanation": "The correct order is “The final team selection will be made tomorrow morning”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 22,
+      "question": "launch a/ are going to/ The police/ reduce road accidents./ campaign to/",
+      "options": [],
+      "answer": "The police are going to launch a campaign to reduce road accidents",
+      "explanation": "The correct order is “The police are going to launch a campaign to reduce road accidents”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 23,
+      "question": "your aunt?/ Did the dressmaker / buy material / dress for / and make the /",
+      "options": [],
+      "answer": "Did the dressmaker buy material and make the dress for your aunt?",
+      "explanation": "The correct order is “Did the dressmaker buy material and make the dress for your aunt?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 24,
+      "question": "Scientists are/ of energy./ trying to find/ sources/ other alternative/",
+      "options": [],
+      "answer": "Scientists are trying to find other alternative sources of energy",
+      "explanation": "The correct order is “Scientists are trying to find other alternative sources of energy”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 25,
+      "question": "it take/ you to/ get there?/ How long/ does/",
+      "options": [],
+      "answer": "How long does it take you to get there?",
+      "explanation": "The correct order is “How long does it take you to get there?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 26,
+      "question": "of / me / finishing the assignment on / time./ Blake reminded /",
+      "options": [],
+      "answer": "Blake reminded me of finishing the assignment on time",
+      "explanation": "The correct order is “Blake reminded me of finishing the assignment on time”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 27,
+      "question": "My mother/ I am./ cook than/ is/ a better/",
+      "options": [],
+      "answer": "My mother is a better cook than I am",
+      "explanation": "The correct order is “My mother is a better cook than I am”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 28,
+      "question": "now high/ how to care/ It is/ for your parents./ time you knew/",
+      "options": [],
+      "answer": "It is now high time you knew how to care for your parents",
+      "explanation": "The correct order is “It is now high time you knew how to care for your parents”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 29,
+      "question": "he was / Jack told / new class./ enjoying his / me that /",
+      "options": [],
+      "answer": "Jack told me that he was enjoying his new class",
+      "explanation": "The correct order is “Jack told me that he was enjoying his new class”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 30,
+      "question": "the next month./ Mr. Nam/ go to Nha Trang/ said/ he would/",
+      "options": [],
+      "answer": "Mr. Nam said he would go to Nha Trang the next month",
+      "explanation": "The correct order is “Mr. Nam said he would go to Nha Trang the next month”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 31,
+      "question": "and the girls/ because it’s raining./ the schoolyard/ Today the boys/ can’t play in/",
+      "options": [],
+      "answer": "Today the boys and the girls can’t play in the schoolyard because it’s raining",
+      "explanation": "The correct order is “Today the boys and the girls can’t play in the schoolyard because it’s raining”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 32,
+      "question": "but it won't/ work in practice./ good,/ His plan is/ theoretically/",
+      "options": [],
+      "answer": "His plan is theoretically good, but it won't work in practice",
+      "explanation": "The correct order is “His plan is theoretically good, but it won't work in practice”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 33,
+      "question": "We want/ to make/ and safe place/ for dolphins./ the sea/ a clean/",
+      "options": [],
+      "answer": "We want to make the sea a clean and safe place for dolphins",
+      "explanation": "The correct order is “We want to make the sea a clean and safe place for dolphins”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 34,
+      "question": "was tiring/ The journey/ interesting./ but very/ to the village/",
+      "options": [],
+      "answer": "The journey to the village was tiring but very interesting",
+      "explanation": "The correct order is “The journey to the village was tiring but very interesting”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 35,
+      "question": "from his toothache./ in order to/ Trung finally/ went to the dentist/ get some relief/",
+      "options": [],
+      "answer": "Trung finally went to the dentist in order to get some relief from his toothache",
+      "explanation": "The correct order is “Trung finally went to the dentist in order to get some relief from his toothache”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 36,
+      "question": "We took/ and ate it/ on the grass./ our lunch/ into the garden/",
+      "options": [],
+      "answer": "We took our lunch into the garden and ate it on the grass",
+      "explanation": "The correct order is “We took our lunch into the garden and ate it on the grass”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 37,
+      "question": "Compost made/ natural fertilizer./ is considered/ from vegetable matter/ a wonderful/",
+      "options": [],
+      "answer": "Compost made from vegetable matter is considered a wonderful natural fertilizer",
+      "explanation": "The correct order is “Compost made from vegetable matter is considered a wonderful natural fertilizer”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 38,
+      "question": "He didn’t afford/ from America/ his uncle/ a computer but luckily,/ presented him one./",
+      "options": [],
+      "answer": "He didn’t afford a computer but luckily, his uncle from America presented him one",
+      "explanation": "The correct order is “He didn’t afford a computer but luckily, his uncle from America presented him one”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 39,
+      "question": "the goods/ made in/ this factory/ Most of/ are exported./",
+      "options": [],
+      "answer": "Most of the goods made in this factory are exported",
+      "explanation": "The correct order is “Most of the goods made in this factory are exported”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 40,
+      "question": "old school./ many students/ of November last year,/ visited their/ On the twentieth/",
+      "options": [],
+      "answer": "On the twentieth of November last year, many students visited their old school",
+      "explanation": "The correct order is “On the twentieth of November last year, many students visited their old school”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 41,
+      "question": "wine is / of / The price / rising/ again./",
+      "options": [],
+      "answer": "The price of wine is rising again",
+      "explanation": "The correct order is “The price of wine is rising again”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 42,
+      "question": "without costumes./ but we can’t/ is waiting,/ The audience/ perform the play/",
+      "options": [],
+      "answer": "The audience is waiting, but we can’t perform the play without costumes",
+      "explanation": "The correct order is “The audience is waiting, but we can’t perform the play without costumes”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 43,
+      "question": "in Hanoi/ What’s/ the highest/ this summer?/ temperature/",
+      "options": [],
+      "answer": "What’s the highest temperature in Hanoi this summer?",
+      "explanation": "The correct order is “What’s the highest temperature in Hanoi this summer?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 44,
+      "question": "The woman talking/ about protecting/ historical building./ to headmaster/ will make a speech/",
+      "options": [],
+      "answer": "The woman talking to headmaster will make a speech about protecting historical building",
+      "explanation": "The correct order is “The woman talking to headmaster will make a speech about protecting historical building”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 45,
+      "question": "reuse/ that/ plastic bag?/ Why/ don’t you/",
+      "options": [],
+      "answer": "Why don’t you reuse that plastic bag?",
+      "explanation": "The correct order is “Why don’t you reuse that plastic bag?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 46,
+      "question": "next weekend./ to his/ birthday party/ an invitation/ Jane sends me/",
+      "options": [],
+      "answer": "Jane sends me an invitation to his birthday party next weekend",
+      "explanation": "The correct order is “Jane sends me an invitation to his birthday party next weekend”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 47,
+      "question": "I am very / you are visiting / us next Sunday./ hear that / pleased to/",
+      "options": [],
+      "answer": "I am very pleased to hear that you are visiting us next Sunday",
+      "explanation": "The correct order is “I am very pleased to hear that you are visiting us next Sunday”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 48,
+      "question": "Wales and/ The United Kingdom/ England, Scotland,/ Northern Ireland./ consists of/",
+      "options": [],
+      "answer": "The United Kingdom consists of England, Scotland, Wales and Northern Ireland",
+      "explanation": "The correct order is “The United Kingdom consists of England, Scotland, Wales and Northern Ireland”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 49,
+      "question": "reuse and recycle/ We should/ bottles/ garbage./ to reduce/ and cans/",
+      "options": [],
+      "answer": "We should reuse and recycle bottles and cans to reduce garbage",
+      "explanation": "The correct order is “We should reuse and recycle bottles and cans to reduce garbage”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 50,
+      "question": "not/ is/ allowed/ here./ Parking/",
+      "options": [],
+      "answer": "Parking is not allowed here",
+      "explanation": "The correct order is “Parking is not allowed here”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 51,
+      "question": "Around/ and pine hills./ the Prenn Falls/ of various flowers/ is the valley/",
+      "options": [],
+      "answer": "Around the Prenn Falls is the valley of various flowers and pine hills",
+      "explanation": "The correct order is “Around the Prenn Falls is the valley of various flowers and pine hills”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 52,
+      "question": "48 hours/ should be/ Flights/ before departure./ confirmed/",
+      "options": [],
+      "answer": "Flights should be confirmed 48 hours before departure",
+      "explanation": "The correct order is “Flights should be confirmed 48 hours before departure”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 53,
+      "question": "has its/ own advantages/ and disadvantages./ Urban life/ or rural life/",
+      "options": [],
+      "answer": "Urban life or rural life has its own advantages and disadvantages",
+      "explanation": "The correct order is “Urban life or rural life has its own advantages and disadvantages”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 54,
+      "question": "video room. / the librarian/ are following/ to the/ Some students/",
+      "options": [],
+      "answer": "Some students are following the librarian to the video room",
+      "explanation": "The correct order is “Some students are following the librarian to the video room”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 55,
+      "question": "consumption./ solar panels/ to save energy/ We should use/ and reduce energy/",
+      "options": [],
+      "answer": "We should use solar panels to save energy and reduce energy consumption",
+      "explanation": "The correct order is “We should use solar panels to save energy and reduce energy consumption”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 56,
+      "question": "back from / your holiday / in Hong Kong?/ When did / you come /",
+      "options": [],
+      "answer": "When did you come back from your holiday in Hong Kong?",
+      "explanation": "The correct order is “When did you come back from your holiday in Hong Kong?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 57,
+      "question": "he came to give us/ some latest news/ watching TV,/ When we were/ about our ill uncle./",
+      "options": [],
+      "answer": "When we were watching TV, he came to give us some latest news about our ill uncle",
+      "explanation": "The correct order is “When we were watching TV, he came to give us some latest news about our ill uncle”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 58,
+      "question": "the most lovely./ thought the / little fish were / colorful / My little daughter /",
+      "options": [],
+      "answer": "My little daughter thought the colorful little fish were the most lovely",
+      "explanation": "The correct order is “My little daughter thought the colorful little fish were the most lovely”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 59,
+      "question": "sorry/ forgotten/ I’m/ the tickets./ for having/",
+      "options": [],
+      "answer": "I’m sorry for having forgotten the tickets",
+      "explanation": "The correct order is “I’m sorry for having forgotten the tickets”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 60,
+      "question": "blew my hat / was so/ strong that it/ The wind/ offmy head./",
+      "options": [],
+      "answer": "The wind was so strong that it blew my hat off my head",
+      "explanation": "The correct order is “The wind was so strong that it blew my hat off my head”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 61,
+      "question": "Nam spent/ village to/ from his home/ an hour driving/ Hanoi last week./",
+      "options": [],
+      "answer": "Nam spent an hour driving from his home village to Hanoi last week",
+      "explanation": "The correct order is “Nam spent an hour driving from his home village to Hanoi last week”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 62,
+      "question": "can buy their food/ lines so they/ up in straight/ and drinks quickly./ The students queue/",
+      "options": [],
+      "answer": "The students queue up in straight lines so they can buy their food and drinks quickly",
+      "explanation": "The correct order is “The students queue up in straight lines so they can buy their food and drinks quickly”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 63,
+      "question": "pictures and/ the world into/ millions of homes./ Television brings/ sounds from around/",
+      "options": [],
+      "answer": "Television brings pictures and sounds from around the world into millions of homes",
+      "explanation": "The correct order is “Television brings pictures and sounds from around the world into millions of homes”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 64,
+      "question": "does it/ take you/ your home village?/ to get to/ How long/",
+      "options": [],
+      "answer": "How long does it take you to get to your home village?",
+      "explanation": "The correct order is “How long does it take you to get to your home village?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 65,
+      "question": "is the great/ can pay./ to someone/ To listen/ compliment you/",
+      "options": [],
+      "answer": "To listen to someone is the great compliment you can pay",
+      "explanation": "The correct order is “To listen to someone is the great compliment you can pay”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 66,
+      "question": "down./ my car’s / afraid / I’m / broken /",
+      "options": [],
+      "answer": "I’m afraid my car’s broken down",
+      "explanation": "The correct order is “I’m afraid my car’s broken down”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 67,
+      "question": "the exam/ yesterday./ It took me/ two hours/ to finish/",
+      "options": [],
+      "answer": "It took me two hours to finish the exam yesterday",
+      "explanation": "The correct order is “It took me two hours to finish the exam yesterday”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 68,
+      "question": "living with/ I wondered/ whether Justin/ was / his parents./",
+      "options": [],
+      "answer": "I wondered whether Justin was living with his parents",
+      "explanation": "The correct order is “I wondered whether Justin was living with his parents”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 69,
+      "question": "when leaving/ the classroom./ the lights/ to turn off/ Don’t forget/",
+      "options": [],
+      "answer": "Don’t forget to turn off the lights when leaving the classroom",
+      "explanation": "The correct order is “Don’t forget to turn off the lights when leaving the classroom”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 70,
+      "question": "will not./ to give a hand/ seems that they/ I have asked them/ but it/",
+      "options": [],
+      "answer": "I have asked them to give a hand but it seems that they will not",
+      "explanation": "The correct order is “I have asked them to give a hand but it seems that they will not”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 71,
+      "question": "Medical/ accessible than ever before./ are more/ facilities/ easily/",
+      "options": [],
+      "answer": "Medical facilities are more easily accessible than ever before",
+      "explanation": "The correct order is “Medical facilities are more easily accessible than ever before”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 72,
+      "question": "night./ There was / an interesting / last / quiz on /",
+      "options": [],
+      "answer": "There was an interesting quiz on last night",
+      "explanation": "The correct order is “There was an interesting quiz on last night”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 73,
+      "question": "an invitation/ next weekend./ Jane sends me/ birthday party/ to his/",
+      "options": [],
+      "answer": "Jane sends me an invitation to his birthday party next weekend",
+      "explanation": "The correct order is “Jane sends me an invitation to his birthday party next weekend”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 74,
+      "question": "from the letters / the stamps / always give you / she received?/ Does she /",
+      "options": [],
+      "answer": "Does she always give you the stamps from the letters she received?",
+      "explanation": "The correct order is “Does she always give you the stamps from the letters she received?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 75,
+      "question": "should be/ school students./ Uniform/ Secondary/ worn by/",
+      "options": [],
+      "answer": "Uniform should be worn by Secondary school students",
+      "explanation": "The correct order is “Uniform should be worn by Secondary school students”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 76,
+      "question": "she tell him/ pronunciation?/ to improve/ his French/ What did/",
+      "options": [],
+      "answer": "What did she tell him to improve his French pronunciation?",
+      "explanation": "The correct order is “What did she tell him to improve his French pronunciation?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 77,
+      "question": "broke the/ Mai/ carelessness./ glass because/ of her/",
+      "options": [],
+      "answer": "Mai broke the glass because of her carelessness",
+      "explanation": "The correct order is “Mai broke the glass because of her carelessness”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 78,
+      "question": "opens the present/ When his girl friend/ she sees a spider./ she screams/ with fright because/",
+      "options": [],
+      "answer": "When his girl friend opens the present she screams with fright because she sees a spider",
+      "explanation": "The correct order is “When his girl friend opens the present she screams with fright because she sees a spider”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 79,
+      "question": "the most popular/ is one of/ in Britain./ Torquay/ holiday resorts/",
+      "options": [],
+      "answer": "Torquay is one of the most popular holiday resorts in Britain",
+      "explanation": "The correct order is “Torquay is one of the most popular holiday resorts in Britain”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 80,
+      "question": "of the Vietnamese people. / and respect for/ teachers are among/ the traditional values/ Promotion of learning/",
+      "options": [],
+      "answer": "Promotion of learning and respect for teachers are among the traditional values of the Vietnamese people",
+      "explanation": "The correct order is “Promotion of learning and respect for teachers are among the traditional values of the Vietnamese people”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 81,
+      "question": "today./ to finish/ the work/ It isn't/ necessary/",
+      "options": [],
+      "answer": "It isn't necessary to finish the work today",
+      "explanation": "The correct order is “It isn't necessary to finish the work today”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 82,
+      "question": "greeted hundreds/ of boys and/ girls in uniform./ The smell/ of fresh paint/",
+      "options": [],
+      "answer": "The smell of fresh paint greeted hundreds of boys and girls in uniform",
+      "explanation": "The correct order is “The smell of fresh paint greeted hundreds of boys and girls in uniform”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 83,
+      "question": "this afternoon./ going to/ Mai is/ plant trees/ along the streets/",
+      "options": [],
+      "answer": "Mai is going to plant trees along the streets this afternoon",
+      "explanation": "The correct order is “Mai is going to plant trees along the streets this afternoon”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 84,
+      "question": "all day./ tiring chores/ do/ Her step-mother/ made her/",
+      "options": [],
+      "answer": "Her step-mother made her do tiring chores all day",
+      "explanation": "The correct order is “Her step-mother made her do tiring chores all day”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 85,
+      "question": "questions so as/ to understand/ The students/ the lesson./ asked many/",
+      "options": [],
+      "answer": "The students asked many questions so as to understand the lesson",
+      "explanation": "The correct order is “The students asked many questions so as to understand the lesson”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 86,
+      "question": "to reduce/ pollution./ we should/ I think/ use buses/",
+      "options": [],
+      "answer": "I think we should use buses to reduce pollution",
+      "explanation": "The correct order is “I think we should use buses to reduce pollution”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 87,
+      "question": "by car/ or by bus?/ you like/ to go/ Would/",
+      "options": [],
+      "answer": "Would you like to go by car or by bus?",
+      "explanation": "The correct order is “Would you like to go by car or by bus?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 88,
+      "question": "so excited/ Susan was/ that she/ sleep./ couldn't/",
+      "options": [],
+      "answer": "Susan was so excited that she couldn't sleep",
+      "explanation": "The correct order is “Susan was so excited that she couldn't sleep”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 89,
+      "question": "how to / his house./ Harry / get to/ shows Jinko /",
+      "options": [],
+      "answer": "Harry shows Jinko how to get to his house",
+      "explanation": "The correct order is “Harry shows Jinko how to get to his house”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 90,
+      "question": "in order to/ early this morning/ I have to get up/ get to the meeting/ on time./",
+      "options": [],
+      "answer": "I have to get up early this morning in order to get to the meeting on time",
+      "explanation": "The correct order is “I have to get up early this morning in order to get to the meeting on time”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 91,
+      "question": "the weekend./ I am/ at/ going shopping/ interested in/",
+      "options": [],
+      "answer": "I am interested in going shopping at the weekend",
+      "explanation": "The correct order is “I am interested in going shopping at the weekend”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 92,
+      "question": "always/ to help/ the poor./ advise me/ My parents/",
+      "options": [],
+      "answer": "My parents always advise me to help the poor",
+      "explanation": "The correct order is “My parents always advise me to help the poor”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 93,
+      "question": "you/ Would/ the door?/ closing/ mind/",
+      "options": [],
+      "answer": "Would you mind closing the door?",
+      "explanation": "The correct order is “Would you mind closing the door?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 94,
+      "question": "are getting wet./ the bus/ The people/ waiting for/ in the rain/",
+      "options": [],
+      "answer": "The people waiting for the bus in the rain are getting wet",
+      "explanation": "The correct order is “The people waiting for the bus in the rain are getting wet”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 95,
+      "question": "planting/ rice in/ the rice fields./ We saw/ a lot of women/",
+      "options": [],
+      "answer": "We saw a lot of women planting rice in the rice fields",
+      "explanation": "The correct order is “We saw a lot of women planting rice in the rice fields”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 96,
+      "question": "is / Loch Ness Monster / Nessie./ called / also /",
+      "options": [],
+      "answer": "Loch Ness Monster is also called Nessie",
+      "explanation": "The correct order is “Loch Ness Monster is also called Nessie”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 97,
+      "question": "the students/ scientific/ some/ The teacher gave/ books./",
+      "options": [],
+      "answer": "The teacher gave the students some scientific books",
+      "explanation": "The correct order is “The teacher gave the students some scientific books”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 98,
+      "question": "out./ was pouring/ the volcano/ We flew over/ and saw lava/",
+      "options": [],
+      "answer": "We flew over the volcano and saw lava was pouring out",
+      "explanation": "The correct order is “We flew over the volcano and saw lava was pouring out”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 99,
+      "question": "Edward/ bigger flat/ and is about/ to move into it./ has found a/",
+      "options": [],
+      "answer": "Edward has found a bigger flat and is about to move into it",
+      "explanation": "The correct order is “Edward has found a bigger flat and is about to move into it”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 100,
+      "question": "any/ have to/ fill in/ forms?/ Do I/",
+      "options": [],
+      "answer": "Do I have to fill in any forms?",
+      "explanation": "The correct order is “Do I have to fill in any forms?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 101,
+      "question": "because/ the tree/ he wanted to get/ a better view./ He climbed/",
+      "options": [],
+      "answer": "He climbed the tree because he wanted to get a better view",
+      "explanation": "The correct order is “He climbed the tree because he wanted to get a better view”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 102,
+      "question": "wants her to/ to be a singer/ but her mother/ Linda wants/ be a teacher./",
+      "options": [],
+      "answer": "Linda wants to be a singer but her mother wants her to be a teacher",
+      "explanation": "The correct order is “Linda wants to be a singer but her mother wants her to be a teacher”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 103,
+      "question": "and have nothing/ boring to stay at home/ to do on/ It is really/ rainy days./",
+      "options": [],
+      "answer": "It is really boring to stay at home and have nothing to do on rainy days",
+      "explanation": "The correct order is “It is really boring to stay at home and have nothing to do on rainy days”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 104,
+      "question": "looked/ his prize./ to receiving/ Roger Federer/ forward/",
+      "options": [],
+      "answer": "Roger Federer looked forward to receiving his prize",
+      "explanation": "The correct order is “Roger Federer looked forward to receiving his prize”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 105,
+      "question": "the bus/ in the rain/ The people/ waiting for/ are getting wet./",
+      "options": [],
+      "answer": "The people waiting for the bus in the rain are getting wet",
+      "explanation": "The correct order is “The people waiting for the bus in the rain are getting wet”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 106,
+      "question": "power machines./ people have/ used water to/ long time,/ For a/",
+      "options": [],
+      "answer": "For a long time, people have used water to power machines",
+      "explanation": "The correct order is “For a long time, people have used water to power machines”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 107,
+      "question": "Mary always/ to school./ on her way/ walks past/ the cathedral/",
+      "options": [],
+      "answer": "Mary always walks past the cathedral on her way to school",
+      "explanation": "The correct order is “Mary always walks past the cathedral on her way to school”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 108,
+      "question": "is situated/ My house/ of flowers./ behind a large garden/ of a wide range/",
+      "options": [],
+      "answer": "My house is situated behind a large garden of a wide range of flowers",
+      "explanation": "The correct order is “My house is situated behind a large garden of a wide range of flowers”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 109,
+      "question": "school / I finished / then went / to university./ last year and /",
+      "options": [],
+      "answer": "I finished school last year and then went to university",
+      "explanation": "The correct order is “I finished school last year and then went to university”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 110,
+      "question": "When I/ a bell nowadays./ was young,/ the school used a/ drum instead of/",
+      "options": [],
+      "answer": "When I was young, the school used a drum instead of a bell nowadays",
+      "explanation": "The correct order is “When I was young, the school used a drum instead of a bell nowadays”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 111,
+      "question": "the teacher’s/ instructions / exactly./ carry out / You must /",
+      "options": [],
+      "answer": "You must carry out the teacher’s instructions exactly",
+      "explanation": "The correct order is “You must carry out the teacher’s instructions exactly”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 112,
+      "question": "because they wanted/ summer holiday./ They saved/ their money/ to have a good/",
+      "options": [],
+      "answer": "They saved their money because they wanted to have a good summer holiday",
+      "explanation": "The correct order is “They saved their money because they wanted to have a good summer holiday”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 113,
+      "question": "said that / She / truth./ telling the / she was /",
+      "options": [],
+      "answer": "She said that she was telling the truth",
+      "explanation": "The correct order is “She said that she was telling the truth”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 114,
+      "question": "a strange object/ appeared in the sky./ were driving/ When we/ down the hill,/",
+      "options": [],
+      "answer": "When we were driving down the hill, a strange object appeared in the sky",
+      "explanation": "The correct order is “When we were driving down the hill, a strange object appeared in the sky”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 115,
+      "question": "been really / I’ve / out about / stressed / the final exam../",
+      "options": [],
+      "answer": "I’ve been really stressed out about the final exam",
+      "explanation": "The correct order is “I’ve been really stressed out about the final exam”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 116,
+      "question": "Binef/ wants/ to learn/ about/ auto mechanics./",
+      "options": [],
+      "answer": "Binef wants to learn about auto mechanics",
+      "explanation": "The correct order is “Binef wants to learn about auto mechanics”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 117,
+      "question": "It is / impossible / case./ to lift that / for me /",
+      "options": [],
+      "answer": "It is impossible for me to lift that case",
+      "explanation": "The correct order is “It is impossible for me to lift that case”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 118,
+      "question": "is one of the / Golden Gate / world./ famous / bridges in the /",
+      "options": [],
+      "answer": "Golden Gate is one of the famous bridges in the world",
+      "explanation": "The correct order is “Golden Gate is one of the famous bridges in the world”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 119,
+      "question": "He suggested/ read the instructions/ on the machine./ before I switched/ that I should/",
+      "options": [],
+      "answer": "He suggested that I should read the instructions before I switched on the machine",
+      "explanation": "The correct order is “He suggested that I should read the instructions before I switched on the machine”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 120,
+      "question": "Many people/ natural resources/ will never/ be used up./ still believe that/",
+      "options": [],
+      "answer": "Many people still believe that natural resources will never be used up",
+      "explanation": "The correct order is “Many people still believe that natural resources will never be used up”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 121,
+      "question": "The horse/ was so/ could ride it./ excitable that/ no one/",
+      "options": [],
+      "answer": "The horse was so excitable that no one could ride it",
+      "explanation": "The correct order is “The horse was so excitable that no one could ride it”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 122,
+      "question": "the sharks / This was / the first / time I saw / and dolphins./",
+      "options": [],
+      "answer": "This was the first time I saw the sharks and dolphins",
+      "explanation": "The correct order is “This was the first time I saw the sharks and dolphins”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 123,
+      "question": "Do you/ T-shirt goes/ my skirt?/ well with/ think this/",
+      "options": [],
+      "answer": "Do you think this T-shirt goes well with my skirt?",
+      "explanation": "The correct order is “Do you think this T-shirt goes well with my skirt?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 124,
+      "question": "won the / Best Actor at / the 2015 Oscars./ Eddie Redmayne / award for /",
+      "options": [],
+      "answer": "Eddie Redmayne won the award for Best Actor at the 2015 Oscars",
+      "explanation": "The correct order is “Eddie Redmayne won the award for Best Actor at the 2015 Oscars”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 125,
+      "question": "the school./ just sent/ They have/ an ambulance/ to/",
+      "options": [],
+      "answer": "They have just sent an ambulance to the school",
+      "explanation": "The correct order is “They have just sent an ambulance to the school”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 126,
+      "question": "is a/ central London./ Hyde Park/ park in/ very large/",
+      "options": [],
+      "answer": "Hyde Park is a very large park in central London",
+      "explanation": "The correct order is “Hyde Park is a very large park in central London”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 127,
+      "question": "holding/ another meeting/ The chairman/ suggested/ next week./",
+      "options": [],
+      "answer": "The chairman suggested holding another meeting next week",
+      "explanation": "The correct order is “The chairman suggested holding another meeting next week”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 128,
+      "question": "North of Vietnam./ considered the/ resort in the/ Sa pa is/ most beautiful mountainous/",
+      "options": [],
+      "answer": "Sa pa is considered the most beautiful mountainous resort in the North of Vietnam",
+      "explanation": "The correct order is “Sa pa is considered the most beautiful mountainous resort in the North of Vietnam”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 129,
+      "question": "evergreen forests./ around Yellowstone / with / The high mountains / are covered /",
+      "options": [],
+      "answer": "The high mountains around Yellowstone are covered with evergreen forests",
+      "explanation": "The correct order is “The high mountains around Yellowstone are covered with evergreen forests”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 130,
+      "question": "are a part / Colourful lanterns / spirit / of Hoi An./ of the /",
+      "options": [],
+      "answer": "Colourful lanterns are a part of the spirit of Hoi An",
+      "explanation": "The correct order is “Colourful lanterns are a part of the spirit of Hoi An”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 131,
+      "question": "Development is/ places to shop./ most exciting/ The Harbourside/ one of the world’s/",
+      "options": [],
+      "answer": "The Harbourside Development is one of the world’s most exciting places to shop",
+      "explanation": "The correct order is “The Harbourside Development is one of the world’s most exciting places to shop”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 132,
+      "question": "teachers are among/ Promotion of learning/ and respect for/ of the Vietnamese people. / the traditional values/",
+      "options": [],
+      "answer": "Promotion of learning and respect for teachers are among the traditional values of the Vietnamese people",
+      "explanation": "The correct order is “Promotion of learning and respect for teachers are among the traditional values of the Vietnamese people”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 133,
+      "question": "the switch/ Jane said/ was dangerous/ and warned me/ not to touch it./",
+      "options": [],
+      "answer": "Jane said the switch was dangerous and warned me not to touch it",
+      "explanation": "The correct order is “Jane said the switch was dangerous and warned me not to touch it”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 134,
+      "question": "continuing/ their adventure./ The storm/ climbers from/ prevented the/",
+      "options": [],
+      "answer": "The storm prevented the climbers from continuing their adventure",
+      "explanation": "The correct order is “The storm prevented the climbers from continuing their adventure”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 135,
+      "question": "woman while/ stole a/ she was careless./ bag of a/ The thief/",
+      "options": [],
+      "answer": "The thief stole a bag of a woman while she was careless",
+      "explanation": "The correct order is “The thief stole a bag of a woman while she was careless”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 136,
+      "question": "use it / has a car/ very often./ My brother/ but he does not /",
+      "options": [],
+      "answer": "My brother has a car but he does not use it very often",
+      "explanation": "The correct order is “My brother has a car but he does not use it very often”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 137,
+      "question": "of / symbol / peace./ The dove / is a universal /",
+      "options": [],
+      "answer": "The dove is a universal symbol of peace",
+      "explanation": "The correct order is “The dove is a universal symbol of peace”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 138,
+      "question": "good at programming/ in Tom’s/ as he is./ No one/ company is as/",
+      "options": [],
+      "answer": "No one in Tom’s company is as good at programming as he is",
+      "explanation": "The correct order is “No one in Tom’s company is as good at programming as he is”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 139,
+      "question": "model as/ this one./ is the same/ computer/ That other/",
+      "options": [],
+      "answer": "That other computer is the same model as this one",
+      "explanation": "The correct order is “That other computer is the same model as this one”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 140,
+      "question": "How long/ does/ it take/ you to/ get there?/",
+      "options": [],
+      "answer": "How long does it take you to get there?",
+      "explanation": "The correct order is “How long does it take you to get there?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 141,
+      "question": "It won’t/ happen again./ I’m sorry about/ what/ happened yesterday./",
+      "options": [],
+      "answer": "I’m sorry about what happened yesterday. It won’t happen again",
+      "explanation": "The correct order is “I’m sorry about what happened yesterday. It won’t happen again”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 142,
+      "question": "My mother/ cook than/ is/ I am./ a better/",
+      "options": [],
+      "answer": "My mother is a better cook than I am",
+      "explanation": "The correct order is “My mother is a better cook than I am”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 143,
+      "question": "noisily/ came in./ The students/ were talking/ when the teacher/",
+      "options": [],
+      "answer": "The students were talking noisily when the teacher came in",
+      "explanation": "The correct order is “The students were talking noisily when the teacher came in”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 144,
+      "question": "in our street/ are too long/ for me to wear./ The trousers/ made by the tailor/",
+      "options": [],
+      "answer": "The trousers made by the tailor in our street are too long for me to wear",
+      "explanation": "The correct order is “The trousers made by the tailor in our street are too long for me to wear”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 145,
+      "question": "I come from/ northern part/ a city located/ in the/ of the country./",
+      "options": [],
+      "answer": "I come from a city located in the northern part of the country",
+      "explanation": "The correct order is “I come from a city located in the northern part of the country”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 146,
+      "question": "the front row/ I moved to/ to hear the/ so as/ teacher better./",
+      "options": [],
+      "answer": "I moved to the front row so as to hear the teacher better",
+      "explanation": "The correct order is “I moved to the front row so as to hear the teacher better”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 147,
+      "question": "The boy/ won the/ that he had/ said proudly/ first prize./",
+      "options": [],
+      "answer": "The boy said proudly that he had won the first prize",
+      "explanation": "The correct order is “The boy said proudly that he had won the first prize”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 148,
+      "question": "as/ we arrived at/ Nha Trang Beach./ soon as/ We went swimming/",
+      "options": [],
+      "answer": "We went swimming as soon as we arrived at Nha Trang Beach",
+      "explanation": "The correct order is “We went swimming as soon as we arrived at Nha Trang Beach”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 149,
+      "question": "just/ a new bike./ bought/ have/ I/",
+      "options": [],
+      "answer": "I have just bought a new bike",
+      "explanation": "The correct order is “I have just bought a new bike”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 150,
+      "question": "should wear “Ao dai”/ when they are/ high school girls/ My opinion is that/ at school./",
+      "options": [],
+      "answer": "My opinion is that high school girls should wear “Ao dai” when they are at school",
+      "explanation": "The correct order is “My opinion is that high school girls should wear “Ao dai” when they are at school”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 151,
+      "question": "usually / performed/ in Vietnam./ in Mid-autumn Festival/ is / The lion dance /",
+      "options": [],
+      "answer": "The lion dance is usually performed in Mid-autumn Festival in Vietnam",
+      "explanation": "The correct order is “The lion dance is usually performed in Mid-autumn Festival in Vietnam”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 152,
+      "question": "is quite/ different/ from the one/ in the book./ Your example/",
+      "options": [],
+      "answer": "Your example is quite different from the one in the book",
+      "explanation": "The correct order is “Your example is quite different from the one in the book”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 153,
+      "question": "belief from/ impossible/ emotion./ to separate/ It is/",
+      "options": [],
+      "answer": "It is impossible to separate belief from emotion",
+      "explanation": "The correct order is “It is impossible to separate belief from emotion”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 154,
+      "question": "Here is the/ about us./ photo of my/ family and let/ me tell you/",
+      "options": [],
+      "answer": "Here is the photo of my family and let me tell you about us",
+      "explanation": "The correct order is “Here is the photo of my family and let me tell you about us”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 155,
+      "question": "I like / television / I have free time./ watching / when/",
+      "options": [],
+      "answer": "I like watching television when I have free time",
+      "explanation": "The correct order is “I like watching television when I have free time”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 156,
+      "question": "my house./ came into/ he/ Recognized her/ as soon as/",
+      "options": [],
+      "answer": "Recognized her as soon as he came into my house",
+      "explanation": "The correct order is “Recognized her as soon as he came into my house”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 157,
+      "question": "to/ have/ healthy teeth./ It is/ very important/",
+      "options": [],
+      "answer": "It is very important to have healthy teeth",
+      "explanation": "The correct order is “It is very important to have healthy teeth”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 158,
+      "question": "I / poster with so / have finished / such a colorful / many complicated layers./",
+      "options": [],
+      "answer": "I have finished such a colorful poster with so many complicated layers",
+      "explanation": "The correct order is “I have finished such a colorful poster with so many complicated layers”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 159,
+      "question": "for you/ that it's/ a difficult decision/ I appreciate/ to make./",
+      "options": [],
+      "answer": "I appreciate that it's a difficult decision for you to make",
+      "explanation": "The correct order is “I appreciate that it's a difficult decision for you to make”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 160,
+      "question": "It is / impossible / to lift that / case./ for me /",
+      "options": [],
+      "answer": "It is impossible for me to lift that case",
+      "explanation": "The correct order is “It is impossible for me to lift that case”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 161,
+      "question": "said/ he would/ the next month./ go to Nha Trang/ Mr. Nam/",
+      "options": [],
+      "answer": "Mr. Nam said he would go to Nha Trang the next month",
+      "explanation": "The correct order is “Mr. Nam said he would go to Nha Trang the next month”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 162,
+      "question": "the stars/ loves/ to watch/ at night./ My sister/",
+      "options": [],
+      "answer": "My sister loves to watch the stars at night",
+      "explanation": "The correct order is “My sister loves to watch the stars at night”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 163,
+      "question": "is unhealthy/ but lots of/ people find it/ Smoking/ difficult to stop./",
+      "options": [],
+      "answer": "Smoking is unhealthy but lots of people find it difficult to stop",
+      "explanation": "The correct order is “Smoking is unhealthy but lots of people find it difficult to stop”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 164,
+      "question": "a dress/ She is/ mine./ like/ wearing/",
+      "options": [],
+      "answer": "She is wearing a dress like mine",
+      "explanation": "The correct order is “She is wearing a dress like mine”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 165,
+      "question": "creative enough/ to write a/ beautiful poem./ children can be/ I think most/",
+      "options": [],
+      "answer": "I think most children can be creative enough to write a beautiful poem",
+      "explanation": "The correct order is “I think most children can be creative enough to write a beautiful poem”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 166,
+      "question": "for something/ Susan is/ to eat./ looking/ in the kitchen/",
+      "options": [],
+      "answer": "Susan is in the kitchen looking for something to eat",
+      "explanation": "The correct order is “Susan is in the kitchen looking for something to eat”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 167,
+      "question": "country in the/ near future./ people in our/ be more elderly/ There will/",
+      "options": [],
+      "answer": "There will be more elderly people in our country in the near future",
+      "explanation": "The correct order is “There will be more elderly people in our country in the near future”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 168,
+      "question": "a third of / urgent protection./ need / Britain's bird species / More than /",
+      "options": [],
+      "answer": "More than a third of Britain's bird species need urgent protection",
+      "explanation": "The correct order is “More than a third of Britain's bird species need urgent protection”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 169,
+      "question": "to the village/ interesting./ was tiring/ The journey/ but very/",
+      "options": [],
+      "answer": "The journey to the village was tiring but very interesting",
+      "explanation": "The correct order is “The journey to the village was tiring but very interesting”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 170,
+      "question": "get up early/ because he/ last night./ stayed up too late/ He couldn’t/",
+      "options": [],
+      "answer": "He couldn’t get up early because he stayed up too late last night",
+      "explanation": "The correct order is “He couldn’t get up early because he stayed up too late last night”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 171,
+      "question": "office?/ get the / tickets from / the college / Can you /",
+      "options": [],
+      "answer": "Can you get the tickets from the college office?",
+      "explanation": "The correct order is “Can you get the tickets from the college office?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 172,
+      "question": "to someone/ To listen/ compliment you/ is the great/ can pay./",
+      "options": [],
+      "answer": "To listen to someone is the great compliment you can pay",
+      "explanation": "The correct order is “To listen to someone is the great compliment you can pay”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 173,
+      "question": "was three months/ I did/ ago./ The last time/ some gardening/",
+      "options": [],
+      "answer": "The last time I did some gardening was three months ago",
+      "explanation": "The correct order is “The last time I did some gardening was three months ago”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 174,
+      "question": "to radio./ prefer TV/ The majority/ of people/ interviewed /",
+      "options": [],
+      "answer": "The majority of people interviewed prefer TV to radio",
+      "explanation": "The correct order is “The majority of people interviewed prefer TV to radio”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 175,
+      "question": "to swim in the sea and/ is/ What I like/ then to/ lie on the warm sand./",
+      "options": [],
+      "answer": "What I like is to swim in the sea and then to lie on the warm sand",
+      "explanation": "The correct order is “What I like is to swim in the sea and then to lie on the warm sand”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 176,
+      "question": "from his toothache./ dentist in order to/ went to the/ Jim finally/ get some relief/",
+      "options": [],
+      "answer": "Jim finally went to the dentist in order to get some relief from his toothache",
+      "explanation": "The correct order is “Jim finally went to the dentist in order to get some relief from his toothache”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 177,
+      "question": "four US presidents/ is a national memorial/ were carved./ where the faces of/ Mount Rushmore/",
+      "options": [],
+      "answer": "Mount Rushmore is a national memorial where the faces of four US presidents were carved",
+      "explanation": "The correct order is “Mount Rushmore is a national memorial where the faces of four US presidents were carved”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 178,
+      "question": "You can/ to emphasise / “by far” / superlatives./ use /",
+      "options": [],
+      "answer": "You can use “by far” to emphasise superlatives",
+      "explanation": "The correct order is “You can use “by far” to emphasise superlatives”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 179,
+      "question": "more light./ as to let in/ wide so/ Open/ the windows/",
+      "options": [],
+      "answer": "Open the windows wide so as to let in more light",
+      "explanation": "The correct order is “Open the windows wide so as to let in more light”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 180,
+      "question": "is improving./ England a week/ I arrived in/ that my English/ ago and I think/",
+      "options": [],
+      "answer": "I arrived in England a week ago and I think that my English is improving",
+      "explanation": "The correct order is “I arrived in England a week ago and I think that my English is improving”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 181,
+      "question": "because he was seen/ stealing money/ John feels/ from his friends./ very ashamed now/",
+      "options": [],
+      "answer": "John feels very ashamed now because he was seen stealing money from his friends",
+      "explanation": "The correct order is “John feels very ashamed now because he was seen stealing money from his friends”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 182,
+      "question": "Cuong doesn’t/ prefers to have/ a vegetarian restaurant./ his meals in/ eat meat so he/",
+      "options": [],
+      "answer": "Cuong doesn’t eat meat so he prefers to have his meals in a vegetarian restaurant",
+      "explanation": "The correct order is “Cuong doesn’t eat meat so he prefers to have his meals in a vegetarian restaurant”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 183,
+      "question": "on his/ What does/ farm?/ your grandfather/ do/",
+      "options": [],
+      "answer": "What does your grandfather do on his farm?",
+      "explanation": "The correct order is “What does your grandfather do on his farm?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 184,
+      "question": "and reduce energy/ solar panels/ consumption./ to save energy/ We should use/",
+      "options": [],
+      "answer": "We should use solar panels to save energy and reduce energy consumption",
+      "explanation": "The correct order is “We should use solar panels to save energy and reduce energy consumption”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 185,
+      "question": "soon revived/ but/ She fainted/ the brandy/ her./",
+      "options": [],
+      "answer": "She fainted but the brandy soon revived her",
+      "explanation": "The correct order is “She fainted but the brandy soon revived her”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 186,
+      "question": "environment/ Man's whole/ changed in/ is being/ a serious way./",
+      "options": [],
+      "answer": "Man's whole environment is being changed in a serious way",
+      "explanation": "The correct order is “Man's whole environment is being changed in a serious way”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 187,
+      "question": "and served dinner./ at 7.00 pm / I / cooking / finally finished /",
+      "options": [],
+      "answer": "I finally finished cooking at 7.00 pm and served dinner",
+      "explanation": "The correct order is “I finally finished cooking at 7.00 pm and served dinner”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 188,
+      "question": "inventions./ as very modern/ Most people/ think of/ computers/",
+      "options": [],
+      "answer": "Most people think of computers as very modern inventions",
+      "explanation": "The correct order is “Most people think of computers as very modern inventions”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 189,
+      "question": "him to the party/ They have invited/ but they/ will come./ don’t think he/",
+      "options": [],
+      "answer": "They have invited him to the party but they don’t think he will come",
+      "explanation": "The correct order is “They have invited him to the party but they don’t think he will come”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 190,
+      "question": "a lot of visitors./ a symbol of Australia,/ attracts/ known as/ “Open-air Opera House”,/",
+      "options": [],
+      "answer": "“Open-air Opera House”, known as a symbol of Australia, attracts a lot of visitors",
+      "explanation": "The correct order is ““Open-air Opera House”, known as a symbol of Australia, attracts a lot of visitors”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 191,
+      "question": "The musician/ appearing in/ international famous./ last night is/ the concert/",
+      "options": [],
+      "answer": "The musician appearing in the concert last night is international famous",
+      "explanation": "The correct order is “The musician appearing in the concert last night is international famous”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 192,
+      "question": "before departure./ 48 hours/ confirmed/ should be/ Flights/",
+      "options": [],
+      "answer": "Flights should be confirmed 48 hours before departure",
+      "explanation": "The correct order is “Flights should be confirmed 48 hours before departure”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 193,
+      "question": "He didn’t afford/ from America/ presented him one./ his uncle/ a computer but luckily,/",
+      "options": [],
+      "answer": "He didn’t afford a computer but luckily, his uncle from America presented him one",
+      "explanation": "The correct order is “He didn’t afford a computer but luckily, his uncle from America presented him one”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 194,
+      "question": "tiring chores/ do/ all day./ made her/ Her step-mother/",
+      "options": [],
+      "answer": "Her step-mother made her do tiring chores all day",
+      "explanation": "The correct order is “Her step-mother made her do tiring chores all day”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 195,
+      "question": "There will/ near future./ people in our/ be more elderly/ country in the/",
+      "options": [],
+      "answer": "There will be more elderly people in our country in the near future",
+      "explanation": "The correct order is “There will be more elderly people in our country in the near future”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 196,
+      "question": "watching/ enjoy/ Do you/ action/ films?/",
+      "options": [],
+      "answer": "Do you enjoy watching action films?",
+      "explanation": "The correct order is “Do you enjoy watching action films?”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 197,
+      "question": "I suggest leaving/ and having dinner/ at 7 o’clock/ at a roadside/ restaurant./",
+      "options": [],
+      "answer": "I suggest leaving at 7 o’clock and having dinner at a roadside restaurant",
+      "explanation": "The correct order is “I suggest leaving at 7 o’clock and having dinner at a roadside restaurant”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 198,
+      "question": "to/ prefers/ My uncle/ art galleries./ going/",
+      "options": [],
+      "answer": "My uncle prefers going to art galleries",
+      "explanation": "The correct order is “My uncle prefers going to art galleries”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 199,
+      "question": "breathing and movement./ learn / helps us / to co-ordinate / Yoga /",
+      "options": [],
+      "answer": "Yoga helps us learn to co-ordinate breathing and movement",
+      "explanation": "The correct order is “Yoga helps us learn to co-ordinate breathing and movement”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    },
+    {
+      "id": 200,
+      "question": "walks past/ the cathedral/ on her way/ to school./ Mary always/",
+      "options": [],
+      "answer": "Mary always walks past the cathedral on her way to school",
+      "explanation": "The correct order is “Mary always walks past the cathedral on her way to school”. It follows standard English word order: subject and verb come first, then the remaining phrase(s) complete the meaning."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
