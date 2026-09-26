@@ -1,0 +1,2378 @@
+{
+  "title": "IOE Lớp 8 - Chuyên đề 4 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "1. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. read",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 2,
+      "question": "2. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. speak",
+        "D. read"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 3,
+      "question": "3. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. speak",
+        "D. read"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 4,
+      "question": "4. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. head",
+        "D. read"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 5,
+      "question": "5. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. read",
+        "D. head"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 6,
+      "question": "6. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. dead",
+        "B. clean",
+        "C. speak",
+        "D. read"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 7,
+      "question": "7. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. dead",
+        "C. speak",
+        "D. read"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 8,
+      "question": "8. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. dead",
+        "D. read"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 9,
+      "question": "9. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. read",
+        "D. dead"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 10,
+      "question": "10. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. health",
+        "B. clean",
+        "C. speak",
+        "D. read"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 11,
+      "question": "11. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. health",
+        "C. speak",
+        "D. read"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 12,
+      "question": "12. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. health",
+        "D. read"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 13,
+      "question": "13. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. speak",
+        "C. read",
+        "D. health"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 14,
+      "question": "14. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. bread",
+        "B. clean",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 15,
+      "question": "15. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. bread",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 16,
+      "question": "16. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. bread",
+        "D. teacher"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 17,
+      "question": "17. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. teacher",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 18,
+      "question": "18. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 19,
+      "question": "19. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 20,
+      "question": "20. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. head",
+        "D. teacher"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 21,
+      "question": "21. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. teacher",
+        "D. head"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 22,
+      "question": "22. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. dead",
+        "B. clean",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 23,
+      "question": "23. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. dead",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 24,
+      "question": "24. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. dead",
+        "D. teacher"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 25,
+      "question": "25. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. teacher",
+        "D. dead"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 26,
+      "question": "26. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. health",
+        "B. clean",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 27,
+      "question": "27. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. health",
+        "C. please",
+        "D. teacher"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 28,
+      "question": "28. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. health",
+        "D. teacher"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 29,
+      "question": "29. Ảnh: Look at the picture. Which sentence is correct?",
+      "options": [],
+      "answer": "Chọn ý D",
+      "explanation": "Dựa vào đúng hình kèm theo câu hỏi để nhận diện sự vật/tình huống; đáp án trên là đáp án gốc của câu hình ảnh."
+    },
+    {
+      "id": 30,
+      "question": "30. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. teacher",
+        "D. health"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 31,
+      "question": "31. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. bread",
+        "B. clean",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 32,
+      "question": "32. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. bread",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 33,
+      "question": "33. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. bread",
+        "D. meat"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 34,
+      "question": "34. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. meat",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 35,
+      "question": "35. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 36,
+      "question": "36. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 37,
+      "question": "37. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. head",
+        "D. meat"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 38,
+      "question": "38. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. meat",
+        "D. head"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 39,
+      "question": "39. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. dead",
+        "B. clean",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 40,
+      "question": "40. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. dead",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 41,
+      "question": "41. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. dead",
+        "D. meat"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 42,
+      "question": "42. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. meat",
+        "D. dead"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 43,
+      "question": "43. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. health",
+        "B. clean",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 44,
+      "question": "44. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. health",
+        "C. please",
+        "D. meat"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 45,
+      "question": "45. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. health",
+        "D. meat"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 46,
+      "question": "46. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. meat",
+        "D. health"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 47,
+      "question": "47. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. bread",
+        "B. clean",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 48,
+      "question": "48. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. bread",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 49,
+      "question": "49. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. bread",
+        "D. team"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 50,
+      "question": "50. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. team",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 51,
+      "question": "51. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 52,
+      "question": "52. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 53,
+      "question": "53. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. head",
+        "D. team"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 54,
+      "question": "54. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. team",
+        "D. head"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 55,
+      "question": "55. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. dead",
+        "B. clean",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 56,
+      "question": "56. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. dead",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 57,
+      "question": "57. Ảnh: In folklore, there are many popular stories about m_ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "onsters",
+      "explanation": "Dựa vào đúng hình kèm theo câu hỏi để nhận diện sự vật/tình huống; đáp án trên là đáp án gốc của câu hình ảnh."
+    },
+    {
+      "id": 58,
+      "question": "58. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. dead",
+        "D. team"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 59,
+      "question": "59. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. team",
+        "D. dead"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 60,
+      "question": "60. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. health",
+        "B. clean",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 61,
+      "question": "61. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. health",
+        "C. please",
+        "D. team"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 62,
+      "question": "62. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. health",
+        "D. team"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 63,
+      "question": "63. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. team",
+        "D. health"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 64,
+      "question": "64. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. bread",
+        "B. clean",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 65,
+      "question": "65. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. bread",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 66,
+      "question": "66. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. bread",
+        "D. seat"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 67,
+      "question": "67. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. seat",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 68,
+      "question": "68. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 69,
+      "question": "69. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 70,
+      "question": "70. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. head",
+        "D. seat"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 71,
+      "question": "71. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. seat",
+        "D. head"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 72,
+      "question": "72. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. dead",
+        "B. clean",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 73,
+      "question": "73. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. dead",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 74,
+      "question": "74. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. dead",
+        "D. seat"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 75,
+      "question": "75. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. seat",
+        "D. dead"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 76,
+      "question": "76. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. health",
+        "B. clean",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 77,
+      "question": "77. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. health",
+        "C. please",
+        "D. seat"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 78,
+      "question": "78. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. health",
+        "D. seat"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 79,
+      "question": "79. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. seat",
+        "D. health"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 80,
+      "question": "80. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. bread",
+        "B. clean",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 81,
+      "question": "81. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. bread",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 82,
+      "question": "82. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. bread",
+        "D. cheap"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 83,
+      "question": "83. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. cheap",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 84,
+      "question": "84. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 85,
+      "question": "85. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 86,
+      "question": "86. Ảnh: The hens and cocks live in the _ _ _ _ .",
+      "options": [],
+      "answer": "coop",
+      "explanation": "Dựa vào đúng hình kèm theo câu hỏi để nhận diện sự vật/tình huống; đáp án trên là đáp án gốc của câu hình ảnh."
+    },
+    {
+      "id": 87,
+      "question": "87. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. head",
+        "D. cheap"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 88,
+      "question": "88. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. cheap",
+        "D. head"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 89,
+      "question": "89. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. dead",
+        "B. clean",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 90,
+      "question": "90. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. dead",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 91,
+      "question": "91. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. dead",
+        "D. cheap"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 92,
+      "question": "92. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. cheap",
+        "D. dead"
+      ],
+      "answer": "dead",
+      "explanation": "Phần gạch chân trong “dead” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 93,
+      "question": "93. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. health",
+        "B. clean",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 94,
+      "question": "94. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. health",
+        "C. please",
+        "D. cheap"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 95,
+      "question": "95. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. health",
+        "D. cheap"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 96,
+      "question": "96. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. cheap",
+        "D. health"
+      ],
+      "answer": "health",
+      "explanation": "Phần gạch chân trong “health” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 97,
+      "question": "97. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. bread",
+        "B. clean",
+        "C. please",
+        "D. read"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 98,
+      "question": "98. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. bread",
+        "C. please",
+        "D. read"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 99,
+      "question": "99. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. bread",
+        "D. read"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 100,
+      "question": "100. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. please",
+        "C. read",
+        "D. bread"
+      ],
+      "answer": "bread",
+      "explanation": "Phần gạch chân trong “bread” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 101,
+      "question": "101. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. head",
+        "B. clean",
+        "C. please",
+        "D. read"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 102,
+      "question": "102. Chọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. clean",
+        "B. head",
+        "C. please",
+        "D. read"
+      ],
+      "answer": "head",
+      "explanation": "Phần gạch chân trong “head” phát âm /e/; cùng phần trong ba từ còn lại phát âm /iː/."
+    },
+    {
+      "id": 103,
+      "question": "103. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. hotel",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 104,
+      "question": "104. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. hotel",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 105,
+      "question": "105. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. hotel",
+        "D. lovely"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 106,
+      "question": "106. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. hotel"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 107,
+      "question": "107. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. police",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 108,
+      "question": "108. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. police",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 109,
+      "question": "109. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. police",
+        "D. lovely"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 110,
+      "question": "110. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. police"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 111,
+      "question": "111. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. mistake",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 112,
+      "question": "112. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mistake",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 113,
+      "question": "113. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. mistake",
+        "D. lovely"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 114,
+      "question": "114. Ảnh: I need to _ _ _ _  this shirt for my interview tomorrow morning.",
+      "options": [],
+      "answer": "iron",
+      "explanation": "Dựa vào đúng hình kèm theo câu hỏi để nhận diện sự vật/tình huống; đáp án trên là đáp án gốc của câu hình ảnh."
+    },
+    {
+      "id": 115,
+      "question": "115. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. mistake"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 116,
+      "question": "116. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. begin",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 117,
+      "question": "117. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. begin",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 118,
+      "question": "118. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. begin",
+        "D. lovely"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 119,
+      "question": "119. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. begin"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 120,
+      "question": "120. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. enjoy",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 121,
+      "question": "121. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. enjoy",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 122,
+      "question": "122. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. enjoy",
+        "D. lovely"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 123,
+      "question": "123. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. enjoy"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 124,
+      "question": "124. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. machine",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 125,
+      "question": "125. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. machine",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 126,
+      "question": "126. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. machine",
+        "D. lovely"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 127,
+      "question": "127. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. machine"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 128,
+      "question": "128. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. correct",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 129,
+      "question": "129. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. correct",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 130,
+      "question": "130. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. correct",
+        "D. lovely"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 131,
+      "question": "131. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. correct"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 132,
+      "question": "132. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. decide",
+        "B. garden",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 133,
+      "question": "133. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. decide",
+        "C. teacher",
+        "D. lovely"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 134,
+      "question": "134. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. decide",
+        "D. lovely"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 135,
+      "question": "135. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. lovely",
+        "D. decide"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 136,
+      "question": "136. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. hotel",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 137,
+      "question": "137. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. hotel",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 138,
+      "question": "138. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. hotel",
+        "D. airport"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 139,
+      "question": "139. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. hotel"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 140,
+      "question": "140. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. police",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 141,
+      "question": "141. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. police",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 142,
+      "question": "142. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. police",
+        "D. airport"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 143,
+      "question": "143. Ảnh: On the table were vegetables, bread and two large _ _ _ _ _  of soup.",
+      "options": [],
+      "answer": "bowls",
+      "explanation": "Dựa vào đúng hình kèm theo câu hỏi để nhận diện sự vật/tình huống; đáp án trên là đáp án gốc của câu hình ảnh."
+    },
+    {
+      "id": 144,
+      "question": "144. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. police"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 145,
+      "question": "145. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. mistake",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 146,
+      "question": "146. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mistake",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 147,
+      "question": "147. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. mistake",
+        "D. airport"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 148,
+      "question": "148. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. mistake"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 149,
+      "question": "149. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. begin",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 150,
+      "question": "150. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. begin",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 151,
+      "question": "151. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. begin",
+        "D. airport"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 152,
+      "question": "152. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. begin"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 153,
+      "question": "153. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. enjoy",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 154,
+      "question": "154. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. enjoy",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 155,
+      "question": "155. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. enjoy",
+        "D. airport"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 156,
+      "question": "156. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. enjoy"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 157,
+      "question": "157. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. machine",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 158,
+      "question": "158. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. machine",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 159,
+      "question": "159. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. machine",
+        "D. airport"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 160,
+      "question": "160. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. machine"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 161,
+      "question": "161. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. correct",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 162,
+      "question": "162. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. correct",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 163,
+      "question": "163. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. correct",
+        "D. airport"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 164,
+      "question": "164. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. correct"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 165,
+      "question": "165. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. decide",
+        "B. garden",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 166,
+      "question": "166. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. decide",
+        "C. teacher",
+        "D. airport"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 167,
+      "question": "167. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. decide",
+        "D. airport"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 168,
+      "question": "168. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. teacher",
+        "C. airport",
+        "D. decide"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 169,
+      "question": "169. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. hotel",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 170,
+      "question": "170. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. hotel",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 171,
+      "question": "171. Ảnh: Pedestrians should walk on the p_ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "avement",
+      "explanation": "Dựa vào đúng hình kèm theo câu hỏi để nhận diện sự vật/tình huống; đáp án trên là đáp án gốc của câu hình ảnh."
+    },
+    {
+      "id": 172,
+      "question": "172. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. hotel",
+        "D. student"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 173,
+      "question": "173. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. hotel"
+      ],
+      "answer": "hotel",
+      "explanation": "“hotel” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 174,
+      "question": "174. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. police",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 175,
+      "question": "175. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. police",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 176,
+      "question": "176. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. police",
+        "D. student"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 177,
+      "question": "177. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. police"
+      ],
+      "answer": "police",
+      "explanation": "“police” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 178,
+      "question": "178. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. mistake",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 179,
+      "question": "179. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mistake",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 180,
+      "question": "180. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. mistake",
+        "D. student"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 181,
+      "question": "181. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. mistake"
+      ],
+      "answer": "mistake",
+      "explanation": "“mistake” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 182,
+      "question": "182. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. begin",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 183,
+      "question": "183. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. begin",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 184,
+      "question": "184. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. begin",
+        "D. student"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 185,
+      "question": "185. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. begin"
+      ],
+      "answer": "begin",
+      "explanation": "“begin” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 186,
+      "question": "186. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. enjoy",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 187,
+      "question": "187. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. enjoy",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 188,
+      "question": "188. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. enjoy",
+        "D. student"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 189,
+      "question": "189. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. enjoy"
+      ],
+      "answer": "enjoy",
+      "explanation": "“enjoy” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 190,
+      "question": "190. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. machine",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 191,
+      "question": "191. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. machine",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 192,
+      "question": "192. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. machine",
+        "D. student"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 193,
+      "question": "193. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. machine"
+      ],
+      "answer": "machine",
+      "explanation": "“machine” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 194,
+      "question": "194. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. correct",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 195,
+      "question": "195. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. correct",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 196,
+      "question": "196. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. correct",
+        "D. student"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 197,
+      "question": "197. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. student",
+        "D. correct"
+      ],
+      "answer": "correct",
+      "explanation": "“correct” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 198,
+      "question": "198. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. decide",
+        "B. garden",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 199,
+      "question": "199. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. decide",
+        "C. mother",
+        "D. student"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    },
+    {
+      "id": 200,
+      "question": "200. Chọn từ có trọng âm khác.",
+      "options": [
+        "A. garden",
+        "B. mother",
+        "C. decide",
+        "D. student"
+      ],
+      "answer": "decide",
+      "explanation": "“decide” nhấn âm tiết thứ hai; ba từ còn lại cùng nhấn âm tiết thứ nhất."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
