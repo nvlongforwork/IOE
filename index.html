@@ -880,9 +880,10 @@
                 let optsHtml='';
                 if (q.options&&q.options.length>0) {
                     const L=['A','B','C','D','E','F'];
+                    const stripTags=s=>(s||'').replace(/<[^>]+>/g,'');
                     q.options.forEach((opt,j)=>{
                         const isUser=appState.answers[q.id]===opt;
-                        const isAns=q.correct===opt;
+                        const isAns=stripTags(q.correct)===stripTags(opt);
                         let bg='bg-gray-50',txt='text-gray-700',border='border-gray-200',icon='';
                         if(isAns){bg='bg-green-50';txt='text-green-800 font-bold';border='border-green-300';icon='<i class="fas fa-check-circle text-green-500 ml-2"></i>';}
                         else if(isUser&&!ok){bg='bg-red-50';txt='text-red-800';border='border-red-300';icon='<i class="fas fa-times-circle text-red-500 ml-2"></i>';}
