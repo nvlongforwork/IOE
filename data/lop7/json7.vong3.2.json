@@ -1,0 +1,1408 @@
+{
+  "title": "IOE Lớp 7 - Chuyên đề 2 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "sick note/ Did/ your father/ write a/ for you?/",
+      "options": [],
+      "answer": "Did your father write a sick note for you?",
+      "explanation": "Câu đúng: \"Did your father write a sick note for you?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"sick note\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 2,
+      "question": "first/ the morning?/ in/ What do/ you do/",
+      "options": [],
+      "answer": "What do you do first in the morning?",
+      "explanation": "Câu đúng: \"What do you do first in the morning?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"first\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 3,
+      "question": "in English./ The/ rack are/ on this/ magazines/",
+      "options": [],
+      "answer": "The magazines on this rack are in English.",
+      "explanation": "Câu đúng: \"The magazines on this rack are in English.\" → Lưu ý trật tự: \"in English.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 4,
+      "question": "your lesson/ to begin/ Are you/ today?/ ready/",
+      "options": [],
+      "answer": "Are you ready to begin your lesson today?",
+      "explanation": "Câu đúng: \"Are you ready to begin your lesson today?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"your lesson\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 5,
+      "question": "after dinner./ his homework/ He/ does/ always/",
+      "options": [],
+      "answer": "He always does his homework after dinner.",
+      "explanation": "Câu đúng: \"He always does his homework after dinner.\" → Thì: Hiện tại đơn (S + always/usually/often + V). Dấu hiệu: tần suất \"always/usually/often\". | Lưu ý trật tự: \"after dinner.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 6,
+      "question": "visit/ Are you/ tomorrow?/ going to/ anybody/",
+      "options": [],
+      "answer": "Are you going to visit anybody tomorrow?",
+      "explanation": "Câu đúng: \"Are you going to visit anybody tomorrow?\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"tomorrow\". | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"visit\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 7,
+      "question": "beautiful/ English song./ Mary is singing/ Listen!/ a very/",
+      "options": [],
+      "answer": "Listen! Mary is singing a very beautiful English song.",
+      "explanation": "Câu đúng: \"Listen! Mary is singing a very beautiful English song.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"beautiful\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 8,
+      "question": "to read/ at school./ and write/ learn how/ Children/",
+      "options": [],
+      "answer": "Children learn how to read and write at school.",
+      "explanation": "Câu đúng: \"Children learn how to read and write at school.\" → Lưu ý trật tự: \"to read\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 9,
+      "question": "go abroad?/ of/ do you/ What time/ the year/",
+      "options": [],
+      "answer": "What time of the year do you go abroad?",
+      "explanation": "Câu đúng: \"What time of the year do you go abroad?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"go abroad?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 10,
+      "question": "my favorite/ I love/ It’s/ Maths very much./ subject./",
+      "options": [],
+      "answer": "I love Maths very much. It’s my favorite subject.",
+      "explanation": "Câu đúng: \"I love Maths very much. It’s my favorite subject.\" → Lưu ý trật tự: \"my favorite\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 11,
+      "question": "telling/ I’m/ lies./ were/ sure they/",
+      "options": [],
+      "answer": "I’m sure they were telling lies.",
+      "explanation": "Câu đúng: \"I’m sure they were telling lies.\" → Cấu trúc: \"was/were + V-ing\" = đang làm gì (trong quá khứ). | Lưu ý trật tự: \"telling\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 12,
+      "question": "Do you/ like/ in the morning?/ drinking/ milk/",
+      "options": [],
+      "answer": "Do you like drinking milk in the morning?",
+      "explanation": "Câu đúng: \"Do you like drinking milk in the morning?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu)."
+    },
+    {
+      "id": 13,
+      "question": "movie/ theaters/ When did/ popcorn?/ start selling/",
+      "options": [],
+      "answer": "When did movie theaters start selling popcorn?",
+      "explanation": "Câu đúng: \"When did movie theaters start selling popcorn?\" → Thì: Mệnh đề thời gian (\"when + S + V\" (khi)). . | Loại câu: Câu hỏi WHEN (hỏi về thời gian). | Lưu ý trật tự: \"movie\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 14,
+      "question": "No one/ about the/ tell her/ coming storm./ did/",
+      "options": [],
+      "answer": "No one did tell her about the coming storm.",
+      "explanation": "Câu đúng: \"No one did tell her about the coming storm.\""
+    },
+    {
+      "id": 15,
+      "question": "town/ in/ My hometown is a/ small/ England./",
+      "options": [],
+      "answer": "My hometown is a small town in England.",
+      "explanation": "Câu đúng: \"My hometown is a small town in England.\" → Lưu ý trật tự: \"town\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 16,
+      "question": "Elizabeth likes/ time./ her free/ sewing and/ painting in/",
+      "options": [],
+      "answer": "Elizabeth likes sewing and painting in her free time.",
+      "explanation": "Câu đúng: \"Elizabeth likes sewing and painting in her free time.\""
+    },
+    {
+      "id": 17,
+      "question": "out/ a walk?/ take your kids/ for/ Should I/",
+      "options": [],
+      "answer": "Should I take your kids out for a walk?",
+      "explanation": "Câu đúng: \"Should I take your kids out for a walk?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"out\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 18,
+      "question": "at the moment./ badminton/ Tuan and I/ are/ playing/",
+      "options": [],
+      "answer": "Tuan and I are playing badminton at the moment.",
+      "explanation": "Câu đúng: \"Tuan and I are playing badminton at the moment.\" → Thì: Hiện tại tiếp diễn (am/is/are + V-ing). Dấu hiệu: \"at the moment\". | Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"at the moment.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 19,
+      "question": "for/ get/ How did he/ his experiments?/ money/",
+      "options": [],
+      "answer": "How did he get money for his experiments?",
+      "explanation": "Câu đúng: \"How did he get money for his experiments?\" → Cấu trúc: \"How + adj/adv + ...?\" (Hỏi mức độ, cách thức). | Loại câu: Câu hỏi HOW (hỏi về cách thức/mức độ). | Lưu ý trật tự: \"for\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 20,
+      "question": "couple is/ the street./ A young/ along/ slowly walking/",
+      "options": [],
+      "answer": "A young couple is slowly walking along the street.",
+      "explanation": "Câu đúng: \"A young couple is slowly walking along the street.\" → Lưu ý trật tự: \"couple is\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 21,
+      "question": "most/ of the three./ is the/ This book/ interesting/",
+      "options": [],
+      "answer": "This book is the most interesting of the three.",
+      "explanation": "Câu đúng: \"This book is the most interesting of the three.\" → Lưu ý trật tự: \"most\" không phải từ đứng đầu câu. | So sánh nhất: \"the most + adj\" hoặc \"the + adj-est\"."
+    },
+    {
+      "id": 22,
+      "question": "you/ sick./ on vegetables/ The dirt/ can make/",
+      "options": [],
+      "answer": "The dirt on vegetables can make you sick.",
+      "explanation": "Câu đúng: \"The dirt on vegetables can make you sick.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Lưu ý trật tự: \"you\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 23,
+      "question": "The teacher/ students to/ study harder./ encouraged/ the/",
+      "options": [],
+      "answer": "The teacher encouraged the students to study harder.",
+      "explanation": "Câu đúng: \"The teacher encouraged the students to study harder.\""
+    },
+    {
+      "id": 24,
+      "question": "tall trees/ my house./ behind/ some/ There are/",
+      "options": [],
+      "answer": "There are some tall trees behind my house.",
+      "explanation": "Câu đúng: \"There are some tall trees behind my house.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"tall trees\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 25,
+      "question": "your house/ How far/ is it/ from/ to school?/",
+      "options": [],
+      "answer": "How far is it from your house to school?",
+      "explanation": "Câu đúng: \"How far is it from your house to school?\" → Cấu trúc: \"How + adj/adv + ...?\" (Hỏi mức độ, cách thức). | Loại câu: Câu hỏi HOW (hỏi về cách thức/mức độ). | Lưu ý trật tự: \"your house\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 26,
+      "question": "wear/ have to/ uniform/ on Mondays./ They/",
+      "options": [],
+      "answer": "They have to wear uniform on Mondays.",
+      "explanation": "Câu đúng: \"They have to wear uniform on Mondays.\" → Lưu ý trật tự: \"wear\" không phải từ đứng đầu câu. | \"have to / has to + V\" = phải làm gì (bắt buộc)."
+    },
+    {
+      "id": 27,
+      "question": "happy/ My father/ to see/ me home./ is very/",
+      "options": [],
+      "answer": "My father is very happy to see me home.",
+      "explanation": "Câu đúng: \"My father is very happy to see me home.\" → Lưu ý trật tự: \"happy\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 28,
+      "question": "please?/ get on/ the scales,/ Would you/",
+      "options": [],
+      "answer": "Would you get on the scales, please?",
+      "explanation": "Câu đúng: \"Would you get on the scales, please?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"please?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 29,
+      "question": "far/ very/ John’s apartment is/ the city centre./ from/",
+      "options": [],
+      "answer": "John’s apartment is very far from the city centre.",
+      "explanation": "Câu đúng: \"John’s apartment is very far from the city centre.\" → Lưu ý trật tự: \"far\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 30,
+      "question": "not/ jogging./ Fishing is/ my favorite sport,/ but/",
+      "options": [],
+      "answer": "Fishing is my favorite sport, but not jogging.",
+      "explanation": "Câu đúng: \"Fishing is my favorite sport, but not jogging.\" → Lưu ý trật tự: \"not\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 31,
+      "question": "you late/ yesterday/ Why were/ morning?/ for school/",
+      "options": [],
+      "answer": "Why were you late for school yesterday morning?",
+      "explanation": "Câu đúng: \"Why were you late for school yesterday morning?\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"yesterday\". | Loại câu: Câu hỏi WHY (hỏi về lý do). | Lưu ý trật tự: \"you late\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 32,
+      "question": "Maths very much./ subject./ It’s/ I love/ my favorite/",
+      "options": [],
+      "answer": "I love Maths very much. It’s my favorite subject.",
+      "explanation": "Câu đúng: \"I love Maths very much. It’s my favorite subject.\" → Lưu ý trật tự: \"Maths very much.\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 33,
+      "question": "there/ open the/ please?/ Could you/ window over/",
+      "options": [],
+      "answer": "Could you open the window over there please?",
+      "explanation": "Câu đúng: \"Could you open the window over there please?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"there\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 34,
+      "question": "and oil releases/ gases/ humans./ Burning coal/ harmful to/",
+      "options": [],
+      "answer": "Burning coal and oil releases gases harmful to humans.",
+      "explanation": "Câu đúng: \"Burning coal and oil releases gases harmful to humans.\" → Lưu ý trật tự: \"and oil releases\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 35,
+      "question": "awake./ city kept/ Tom/ The noise/ of the/",
+      "options": [],
+      "answer": "The noise of the city kept Tom awake.",
+      "explanation": "Câu đúng: \"The noise of the city kept Tom awake.\" → Lưu ý trật tự: \"awake.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 36,
+      "question": "you for/ I want/ to thank/ helping/ me./",
+      "options": [],
+      "answer": "I want to thank you for helping me.",
+      "explanation": "Câu đúng: \"I want to thank you for helping me.\" → Lưu ý trật tự: \"you for\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 37,
+      "question": "wear/ They/ on Mondays/ uniforms/ have to/",
+      "options": [],
+      "answer": "They have to wear uniforms on Mondays",
+      "explanation": "Câu đúng: \"They have to wear uniforms on Mondays\" → Lưu ý trật tự: \"wear\" không phải từ đứng đầu câu. | \"have to / has to + V\" = phải làm gì (bắt buộc)."
+    },
+    {
+      "id": 38,
+      "question": "coffee than/ does./ my sister/ drinks more/ My brother/",
+      "options": [],
+      "answer": "My brother drinks more coffee than my sister does.",
+      "explanation": "Câu đúng: \"My brother drinks more coffee than my sister does.\" → Lưu ý trật tự: \"coffee than\" không phải từ đứng đầu câu. | So sánh hơn: adj ngắn + \"-er than\" hoặc \"more + adj dài + than\"."
+    },
+    {
+      "id": 39,
+      "question": "lesson do you/ the story?/ What/ from/ learn/",
+      "options": [],
+      "answer": "What lesson do you learn from the story?",
+      "explanation": "Câu đúng: \"What lesson do you learn from the story?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"lesson do you\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 40,
+      "question": "is a/ There/ chair/ next to/ the table./",
+      "options": [],
+      "answer": "There is a chair next to the table.",
+      "explanation": "Câu đúng: \"There is a chair next to the table.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"next week/month/year\". | Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"is a\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 41,
+      "question": "Sometimes he/ hours without/ twenty-four/ sleeping./ worked for/",
+      "options": [],
+      "answer": "Sometimes he worked for twenty-four hours without sleeping.",
+      "explanation": "Câu đúng: \"Sometimes he worked for twenty-four hours without sleeping.\" → Thì: Hiện tại đơn (S + sometimes + V). Dấu hiệu: tần suất \"sometimes\"."
+    },
+    {
+      "id": 42,
+      "question": "My children/ to Friday./ from Monday/ school/ cycle to/",
+      "options": [],
+      "answer": "My children cycle to school from Monday to Friday.",
+      "explanation": "Câu đúng: \"My children cycle to school from Monday to Friday.\""
+    },
+    {
+      "id": 43,
+      "question": "The/ rack are/ magazines/ on this/ in English./",
+      "options": [],
+      "answer": "The magazines on this rack are in English.",
+      "explanation": "Câu đúng: \"The magazines on this rack are in English.\""
+    },
+    {
+      "id": 44,
+      "question": "Would/ you/ me/ some money?/ lend/",
+      "options": [],
+      "answer": "Would you lend me some money?",
+      "explanation": "Câu đúng: \"Would you lend me some money?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu)."
+    },
+    {
+      "id": 45,
+      "question": "The phone/ last Sunday./ ringing/ at midnight/ was/",
+      "options": [],
+      "answer": "The phone was ringing at midnight last Sunday.",
+      "explanation": "Câu đúng: \"The phone was ringing at midnight last Sunday.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"last week/month/year\". | Cấu trúc: \"was/were + V-ing\" = đang làm gì (trong quá khứ)."
+    },
+    {
+      "id": 46,
+      "question": "long/ has/ black/ hair./ Nam’s new friend/",
+      "options": [],
+      "answer": "Nam’s new friend has long black hair.",
+      "explanation": "Câu đúng: \"Nam’s new friend has long black hair.\" → Lưu ý trật tự: \"long\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 47,
+      "question": "tall trees/ behind/ my house./ There are/ some/",
+      "options": [],
+      "answer": "There are some tall trees behind my house.",
+      "explanation": "Câu đúng: \"There are some tall trees behind my house.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"tall trees\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 48,
+      "question": "me back?/ Could you/ call/ to/ ask him/",
+      "options": [],
+      "answer": "Could you ask him to call me back?",
+      "explanation": "Câu đúng: \"Could you ask him to call me back?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"me back?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 49,
+      "question": "Ban/ days ago./ terrible/ cold two/ caught a/",
+      "options": [],
+      "answer": "Ban caught a terrible cold two days ago.",
+      "explanation": "Câu đúng: \"Ban caught a terrible cold two days ago.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\"."
+    },
+    {
+      "id": 50,
+      "question": "your country?/ festival in/ the most/ What is/ important/",
+      "options": [],
+      "answer": "What is the most important festival in your country?",
+      "explanation": "Câu đúng: \"What is the most important festival in your country?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"your country?\" không phải từ đứng đầu câu. | So sánh nhất: \"the most + adj\" hoặc \"the + adj-est\"."
+    },
+    {
+      "id": 51,
+      "question": "Simon./ driver than/ more careful/ a much/ Ken is/",
+      "options": [],
+      "answer": "Ken is a much more careful driver than Simon.",
+      "explanation": "Câu đúng: \"Ken is a much more careful driver than Simon.\" → Lưu ý trật tự: \"Simon.\" không phải từ đứng đầu câu. | So sánh hơn: adj ngắn + \"-er than\" hoặc \"more + adj dài + than\"."
+    },
+    {
+      "id": 52,
+      "question": "They spent/ afternoon/ the bike./ a whole/ fixing/",
+      "options": [],
+      "answer": "They spent a whole afternoon fixing the bike.",
+      "explanation": "Câu đúng: \"They spent a whole afternoon fixing the bike.\""
+    },
+    {
+      "id": 53,
+      "question": "have/ They/ lunch/ usually/ at twelve o’clock./",
+      "options": [],
+      "answer": "They usually have lunch at twelve o’clock.",
+      "explanation": "Câu đúng: \"They usually have lunch at twelve o’clock.\" → Thì: Hiện tại đơn (S + always/usually/often + V). Dấu hiệu: tần suất \"always/usually/often\". | Lưu ý trật tự: \"have\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 54,
+      "question": "Why/ to school?/ your sister/ doesn’t/ ride bike/",
+      "options": [],
+      "answer": "Why doesn’t your sister ride bike to school?",
+      "explanation": "Câu đúng: \"Why doesn’t your sister ride bike to school?\" → Loại câu: Câu hỏi WHY (hỏi về lý do)."
+    },
+    {
+      "id": 55,
+      "question": "my first/ my new/ school./ day at/ This is/",
+      "options": [],
+      "answer": "This is my first day at my new school.",
+      "explanation": "Câu đúng: \"This is my first day at my new school.\" → Lưu ý trật tự: \"my first\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 56,
+      "question": "over eight/ collection./ There are/ in Tim’s/ hundred stamps/",
+      "options": [],
+      "answer": "There are over eight hundred stamps in Tim’s collection.",
+      "explanation": "Câu đúng: \"There are over eight hundred stamps in Tim’s collection.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"over eight\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 57,
+      "question": "at the/ time./ They stopped/ a short/ restaurant for/",
+      "options": [],
+      "answer": "They stopped at the restaurant for a short time.",
+      "explanation": "Câu đúng: \"They stopped at the restaurant for a short time.\" → Lưu ý trật tự: \"at the\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 58,
+      "question": "want me to/ alone/ go/ Janet doesn’t/ at night./",
+      "options": [],
+      "answer": "Janet doesn’t want me to go alone at night.",
+      "explanation": "Câu đúng: \"Janet doesn’t want me to go alone at night.\" → Lưu ý trật tự: \"want me to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 59,
+      "question": "near my house/ and/ is large/ quiet./ The park/",
+      "options": [],
+      "answer": "The park near my house is large and quiet.",
+      "explanation": "Câu đúng: \"The park near my house is large and quiet.\" → Lưu ý trật tự: \"near my house\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 60,
+      "question": "to smoke/ in this/ Please ask/ area./ them not/",
+      "options": [],
+      "answer": "Please ask them not to smoke in this area.",
+      "explanation": "Câu đúng: \"Please ask them not to smoke in this area.\" → Loại câu: Câu mệnh lệnh / câu khuyên. | Lưu ý trật tự: \"to smoke\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 61,
+      "question": "is a/ very good/ friend/ His father/ of theirs./",
+      "options": [],
+      "answer": "His father is a very good friend of theirs.",
+      "explanation": "Câu đúng: \"His father is a very good friend of theirs.\" → Lưu ý trật tự: \"is a\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 62,
+      "question": "to/ It’s not/ a new doll./ difficult/ make/",
+      "options": [],
+      "answer": "It’s not difficult to make a new doll.",
+      "explanation": "Câu đúng: \"It’s not difficult to make a new doll.\" → Lưu ý trật tự: \"to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 63,
+      "question": "Edward loves/ on/ with his family./ going/ holiday/",
+      "options": [],
+      "answer": "Edward loves going on holiday with his family.",
+      "explanation": "Câu đúng: \"Edward loves going on holiday with his family.\""
+    },
+    {
+      "id": 64,
+      "question": "at school./ learn how/ to read/ and write/ Children/",
+      "options": [],
+      "answer": "Children learn how to read and write at school.",
+      "explanation": "Câu đúng: \"Children learn how to read and write at school.\" → Lưu ý trật tự: \"at school.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 65,
+      "question": "jobs./ lot of/ attractive/ This company/ offered a/",
+      "options": [],
+      "answer": "This company offered a lot of attractive jobs.",
+      "explanation": "Câu đúng: \"This company offered a lot of attractive jobs.\" → Lưu ý trật tự: \"jobs.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 66,
+      "question": "were/ Someone/ when you/ phoned you/ out./",
+      "options": [],
+      "answer": "Someone phoned you when you were out.",
+      "explanation": "Câu đúng: \"Someone phoned you when you were out.\" → Thì: Mệnh đề thời gian (\"when + S + V\" (khi)). . | Lưu ý trật tự: \"were\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 67,
+      "question": "a colorful/ picture/ There is/ on the/ wall./",
+      "options": [],
+      "answer": "There is a colorful picture on the wall.",
+      "explanation": "Câu đúng: \"There is a colorful picture on the wall.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"a colorful\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 68,
+      "question": "did/ coming storm./ about the/ tell her/ No one/",
+      "options": [],
+      "answer": "No one did tell her about the coming storm.",
+      "explanation": "Câu đúng: \"No one did tell her about the coming storm.\" → Lưu ý trật tự: \"did\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 69,
+      "question": "a day./ cups/ I drink/ of tea/ three/",
+      "options": [],
+      "answer": "I drink three cups of tea a day.",
+      "explanation": "Câu đúng: \"I drink three cups of tea a day.\" → Lưu ý trật tự: \"a day.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 70,
+      "question": "years ago./ foreign/ to collect/ He began/ stamps 5/",
+      "options": [],
+      "answer": "He began to collect foreign stamps 5 years ago.",
+      "explanation": "Câu đúng: \"He began to collect foreign stamps 5 years ago.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\". | Lưu ý trật tự: \"years ago.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 71,
+      "question": "the campfire/ sitting around/ the stars./ under/ We are/",
+      "options": [],
+      "answer": "We are sitting around the campfire under the stars.",
+      "explanation": "Câu đúng: \"We are sitting around the campfire under the stars.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"the campfire\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 72,
+      "question": "ago./ high school/ His brother/ finished/ 6 years/",
+      "options": [],
+      "answer": "His brother finished high school 6 years ago.",
+      "explanation": "Câu đúng: \"His brother finished high school 6 years ago.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\". | Lưu ý trật tự: \"ago.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 73,
+      "question": "to thank/ me./ I want/ you for/ helping/",
+      "options": [],
+      "answer": "I want to thank you for helping me.",
+      "explanation": "Câu đúng: \"I want to thank you for helping me.\" → Lưu ý trật tự: \"to thank\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 74,
+      "question": "He wants/ computer./ how to/ use the/ to learn/",
+      "options": [],
+      "answer": "He wants to learn how to use the computer.",
+      "explanation": "Câu đúng: \"He wants to learn how to use the computer.\""
+    },
+    {
+      "id": 75,
+      "question": "good/ you/ time?/ Did/ have a/",
+      "options": [],
+      "answer": "Did you have a good time?",
+      "explanation": "Câu đúng: \"Did you have a good time?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"good\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 76,
+      "question": "States?/ How was/ United/ your trip/ to the/",
+      "options": [],
+      "answer": "How was your trip to the United States?",
+      "explanation": "Câu đúng: \"How was your trip to the United States?\" → Cấu trúc: \"How + adj/adv + ...?\" (Hỏi mức độ, cách thức). | Loại câu: Câu hỏi HOW (hỏi về cách thức/mức độ). | Lưu ý trật tự: \"States?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 77,
+      "question": "There are/ at my school./ music/ different/ clubs/",
+      "options": [],
+      "answer": "There are different music clubs at my school.",
+      "explanation": "Câu đúng: \"There are different music clubs at my school.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\"."
+    },
+    {
+      "id": 78,
+      "question": "cycle to/ to Friday./ My children/ school/ from Monday/",
+      "options": [],
+      "answer": "My children cycle to school from Monday to Friday.",
+      "explanation": "Câu đúng: \"My children cycle to school from Monday to Friday.\" → Lưu ý trật tự: \"cycle to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 79,
+      "question": "You/ go out/ alone in the/ evening./ should not/",
+      "options": [],
+      "answer": "You should not go out alone in the evening.",
+      "explanation": "Câu đúng: \"You should not go out alone in the evening.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed)."
+    },
+    {
+      "id": 80,
+      "question": "say/ you to/ kind of/ so!/ It's very/",
+      "options": [],
+      "answer": "It's very kind of you to say so!",
+      "explanation": "Câu đúng: \"It's very kind of you to say so!\" → Loại câu: Câu cảm thán. | Lưu ý trật tự: \"say\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 81,
+      "question": "Jennifer’s/ will be/ birthday./ Tomorrow/ 9th/",
+      "options": [],
+      "answer": "Tomorrow will be Jennifer’s 9th birthday.",
+      "explanation": "Câu đúng: \"Tomorrow will be Jennifer’s 9th birthday.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"tomorrow\". | Lưu ý trật tự: \"Jennifer’s\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 82,
+      "question": "talking to/ fishing./ He is/ about/ his father/",
+      "options": [],
+      "answer": "He is talking to his father about fishing.",
+      "explanation": "Câu đúng: \"He is talking to his father about fishing.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"talking to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 83,
+      "question": "playing/ are/ Tuan and I/ at the moment./ badminton/",
+      "options": [],
+      "answer": "Tuan and I are playing badminton at the moment.",
+      "explanation": "Câu đúng: \"Tuan and I are playing badminton at the moment.\" → Thì: Hiện tại tiếp diễn (am/is/are + V-ing). Dấu hiệu: \"at the moment\". | Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"playing\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 84,
+      "question": "day./ tired/ I felt/ a hard-working/ after/",
+      "options": [],
+      "answer": "I felt tired after a hard-working day.",
+      "explanation": "Câu đúng: \"I felt tired after a hard-working day.\" → Thì: Mệnh đề thời gian (\"after + S + V\" (sau khi)). . | Lưu ý trật tự: \"day.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 85,
+      "question": "You/ a phone card to/ need/ a call./ make/",
+      "options": [],
+      "answer": "You need a phone card to make a call.",
+      "explanation": "Câu đúng: \"You need a phone card to make a call.\""
+    },
+    {
+      "id": 86,
+      "question": "forget/ Don’t/ to me./ a letter/ to write/",
+      "options": [],
+      "answer": "Don’t forget to write a letter to me.",
+      "explanation": "Câu đúng: \"Don’t forget to write a letter to me.\" → Lưu ý trật tự: \"forget\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 87,
+      "question": "school is/ education./ My favorite/ physical/ subject at/",
+      "options": [],
+      "answer": "My favorite subject at school is physical education.",
+      "explanation": "Câu đúng: \"My favorite subject at school is physical education.\" → Lưu ý trật tự: \"school is\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 88,
+      "question": "of your/ Can you/ the rest/ show me/ school?/",
+      "options": [],
+      "answer": "Can you show me the rest of your school?",
+      "explanation": "Câu đúng: \"Can you show me the rest of your school?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"of your\" không phải từ đứng đầu câu. | So sánh nhất: \"the most + adj\" hoặc \"the + adj-est\"."
+    },
+    {
+      "id": 89,
+      "question": "toys./ My children/ those kinds/ of imported/ don’t like/",
+      "options": [],
+      "answer": "My children don’t like those kinds of imported toys.",
+      "explanation": "Câu đúng: \"My children don’t like those kinds of imported toys.\" → Lưu ý trật tự: \"toys.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 90,
+      "question": "The noise/ Tom/ city kept/ awake./ of the/",
+      "options": [],
+      "answer": "The noise of the city kept Tom awake.",
+      "explanation": "Câu đúng: \"The noise of the city kept Tom awake.\""
+    },
+    {
+      "id": 91,
+      "question": "please?/ Could you/ window over/ there/ open the/",
+      "options": [],
+      "answer": "Could you open the window over there please?",
+      "explanation": "Câu đúng: \"Could you open the window over there please?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"please?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 92,
+      "question": "yesterday/ you late/ Why were/ morning?/ for school/",
+      "options": [],
+      "answer": "Why were you late for school yesterday morning?",
+      "explanation": "Câu đúng: \"Why were you late for school yesterday morning?\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"yesterday\". | Loại câu: Câu hỏi WHY (hỏi về lý do). | Lưu ý trật tự: \"yesterday\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 93,
+      "question": "please?/ the scales,/ Would you/ get on/",
+      "options": [],
+      "answer": "Would you get on the scales, please?",
+      "explanation": "Câu đúng: \"Would you get on the scales, please?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"please?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 94,
+      "question": "far/ John’s apartment is/ the city centre./ from/ very/",
+      "options": [],
+      "answer": "John’s apartment is very far from the city centre.",
+      "explanation": "Câu đúng: \"John’s apartment is very far from the city centre.\" → Lưu ý trật tự: \"far\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 95,
+      "question": "my favorite/ Maths very much./ It’s/ I love/ subject./",
+      "options": [],
+      "answer": "I love Maths very much. It’s my favorite subject.",
+      "explanation": "Câu đúng: \"I love Maths very much. It’s my favorite subject.\" → Lưu ý trật tự: \"my favorite\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 96,
+      "question": "my favorite sport,/ but/ Fishing is/ jogging./ not/",
+      "options": [],
+      "answer": "Fishing is my favorite sport, but not jogging.",
+      "explanation": "Câu đúng: \"Fishing is my favorite sport, but not jogging.\" → Lưu ý trật tự: \"my favorite sport,\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 97,
+      "question": "Sometimes he/ sleeping./ twenty-four/ hours without/ worked for/",
+      "options": [],
+      "answer": "Sometimes he worked for twenty-four hours without sleeping.",
+      "explanation": "Câu đúng: \"Sometimes he worked for twenty-four hours without sleeping.\" → Thì: Hiện tại đơn (S + sometimes + V). Dấu hiệu: tần suất \"sometimes\"."
+    },
+    {
+      "id": 98,
+      "question": "and oil releases/ Burning coal/ harmful to/ humans./ gases/",
+      "options": [],
+      "answer": "Burning coal and oil releases gases harmful to humans.",
+      "explanation": "Câu đúng: \"Burning coal and oil releases gases harmful to humans.\" → Lưu ý trật tự: \"and oil releases\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 99,
+      "question": "from/ learn/ lesson do you/ the story?/ What/",
+      "options": [],
+      "answer": "What lesson do you learn from the story?",
+      "explanation": "Câu đúng: \"What lesson do you learn from the story?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"from\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 100,
+      "question": "There/ chair/ the table./ next to/ is a/",
+      "options": [],
+      "answer": "There is a chair next to the table.",
+      "explanation": "Câu đúng: \"There is a chair next to the table.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"next week/month/year\". | Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\"."
+    },
+    {
+      "id": 101,
+      "question": "to school?/ your house/ How far/ is it/ from/",
+      "options": [],
+      "answer": "How far is it from your house to school?",
+      "explanation": "Câu đúng: \"How far is it from your house to school?\" → Cấu trúc: \"How + adj/adv + ...?\" (Hỏi mức độ, cách thức). | Loại câu: Câu hỏi HOW (hỏi về cách thức/mức độ). | Lưu ý trật tự: \"to school?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 102,
+      "question": "you for/ helping/ to thank/ I want/ me./",
+      "options": [],
+      "answer": "I want to thank you for helping me.",
+      "explanation": "Câu đúng: \"I want to thank you for helping me.\" → Lưu ý trật tự: \"you for\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 103,
+      "question": "on Mondays/ They/ wear/ uniforms/ have to/",
+      "options": [],
+      "answer": "They have to wear uniforms on Mondays",
+      "explanation": "Câu đúng: \"They have to wear uniforms on Mondays\" → Lưu ý trật tự: \"on Mondays\" không phải từ đứng đầu câu. | \"have to / has to + V\" = phải làm gì (bắt buộc)."
+    },
+    {
+      "id": 104,
+      "question": "on Mondays./ They/ have to/ uniform/ wear/",
+      "options": [],
+      "answer": "They have to wear uniform on Mondays.",
+      "explanation": "Câu đúng: \"They have to wear uniform on Mondays.\" → Lưu ý trật tự: \"on Mondays.\" không phải từ đứng đầu câu. | \"have to / has to + V\" = phải làm gì (bắt buộc)."
+    },
+    {
+      "id": 105,
+      "question": "to see/ is very/ me home./ happy/ My father/",
+      "options": [],
+      "answer": "My father is very happy to see me home.",
+      "explanation": "Câu đúng: \"My father is very happy to see me home.\" → Lưu ý trật tự: \"to see\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 106,
+      "question": "to Friday./ school/ My children/ cycle to/ from Monday/",
+      "options": [],
+      "answer": "My children cycle to school from Monday to Friday.",
+      "explanation": "Câu đúng: \"My children cycle to school from Monday to Friday.\" → Lưu ý trật tự: \"to Friday.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 107,
+      "question": "drinks more/ my sister/ does./ coffee than/ My brother/",
+      "options": [],
+      "answer": "My brother drinks more coffee than my sister does.",
+      "explanation": "Câu đúng: \"My brother drinks more coffee than my sister does.\" → Lưu ý trật tự: \"drinks more\" không phải từ đứng đầu câu. | So sánh hơn: adj ngắn + \"-er than\" hoặc \"more + adj dài + than\"."
+    },
+    {
+      "id": 108,
+      "question": "after/ a hard-working/ I felt/ tired/ day./",
+      "options": [],
+      "answer": "I felt tired after a hard-working day.",
+      "explanation": "Câu đúng: \"I felt tired after a hard-working day.\" → Thì: Mệnh đề thời gian (\"after + S + V\" (sau khi)). . | Lưu ý trật tự: \"after\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 109,
+      "question": "under/ the campfire/ the stars./ We are/ sitting around/",
+      "options": [],
+      "answer": "We are sitting around the campfire under the stars.",
+      "explanation": "Câu đúng: \"We are sitting around the campfire under the stars.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"under\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 110,
+      "question": "help/ in the/ garden./ I usually/ my dad/",
+      "options": [],
+      "answer": "I usually help my dad in the garden.",
+      "explanation": "Câu đúng: \"I usually help my dad in the garden.\" → Thì: Hiện tại đơn (S + always/usually/often + V). Dấu hiệu: tần suất \"always/usually/often\". | Lưu ý trật tự: \"help\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 111,
+      "question": "Mai/ old/ enough/ to drive a car./ is not/",
+      "options": [],
+      "answer": "Mai is not old enough to drive a car.",
+      "explanation": "Câu đúng: \"Mai is not old enough to drive a car.\""
+    },
+    {
+      "id": 112,
+      "question": "telephone?/ the world’s/ Who/ first/ made/",
+      "options": [],
+      "answer": "Who made the world’s first telephone?",
+      "explanation": "Câu đúng: \"Who made the world’s first telephone?\" → Loại câu: Câu hỏi WHO (hỏi về người). | Lưu ý trật tự: \"telephone?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 113,
+      "question": "enough/ hot/ to boil a kettle./ The fire/ isn’t/",
+      "options": [],
+      "answer": "The fire isn’t hot enough to boil a kettle.",
+      "explanation": "Câu đúng: \"The fire isn’t hot enough to boil a kettle.\" → Lưu ý trật tự: \"enough\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 114,
+      "question": "our work/ We/ to satisfaction./ to bring/ try/",
+      "options": [],
+      "answer": "We try to bring our work to satisfaction.",
+      "explanation": "Câu đúng: \"We try to bring our work to satisfaction.\" → Lưu ý trật tự: \"our work\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 115,
+      "question": "humour./ Dave/ good/ sense of/ has a/",
+      "options": [],
+      "answer": "Dave has a good sense of humour.",
+      "explanation": "Câu đúng: \"Dave has a good sense of humour.\" → Lưu ý trật tự: \"humour.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 116,
+      "question": "here?/ Where is/ post office/ from/ the nearest/",
+      "options": [],
+      "answer": "Where is the nearest post office from here?",
+      "explanation": "Câu đúng: \"Where is the nearest post office from here?\" → Loại câu: Câu hỏi WHERE (hỏi về địa điểm). | Lưu ý trật tự: \"here?\" không phải từ đứng đầu câu. | So sánh nhất: \"the most + adj\" hoặc \"the + adj-est\"."
+    },
+    {
+      "id": 117,
+      "question": "and watch/ TV/ My sisters/ all evening./ just sit/",
+      "options": [],
+      "answer": "My sisters just sit and watch TV all evening.",
+      "explanation": "Câu đúng: \"My sisters just sit and watch TV all evening.\" → Lưu ý trật tự: \"and watch\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 118,
+      "question": "than a/ miracle drug./ is/ nothing less/ Hugging/",
+      "options": [],
+      "answer": "Hugging is nothing less than a miracle drug.",
+      "explanation": "Câu đúng: \"Hugging is nothing less than a miracle drug.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"than a\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 119,
+      "question": "There are/ 2 bedrooms/ upstairs but/ no/ bathroom./",
+      "options": [],
+      "answer": "There are 2 bedrooms upstairs but no bathroom.",
+      "explanation": "Câu đúng: \"There are 2 bedrooms upstairs but no bathroom.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\"."
+    },
+    {
+      "id": 120,
+      "question": "him to/ smoking./ It’s no/ stop/ use advising/",
+      "options": [],
+      "answer": "It’s no use advising him to stop smoking.",
+      "explanation": "Câu đúng: \"It’s no use advising him to stop smoking.\" → Lưu ý trật tự: \"him to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 121,
+      "question": "The early/ morning sunlight/ flooded/ room./ into my/",
+      "options": [],
+      "answer": "The early morning sunlight flooded into my room.",
+      "explanation": "Câu đúng: \"The early morning sunlight flooded into my room.\""
+    },
+    {
+      "id": 122,
+      "question": "Which/ go to?/ did you/ primary/ school/",
+      "options": [],
+      "answer": "Which primary school did you go to?",
+      "explanation": "Câu đúng: \"Which primary school did you go to?\" → Loại câu: Câu hỏi WHICH (hỏi chọn lựa)."
+    },
+    {
+      "id": 123,
+      "question": "Would/ lend/ you/ me/ some money?/",
+      "options": [],
+      "answer": "Would you lend me some money?",
+      "explanation": "Câu đúng: \"Would you lend me some money?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu)."
+    },
+    {
+      "id": 124,
+      "question": "for her teacher/ bought/ last Sunday./ some flowers/ Mai/",
+      "options": [],
+      "answer": "Mai bought some flowers for her teacher last Sunday.",
+      "explanation": "Câu đúng: \"Mai bought some flowers for her teacher last Sunday.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"last week/month/year\". | Lưu ý trật tự: \"for her teacher\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 125,
+      "question": "over eight/ hundred stamps/ in Tim’s/ There are/ collection./",
+      "options": [],
+      "answer": "There are over eight hundred stamps in Tim’s collection.",
+      "explanation": "Câu đúng: \"There are over eight hundred stamps in Tim’s collection.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"over eight\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 126,
+      "question": "store near/ a nice/ There is/ clothing/ my house./",
+      "options": [],
+      "answer": "There is a nice clothing store near my house.",
+      "explanation": "Câu đúng: \"There is a nice clothing store near my house.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"store near\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 127,
+      "question": "keeps/ An apple/ away./ a day,/ the doctor/",
+      "options": [],
+      "answer": "An apple a day, keeps the doctor away.",
+      "explanation": "Câu đúng: \"An apple a day, keeps the doctor away.\" → Lưu ý trật tự: \"keeps\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 128,
+      "question": "a day./ of mineral/ water/ a lot/ He drinks/",
+      "options": [],
+      "answer": "He drinks a lot of mineral water a day.",
+      "explanation": "Câu đúng: \"He drinks a lot of mineral water a day.\" → Lưu ý trật tự: \"a day.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 129,
+      "question": "high is/ Clock/ Tower?/ the Big Ben/ How/",
+      "options": [],
+      "answer": "How high is the Big Ben Clock Tower?",
+      "explanation": "Câu đúng: \"How high is the Big Ben Clock Tower?\" → Cấu trúc: \"How + adj/adv + ...?\" (Hỏi mức độ, cách thức). | Loại câu: Câu hỏi HOW (hỏi về cách thức/mức độ). | Lưu ý trật tự: \"high is\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 130,
+      "question": "finished/ high school/ His brother/ 6 years/ ago./",
+      "options": [],
+      "answer": "His brother finished high school 6 years ago.",
+      "explanation": "Câu đúng: \"His brother finished high school 6 years ago.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\". | Lưu ý trật tự: \"finished\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 131,
+      "question": "listen to/ the news/ every/ morning./ They don’t/",
+      "options": [],
+      "answer": "They don’t listen to the news every morning.",
+      "explanation": "Câu đúng: \"They don’t listen to the news every morning.\" → Lưu ý trật tự: \"listen to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 132,
+      "question": "it/ learn Japanese?/ you find/ difficult to/ Do/",
+      "options": [],
+      "answer": "Do you find it difficult to learn Japanese?",
+      "explanation": "Câu đúng: \"Do you find it difficult to learn Japanese?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"it\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 133,
+      "question": "sure they/ telling/ I’m/ lies./ were/",
+      "options": [],
+      "answer": "I’m sure they were telling lies.",
+      "explanation": "Câu đúng: \"I’m sure they were telling lies.\" → Cấu trúc: \"was/were + V-ing\" = đang làm gì (trong quá khứ). | Lưu ý trật tự: \"sure they\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 134,
+      "question": "can’t speak/ Vietnamese./ Peter can/ but he/ speak English/",
+      "options": [],
+      "answer": "Peter can speak English but he can’t speak Vietnamese.",
+      "explanation": "Câu đúng: \"Peter can speak English but he can’t speak Vietnamese.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Lưu ý trật tự: \"can’t speak\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 135,
+      "question": "the morning?/ up in/ does he/ wake/ What time/",
+      "options": [],
+      "answer": "What time does he wake up in the morning?",
+      "explanation": "Câu đúng: \"What time does he wake up in the morning?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"the morning?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 136,
+      "question": "from/ the countryside./ my students/ Most of/ come/",
+      "options": [],
+      "answer": "Most of my students come from the countryside.",
+      "explanation": "Câu đúng: \"Most of my students come from the countryside.\" → Lưu ý trật tự: \"from\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 137,
+      "question": "You/ decide/ for you./ alone should/ what is right/",
+      "options": [],
+      "answer": "You alone should decide what is right for you.",
+      "explanation": "Câu đúng: \"You alone should decide what is right for you.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed)."
+    },
+    {
+      "id": 138,
+      "question": "There/ next to/ the table./ is a/ chair/",
+      "options": [],
+      "answer": "There is a chair next to the table.",
+      "explanation": "Câu đúng: \"There is a chair next to the table.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"next week/month/year\". | Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\"."
+    },
+    {
+      "id": 139,
+      "question": "Dave/ humour./ sense of/ has a/ good/",
+      "options": [],
+      "answer": "Dave has a good sense of humour.",
+      "explanation": "Câu đúng: \"Dave has a good sense of humour.\""
+    },
+    {
+      "id": 140,
+      "question": "behind/ police station/ Is the/ the post/ office?/",
+      "options": [],
+      "answer": "Is the police station behind the post office?",
+      "explanation": "Câu đúng: \"Is the police station behind the post office?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"behind\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 141,
+      "question": "in/ first/ you do/ the morning?/ What do/",
+      "options": [],
+      "answer": "What do you do first in the morning?",
+      "explanation": "Câu đúng: \"What do you do first in the morning?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"in\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 142,
+      "question": "I think/ the party/ tomorrow./ she is/ enjoying/",
+      "options": [],
+      "answer": "I think she is enjoying the party tomorrow.",
+      "explanation": "Câu đúng: \"I think she is enjoying the party tomorrow.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"tomorrow\". | Cấu trúc: \"am/is/are + V-ing\" = đang làm gì."
+    },
+    {
+      "id": 143,
+      "question": "curly/ short/ hair./ has/ My sister/",
+      "options": [],
+      "answer": "My sister has short curly hair.",
+      "explanation": "Câu đúng: \"My sister has short curly hair.\" → Lưu ý trật tự: \"curly\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 144,
+      "question": "everyday./ Our body/ lot of/ water/ needs a/",
+      "options": [],
+      "answer": "Our body needs a lot of water everyday.",
+      "explanation": "Câu đúng: \"Our body needs a lot of water everyday.\" → Lưu ý trật tự: \"everyday.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 145,
+      "question": "much/ usually drink/ than adults./ more milk/ Children/",
+      "options": [],
+      "answer": "Children usually drink much more milk than adults.",
+      "explanation": "Câu đúng: \"Children usually drink much more milk than adults.\" → Thì: Hiện tại đơn (S + always/usually/often + V). Dấu hiệu: tần suất \"always/usually/often\". | Lưu ý trật tự: \"much\" không phải từ đứng đầu câu. | So sánh hơn: adj ngắn + \"-er than\" hoặc \"more + adj dài + than\"."
+    },
+    {
+      "id": 146,
+      "question": "should not/ evening./ You/ go out/ alone in the/",
+      "options": [],
+      "answer": "You should not go out alone in the evening.",
+      "explanation": "Câu đúng: \"You should not go out alone in the evening.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Lưu ý trật tự: \"should not\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 147,
+      "question": "sleeping./ Sometimes he/ worked for/ twenty-four/ hours without/",
+      "options": [],
+      "answer": "Sometimes he worked for twenty-four hours without sleeping.",
+      "explanation": "Câu đúng: \"Sometimes he worked for twenty-four hours without sleeping.\" → Thì: Hiện tại đơn (S + sometimes + V). Dấu hiệu: tần suất \"sometimes\". | Lưu ý trật tự: \"sleeping.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 148,
+      "question": "team?/ school/ play football/ Does he/ for our/",
+      "options": [],
+      "answer": "Does he play football for our school team?",
+      "explanation": "Câu đúng: \"Does he play football for our school team?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"team?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 149,
+      "question": "upstairs but/ bathroom./ 2 bedrooms/ There are/ no/",
+      "options": [],
+      "answer": "There are 2 bedrooms upstairs but no bathroom.",
+      "explanation": "Câu đúng: \"There are 2 bedrooms upstairs but no bathroom.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"upstairs but\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 150,
+      "question": "time?/ Did/ have a/ you/ good/",
+      "options": [],
+      "answer": "Did you have a good time?",
+      "explanation": "Câu đúng: \"Did you have a good time?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"time?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 151,
+      "question": "difficult/ make/ It’s not/ to/ a new doll./",
+      "options": [],
+      "answer": "It’s not difficult to make a new doll.",
+      "explanation": "Câu đúng: \"It’s not difficult to make a new doll.\" → Lưu ý trật tự: \"difficult\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 152,
+      "question": "hundred stamps/ There are/ in Tim’s/ over eight/ collection./",
+      "options": [],
+      "answer": "There are over eight hundred stamps in Tim’s collection.",
+      "explanation": "Câu đúng: \"There are over eight hundred stamps in Tim’s collection.\" → Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"hundred stamps\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 153,
+      "question": "chair/ the table./ is a/ next to/ There/",
+      "options": [],
+      "answer": "There is a chair next to the table.",
+      "explanation": "Câu đúng: \"There is a chair next to the table.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"next week/month/year\". | Cấu trúc: \"There is + N (số ít) / There are + N (số nhiều)\". | Lưu ý trật tự: \"chair\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 154,
+      "question": "What did/ he speak/ two days/ ago?/ to you/",
+      "options": [],
+      "answer": "What did he speak to you two days ago?",
+      "explanation": "Câu đúng: \"What did he speak to you two days ago?\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\". | Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì)."
+    },
+    {
+      "id": 155,
+      "question": "Ban/ caught a/ days ago./ cold two/ terrible/",
+      "options": [],
+      "answer": "Ban caught a terrible cold two days ago.",
+      "explanation": "Câu đúng: \"Ban caught a terrible cold two days ago.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\"."
+    },
+    {
+      "id": 156,
+      "question": "the rest/ of your/ Can you/ show me/ school?/",
+      "options": [],
+      "answer": "Can you show me the rest of your school?",
+      "explanation": "Câu đúng: \"Can you show me the rest of your school?\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"the rest\" không phải từ đứng đầu câu. | So sánh nhất: \"the most + adj\" hoặc \"the + adj-est\"."
+    },
+    {
+      "id": 157,
+      "question": "quiet./ is large/ and/ The park/ near my house/",
+      "options": [],
+      "answer": "The park near my house is large and quiet.",
+      "explanation": "Câu đúng: \"The park near my house is large and quiet.\" → Lưu ý trật tự: \"quiet.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 158,
+      "question": "told us/ Our teacher/ to/ read/ this book./",
+      "options": [],
+      "answer": "Our teacher told us to read this book.",
+      "explanation": "Câu đúng: \"Our teacher told us to read this book.\" → Lưu ý trật tự: \"told us\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 159,
+      "question": "and watch/ just sit/ My sisters/ all evening./ TV/",
+      "options": [],
+      "answer": "My sisters just sit and watch TV all evening.",
+      "explanation": "Câu đúng: \"My sisters just sit and watch TV all evening.\" → Lưu ý trật tự: \"and watch\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 160,
+      "question": "suggested/ The chairman/ next week./ holding/ another meeting/",
+      "options": [],
+      "answer": "The chairman suggested holding another meeting next week.",
+      "explanation": "Câu đúng: \"The chairman suggested holding another meeting next week.\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"next week/month/year\". | Lưu ý trật tự: \"suggested\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 161,
+      "question": "morning?/ work yesterday/ get to/ What time/ did you/",
+      "options": [],
+      "answer": "What time did you get to work yesterday morning?",
+      "explanation": "Câu đúng: \"What time did you get to work yesterday morning?\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"yesterday\". | Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"morning?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 162,
+      "question": "Don’t/ street./ It’s very/ dangerous./ play in the/",
+      "options": [],
+      "answer": "Don’t play in the street. It’s very dangerous.",
+      "explanation": "Câu đúng: \"Don’t play in the street. It’s very dangerous.\" → \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 163,
+      "question": "sleeping./ worked for/ Sometimes he/ twenty-four/ hours without/",
+      "options": [],
+      "answer": "Sometimes he worked for twenty-four hours without sleeping.",
+      "explanation": "Câu đúng: \"Sometimes he worked for twenty-four hours without sleeping.\" → Thì: Hiện tại đơn (S + sometimes + V). Dấu hiệu: tần suất \"sometimes\". | Lưu ý trật tự: \"sleeping.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 164,
+      "question": "in the/ restaurant./ Apple crumble/ favourite dessert/ is my/",
+      "options": [],
+      "answer": "Apple crumble is my favourite dessert in the restaurant.",
+      "explanation": "Câu đúng: \"Apple crumble is my favourite dessert in the restaurant.\" → Lưu ý trật tự: \"in the\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 165,
+      "question": "like/ action/ Trung and his brother/ very much./ movies/",
+      "options": [],
+      "answer": "Trung and his brother like action movies very much.",
+      "explanation": "Câu đúng: \"Trung and his brother like action movies very much.\" → Lưu ý trật tự: \"like\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 166,
+      "question": "Mary is singing/ beautiful/ English song./ Listen!/ a very/",
+      "options": [],
+      "answer": "Listen! Mary is singing a very beautiful English song.",
+      "explanation": "Câu đúng: \"Listen! Mary is singing a very beautiful English song.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"Mary is singing\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 167,
+      "question": "ready/ Are you/ to begin/ your lesson/ today?/",
+      "options": [],
+      "answer": "Are you ready to begin your lesson today?",
+      "explanation": "Câu đúng: \"Are you ready to begin your lesson today?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"ready\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 168,
+      "question": "first/ What do/ the morning?/ in/ you do/",
+      "options": [],
+      "answer": "What do you do first in the morning?",
+      "explanation": "Câu đúng: \"What do you do first in the morning?\" → Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"first\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 169,
+      "question": "tomorrow?/ visit/ anybody/ going to/ Are you/",
+      "options": [],
+      "answer": "Are you going to visit anybody tomorrow?",
+      "explanation": "Câu đúng: \"Are you going to visit anybody tomorrow?\" → Thì: Tương lai đơn (will + V / be going to + V). Dấu hiệu: \"tomorrow\". | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"tomorrow?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 170,
+      "question": "present./ I must write/ Mary/ and thank/ for the/",
+      "options": [],
+      "answer": "I must write and thank Mary for the present.",
+      "explanation": "Câu đúng: \"I must write and thank Mary for the present.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Lưu ý trật tự: \"present.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 171,
+      "question": "to the/ to see/ a movie./ cinema/ She goes/",
+      "options": [],
+      "answer": "She goes to the cinema to see a movie.",
+      "explanation": "Câu đúng: \"She goes to the cinema to see a movie.\" → Lưu ý trật tự: \"to the\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 172,
+      "question": "magazines/ in English./ on this/ rack are/ The/",
+      "options": [],
+      "answer": "The magazines on this rack are in English.",
+      "explanation": "Câu đúng: \"The magazines on this rack are in English.\" → Lưu ý trật tự: \"magazines\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 173,
+      "question": "always/ He/ his homework/ after dinner./ does/",
+      "options": [],
+      "answer": "He always does his homework after dinner.",
+      "explanation": "Câu đúng: \"He always does his homework after dinner.\" → Thì: Hiện tại đơn (S + always/usually/often + V). Dấu hiệu: tần suất \"always/usually/often\". | Lưu ý trật tự: \"always\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 174,
+      "question": "your father/ for you?/ write a/ sick note/ Did/",
+      "options": [],
+      "answer": "Did your father write a sick note for you?",
+      "explanation": "Câu đúng: \"Did your father write a sick note for you?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"your father\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 175,
+      "question": "cozy/ What a/ lovely and/ house/ you have!/",
+      "options": [],
+      "answer": "What a lovely and cozy house you have!",
+      "explanation": "Câu đúng: \"What a lovely and cozy house you have!\" → Cấu trúc: \"What + a/an + adj + N!\" (câu cảm thán). | Loại câu: Câu cảm thán. | Lưu ý trật tự: \"cozy\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 176,
+      "question": "with his family./ Edward loves/ going/ on/ holiday/",
+      "options": [],
+      "answer": "Edward loves going on holiday with his family.",
+      "explanation": "Câu đúng: \"Edward loves going on holiday with his family.\" → Lưu ý trật tự: \"with his family.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 177,
+      "question": "Jimmy plays/ in the/ orchestra./ school/ the violin/",
+      "options": [],
+      "answer": "Jimmy plays the violin in the school orchestra.",
+      "explanation": "Câu đúng: \"Jimmy plays the violin in the school orchestra.\""
+    },
+    {
+      "id": 178,
+      "question": "get to/ What time/ work yesterday/ morning?/ did you/",
+      "options": [],
+      "answer": "What time did you get to work yesterday morning?",
+      "explanation": "Câu đúng: \"What time did you get to work yesterday morning?\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"yesterday\". | Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"get to\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 179,
+      "question": "make/ You/ need/ a call./ a phone card to/",
+      "options": [],
+      "answer": "You need a phone card to make a call.",
+      "explanation": "Câu đúng: \"You need a phone card to make a call.\" → Lưu ý trật tự: \"make\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 180,
+      "question": "a little/ puts/ in her soup./ She always/ salt/",
+      "options": [],
+      "answer": "She always puts a little salt in her soup.",
+      "explanation": "Câu đúng: \"She always puts a little salt in her soup.\" → Thì: Hiện tại đơn (S + always/usually/often + V). Dấu hiệu: tần suất \"always/usually/often\". | Lưu ý trật tự: \"a little\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 181,
+      "question": "My sister/ has/ short/ hair./ curly/",
+      "options": [],
+      "answer": "My sister has short curly hair.",
+      "explanation": "Câu đúng: \"My sister has short curly hair.\""
+    },
+    {
+      "id": 182,
+      "question": "at/ is Anne/ taking/ the moment?/ What subject/",
+      "options": [],
+      "answer": "What subject is Anne taking at the moment?",
+      "explanation": "Câu đúng: \"What subject is Anne taking at the moment?\" → Thì: Hiện tại tiếp diễn (am/is/are + V-ing). Dấu hiệu: \"at the moment\". | Loại câu: Câu hỏi WHAT (hỏi về vật/điều gì). | Lưu ý trật tự: \"at\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 183,
+      "question": "for the children./ temperature/ is/ taking the/ The nurse/",
+      "options": [],
+      "answer": "The nurse is taking the temperature for the children.",
+      "explanation": "Câu đúng: \"The nurse is taking the temperature for the children.\" → Cấu trúc: \"am/is/are + V-ing\" = đang làm gì. | Lưu ý trật tự: \"for the children.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 184,
+      "question": "of tea/ cups/ I drink/ a day./ three/",
+      "options": [],
+      "answer": "I drink three cups of tea a day.",
+      "explanation": "Câu đúng: \"I drink three cups of tea a day.\" → Lưu ý trật tự: \"of tea\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 185,
+      "question": "My children/ cycle to/ from Monday/ to Friday./ school/",
+      "options": [],
+      "answer": "My children cycle to school from Monday to Friday.",
+      "explanation": "Câu đúng: \"My children cycle to school from Monday to Friday.\""
+    },
+    {
+      "id": 186,
+      "question": "Mr. Steve/ listens/ this kind of music./ to/ never/",
+      "options": [],
+      "answer": "Mr. Steve never listens to this kind of music.",
+      "explanation": "Câu đúng: \"Mr. Steve never listens to this kind of music.\""
+    },
+    {
+      "id": 187,
+      "question": "in Ninh Thuan/ much rain/ in summer./ isn’t/ There/",
+      "options": [],
+      "answer": "There isn’t much rain in Ninh Thuan in summer.",
+      "explanation": "Câu đúng: \"There isn’t much rain in Ninh Thuan in summer.\" → Lưu ý trật tự: \"in Ninh Thuan\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 188,
+      "question": "study harder./ students to/ encouraged/ The teacher/ the/",
+      "options": [],
+      "answer": "The teacher encouraged the students to study harder.",
+      "explanation": "Câu đúng: \"The teacher encouraged the students to study harder.\" → Lưu ý trật tự: \"study harder.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 189,
+      "question": "this one./ aren’t/ after/ any buses/ There/",
+      "options": [],
+      "answer": "There aren’t any buses after this one.",
+      "explanation": "Câu đúng: \"There aren’t any buses after this one.\" → Thì: Mệnh đề thời gian (\"after + S + V\" (sau khi)). . | Lưu ý trật tự: \"this one.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 190,
+      "question": "to begin/ today?/ your lesson/ Are you/ ready/",
+      "options": [],
+      "answer": "Are you ready to begin your lesson today?",
+      "explanation": "Câu đúng: \"Are you ready to begin your lesson today?\" → Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"to begin\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 191,
+      "question": "on vegetables/ can make/ The dirt/ sick./ you/",
+      "options": [],
+      "answer": "The dirt on vegetables can make you sick.",
+      "explanation": "Câu đúng: \"The dirt on vegetables can make you sick.\" → Cấu trúc: Modal + V (nguyên mẫu, không thêm -s/-ed). | Lưu ý trật tự: \"on vegetables\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 192,
+      "question": "uniform/ They/ wear/ on Mondays./ have to/",
+      "options": [],
+      "answer": "They have to wear uniform on Mondays.",
+      "explanation": "Câu đúng: \"They have to wear uniform on Mondays.\" → Lưu ý trật tự: \"uniform\" không phải từ đứng đầu câu. | \"have to / has to + V\" = phải làm gì (bắt buộc)."
+    },
+    {
+      "id": 193,
+      "question": "cost?/ How much/ small package/ does a/ to London/",
+      "options": [],
+      "answer": "How much does a small package to London cost?",
+      "explanation": "Câu đúng: \"How much does a small package to London cost?\" → Cấu trúc: \"How + adj/adv + ...?\" (Hỏi mức độ, cách thức). | Loại câu: Câu hỏi HOW (hỏi về cách thức/mức độ). | Lưu ý trật tự: \"cost?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 194,
+      "question": "last month?/ Was/ farm/ on his parents’/ John/",
+      "options": [],
+      "answer": "Was John on his parents’ farm last month?",
+      "explanation": "Câu đúng: \"Was John on his parents’ farm last month?\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"last week/month/year\". | Loại câu: Câu hỏi Yes/No (trợ động từ đứng đầu). | Lưu ý trật tự: \"last month?\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 195,
+      "question": "was/ for children/ last year./ written/ This book/",
+      "options": [],
+      "answer": "This book was written for children last year.",
+      "explanation": "Câu đúng: \"This book was written for children last year.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"last week/month/year\". | Lưu ý trật tự: \"was\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 196,
+      "question": "time./ restaurant for/ a short/ They stopped/ at the/",
+      "options": [],
+      "answer": "They stopped at the restaurant for a short time.",
+      "explanation": "Câu đúng: \"They stopped at the restaurant for a short time.\" → Lưu ý trật tự: \"time.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 197,
+      "question": "kind of/ so!/ you to/ It's very/ say/",
+      "options": [],
+      "answer": "It's very kind of you to say so!",
+      "explanation": "Câu đúng: \"It's very kind of you to say so!\" → Loại câu: Câu cảm thán. | Lưu ý trật tự: \"kind of\" không phải từ đứng đầu câu. | \"very\" là trạng từ bổ nghĩa cho tính từ/trạng từ sau nó."
+    },
+    {
+      "id": 198,
+      "question": "a movie./ to see/ She goes/ to the/ cinema/",
+      "options": [],
+      "answer": "She goes to the cinema to see a movie.",
+      "explanation": "Câu đúng: \"She goes to the cinema to see a movie.\" → Lưu ý trật tự: \"a movie.\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 199,
+      "question": "finished/ His brother/ ago./ 6 years/ high school/",
+      "options": [],
+      "answer": "His brother finished high school 6 years ago.",
+      "explanation": "Câu đúng: \"His brother finished high school 6 years ago.\" → Thì: Quá khứ đơn (V-ed / V bất quy tắc). Dấu hiệu: \"... ago\". | Lưu ý trật tự: \"finished\" không phải từ đứng đầu câu."
+    },
+    {
+      "id": 200,
+      "question": "Mr. Steve/ to/ never/ this kind of music./ listens/",
+      "options": [],
+      "answer": "Mr. Steve never listens to this kind of music.",
+      "explanation": "Câu đúng: \"Mr. Steve never listens to this kind of music.\""
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
