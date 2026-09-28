@@ -1,0 +1,1908 @@
+{
+  "title": "IOE Lớp 7 - Chuyên đề 1 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "In Vietnam, students … to wear uniforms at school.",
+      "options": [
+        "A. want",
+        "B. have",
+        "C. ought",
+        "D. need"
+      ],
+      "answer": "B. have",
+      "explanation": "Đáp án: \"have\" → \"have to\" = phải (nghĩa bắt buộc do quy tắc/luật lệ bên ngoài, không phải ý muốn bản thân). \"want\" = muốn, \"need\" = cần, \"ought\" không đủ nghĩa bắt buộc như \"have to\"."
+    },
+    {
+      "id": 2,
+      "question": "Many wild animals are ... danger because of pollution.",
+      "options": [
+        "A. to",
+        "B. for",
+        "C. at",
+        "D. in"
+      ],
+      "answer": "D. in",
+      "explanation": "Đáp án: \"in\" → \"in danger\" = trong tình trạng nguy hiểm – cụm cố định. Không dùng \"at/for/to danger\"."
+    },
+    {
+      "id": 3,
+      "question": "We are wasting too ... water.",
+      "options": [
+        "A. Ø",
+        "B. many",
+        "C. much",
+        "D. more"
+      ],
+      "answer": "C. much",
+      "explanation": "Đáp án: \"much\" → \"much\" dùng với danh từ KHÔNG đếm được. \"many\" dùng với danh từ đếm được số nhiều. \"more\" là so sánh hơn."
+    },
+    {
+      "id": 4,
+      "question": "We say toothache, headache and ... eyes.",
+      "options": [
+        "A. pain",
+        "B. ache",
+        "C. sore",
+        "D. sick"
+      ],
+      "answer": "C. sore",
+      "explanation": "Đáp án: \"sore\" → \"sore\": đau nhức do viêm: sore eyes (mắt đỏ/đau), sore throat (đau họng). | \"sore\" = đau nhức do viêm (sore eyes, sore throat, sore muscle). \"ache\" đứng ghép với bộ phận (headache, toothache). \"pain\" là danh từ (a pain). \"sick\" = ốm/buồn nôn."
+    },
+    {
+      "id": 5,
+      "question": "What are you looking _ _ _ ? – I’ve lost my pencil.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → \"look for\" = tìm kiếm."
+    },
+    {
+      "id": 6,
+      "question": "The heavy rain prevented me … going camping.",
+      "options": [
+        "A. in",
+        "B. about",
+        "C. from",
+        "D. with"
+      ],
+      "answer": "C. from",
+      "explanation": "Đáp án: \"from\" → \"prevent/keep/stop + O + FROM + V-ing\" = ngăn ai/cái gì làm điều gì. | \"prevent + O + FROM + V-ing\" (ngăn ai làm gì)."
+    },
+    {
+      "id": 7,
+      "question": "What’s this? - _ _ ’s a desk.",
+      "options": [],
+      "answer": "it",
+      "explanation": "Điền: \"it\" → Đại từ \"it\" thay thế cho danh từ/chủ thể đã đề cập trước trong ngữ cảnh."
+    },
+    {
+      "id": 8,
+      "question": "Jane is a friend _ _ mine.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Điền: \"of\" → \"a friend of mine\" = một người bạn của tôi – cấu trúc sở hữu kép (a/an + N + of + mine/yours/his/hers...)."
+    },
+    {
+      "id": 9,
+      "question": "His father bou_ _ _ him a new schoolbag yesterday.",
+      "options": [],
+      "answer": "ght",
+      "explanation": "Điền: \"ght\" → Từ đầy đủ: \"bought\" = mua – quá khứ của buy."
+    },
+    {
+      "id": 10,
+      "question": "Are there any lakes in the coun_ _ _ side? – A lot!",
+      "options": [],
+      "answer": "try",
+      "explanation": "Điền: \"try\" → Từ đầy đủ: \"countryside\" = vùng nông thôn."
+    },
+    {
+      "id": 11,
+      "question": "What ... lovely room you have!",
+      "options": [
+        "A. this",
+        "B. a",
+        "C. that",
+        "D. Ø"
+      ],
+      "answer": "B. a",
+      "explanation": "Đáp án: \"a\" → \"What + a/an + adj + N!\" = câu cảm thán. Dùng \"a\" trước phụ âm, \"an\" trước nguyên âm."
+    },
+    {
+      "id": 12,
+      "question": "Jim shouldn’t stay _ _ so late.",
+      "options": [],
+      "answer": "up",
+      "explanation": "Điền: \"up\" → \"stay up\" = thức khuya."
+    },
+    {
+      "id": 13,
+      "question": "How does your sister ...? – She’s cold.",
+      "options": [
+        "A. do",
+        "B. feel",
+        "C. travel",
+        "D. work"
+      ],
+      "answer": "B. feel",
+      "explanation": "Đáp án: \"feel\""
+    },
+    {
+      "id": 14,
+      "question": "I’d like a sandw_ _ _ and a glass of lemonade.",
+      "options": [],
+      "answer": "ich",
+      "explanation": "Điền: \"ich\" → Từ đầy đủ: \"sandwich\" = bánh sandwich."
+    },
+    {
+      "id": 15,
+      "question": "He often goes out _ _ _ a walk in summer nights.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → \"go for a walk\" = đi dạo bộ."
+    },
+    {
+      "id": 16,
+      "question": "He was only 13, but he ate as much as his father _ _ _ .",
+      "options": [],
+      "answer": "did",
+      "explanation": "Điền: \"did\" → Trợ động từ \"did\" dùng để nhấn mạnh hoặc trong câu hỏi/phủ định."
+    },
+    {
+      "id": 17,
+      "question": "Please don’t … so much noise.",
+      "options": [
+        "A. go",
+        "B. make",
+        "C. do",
+        "D. take"
+      ],
+      "answer": "B. make",
+      "explanation": "Đáp án: \"make\" → \"make noise\" = gây ồn ào – cụm cố định. KHÔNG dùng \"do/go/take noise\"."
+    },
+    {
+      "id": 18,
+      "question": "_ _ careful when you cross this road!",
+      "options": [],
+      "answer": "be",
+      "explanation": "Điền: \"be\" → Câu hoàn chỉnh: [be] _ careful when you cross this road!"
+    },
+    {
+      "id": 19,
+      "question": "Don’t ... water.",
+      "options": [
+        "A. throw",
+        "B. drip",
+        "C. leave",
+        "D. waste"
+      ],
+      "answer": "D. waste",
+      "explanation": "Đáp án: \"waste\" → \"waste\": lãng phí (động từ/danh từ)."
+    },
+    {
+      "id": 20,
+      "question": "What … delicious meal!",
+      "options": [
+        "A. am",
+        "B. a",
+        "C. some",
+        "D. ø"
+      ],
+      "answer": "B. a",
+      "explanation": "Đáp án: \"a\" → \"What + a/an + adj + N!\" = câu cảm thán. Dùng \"a\" trước phụ âm, \"an\" trước nguyên âm."
+    },
+    {
+      "id": 21,
+      "question": "Let me ... your sick note!",
+      "options": [
+        "A. to see",
+        "B. seeing",
+        "C. see",
+        "D. saw"
+      ],
+      "answer": "C. see",
+      "explanation": "Đáp án: \"see\""
+    },
+    {
+      "id": 22,
+      "question": "Would you like to … for a walk later?",
+      "options": [
+        "A. have",
+        "B. make",
+        "C. do",
+        "D. go"
+      ],
+      "answer": "D. go",
+      "explanation": "Đáp án: \"go\""
+    },
+    {
+      "id": 23,
+      "question": "We often get a bus … this stop.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. from",
+        "D. at"
+      ],
+      "answer": "D. at",
+      "explanation": "Đáp án: \"at\""
+    },
+    {
+      "id": 24,
+      "question": "Alexander G. Bell worked with people _ _ _ could neither speak nor hear.",
+      "options": [],
+      "answer": "who",
+      "explanation": "Điền: \"who\" → \"who\" = hỏi về người nào."
+    },
+    {
+      "id": 25,
+      "question": "Nam studies very well. He sings beautifully, _ _ _ .",
+      "options": [],
+      "answer": "too",
+      "explanation": "Điền: \"too\" → Câu hoàn chỉnh: Nam studies very well. He sings beautifully, [too] _ _ ."
+    },
+    {
+      "id": 26,
+      "question": "People _ _ all ages can enjoy sport activities.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Điền: \"of\" → Câu hoàn chỉnh: People [of] _ all ages can enjoy sport activities."
+    },
+    {
+      "id": 27,
+      "question": "Do you live near your parents? – No, I live _ _ _ from them.",
+      "options": [],
+      "answer": "far",
+      "explanation": "Điền: \"far\" → Câu hoàn chỉnh: Do you live near your parents? – No, I live [far] _ _ from them."
+    },
+    {
+      "id": 28,
+      "question": "_ HOLE",
+      "options": [],
+      "answer": "W",
+      "explanation": "Điền: \"W\" → Câu hoàn chỉnh: [W] HOLE"
+    },
+    {
+      "id": 29,
+      "question": "Unhealthy food can ... you sick.",
+      "options": [
+        "A. do",
+        "B. have",
+        "C. bring",
+        "D. make"
+      ],
+      "answer": "D. make",
+      "explanation": "Đáp án: \"make\""
+    },
+    {
+      "id": 30,
+      "question": "Please read the dialo_ _ _ and answer the questions below.",
+      "options": [],
+      "answer": "gue",
+      "explanation": "Điền: \"gue\" → Từ đầy đủ: \"dialogue\" = đoạn hội thoại."
+    },
+    {
+      "id": 31,
+      "question": "Can you give me … meat?",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. some",
+        "D. few"
+      ],
+      "answer": "C. some",
+      "explanation": "Đáp án: \"some\" → \"some\" dùng trong câu khẳng định với danh từ không đếm được hoặc số nhiều."
+    },
+    {
+      "id": 32,
+      "question": "… lucky he is!",
+      "options": [
+        "A. What",
+        "B. What a",
+        "C. How",
+        "D. How a"
+      ],
+      "answer": "C. How",
+      "explanation": "Đáp án: \"How\""
+    },
+    {
+      "id": 33,
+      "question": "I can’t use the washing machine. Can you _ _ _ it?",
+      "options": [],
+      "answer": "fix",
+      "explanation": "Điền: \"fix\" → Câu hoàn chỉnh: I can’t use the washing machine. Can you [fix] _ _ it?"
+    },
+    {
+      "id": 34,
+      "question": "Let me tell you what I ... every day here.",
+      "options": [
+        "A. am doing",
+        "B. did",
+        "C. will do",
+        "D. do"
+      ],
+      "answer": "D. do",
+      "explanation": "Đáp án: \"do\""
+    },
+    {
+      "id": 35,
+      "question": "These shops have goods _ _ _ sale at attractive price.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → \"go for a walk\" = đi dạo bộ."
+    },
+    {
+      "id": 36,
+      "question": "I’m glad to hear you _ _ _ doing well.",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền: \"are\" → Câu hoàn chỉnh: I’m glad to hear you [are] _ _ doing well."
+    },
+    {
+      "id": 37,
+      "question": "I’ve learned English … five years.",
+      "options": [
+        "A. in",
+        "B. for",
+        "C. since",
+        "D. of"
+      ],
+      "answer": "B. for",
+      "explanation": "Đáp án: \"for\""
+    },
+    {
+      "id": 38,
+      "question": "Harry’s favourite drink is ... apple juice.",
+      "options": [
+        "A. an",
+        "B. Ø",
+        "C. a",
+        "D. one"
+      ],
+      "answer": "B. Ø",
+      "explanation": "Đáp án: \"Ø\""
+    },
+    {
+      "id": 39,
+      "question": "We say k_ _ _ fit and stay healthy.",
+      "options": [],
+      "answer": "eep",
+      "explanation": "Điền: \"eep\" → Từ hoàn chỉnh: \"keep\". Điền phần còn thiếu."
+    },
+    {
+      "id": 40,
+      "question": "He has a garage. The garage is ….",
+      "options": [
+        "A. him",
+        "B. of him",
+        "C. his",
+        "D. of his"
+      ],
+      "answer": "C. his",
+      "explanation": "Đáp án: \"his\" → Từ phù hợp với ngữ nghĩa câu. \"garage\": nhà để xe, gara."
+    },
+    {
+      "id": 41,
+      "question": "My sister doesn’t play tennis as well as she _ _ _ last year.",
+      "options": [],
+      "answer": "did",
+      "explanation": "Điền: \"did\" → Trợ động từ \"did\" dùng để nhấn mạnh hoặc trong câu hỏi/phủ định."
+    },
+    {
+      "id": 42,
+      "question": "What happened to you yesterday? – Oh, I had a ... cold.",
+      "options": [
+        "A. ill",
+        "B. sick",
+        "C. bad",
+        "D. awful"
+      ],
+      "answer": "C. bad",
+      "explanation": "Đáp án: \"bad\""
+    },
+    {
+      "id": 43,
+      "question": "It takes _ _ 10 minutes to walk to school.",
+      "options": [],
+      "answer": "me",
+      "explanation": "Điền: \"me\" → Câu hoàn chỉnh: It takes [me] _ 10 minutes to walk to school."
+    },
+    {
+      "id": 44,
+      "question": "We watch movies and cartoons on ....",
+      "options": [
+        "A. radio",
+        "B. black board",
+        "C. TV",
+        "D. the piano"
+      ],
+      "answer": "C. TV",
+      "explanation": "Đáp án: \"TV\""
+    },
+    {
+      "id": 45,
+      "question": "These medicines can help re_ _ _ ve the symptoms of the flu.",
+      "options": [],
+      "answer": "lie",
+      "explanation": "Điền: \"lie\" → Từ hoàn chỉnh: \"relie\". Điền phần còn thiếu."
+    },
+    {
+      "id": 46,
+      "question": "His brother finished high school 6 years _ _ _ .",
+      "options": [],
+      "answer": "ago",
+      "explanation": "Điền: \"ago\" → Câu hoàn chỉnh: His brother finished high school 6 years [ago] _ _ ."
+    },
+    {
+      "id": 47,
+      "question": "They always go to Nevada _ _ vacation.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Điền: \"on\" → \"go on\" = tiếp tục."
+    },
+    {
+      "id": 48,
+      "question": "I don’t know _ _ _ to use this machine. It’s too complex!",
+      "options": [],
+      "answer": "how",
+      "explanation": "Điền: \"how\" → \"how\" = hỏi về cách thức."
+    },
+    {
+      "id": 49,
+      "question": "Paul Anka both plays the piano _ _ _ composes music.",
+      "options": [],
+      "answer": "and",
+      "explanation": "Điền: \"and\" → Câu hoàn chỉnh: Paul Anka both plays the piano [and] _ _ composes music."
+    },
+    {
+      "id": 50,
+      "question": "How often do your parents _ _ camping? – Every weekend.",
+      "options": [],
+      "answer": "go",
+      "explanation": "Điền: \"go\" → Câu hoàn chỉnh: How often do your parents [go] _ camping? – Every weekend."
+    },
+    {
+      "id": 51,
+      "question": "Chau, Chi and Ngoan are my friends. We a_ _ love cooking.",
+      "options": [],
+      "answer": "ll",
+      "explanation": "Điền: \"ll\" → Từ hoàn chỉnh: \"all\". Điền phần còn thiếu."
+    },
+    {
+      "id": 52,
+      "question": "Our rooms are _ _ the third floor.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Điền: \"on\" → Câu hoàn chỉnh: Our rooms are [on] _ the third floor."
+    },
+    {
+      "id": 53,
+      "question": "Hary’s favorite drink is ... apple juice.",
+      "options": [
+        "A. an",
+        "B. Ø",
+        "C. a",
+        "D. the"
+      ],
+      "answer": "B. Ø",
+      "explanation": "Đáp án: \"Ø\""
+    },
+    {
+      "id": 54,
+      "question": "It’s late. I want to go ... now.",
+      "options": [
+        "A. for",
+        "B. to",
+        "C. Ø",
+        "D. at"
+      ],
+      "answer": "C. Ø",
+      "explanation": "Đáp án: \"Ø\""
+    },
+    {
+      "id": 55,
+      "question": "How many kilos _ _ rice do you need? – 10 kilos, please.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Điền: \"of\" → Câu hoàn chỉnh: How many kilos [of] _ rice do you need? – 10 kilos, please."
+    },
+    {
+      "id": 56,
+      "question": "Wake up” has similar meaning to “...”.",
+      "options": [
+        "A. stay up",
+        "B. get up",
+        "C. pick up",
+        "D. keep up"
+      ],
+      "answer": "B. get up",
+      "explanation": "Đáp án: \"get up\" → \"wake up\" = thức dậy. Chọn từ có nghĩa tương đương."
+    },
+    {
+      "id": 57,
+      "question": "Every girl ought to learn ... to cook.",
+      "options": [
+        "A. what",
+        "B. when",
+        "C. how",
+        "D. where"
+      ],
+      "answer": "C. how",
+      "explanation": "Đáp án: \"how\""
+    },
+    {
+      "id": 58,
+      "question": "Bill ... his bike to school everyday.",
+      "options": [
+        "A. runs",
+        "B. travels",
+        "C. rides",
+        "D. drives"
+      ],
+      "answer": "C. rides",
+      "explanation": "Đáp án: \"rides\" → \"ride a bike\" = đi xe đạp. KHÔNG dùng \"drive\" (ô tô), \"run\" (chạy bộ), \"travel\" (chung chung)."
+    },
+    {
+      "id": 59,
+      "question": "Please keep ... the grass. You shouldn’t walk on it.",
+      "options": [
+        "A. of",
+        "B. off",
+        "C. up",
+        "D. with"
+      ],
+      "answer": "B. off",
+      "explanation": "Đáp án: \"off\""
+    },
+    {
+      "id": 60,
+      "question": "Let’s put the coffee table in the middle _ _ the room.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Điền: \"of\" → \"in the middle of\" (ở giữa)."
+    },
+    {
+      "id": 61,
+      "question": "Mr. Ronald is very strong. He’s a weightlif_ _ _ .",
+      "options": [],
+      "answer": "ter",
+      "explanation": "Điền: \"ter\" → Từ đầy đủ: \"weightlifter\" = vận động viên cử tạ."
+    },
+    {
+      "id": 62,
+      "question": "He enjoys sports. It means he ... sports.",
+      "options": [
+        "A. favorite",
+        "B. likes",
+        "C. hates",
+        "D. doesn’t like"
+      ],
+      "answer": "B. likes",
+      "explanation": "Đáp án: \"likes\" → \"likes\": chọn từ đồng nghĩa với từ được in đậm/gạch chân trong câu hỏi."
+    },
+    {
+      "id": 63,
+      "question": "In big cities, an apartment is suitable ... small family.",
+      "options": [
+        "A. to",
+        "B. of",
+        "C. on",
+        "D. for"
+      ],
+      "answer": "D. for",
+      "explanation": "Đáp án: \"for\""
+    },
+    {
+      "id": 64,
+      "question": "COMMO_",
+      "options": [],
+      "answer": "N",
+      "explanation": "Điền: \"N\" → Từ đầy đủ: \"common\" = phổ biến, thường gặp – COMMO-N."
+    },
+    {
+      "id": 65,
+      "question": "At present” has similar meaning to “...”.",
+      "options": [
+        "A. in the past",
+        "B. last",
+        "C. now",
+        "D. next"
+      ],
+      "answer": "C. now",
+      "explanation": "Đáp án: \"now\" → \"now\": chọn từ đồng nghĩa với từ được in đậm/gạch chân trong câu hỏi."
+    },
+    {
+      "id": 66,
+      "question": "We say “... a common cold”.",
+      "options": [
+        "A. take",
+        "B. catch",
+        "C. do",
+        "D. receive"
+      ],
+      "answer": "B. catch",
+      "explanation": "Đáp án: \"catch\" → \"catch\": bắt; bị (catch a cold = bị cảm lạnh)."
+    },
+    {
+      "id": 67,
+      "question": "What … the gift? Is it a book?",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. were",
+        "D. was"
+      ],
+      "answer": "B. is",
+      "explanation": "Đáp án: \"is\""
+    },
+    {
+      "id": 68,
+      "question": "Eating fruits and vegetables are good ... our health.",
+      "options": [
+        "A. at",
+        "B. with",
+        "C. for",
+        "D. of"
+      ],
+      "answer": "C. for",
+      "explanation": "Đáp án: \"for\" → \"go for a walk\": đi dạo bộ."
+    },
+    {
+      "id": 69,
+      "question": "Which would you like, soda … fruit juice?",
+      "options": [
+        "A. and",
+        "B. but",
+        "C. or",
+        "D. with"
+      ],
+      "answer": "C. or",
+      "explanation": "Đáp án: \"or\""
+    },
+    {
+      "id": 70,
+      "question": "You should add some salt ... the dish.",
+      "options": [
+        "A. with",
+        "B. for",
+        "C. in",
+        "D. to"
+      ],
+      "answer": "D. to",
+      "explanation": "Đáp án: \"to\" → \"add A TO B\" (thêm A vào B)."
+    },
+    {
+      "id": 71,
+      "question": "Your Dad and I hope you _ _ _ well.",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền: \"are\" → Câu hoàn chỉnh: Your Dad and I hope you [are] _ _ well."
+    },
+    {
+      "id": 72,
+      "question": "He looks the same … his father.",
+      "options": [
+        "A. at",
+        "B. with",
+        "C. on",
+        "D. as"
+      ],
+      "answer": "D. as",
+      "explanation": "Đáp án: \"as\""
+    },
+    {
+      "id": 73,
+      "question": "_ TRIPE",
+      "options": [],
+      "answer": "S",
+      "explanation": "Điền: \"S\" → Câu hoàn chỉnh: [S] TRIPE"
+    },
+    {
+      "id": 74,
+      "question": "There is only ... egg in the fridge.",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. one",
+        "D. two"
+      ],
+      "answer": "C. one",
+      "explanation": "Đáp án: \"one\""
+    },
+    {
+      "id": 75,
+      "question": "Don’t go _ _ _ side. It’s too cold now.",
+      "options": [],
+      "answer": "out",
+      "explanation": "Điền: \"out\" → \"go out\" = ra ngoài."
+    },
+    {
+      "id": 76,
+      "question": "A sick note is to inform that you are ....",
+      "options": [
+        "A. well",
+        "B. sneezing",
+        "C. disease",
+        "D. ill"
+      ],
+      "answer": "D. ill",
+      "explanation": "Đáp án: \"ill\""
+    },
+    {
+      "id": 77,
+      "question": "What will their dream apartment … like?",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. be",
+        "D. been"
+      ],
+      "answer": "C. be",
+      "explanation": "Đáp án: \"be\""
+    },
+    {
+      "id": 78,
+      "question": "How can I _ _ _ to the bus station? – Go straight ahead.",
+      "options": [],
+      "answer": "get",
+      "explanation": "Điền: \"get\" → Câu hoàn chỉnh: How can I [get] _ _ to the bus station? – Go straight ahead."
+    },
+    {
+      "id": 79,
+      "question": "_ ORRIBLE",
+      "options": [],
+      "answer": "H",
+      "explanation": "Điền: \"H\" → Câu hoàn chỉnh: [H] ORRIBLE"
+    },
+    {
+      "id": 80,
+      "question": "Why ... she unhappy?",
+      "options": [
+        "A. does",
+        "B. will",
+        "C. is",
+        "D. has"
+      ],
+      "answer": "C. is",
+      "explanation": "Đáp án: \"is\""
+    },
+    {
+      "id": 81,
+      "question": "Please drop … for a cup of coffee whenever you are passing.",
+      "options": [
+        "A. down",
+        "B. in",
+        "C. off",
+        "D. on"
+      ],
+      "answer": "B. in",
+      "explanation": "Đáp án: \"in\" → \"drop in\": ghé thăm."
+    },
+    {
+      "id": 82,
+      "question": "He isn’t happy because he has ... friends in Rome.",
+      "options": [
+        "A. much",
+        "B. any",
+        "C. few",
+        "D. little"
+      ],
+      "answer": "C. few",
+      "explanation": "Đáp án: \"few\""
+    },
+    {
+      "id": 83,
+      "question": "He never gets _ _ _ good marks because he is too lazy.",
+      "options": [],
+      "answer": "any",
+      "explanation": "Điền: \"any\" → \"How any\" hỏi về số lượng đếm được."
+    },
+    {
+      "id": 84,
+      "question": "Reading books … an important role in developing children’s creativity.",
+      "options": [
+        "A. playing",
+        "B. play",
+        "C. plays",
+        "D. to play"
+      ],
+      "answer": "C. plays",
+      "explanation": "Đáp án: \"plays\""
+    },
+    {
+      "id": 85,
+      "question": "Some young people are working … hospital volunteers.",
+      "options": [
+        "A. to be",
+        "B. such as",
+        "C. like",
+        "D. as"
+      ],
+      "answer": "D. as",
+      "explanation": "Đáp án: \"as\""
+    },
+    {
+      "id": 86,
+      "question": "This semester will last ... 6 months.",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. at",
+        "D. for"
+      ],
+      "answer": "D. for",
+      "explanation": "Đáp án: \"for\""
+    },
+    {
+      "id": 87,
+      "question": "Nga is talking to her friend n_ _ .",
+      "options": [],
+      "answer": "ow",
+      "explanation": "Điền: \"ow\" → Từ đầy đủ: \"now\" = bây giờ."
+    },
+    {
+      "id": 88,
+      "question": "What day ... yesterday?",
+      "options": [
+        "A. is",
+        "B. was",
+        "C. were",
+        "D. did"
+      ],
+      "answer": "B. was",
+      "explanation": "Đáp án: \"was\""
+    },
+    {
+      "id": 89,
+      "question": "What was _ _ _ most common illness?",
+      "options": [],
+      "answer": "the",
+      "explanation": "Điền: \"the\" → Câu hoàn chỉnh: What was [the] _ _ most common illness?"
+    },
+    {
+      "id": 90,
+      "question": "My grandma is too old. She can’t _ _ _ without her glasses.",
+      "options": [],
+      "answer": "see",
+      "explanation": "Điền: \"see\" → Câu hoàn chỉnh: My grandma is too old. She can’t [see] _ _ without her glasses."
+    },
+    {
+      "id": 91,
+      "question": "Whose book is this, yours or m_ _ _ ?",
+      "options": [],
+      "answer": "ine",
+      "explanation": "Điền: \"ine\" → Từ hoàn chỉnh: \"mine\". Điền phần còn thiếu."
+    },
+    {
+      "id": 92,
+      "question": "Could you ... the table for lunch?",
+      "options": [
+        "A. take",
+        "B. make",
+        "C. have",
+        "D. set"
+      ],
+      "answer": "D. set",
+      "explanation": "Đáp án: \"set\""
+    },
+    {
+      "id": 93,
+      "question": "How many times ... day do you water the flowers?",
+      "options": [
+        "A. the",
+        "B. a",
+        "C. Ø",
+        "D. that"
+      ],
+      "answer": "B. a",
+      "explanation": "Đáp án: \"a\""
+    },
+    {
+      "id": 94,
+      "question": "She is going to buy a car and a tent to travel all over _ _ _ world.",
+      "options": [],
+      "answer": "the",
+      "explanation": "Điền: \"the\" → Câu hoàn chỉnh: She is going to buy a car and a tent to travel all over [the] _ _ world."
+    },
+    {
+      "id": 95,
+      "question": "Don’t worry about _ _ , Mom. I can take care of myself.",
+      "options": [],
+      "answer": "me",
+      "explanation": "Điền: \"me\" → Câu hoàn chỉnh: Don’t worry about [me] _ , Mom. I can take care of myself."
+    },
+    {
+      "id": 96,
+      "question": "Would you show me aro_ _ _ the city when I visit you? – Sure!",
+      "options": [],
+      "answer": "und",
+      "explanation": "Điền: \"und\" → Từ hoàn chỉnh: \"around\". Điền phần còn thiếu."
+    },
+    {
+      "id": 97,
+      "question": "Playing with one match can start _ fire.",
+      "options": [],
+      "answer": "a",
+      "explanation": "Điền: \"a\" → Câu hoàn chỉnh: Playing with one match can start [a] fire."
+    },
+    {
+      "id": 98,
+      "question": "What is _ _ _ weather like in summer?",
+      "options": [],
+      "answer": "the",
+      "explanation": "Điền: \"the\" → Câu hoàn chỉnh: What is [the] _ _ weather like in summer?"
+    },
+    {
+      "id": 99,
+      "question": "The opposite of ’’young’’ is ’’...’’.",
+      "options": [
+        "A. year",
+        "B. old",
+        "C. age",
+        "D. elder"
+      ],
+      "answer": "B. old",
+      "explanation": "Đáp án: \"old\""
+    },
+    {
+      "id": 100,
+      "question": "Will you pick me _ _ after the party?",
+      "options": [],
+      "answer": "up",
+      "explanation": "Điền: \"up\" → \"pick up\" = đón; nhặt lên."
+    },
+    {
+      "id": 101,
+      "question": "These … are driving very big cars.",
+      "options": [
+        "A. man",
+        "B. men",
+        "C. boy",
+        "D. Tom"
+      ],
+      "answer": "B. men",
+      "explanation": "Đáp án: \"men\""
+    },
+    {
+      "id": 102,
+      "question": "What vegetables would you like ... dinner? – Spinach.",
+      "options": [
+        "A. on",
+        "B. for",
+        "C. of",
+        "D. at"
+      ],
+      "answer": "B. for",
+      "explanation": "Đáp án: \"for\""
+    },
+    {
+      "id": 103,
+      "question": "In this game, each team … two members.",
+      "options": [
+        "A. have",
+        "B. are have",
+        "C. having",
+        "D. has"
+      ],
+      "answer": "D. has",
+      "explanation": "Đáp án: \"has\""
+    },
+    {
+      "id": 104,
+      "question": "She looked at my teeth and told me _ _ _ to worry.",
+      "options": [],
+      "answer": "not",
+      "explanation": "Điền: \"not\" → Câu hoàn chỉnh: She looked at my teeth and told me [not] _ _ to worry."
+    },
+    {
+      "id": 105,
+      "question": "It is twenty-five past ….",
+      "options": [
+        "A. fifty",
+        "B. a quarter",
+        "C. four o’clock",
+        "D. ten"
+      ],
+      "answer": "D. ten",
+      "explanation": "Đáp án: \"ten\""
+    },
+    {
+      "id": 106,
+      "question": "You will _ _ fine after taking these medicines.",
+      "options": [],
+      "answer": "be",
+      "explanation": "Điền: \"be\" → Câu hoàn chỉnh: You will [be] _ fine after taking these medicines."
+    },
+    {
+      "id": 107,
+      "question": "She added a little soy sauce ... the dish.",
+      "options": [
+        "A. of",
+        "B. up",
+        "C. to",
+        "D. with"
+      ],
+      "answer": "C. to",
+      "explanation": "Đáp án: \"to\" → \"add A TO B\" (thêm A vào B)."
+    },
+    {
+      "id": 108,
+      "question": "... helpful to your mother! She’s very busy.",
+      "options": [
+        "A. Let’s",
+        "B. Be",
+        "C. Is",
+        "D. Was"
+      ],
+      "answer": "B. Be",
+      "explanation": "Đáp án: \"Be\""
+    },
+    {
+      "id": 109,
+      "question": "The secretary took a message _ _ her boss.",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền: \"to\" → Câu hoàn chỉnh: The secretary took a message [to] _ her boss."
+    },
+    {
+      "id": 110,
+      "question": "We don’t have English ... Tuesday.",
+      "options": [
+        "A. at",
+        "B. in",
+        "C. on",
+        "D. under"
+      ],
+      "answer": "C. on",
+      "explanation": "Đáp án: \"on\""
+    },
+    {
+      "id": 111,
+      "question": "What class ... they in?",
+      "options": [
+        "A. do",
+        "B. are",
+        "C. is",
+        "D. does"
+      ],
+      "answer": "B. are",
+      "explanation": "Đáp án: \"are\""
+    },
+    {
+      "id": 112,
+      "question": "What’s wrong with _ _ _ ? – I’m not feeling well.",
+      "options": [],
+      "answer": "you",
+      "explanation": "Điền: \"you\" → Câu hoàn chỉnh: What’s wrong with [you] _ _ ? – I’m not feeling well."
+    },
+    {
+      "id": 113,
+      "question": "My grandfather is ... man.",
+      "options": [
+        "A. old",
+        "B. not young",
+        "C. very young",
+        "D. an old"
+      ],
+      "answer": "D. an old",
+      "explanation": "Đáp án: \"an old\""
+    },
+    {
+      "id": 114,
+      "question": "The boy is better … English than I am.",
+      "options": [
+        "A. for",
+        "B. with",
+        "C. in",
+        "D. at"
+      ],
+      "answer": "D. at",
+      "explanation": "Đáp án: \"at\""
+    },
+    {
+      "id": 115,
+      "question": "Is this bed suitable _ _ _ your bedroom?",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → Câu hoàn chỉnh: Is this bed suitable [for] _ _ your bedroom?"
+    },
+    {
+      "id": 116,
+      "question": "He’d like a … of soap.",
+      "options": [
+        "A. bottle",
+        "B. can",
+        "C. tube",
+        "D. bar"
+      ],
+      "answer": "D. bar",
+      "explanation": "Đáp án: \"bar\""
+    },
+    {
+      "id": 117,
+      "question": "He talks a _ _ _ about his new car.",
+      "options": [],
+      "answer": "lot",
+      "explanation": "Điền: \"lot\" → Câu hoàn chỉnh: He talks a [lot] _ _ about his new car."
+    },
+    {
+      "id": 118,
+      "question": "We listen to sounds and noises with our ....",
+      "options": [
+        "A. eyes",
+        "B. nose",
+        "C. mouth",
+        "D. ears"
+      ],
+      "answer": "D. ears",
+      "explanation": "Đáp án: \"ears\""
+    },
+    {
+      "id": 119,
+      "question": "Brush your teeth _ _ fore you go to bed!",
+      "options": [],
+      "answer": "be",
+      "explanation": "Điền: \"be\" → Câu hoàn chỉnh: Brush your teeth [be] _ fore you go to bed!"
+    },
+    {
+      "id": 120,
+      "question": "Everybody in both cars … injured in the accident last night.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. were"
+      ],
+      "answer": "C. was",
+      "explanation": "Đáp án: \"was\""
+    },
+    {
+      "id": 121,
+      "question": "Can we stop … the next village?",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. on",
+        "D. since"
+      ],
+      "answer": "B. at",
+      "explanation": "Đáp án: \"at\""
+    },
+    {
+      "id": 122,
+      "question": "_ PPEAR",
+      "options": [],
+      "answer": "A",
+      "explanation": "Điền: \"A\" → Câu hoàn chỉnh: [A] PPEAR"
+    },
+    {
+      "id": 123,
+      "question": "I don’t want _ _ _ much sugar in the coffee.",
+      "options": [],
+      "answer": "too",
+      "explanation": "Điền: \"too\" → Câu hoàn chỉnh: I don’t want [too] _ _ much sugar in the coffee."
+    },
+    {
+      "id": 124,
+      "question": "She is lying on the beach ... the sun.",
+      "options": [
+        "A. on",
+        "B. under",
+        "C. above",
+        "D. below"
+      ],
+      "answer": "B. under",
+      "explanation": "Đáp án: \"under\""
+    },
+    {
+      "id": 125,
+      "question": "There is no n_ _ _ to explain how that machine works. I have got the instruction book now.",
+      "options": [],
+      "answer": "eed",
+      "explanation": "Điền: \"eed\" → Từ hoàn chỉnh: \"need\". Điền phần còn thiếu."
+    },
+    {
+      "id": 126,
+      "question": "My room is as big _ _ your room.",
+      "options": [],
+      "answer": "as",
+      "explanation": "Điền: \"as\" → \"as much as\" = nhiều bằng."
+    },
+    {
+      "id": 127,
+      "question": "We will call you … this evening.",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. at",
+        "D. Ø"
+      ],
+      "answer": "D. Ø",
+      "explanation": "Đáp án: \"Ø\""
+    },
+    {
+      "id": 128,
+      "question": "We collect waste food and … it to pigs.",
+      "options": [
+        "A. eat",
+        "B. make",
+        "C. feed",
+        "D. bring"
+      ],
+      "answer": "C. feed",
+      "explanation": "Đáp án: \"feed\" → Từ phù hợp với ngữ nghĩa câu. \"waste\": lãng phí (động từ/danh từ)."
+    },
+    {
+      "id": 129,
+      "question": "Have a won_ _ _ ful trip and drive carefully!",
+      "options": [],
+      "answer": "der",
+      "explanation": "Điền: \"der\" → Từ hoàn chỉnh: \"wonder\". Điền phần còn thiếu."
+    },
+    {
+      "id": 130,
+      "question": "Thanks for the present! – Do you like _ _ ?",
+      "options": [],
+      "answer": "it",
+      "explanation": "Điền: \"it\" → Đại từ \"it\" thay thế cho danh từ/chủ thể đã đề cập trước trong ngữ cảnh."
+    },
+    {
+      "id": 131,
+      "question": "What … they like? – They are very friendly.",
+      "options": [
+        "A. do",
+        "B. are",
+        "C. have",
+        "D. don’t"
+      ],
+      "answer": "B. are",
+      "explanation": "Đáp án: \"are\""
+    },
+    {
+      "id": 132,
+      "question": "Mrs. Lien said you could reach her _ _ 8. 545 646.",
+      "options": [],
+      "answer": "at",
+      "explanation": "Điền: \"at\" → Câu hoàn chỉnh: Mrs. Lien said you could reach her [at] _ 8. 545 646."
+    },
+    {
+      "id": 133,
+      "question": "How much ... do you want, Mom?",
+      "options": [
+        "A. apples",
+        "B. fish",
+        "C. pears",
+        "D. eggs"
+      ],
+      "answer": "B. fish",
+      "explanation": "Đáp án: \"fish\""
+    },
+    {
+      "id": 134,
+      "question": "_ _ _ John and his friends lazy? – No, they work very hard.",
+      "options": [],
+      "answer": "Are",
+      "explanation": "Điền: \"Are\" → Câu hoàn chỉnh: [Are] _ _ John and his friends lazy? – No, they work very hard."
+    },
+    {
+      "id": 135,
+      "question": "A kilo of oranges … twenty thousand dongs.",
+      "options": [
+        "A. are",
+        "B. is",
+        "C. do",
+        "D. does"
+      ],
+      "answer": "B. is",
+      "explanation": "Đáp án: \"is\""
+    },
+    {
+      "id": 136,
+      "question": "Who are you going out ...? – Jamie and Sam.",
+      "options": [
+        "A. to",
+        "B. with",
+        "C. at",
+        "D. from"
+      ],
+      "answer": "B. with",
+      "explanation": "Đáp án: \"with\""
+    },
+    {
+      "id": 137,
+      "question": "Everybody is waiting _ _ _ the president in the hall now.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → \"wait FOR somebody\" (chờ ai)."
+    },
+    {
+      "id": 138,
+      "question": "Is ... nose flat? – Yes, it is.",
+      "options": [
+        "A. me",
+        "B. I",
+        "C. it",
+        "D. her"
+      ],
+      "answer": "D. her",
+      "explanation": "Đáp án: \"her\""
+    },
+    {
+      "id": 139,
+      "question": "Most children are scared … seeing in the dentist.",
+      "options": [
+        "A. from",
+        "B. in",
+        "C. about",
+        "D. of"
+      ],
+      "answer": "D. of",
+      "explanation": "Đáp án: \"of\" → \"in the middle of\" (ở giữa)."
+    },
+    {
+      "id": 140,
+      "question": "What time will you arrive _ _ the station? – 8 pm.",
+      "options": [],
+      "answer": "at",
+      "explanation": "Điền: \"at\" → Câu hoàn chỉnh: What time will you arrive [at] _ the station? – 8 pm."
+    },
+    {
+      "id": 141,
+      "question": "Is her hair red … black?",
+      "options": [
+        "A. to",
+        "B. at",
+        "C. but",
+        "D. or"
+      ],
+      "answer": "D. or",
+      "explanation": "Đáp án: \"or\""
+    },
+    {
+      "id": 142,
+      "question": "FEVE_",
+      "options": [],
+      "answer": "R",
+      "explanation": "Điền: \"R\""
+    },
+    {
+      "id": 143,
+      "question": "He’s a worker. She’s a worker, _ _ _ .",
+      "options": [],
+      "answer": "too",
+      "explanation": "Điền: \"too\" → Câu hoàn chỉnh: He’s a worker. She’s a worker, [too] _ _ ."
+    },
+    {
+      "id": 144,
+      "question": "John is very nice. We like him a _ _ _ .",
+      "options": [],
+      "answer": "lot",
+      "explanation": "Điền: \"lot\" → Câu hoàn chỉnh: John is very nice. We like him a [lot] _ _ ."
+    },
+    {
+      "id": 145,
+      "question": "She didn’t do ... homework. She was too lazy.",
+      "options": [
+        "A. some",
+        "B. any",
+        "C. few",
+        "D. many"
+      ],
+      "answer": "B. any",
+      "explanation": "Đáp án: \"any\""
+    },
+    {
+      "id": 146,
+      "question": "Do you want some ... these cakes?",
+      "options": [
+        "A. to",
+        "B. of",
+        "C. with",
+        "D. on"
+      ],
+      "answer": "B. of",
+      "explanation": "Đáp án: \"of\""
+    },
+    {
+      "id": 147,
+      "question": "There aren’t any good movies … at the moment.",
+      "options": [
+        "A. going on",
+        "B. being on",
+        "C. coming on",
+        "D. on"
+      ],
+      "answer": "D. on",
+      "explanation": "Đáp án: \"on\" → \"go on\": tiếp tục."
+    },
+    {
+      "id": 148,
+      "question": "How … is it from Hanoi to Hue City?",
+      "options": [
+        "A. many",
+        "B. long",
+        "C. far",
+        "D. much"
+      ],
+      "answer": "C. far",
+      "explanation": "Đáp án: \"far\""
+    },
+    {
+      "id": 149,
+      "question": "Tuan _ _ tall and handsome with a smiling face.",
+      "options": [],
+      "answer": "is",
+      "explanation": "Điền: \"is\" → Câu hoàn chỉnh: Tuan [is] _ tall and handsome with a smiling face."
+    },
+    {
+      "id": 150,
+      "question": "... careful when you use a knife.",
+      "options": [
+        "A. Ø",
+        "B. Be",
+        "C. Have",
+        "D. Are"
+      ],
+      "answer": "B. Be",
+      "explanation": "Đáp án: \"Be\""
+    },
+    {
+      "id": 151,
+      "question": "A lot of work is being done _ _ students.",
+      "options": [],
+      "answer": "by",
+      "explanation": "Điền: \"by\" → Câu hoàn chỉnh: A lot of work is being done [by] _ students."
+    },
+    {
+      "id": 152,
+      "question": "I’m glad _ _ hear you’re well.",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền: \"to\" → Câu hoàn chỉnh: I’m glad [to] _ hear you’re well."
+    },
+    {
+      "id": 153,
+      "question": "They have fish _ _ _ crab for lunch.",
+      "options": [],
+      "answer": "and",
+      "explanation": "Điền: \"and\" → Câu hoàn chỉnh: They have fish [and] _ _ crab for lunch."
+    },
+    {
+      "id": 154,
+      "question": "The principal should … the speech of welcome first.",
+      "options": [
+        "A. do",
+        "B. make",
+        "C. have",
+        "D. speak"
+      ],
+      "answer": "B. make",
+      "explanation": "Đáp án: \"make\""
+    },
+    {
+      "id": 155,
+      "question": "My younger sister is cooking in _ _ _ kitchen. She isn’t upstairs.",
+      "options": [],
+      "answer": "the",
+      "explanation": "Điền: \"the\" → Câu hoàn chỉnh: My younger sister is cooking in [the] _ _ kitchen. She isn’t upstairs."
+    },
+    {
+      "id": 156,
+      "question": "_ ORLD",
+      "options": [],
+      "answer": "W",
+      "explanation": "Điền: \"W\" → Câu hoàn chỉnh: [W] ORLD"
+    },
+    {
+      "id": 157,
+      "question": "Hoi An is famous _ _ _ its ancient houses.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → Câu hoàn chỉnh: Hoi An is famous [for] _ _ its ancient houses."
+    },
+    {
+      "id": 158,
+      "question": "It’s a quarter _ _ one.",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền: \"to\" → Câu hoàn chỉnh: It’s a quarter [to] _ one."
+    },
+    {
+      "id": 159,
+      "question": "All of us ... students of Rose University last years.",
+      "options": [
+        "A. was",
+        "B. were",
+        "C. had",
+        "D. are"
+      ],
+      "answer": "B. were",
+      "explanation": "Đáp án: \"were\""
+    },
+    {
+      "id": 160,
+      "question": "Hoang likes playing _ _ _ piano, too.",
+      "options": [],
+      "answer": "the",
+      "explanation": "Điền: \"the\" → Câu hoàn chỉnh: Hoang likes playing [the] _ _ piano, too."
+    },
+    {
+      "id": 161,
+      "question": "Pain” has the same meaning with “...”.",
+      "options": [
+        "A. scared",
+        "B. harvest",
+        "C. useful",
+        "D. ache"
+      ],
+      "answer": "D. ache",
+      "explanation": "Đáp án: \"ache\" → \"ache\": đau âm ỉ: headache (đau đầu), toothache (đau răng), stomachache (đau bụng). | \"ache\" thường ghép trực tiếp với bộ phận cơ thể (headache, toothache, stomachache). \"sore\" đứng trước danh từ (sore eyes)."
+    },
+    {
+      "id": 162,
+      "question": "Children … good food to be healthy.",
+      "options": [
+        "A. have",
+        "B. receive",
+        "C. eat",
+        "D. need"
+      ],
+      "answer": "D. need",
+      "explanation": "Đáp án: \"need\""
+    },
+    {
+      "id": 163,
+      "question": "We have English … Monday, Wednesday and Thursday.",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. about",
+        "D. for"
+      ],
+      "answer": "B. on",
+      "explanation": "Đáp án: \"on\""
+    },
+    {
+      "id": 164,
+      "question": "Mary and her principle … going to the meeting tonight.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. were"
+      ],
+      "answer": "B. are",
+      "explanation": "Đáp án: \"are\""
+    },
+    {
+      "id": 165,
+      "question": "I can’t imagine how beautiful you _ _ _ now.",
+      "options": [],
+      "answer": "are",
+      "explanation": "Điền: \"are\" → Câu hoàn chỉnh: I can’t imagine how beautiful you [are] _ _ now."
+    },
+    {
+      "id": 166,
+      "question": "I bought a cup of coffee and some pizzas _ _ _ lunch.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Điền: \"for\" → Câu hoàn chỉnh: I bought a cup of coffee and some pizzas [for] _ _ lunch."
+    },
+    {
+      "id": 167,
+      "question": "Did you decide _ _ go to the zoo?",
+      "options": [],
+      "answer": "to",
+      "explanation": "Điền: \"to\" → Câu hoàn chỉnh: Did you decide [to] _ go to the zoo?"
+    },
+    {
+      "id": 168,
+      "question": "Snow appears when the weather is very ....",
+      "options": [
+        "A. hot",
+        "B. warm",
+        "C. ice",
+        "D. cold"
+      ],
+      "answer": "D. cold",
+      "explanation": "Đáp án: \"cold\""
+    },
+    {
+      "id": 169,
+      "question": "He was absent from work because ... illness.",
+      "options": [
+        "A. the",
+        "B. an",
+        "C. for",
+        "D. of"
+      ],
+      "answer": "D. of",
+      "explanation": "Đáp án: \"of\" → \"because of\" = vì (lý do)."
+    },
+    {
+      "id": 170,
+      "question": "_ ERVOUS",
+      "options": [],
+      "answer": "N",
+      "explanation": "Điền: \"N\" → Câu hoàn chỉnh: [N] ERVOUS"
+    },
+    {
+      "id": 171,
+      "question": "It’s cold in our country … the winter.",
+      "options": [
+        "A. at",
+        "B. on",
+        "C. of",
+        "D. in"
+      ],
+      "answer": "D. in",
+      "explanation": "Đáp án: \"in\""
+    },
+    {
+      "id": 172,
+      "question": "The past form of “have” is “_ _ _ ”.",
+      "options": [],
+      "answer": "had",
+      "explanation": "Điền: \"had\" → \"have/has\" trong thì hiện tại hoàn thành (Present Perfect). Dấu hiệu: for."
+    },
+    {
+      "id": 173,
+      "question": "Tung … Literature on Monday, Wednesday, Thursday and Saturday.",
+      "options": [
+        "A. have",
+        "B. having",
+        "C. has",
+        "D. to have"
+      ],
+      "answer": "C. has",
+      "explanation": "Đáp án: \"has\""
+    },
+    {
+      "id": 174,
+      "question": "It rained a _ _ _ in Chicago last week.",
+      "options": [],
+      "answer": "lot",
+      "explanation": "Điền: \"lot\" → Câu hoàn chỉnh: It rained a [lot] _ _ in Chicago last week."
+    },
+    {
+      "id": 175,
+      "question": "Please prepare, I will p_ _ _ you up at 8 a.m.",
+      "options": [],
+      "answer": "ick",
+      "explanation": "Điền: \"ick\" → Từ đầy đủ: \"pick\" = đón – pick up = đón ai đó."
+    },
+    {
+      "id": 176,
+      "question": "Every country … a national flag.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. has",
+        "D. have"
+      ],
+      "answer": "C. has",
+      "explanation": "Đáp án: \"has\""
+    },
+    {
+      "id": 177,
+      "question": "Everyone ... a good time at the last school festival.",
+      "options": [
+        "A. is having",
+        "B. has",
+        "C. had",
+        "D. have"
+      ],
+      "answer": "C. had",
+      "explanation": "Đáp án: \"had\" → Từ phù hợp với ngữ nghĩa câu. \"festival\": lễ hội, liên hoan."
+    },
+    {
+      "id": 178,
+      "question": "Anna spend most _ _ her time studying in the library.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Điền: \"of\" → \"in the middle of\" (ở giữa)."
+    },
+    {
+      "id": 179,
+      "question": "Nick was very ill so the doctor ... his temperature.",
+      "options": [
+        "A. had",
+        "B. took",
+        "C. hold",
+        "D. pulled"
+      ],
+      "answer": "B. took",
+      "explanation": "Đáp án: \"took\" → Từ phù hợp với ngữ nghĩa câu. \"temperature\": nhiệt độ."
+    },
+    {
+      "id": 180,
+      "question": "I am trying to solve this math problem but I know my answer isn’t _ _ _ ht.",
+      "options": [],
+      "answer": "rig",
+      "explanation": "Điền: \"rig\" → Câu hoàn chỉnh: I am trying to solve this math problem but I know my answer isn’t [rig] _ _ ht."
+    },
+    {
+      "id": 181,
+      "question": "We have lots of ... in summer.",
+      "options": [
+        "A. the rain",
+        "B. raining",
+        "C. rainy",
+        "D. rain"
+      ],
+      "answer": "D. rain",
+      "explanation": "Đáp án: \"rain\""
+    },
+    {
+      "id": 182,
+      "question": "She’s … honest woman, she never tells a lie.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. Ø"
+      ],
+      "answer": "B. an",
+      "explanation": "Đáp án: \"an\""
+    },
+    {
+      "id": 183,
+      "question": "_ _ _ often do you go to the movies? – Once a week.",
+      "options": [],
+      "answer": "how",
+      "explanation": "Điền: \"how\" → Từ để hỏi \"how\" → câu trả lời \"Once a week.\" cho thấy đây là hỏi về cách thức."
+    },
+    {
+      "id": 184,
+      "question": "Why don’t we _ _ camping this weekend?",
+      "options": [],
+      "answer": "go",
+      "explanation": "Điền: \"go\" → Câu hoàn chỉnh: Why don’t we [go] _ camping this weekend?"
+    },
+    {
+      "id": 185,
+      "question": "ABSEN_",
+      "options": [],
+      "answer": "T",
+      "explanation": "Điền: \"T\""
+    },
+    {
+      "id": 186,
+      "question": "Please tell me ... about your hobbies.",
+      "options": [
+        "A. many",
+        "B. much",
+        "C. few",
+        "D. more"
+      ],
+      "answer": "D. more",
+      "explanation": "Đáp án: \"more\""
+    },
+    {
+      "id": 187,
+      "question": "Yesterday _ _ _ Sunday and I got up very late.",
+      "options": [],
+      "answer": "was",
+      "explanation": "Điền: \"was\" → \"was\" = thì quá khứ của \"to be\". \"was\" (I/he/she/it), \"were\" (we/you/they). Dấu hiệu: yesterday."
+    },
+    {
+      "id": 188,
+      "question": "I know that he is working in the library _ _ this moment.",
+      "options": [],
+      "answer": "at",
+      "explanation": "Điền: \"at\" → Câu hoàn chỉnh: I know that he is working in the library [at] _ this moment."
+    },
+    {
+      "id": 189,
+      "question": "... home now. It’s late.",
+      "options": [
+        "A. Going",
+        "B. Goes",
+        "C. Went",
+        "D. Go"
+      ],
+      "answer": "D. Go",
+      "explanation": "Đáp án: \"Go\""
+    },
+    {
+      "id": 190,
+      "question": "Excuse _ _ . Could you show me where the park is?",
+      "options": [],
+      "answer": "me",
+      "explanation": "Điền: \"me\" → Câu hoàn chỉnh: Excuse [me] _ . Could you show me where the park is?"
+    },
+    {
+      "id": 191,
+      "question": "“Look ...” has similar meaning to “take care”.",
+      "options": [
+        "A. up",
+        "B. at",
+        "C. in",
+        "D. after"
+      ],
+      "answer": "D. after",
+      "explanation": "Đáp án: \"After\" → \"look after\": trông nom, chăm sóc."
+    },
+    {
+      "id": 192,
+      "question": "He wants to learn _ _ _ to use the computer.",
+      "options": [],
+      "answer": "how",
+      "explanation": "Điền: \"how\" → \"how\" = hỏi về cách thức."
+    },
+    {
+      "id": 193,
+      "question": "VIRU_",
+      "options": [],
+      "answer": "S",
+      "explanation": "Điền: \"S\""
+    },
+    {
+      "id": 194,
+      "question": "They are _ _ _ ing medical check-up at the moment.",
+      "options": [],
+      "answer": "hav",
+      "explanation": "Điền: \"hav\" → Câu hoàn chỉnh: They are [hav] _ _ ing medical check-up at the moment."
+    },
+    {
+      "id": 195,
+      "question": "Please practice this dialogue ... English with your partner.",
+      "options": [
+        "A. for",
+        "B. to",
+        "C. in",
+        "D. at"
+      ],
+      "answer": "C. in",
+      "explanation": "Đáp án: \"in\""
+    },
+    {
+      "id": 196,
+      "question": "We listen to songs and noises with our ....",
+      "options": [
+        "A. eyes",
+        "B. nose",
+        "C. mouth",
+        "D. ears"
+      ],
+      "answer": "D. ears",
+      "explanation": "Đáp án: \"ears\""
+    },
+    {
+      "id": 197,
+      "question": "He wrote his most famous plays between 1999 _ _ _ 2005.",
+      "options": [],
+      "answer": "and",
+      "explanation": "Điền: \"and\" → Câu hoàn chỉnh: He wrote his most famous plays between 1999 [and] _ _ 2005."
+    },
+    {
+      "id": 198,
+      "question": "In rich countries, people spend a lot of money _ _ pet food.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Điền: \"on\" → Câu hoàn chỉnh: In rich countries, people spend a lot of money [on] _ pet food."
+    },
+    {
+      "id": 199,
+      "question": "Is your hair black ... brown? – It’s brown.",
+      "options": [
+        "A. but",
+        "B. and",
+        "C. or",
+        "D. is"
+      ],
+      "answer": "C. or",
+      "explanation": "Đáp án: \"or\""
+    },
+    {
+      "id": 200,
+      "question": "Mr. Pike often takes his sons to the _ _ _ to see wild animals.",
+      "options": [],
+      "answer": "zoo",
+      "explanation": "Điền: \"zoo\" → Câu hoàn chỉnh: Mr. Pike often takes his sons to the [zoo] _ _ to see wild animals."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
