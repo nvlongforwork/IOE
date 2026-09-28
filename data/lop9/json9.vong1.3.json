@@ -1,0 +1,2061 @@
+{
+  "title": "IOE Lớp 9 - Chuyên đề 3 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. Easter",
+        "B. birthday",
+        "C. festival",
+        "D. wedding"
+      ],
+      "answer": "C. festival",
+      "explanation": "Chọn “festival” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 2,
+      "question": "She hopes she’ll soon find a ... to the problem.",
+      "options": [
+        "A. solution",
+        "B. solve",
+        "C. solutionist",
+        "D. solvation"
+      ],
+      "answer": "A. solution",
+      "explanation": "Chọn “solution” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 3,
+      "question": "In the newspaper there ... a lot of news about the earthquake.",
+      "options": [
+        "A. be",
+        "B. are",
+        "C. is",
+        "D. were"
+      ],
+      "answer": "C. is",
+      "explanation": "Chọn “is” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 4,
+      "question": "The company went bankrupt and their shares becmae ….",
+      "options": [
+        "A. priceless",
+        "B. invaluable",
+        "C. unworthy",
+        "D. worthless"
+      ],
+      "answer": "D. worthless",
+      "explanation": "Chọn “worthless” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 5,
+      "question": "Earth-worms breathe through their skin ... must be kept moist.",
+      "options": [
+        "A. which",
+        "B. for which",
+        "C. who",
+        "D. whom"
+      ],
+      "answer": "A. which",
+      "explanation": "Chọn “which” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 6,
+      "question": "Let me pay for the meal. – Oh, please don’t. …",
+      "options": [
+        "A. It’s on me.",
+        "B. It’s my round.",
+        "C. I’ll make it.",
+        "D. Never remind me."
+      ],
+      "answer": "A. It’s on me.",
+      "explanation": "Chọn “It’s on me.” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 7,
+      "question": "To get a passport, you must send in your birthday … and two photos.",
+      "options": [
+        "A. certificate",
+        "B. license",
+        "C. paper",
+        "D. card"
+      ],
+      "answer": "A. certificate",
+      "explanation": "Chọn “certificate” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 8,
+      "question": "Get him ... the agreement before he has second thoughts.",
+      "options": [
+        "A. to sign",
+        "B. sign",
+        "C. signing",
+        "D. signs"
+      ],
+      "answer": "A. to sign",
+      "explanation": "Chọn “to sign” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 9,
+      "question": "By December Tim … enough money to buy a mountain bike.",
+      "options": [
+        "A. saves",
+        "B. will have saved",
+        "C. will save",
+        "D. has saved"
+      ],
+      "answer": "B. will have saved",
+      "explanation": "Chọn “will have saved” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 10,
+      "question": "I made an … to see the doctor about my cough yesterday.",
+      "options": [
+        "A. appointment",
+        "B. arrangement",
+        "C. examination",
+        "D. interview"
+      ],
+      "answer": "A. appointment",
+      "explanation": "Chọn “appointment” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 11,
+      "question": "May Day is a ... day for workers.",
+      "options": [
+        "A. working",
+        "B. special",
+        "C. national",
+        "D. usual"
+      ],
+      "answer": "B. special",
+      "explanation": "Chọn “special” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 12,
+      "question": "The door is creaking again, it needs some oil on its… .",
+      "options": [
+        "A. screw",
+        "B. hinges",
+        "C. nails",
+        "D. joints"
+      ],
+      "answer": "B. hinges",
+      "explanation": "Chọn “hinges” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 13,
+      "question": "His gambling ... him a fortune.",
+      "options": [
+        "A. cost",
+        "B. price",
+        "C. take",
+        "D. lose"
+      ],
+      "answer": "A. cost",
+      "explanation": "Chọn “cost” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 14,
+      "question": "Once ... to the circus, we were very much fascinated by the lion-tamers.",
+      "options": [
+        "A. going",
+        "B. gone",
+        "C. went",
+        "D. go"
+      ],
+      "answer": "A. going",
+      "explanation": "Chọn “going” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 15,
+      "question": "The judge found him … of theft and sent him to prison.",
+      "options": [
+        "A. evil",
+        "B. innocent",
+        "C. guilty",
+        "D. wicked"
+      ],
+      "answer": "C. guilty",
+      "explanation": "Chọn “guilty” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 16,
+      "question": "Well known _______ include herbicides and pesticides.",
+      "options": [
+        "A. contaminates",
+        "B. contaminants",
+        "C. contaminating",
+        "D. contamination"
+      ],
+      "answer": "B. contaminants",
+      "explanation": "Chọn “contaminants” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 17,
+      "question": "The old man ... lives alone in that house is my uncle.",
+      "options": [
+        "A. who",
+        "B. what",
+        "C. which",
+        "D. whom"
+      ],
+      "answer": "A. who",
+      "explanation": "Chọn “who” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 18,
+      "question": "When someone is old he is in his second ....",
+      "options": [
+        "A. child",
+        "B. childhood",
+        "C. childish",
+        "D. childlike"
+      ],
+      "answer": "B. childhood",
+      "explanation": "Chọn “childhood” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 19,
+      "question": "... don’ t visit this part of the town.",
+      "options": [
+        "A. Most tourists",
+        "B. Most of tourists",
+        "C. The most tourists",
+        "D. Many tourist"
+      ],
+      "answer": "A. Most tourists",
+      "explanation": "Chọn “Most tourists” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 20,
+      "question": "Choose the odd one out:",
+      "options": [
+        "A. considerate",
+        "B. distinguish",
+        "C. generous",
+        "D. strong"
+      ],
+      "answer": "B. distinguish",
+      "explanation": "Chọn “distinguish” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 21,
+      "question": "Pilots must know about the weather or they can’t land and ....",
+      "options": [
+        "A. take off",
+        "B. take into",
+        "C. get into",
+        "D. take up"
+      ],
+      "answer": "A. take off",
+      "explanation": "Chọn “take off” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 22,
+      "question": "The meal Mary cooked tastes ....",
+      "options": [
+        "A. well",
+        "B. strong",
+        "C. good",
+        "D. worse"
+      ],
+      "answer": "C. good",
+      "explanation": "Chọn “good” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 23,
+      "question": "She has no ... in studying Mathematics.",
+      "options": [
+        "A. interested",
+        "B. interesting",
+        "C. longer",
+        "D. interest"
+      ],
+      "answer": "D. interest",
+      "explanation": "Chọn “interest” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 24,
+      "question": "I bought some pencils ... are in different colours.",
+      "options": [
+        "A. which",
+        "B. for",
+        "C. and",
+        "D. because"
+      ],
+      "answer": "A. which",
+      "explanation": "Chọn “which” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 25,
+      "question": "I don’t want to travel by car. I can’t stand the car-________.",
+      "options": [
+        "A. illness",
+        "B. disease",
+        "C. tiredness",
+        "D. sickness"
+      ],
+      "answer": "D. sickness",
+      "explanation": "Chọn “sickness” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 26,
+      "question": "His harsh criticism of her appearance gave … to her deep hatred for him.",
+      "options": [
+        "A. cause",
+        "B. rise",
+        "C. result",
+        "D. lead"
+      ],
+      "answer": "B. rise",
+      "explanation": "Chọn “rise” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 27,
+      "question": "The peacocks roam ... within Whipsawed Wild Animal Park.",
+      "options": [
+        "A. freely",
+        "B. leisurely",
+        "C. pleasantly",
+        "D. comfortably"
+      ],
+      "answer": "D. comfortably",
+      "explanation": "Chọn “comfortably” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 28,
+      "question": "She is the woman ... I told you ....",
+      "options": [
+        "A. who/ to",
+        "B. whom/ to",
+        "C. whom/ about",
+        "D. whose/ about"
+      ],
+      "answer": "C. whom/ about",
+      "explanation": "Chọn “whom/ about” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 29,
+      "question": "I have a lot of cousins and one of them is ... Tuan.",
+      "options": [
+        "A. told",
+        "B. said",
+        "C. called",
+        "D. given"
+      ],
+      "answer": "C. called",
+      "explanation": "Chọn “called” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 30,
+      "question": "He is a generous man. He is ... known for his generosity.",
+      "options": [
+        "A. well",
+        "B. good",
+        "C. better",
+        "D. best"
+      ],
+      "answer": "A. well",
+      "explanation": "Chọn “well” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 31,
+      "question": "His illness made him... of concentration.",
+      "options": [
+        "A. incompetent",
+        "B. unable",
+        "C. powerless",
+        "D. incapable"
+      ],
+      "answer": "D. incapable",
+      "explanation": "Chọn “incapable” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 32,
+      "question": "____ of exercise is a serious problem.",
+      "options": [
+        "A. Lack",
+        "B. Lacking",
+        "C. A lack",
+        "D. The lack"
+      ],
+      "answer": "A. Lack",
+      "explanation": "Chọn “Lack” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 33,
+      "question": "This is the bank ______ we borrowed the money.",
+      "options": [
+        "A. where",
+        "B. that",
+        "C. which",
+        "D. from"
+      ],
+      "answer": "A. where",
+      "explanation": "Chọn “where” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 34,
+      "question": "We’re going to listen to the President’s Speech ... on TV on New Year’s Eve.",
+      "options": [
+        "A. cast",
+        "B. broadcast",
+        "C. lectured",
+        "D. given"
+      ],
+      "answer": "B. broadcast",
+      "explanation": "Chọn “broadcast” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 35,
+      "question": "We don’t allow ... mobile phones here.",
+      "options": [
+        "A. use",
+        "B. using",
+        "C. to use",
+        "D. uses"
+      ],
+      "answer": "B. using",
+      "explanation": "Chọn “using” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 36,
+      "question": "All the witnesses said that I was ... the accident.",
+      "options": [
+        "A. blamed about",
+        "B. blamed to",
+        "C. to blamed for",
+        "D. to blame for"
+      ],
+      "answer": "D. to blame for",
+      "explanation": "Chọn “to blame for” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 37,
+      "question": "When he was driving home, he stopped … some petrol.",
+      "options": [
+        "A. getting",
+        "B. to get",
+        "C. got",
+        "D. having got"
+      ],
+      "answer": "B. to get",
+      "explanation": "Chọn “to get” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 38,
+      "question": "After a quick ... at the patient, the doctor rang for an ambulance.",
+      "options": [
+        "A. glance",
+        "B. stare",
+        "C. glimpse",
+        "D. gaze"
+      ],
+      "answer": "A. glance",
+      "explanation": "Chọn “glance” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 39,
+      "question": "Mr. Green’s ... of humor distinguishes him from others.",
+      "options": [
+        "A. feeling",
+        "B. sense",
+        "C. temper",
+        "D. hobby"
+      ],
+      "answer": "B. sense",
+      "explanation": "Chọn “sense” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 40,
+      "question": "The cooker ... is displayed at that shop looks modern.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
+      ],
+      "answer": "B. which",
+      "explanation": "Chọn “which” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 41,
+      "question": "The kidnapping charge was dropped because of lack of ....",
+      "options": [
+        "A. evident",
+        "B. evidence",
+        "C. evidently",
+        "D. evidential"
+      ],
+      "answer": "B. evidence",
+      "explanation": "Chọn “evidence” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 42,
+      "question": "The trial is expected ... until the end of the week.",
+      "options": [
+        "A. to be last",
+        "B. to be lasted",
+        "C. to be lasting",
+        "D. to last"
+      ],
+      "answer": "D. to last",
+      "explanation": "Chọn “to last” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 43,
+      "question": "Vietnam is a tropical country ... has a lot of beautiful scenery.",
+      "options": [
+        "A. it",
+        "B. where",
+        "C. that",
+        "D. what"
+      ],
+      "answer": "C. that",
+      "explanation": "Chọn “that” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 44,
+      "question": "... in this factory for 25 years, he is the oldest worker here.",
+      "options": [
+        "A. Having worked",
+        "B. Have worked",
+        "C. Working",
+        "D. To work"
+      ],
+      "answer": "A. Having worked",
+      "explanation": "Chọn “Having worked” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 45,
+      "question": "Seeds can live for many years before they grow _______ a plant.",
+      "options": [
+        "A. up",
+        "B. on",
+        "C. to",
+        "D. into"
+      ],
+      "answer": "D. into",
+      "explanation": "Chọn “into” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 46,
+      "question": "John wasn’t at work yesterday. He ....",
+      "options": [
+        "A. must have been ill",
+        "B. must be ill",
+        "C. must have ill",
+        "D. must to be ill"
+      ],
+      "answer": "A. must have been ill",
+      "explanation": "Chọn “must have been ill” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 47,
+      "question": "The building was ... damaged by fire.",
+      "options": [
+        "A. extensive",
+        "B. extent",
+        "C. extension",
+        "D. extensively"
+      ],
+      "answer": "D. extensively",
+      "explanation": "Chọn “extensively” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 48,
+      "question": "When I have some free time, I tend to do nothing ... laze about",
+      "options": [
+        "A. only",
+        "B. and",
+        "C. but",
+        "D. like"
+      ],
+      "answer": "C. but",
+      "explanation": "Chọn “but” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 49,
+      "question": "Jack can’t remember ... the telephone number down.",
+      "options": [
+        "A. write",
+        "B. to write",
+        "C. writing",
+        "D. written"
+      ],
+      "answer": "C. writing",
+      "explanation": "Chọn “writing” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 50,
+      "question": "He denied ... the shop.",
+      "options": [
+        "A. breaking on",
+        "B. to break into",
+        "C. having broken into",
+        "D. to breaking"
+      ],
+      "answer": "C. having broken into",
+      "explanation": "Chọn “having broken into” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 51,
+      "question": "I’ll never forget ... with you.",
+      "options": [
+        "A. working",
+        "B. to work",
+        "C. work",
+        "D. being worked"
+      ],
+      "answer": "A. working",
+      "explanation": "Chọn “working” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 52,
+      "question": "My brother ... to stay with me by the end of this month.",
+      "options": [
+        "A. has come",
+        "B. shall come",
+        "C. is coming",
+        "D. came"
+      ],
+      "answer": "C. is coming",
+      "explanation": "Chọn “is coming” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 53,
+      "question": "I’ve never been very good ... with money.",
+      "options": [
+        "A. to deal",
+        "B. deal",
+        "C. at dealing",
+        "D. for dealing"
+      ],
+      "answer": "C. at dealing",
+      "explanation": "Chọn “at dealing” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 54,
+      "question": "She hopes she’ll soon find a ... to the problem.",
+      "options": [
+        "A. solve",
+        "B. solutions",
+        "C. solutionist",
+        "D. solution"
+      ],
+      "answer": "D. solution",
+      "explanation": "Chọn “solution” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 55,
+      "question": "John offered ... in his company.",
+      "options": [
+        "A. for me a job",
+        "B. me to a job",
+        "C. to a job for me",
+        "D. me a job"
+      ],
+      "answer": "D. me a job",
+      "explanation": "Chọn “me a job” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 56,
+      "question": "Ann says that she’s never ... milk at home.",
+      "options": [
+        "A. use to drink",
+        "B. used to drink",
+        "C. use to drinking",
+        "D. used to drinking"
+      ],
+      "answer": "D. used to drinking",
+      "explanation": "Chọn “used to drinking” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 57,
+      "question": "He loves his parents very much and wants them to be ....",
+      "options": [
+        "A. happily",
+        "B. happy",
+        "C. happiness",
+        "D. happiest"
+      ],
+      "answer": "B. happy",
+      "explanation": "Chọn “happy” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 58,
+      "question": "I couldn’t quite … what they were doing because they were so far away.",
+      "options": [
+        "A. bear out",
+        "B. make out",
+        "C. think out",
+        "D. try out"
+      ],
+      "answer": "B. make out",
+      "explanation": "Chọn “make out” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 59,
+      "question": "After ten years in prison, Stephen was … and set free.",
+      "options": [
+        "A. pardoned",
+        "B. released",
+        "C. innocent",
+        "D. forgiven"
+      ],
+      "answer": "B. released",
+      "explanation": "Chọn “released” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 60,
+      "question": "UFOs are strange ... objects that are from other planes.",
+      "options": [
+        "A. fly",
+        "B. to fly",
+        "C. flying",
+        "D. flown"
+      ],
+      "answer": "C. flying",
+      "explanation": "Chọn “flying” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 61,
+      "question": "Bob is the kind of person to ... one talk about anything.",
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. that",
+        "D. him"
+      ],
+      "answer": "B. whom",
+      "explanation": "Chọn “whom” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 62,
+      "question": "He was too ... to tell his teacher about the stupid mistake.",
+      "options": [
+        "A. ashamed",
+        "B. shameful",
+        "C. shameless",
+        "D. shamefully"
+      ],
+      "answer": "A. ashamed",
+      "explanation": "Chọn “ashamed” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 63,
+      "question": "Choose the word whose main stress pattern is not the same as that of the others:",
+      "options": [
+        "A. US",
+        "B. MC",
+        "C. WHO",
+        "D. TV"
+      ],
+      "answer": "C. WHO",
+      "explanation": "Chọn “WHO” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 64,
+      "question": "Gerry isn’t fat..., he’s quite skinny.",
+      "options": [
+        "A. in any case",
+        "B. by rights",
+        "C. on the contrary",
+        "D. in practice"
+      ],
+      "answer": "C. on the contrary",
+      "explanation": "Chọn “on the contrary” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 65,
+      "question": "She is the ... daughter in the family.",
+      "options": [
+        "A. older",
+        "B. eldest",
+        "C. more old",
+        "D. oldest"
+      ],
+      "answer": "B. eldest",
+      "explanation": "Chọn “eldest” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 66,
+      "question": "Don’t worry. I have … tire at the back of my car.",
+      "options": [
+        "A. other",
+        "B. another",
+        "C. the other",
+        "D. others"
+      ],
+      "answer": "B. another",
+      "explanation": "Chọn “another” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 67,
+      "question": "I remember ... him on a nice summer afternoon.",
+      "options": [
+        "A. to meet",
+        "B. meet",
+        "C. met",
+        "D. meeting"
+      ],
+      "answer": "D. meeting",
+      "explanation": "Chọn “meeting” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 68,
+      "question": "My teacher Jim, ... teaches English, is very poor.",
+      "options": [
+        "A. who",
+        "B. that",
+        "C. whom",
+        "D. which"
+      ],
+      "answer": "A. who",
+      "explanation": "Chọn “who” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 69,
+      "question": "The stolen jewels were ... a lot of money.",
+      "options": [
+        "A. valued",
+        "B. cost",
+        "C. priced",
+        "D. worth"
+      ],
+      "answer": "D. worth",
+      "explanation": "Chọn “worth” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 70,
+      "question": "The driver was arrested for failing … the accident.",
+      "options": [
+        "A. report",
+        "B. to report",
+        "C. of report",
+        "D. reporting"
+      ],
+      "answer": "B. to report",
+      "explanation": "Chọn “to report” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 71,
+      "question": "Tying the roof ... the ground ... pegs and ropes.",
+      "options": [
+        "A. with/to",
+        "B. at/ with",
+        "C. at / by",
+        "D. to/ with"
+      ],
+      "answer": "D. to/ with",
+      "explanation": "Chọn “to/ with” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 72,
+      "question": "The coins are ... to be over a thousand years old.",
+      "options": [
+        "A. described",
+        "B. said",
+        "C. mentioned",
+        "D. told"
+      ],
+      "answer": "B. said",
+      "explanation": "Chọn “said” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 73,
+      "question": "She was probably the most hard-… student I've ever taught.",
+      "options": [
+        "A. work",
+        "B. working",
+        "C. worked",
+        "D. to work"
+      ],
+      "answer": "B. working",
+      "explanation": "Chọn “working” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 74,
+      "question": "It was ... we could not go out.",
+      "options": [
+        "A. such cold that",
+        "B. so cold that",
+        "C. very so cold",
+        "D. too cold that"
+      ],
+      "answer": "B. so cold that",
+      "explanation": "Chọn “so cold that” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 75,
+      "question": "... the lid and look inside the box.",
+      "options": [
+        "A. Live",
+        "B. Lift",
+        "C. Lit",
+        "D. Light"
+      ],
+      "answer": "B. Lift",
+      "explanation": "Chọn “Lift” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 76,
+      "question": "Some officials proposed to increase the … on tobacco.",
+      "options": [
+        "A. money",
+        "B. fee",
+        "C. duty",
+        "D. salary"
+      ],
+      "answer": "C. duty",
+      "explanation": "Chọn “duty” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 77,
+      "question": "She isn’t ... well with the new manager.",
+      "options": [
+        "A. going on",
+        "B. getting on",
+        "C. keeping on",
+        "D. taking on"
+      ],
+      "answer": "B. getting on",
+      "explanation": "Chọn “getting on” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 78,
+      "question": "I have always ... that my university was the best in the country.",
+      "options": [
+        "A. respected",
+        "B. trusted",
+        "C. considered",
+        "D. regarded"
+      ],
+      "answer": "B. trusted",
+      "explanation": "Chọn “trusted” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 79,
+      "question": "The meat looked very ... to the dog.",
+      "options": [
+        "A. invited",
+        "B. invite",
+        "C. inviting",
+        "D. invitingly"
+      ],
+      "answer": "C. inviting",
+      "explanation": "Chọn “inviting” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 80,
+      "question": "I think I should have … your mother while I was passing.",
+      "options": [
+        "A. dropped in on",
+        "B. come up with",
+        "C. got on with",
+        "D. run into"
+      ],
+      "answer": "A. dropped in on",
+      "explanation": "Chọn “dropped in on” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 81,
+      "question": "Unfortunately, computer errors are a common ....",
+      "options": [
+        "A. occur",
+        "B. occurring",
+        "C. occurrence",
+        "D. occasion"
+      ],
+      "answer": "C. occurrence",
+      "explanation": "Chọn “occurrence” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 82,
+      "question": "Her father tried to stop her ... so many chocolates.",
+      "options": [
+        "A. eating",
+        "B. eaten",
+        "C. eats",
+        "D. ate"
+      ],
+      "answer": "A. eating",
+      "explanation": "Chọn “eating” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 83,
+      "question": "I can’t ______ your loud music any longer. I’m leaving.",
+      "options": [
+        "A. hold on",
+        "B. put up with",
+        "C. keep up with",
+        "D. make out"
+      ],
+      "answer": "B. put up with",
+      "explanation": "Chọn “put up with” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 84,
+      "question": "I’ve never fallen in such an ... situation before.",
+      "options": [
+        "A. embarrassed",
+        "B. embarrassing",
+        "C. embarrasment",
+        "D. embarrass"
+      ],
+      "answer": "B. embarrassing",
+      "explanation": "Chọn “embarrassing” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 85,
+      "question": "Peter, ... can compose many pieces of music, sings very well.",
+      "options": [
+        "A. which",
+        "B. whom",
+        "C. who",
+        "D. whose"
+      ],
+      "answer": "C. who",
+      "explanation": "Chọn “who” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 86,
+      "question": "The lady ... works as a clerk is kind and generous.",
+      "options": [
+        "A. whom",
+        "B. that",
+        "C. she",
+        "D. whose"
+      ],
+      "answer": "B. that",
+      "explanation": "Chọn “that” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 87,
+      "question": "I _____ it really hard to learn English vocabulary.",
+      "options": [
+        "A. think",
+        "B. feel",
+        "C. find",
+        "D. seem"
+      ],
+      "answer": "C. find",
+      "explanation": "Chọn “find” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 88,
+      "question": "She is ... a string in her fingers.",
+      "options": [
+        "A. holding",
+        "B. helding",
+        "C. held",
+        "D. being hold"
+      ],
+      "answer": "A. holding",
+      "explanation": "Chọn “holding” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 89,
+      "question": "The accident resulted … some minor injuries.",
+      "options": [
+        "A. to",
+        "B. from",
+        "C. in",
+        "D. of"
+      ],
+      "answer": "C. in",
+      "explanation": "Chọn “in” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 90,
+      "question": "Forecasts ... the economy are often misleading.",
+      "options": [
+        "A. about",
+        "B. of",
+        "C. on",
+        "D. to"
+      ],
+      "answer": "A. about",
+      "explanation": "Chọn “about” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 91,
+      "question": "She looks very happy. She must ... the exam.",
+      "options": [
+        "A. pass",
+        "B. have passed",
+        "C. did past",
+        "D. passed"
+      ],
+      "answer": "B. have passed",
+      "explanation": "Chọn “have passed” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 92,
+      "question": "Everyone in our class hopes ... a good job in the future.",
+      "options": [
+        "A. for",
+        "B. at",
+        "C. to",
+        "D. by"
+      ],
+      "answer": "A. for",
+      "explanation": "Chọn “for” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 93,
+      "question": "The next stage in the development of television is … TV.",
+      "options": [
+        "A. cooperative",
+        "B. interactive",
+        "C. expensive",
+        "D. convenient"
+      ],
+      "answer": "B. interactive",
+      "explanation": "Chọn “interactive” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 94,
+      "question": "When I drove along Hill Street, I saw Kevin _____ his dog.",
+      "options": [
+        "A. to walk",
+        "B. and walk",
+        "C. walking",
+        "D. walked"
+      ],
+      "answer": "C. walking",
+      "explanation": "Chọn “walking” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 95,
+      "question": "Unlike hippos, which I find ugly, flamingos are ... .",
+      "options": [
+        "A. interesting",
+        "B. graceful",
+        "C. nice",
+        "D. attractive"
+      ],
+      "answer": "D. attractive",
+      "explanation": "Chọn “attractive” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 96,
+      "question": "No one knows who ... the building.",
+      "options": [
+        "A. set fire to",
+        "B. put an eye on",
+        "C. pay attention to",
+        "D. put an end to"
+      ],
+      "answer": "A. set fire to",
+      "explanation": "Chọn “set fire to” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 97,
+      "question": "My parents always want me to set a good … to my younger brother.",
+      "options": [
+        "A. example",
+        "B. pattern",
+        "C. form",
+        "D. model"
+      ],
+      "answer": "A. example",
+      "explanation": "Chọn “example” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 98,
+      "question": "The crowd at a football match are often ....",
+      "options": [
+        "A. excite",
+        "B. exciting",
+        "C. excited",
+        "D. excitement"
+      ],
+      "answer": "C. excited",
+      "explanation": "Chọn “excited” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 99,
+      "question": "This climate ... occurred over less than a decade.",
+      "options": [
+        "A. shift",
+        "B. shifting",
+        "C. shifts",
+        "D. shifters"
+      ],
+      "answer": "C. shifts",
+      "explanation": "Chọn “shifts” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 100,
+      "question": "There is a lot of evidence for people to believe the ... of UFOs.",
+      "options": [
+        "A. truth",
+        "B. imagination",
+        "C. life",
+        "D. existence"
+      ],
+      "answer": "D. existence",
+      "explanation": "Chọn “existence” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 101,
+      "question": "It is essential that every student ... to learn English at university.",
+      "options": [
+        "A. to have",
+        "B. have",
+        "C. has",
+        "D. had"
+      ],
+      "answer": "B. have",
+      "explanation": "Chọn “have” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 102,
+      "question": "We help a little girl ... family is very poor.",
+      "options": [
+        "A. whom",
+        "B. her",
+        "C. whose",
+        "D. who"
+      ],
+      "answer": "C. whose",
+      "explanation": "Chọn “whose” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 103,
+      "question": "The smell of the kippers cooking…….my breakfast.",
+      "options": [
+        "A. came up against",
+        "B. put me off",
+        "C. gave off",
+        "D. held up"
+      ],
+      "answer": "B. put me off",
+      "explanation": "Chọn “put me off” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 104,
+      "question": "Don’t forget to check your work before you ... it in.",
+      "options": [
+        "A. put",
+        "B. hand",
+        "C. make",
+        "D. return"
+      ],
+      "answer": "B. hand",
+      "explanation": "Chọn “hand” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 105,
+      "question": "The soldiers will be ... parade tomorrow.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. at",
+        "D. Ø"
+      ],
+      "answer": "A. on",
+      "explanation": "Chọn “on” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 106,
+      "question": "Be careful washing those glasses! I don’t want them ....",
+      "options": [
+        "A. to break",
+        "B. breaking",
+        "C. to be broke",
+        "D. broken"
+      ],
+      "answer": "D. broken",
+      "explanation": "Chọn “broken” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 107,
+      "question": "On Easter day, many people crowd the streets to watch colorful ....",
+      "options": [
+        "A. marches",
+        "B. parades",
+        "C. walking",
+        "D. activities"
+      ],
+      "answer": "B. parades",
+      "explanation": "Chọn “parades” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 108,
+      "question": "They will have finished the job ... this time tomorrow.",
+      "options": [
+        "A. till",
+        "B. by",
+        "C. until",
+        "D. as long as"
+      ],
+      "answer": "B. by",
+      "explanation": "Chọn “by” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 109,
+      "question": "Tet is a festival ... occurs in late January or early February.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. when"
+      ],
+      "answer": "B. which",
+      "explanation": "Chọn “which” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 110,
+      "question": "We looked at ... books to choose the furniture fabric.",
+      "options": [
+        "A. simple",
+        "B. sample",
+        "C. concept",
+        "D. model"
+      ],
+      "answer": "B. sample",
+      "explanation": "Chọn “sample” vì đáp án này phù hợp với cấu trúc ngữ pháp, nghĩa của câu và vị trí của chỗ trống; các lựa chọn khác không tạo thành câu đúng."
+    },
+    {
+      "id": 111,
+      "question": "to work in the respective foreign country./ Your potential employer/ visa that you need/ has the ability/ to sponsor your work/",
+      "options": [],
+      "answer": "Your potential employer has the ability to sponsor your work visa that you need to work in the respective foreign country.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 112,
+      "question": "everything from cosmetics to explosives/ Peanut is used today to make/ because of the pioneering scientific work of/ in the 1910s and 1920s./ George Washington Carver/",
+      "options": [],
+      "answer": "Peanut is used today to make everything from cosmetics to explosives because of the pioneering scientific work of George Washington Carver in the 1910s and 1920s.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 113,
+      "question": "For over two hundred years, scholars have shown/ an interest/ in the way/ their language./ children learn to speak and understand/",
+      "options": [],
+      "answer": "For over two hundred years, scholars have shown an interest in the way children learn to speak and understand their language.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 114,
+      "question": "children learn to speak and understand/ For over two hundred years, scholars have shown/ their language./ an interest/ in the way/",
+      "options": [],
+      "answer": "For over two hundred years, scholars have shown an interest in the way children learn to speak and understand their language.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 115,
+      "question": "organization or a charity/ so that we can collect/ the handicapped children./ We should establish an/ money and clothes for/",
+      "options": [],
+      "answer": "We should establish an organization or a charity so that we can collect money and clothes for the handicapped children.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 116,
+      "question": "by selling cookies and hand-made bracelets./ for the nursing home/ are organizing a fundraising program/ High school students/ in the district/",
+      "options": [],
+      "answer": "High school students in the district are organizing a fundraising program for the nursing home by selling cookies and hand-made bracelets.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 117,
+      "question": "spread the rumour that/ vision to cover/ up use of radar./ In World War II, the British government/ carrots improve night/",
+      "options": [],
+      "answer": "In World War II, the British government spread the rumour that carrots improve night vision to cover up use of radar.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 118,
+      "question": "that it may hang in the/ so much air pollution/ Motor vehicles, factories and/ air like dirty fog./ other sources create/",
+      "options": [],
+      "answer": "Motor vehicles, factories and other sources create so much air pollution that it may hang in the air like dirty fog.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 119,
+      "question": "swimmers may swim underwater/ interesting sport, as/ and admire the lives/ Scuba diving is an/ at the bottom of the sea./",
+      "options": [],
+      "answer": "Scuba diving is an interesting sport, as swimmers may swim underwater and admire the lives at the bottom of the sea.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 120,
+      "question": "to suffer various risks/ information leaking./ such as spam or electronic/ Internet users sometimes have/ junk mail, and personal/",
+      "options": [],
+      "answer": "Internet users sometimes have to suffer various risks such as spam or electronic junk mail, and personal information leaking.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 121,
+      "question": "less convenient and restricts/ their freedom./ too have resisted government requests/ to share cars because it is/ Americans/",
+      "options": [],
+      "answer": "Americans too have resisted government requests to share cars because it is less convenient and restricts their freedom.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 122,
+      "question": "other sources create/ Motor vehicles, factories and/ air like dirty fog./ that it may hang in the/ so much air pollution/",
+      "options": [],
+      "answer": "Motor vehicles, factories and other sources create so much air pollution that it may hang in the air like dirty fog.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 123,
+      "question": "Discover what it's/ postgraduate taught course./ Reading and find your perfect undergraduate or/ like to study, live and/ socialize at the University of/",
+      "options": [],
+      "answer": "Discover what it's like to study, live and socialize at the University of Reading and find your perfect undergraduate or postgraduate taught course.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 124,
+      "question": "during power cuts, there is a lot/ entertainment, such as books/ or board games, which don’t have to be plugged in to work./ to be said for the oil lamp, the coal fire, and forms of/ As we discover/",
+      "options": [],
+      "answer": "As we discover during power cuts, there is a lot to be said for the oil lamp, the coal fire, and forms of entertainment, such as books or board games, which don’t have to be plugged in to work.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 125,
+      "question": "entertainment, such as books/ to be said for the oil lamp, the coal fire, and forms of/ or board games, which don’t have to be plugged in to work./ As we discover/ during power cuts, there is a lot/",
+      "options": [],
+      "answer": "As we discover during power cuts, there is a lot to be said for the oil lamp, the coal fire, and forms of entertainment, such as books or board games, which don’t have to be plugged in to work.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 126,
+      "question": "are inefficient and non-renewable./ two major drawbacks; they pollute the environment and/ Traditional means of/ electricity generation using coal or oil-fuelled plants have/ the fuels they use/",
+      "options": [],
+      "answer": "Traditional means of electricity generation using coal or oil-fuelled plants have two major drawbacks; they pollute the environment and the fuels they use are inefficient and non-renewable.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 127,
+      "question": "use a train, even though they may get stuck in a traffic jam./ are linked by/ motorways or other fast roads and many people/ prefer to drive at their own convenience rather than/ Most places/",
+      "options": [],
+      "answer": "Most places are linked by motorways or other fast roads and many people prefer to drive at their own convenience rather than use a train, even though they may get stuck in a traffic jam.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 128,
+      "question": "are linked by/ Most places/ motorways or other fast roads and many people/ prefer to drive at their own convenience rather than/ use a train, even though they may get stuck in a traffic jam./",
+      "options": [],
+      "answer": "Most places are linked by motorways or other fast roads and many people prefer to drive at their own convenience rather than use a train, even though they may get stuck in a traffic jam.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 129,
+      "question": "As we discover/ entertainment, such as books/ to be said for the oil lamp, the coal fire, and forms of/ during power cuts, there is a lot/ or board games, which don’t have to be plugged in to work./",
+      "options": [],
+      "answer": "As we discover during power cuts, there is a lot to be said for the oil lamp, the coal fire, and forms of entertainment, such as books or board games, which don’t have to be plugged in to work.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 130,
+      "question": "to be said for the oil lamp, the coal fire, and forms of/ As we discover/ during power cuts, there is a lot/ entertainment, such as books/ or board games, which don’t have to be plugged in to work./",
+      "options": [],
+      "answer": "As we discover during power cuts, there is a lot to be said for the oil lamp, the coal fire, and forms of entertainment, such as books or board games, which don’t have to be plugged in to work.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 131,
+      "question": "prefer to drive at their own convenience rather than/ Most places/ are linked by/ motorways or other fast roads and many people/ use a train, even though they may get stuck in a traffic jam./",
+      "options": [],
+      "answer": "Most places are linked by motorways or other fast roads and many people prefer to drive at their own convenience rather than use a train, even though they may get stuck in a traffic jam.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 132,
+      "question": "As we discover/ to be said for the oil lamp, the coal fire, and forms of/ entertainment, such as books/ during power cuts, there is a lot/ or board games, which don’t have to be plugged in to work./",
+      "options": [],
+      "answer": "As we discover during power cuts, there is a lot to be said for the oil lamp, the coal fire, and forms of entertainment, such as books or board games, which don’t have to be plugged in to work.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 133,
+      "question": "... saw Tom go out , did they?",
+      "options": [
+        "A. Somebody",
+        "B. Nobody",
+        "C. Anybody",
+        "D. Everybody"
+      ],
+      "answer": "B. Nobody",
+      "explanation": "Chọn “Nobody” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 134,
+      "question": "Do you like your new job? - Yes, but my employer insisted that I … on time.",
+      "options": [
+        "A. was",
+        "B. am",
+        "C. have been",
+        "D. be"
+      ],
+      "answer": "D. be",
+      "explanation": "Chọn “be” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 135,
+      "question": "How long does it take for Earth to rotate on its axis?",
+      "options": [
+        "A. 365 days",
+        "B. 366 days",
+        "C. 24 hours",
+        "D. 4 years"
+      ],
+      "answer": "C. 24 hours",
+      "explanation": "Chọn “24 hours” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 136,
+      "question": "Monkey can’t sing, ...?",
+      "options": [
+        "A. can they",
+        "B. can’t they",
+        "C. can it",
+        "D. can’t it"
+      ],
+      "answer": "A. can they",
+      "explanation": "Chọn “can they” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 137,
+      "question": "going to/ Peter/ to relax./ the mountain/ suggested/",
+      "options": [],
+      "answer": "Peter suggested going to the mountain to relax.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 138,
+      "question": "“I have passed all my examinations”.- “...”.",
+      "options": [
+        "A. My dear!",
+        "B. Best wishes!",
+        "C. Well done!",
+        "D. That’s very well!"
+      ],
+      "answer": "C. Well done!",
+      "explanation": "Chọn “Well done!” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 139,
+      "question": "Can we trust you ... John the message?",
+      "options": [
+        "A. give",
+        "B. to give",
+        "C. giving",
+        "D. of giving"
+      ],
+      "answer": "B. to give",
+      "explanation": "Chọn “to give” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 140,
+      "question": "-Mary: “What’s your city famous ...?” - Thuy: “People admire conical hats made in my city”.",
+      "options": [
+        "A. to",
+        "B. with",
+        "C. of",
+        "D. for"
+      ],
+      "answer": "D. for",
+      "explanation": "Chọn “for” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 141,
+      "question": "Did you tell Carol where … us this evening? - Yes, I did.",
+      "options": [
+        "A. should she meet",
+        "B. she to meet",
+        "C. will she meet",
+        "D. to meet"
+      ],
+      "answer": "D. to meet",
+      "explanation": "Chọn “to meet” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 142,
+      "question": "I think she was a little bit impatient, ...?",
+      "options": [
+        "A. was she",
+        "B. wasn’t she",
+        "C. do I",
+        "D. don’t I"
+      ],
+      "answer": "B. wasn’t she",
+      "explanation": "Chọn “wasn’t she” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 143,
+      "question": "keep practising./ English/ Your/ if you/ will improve/",
+      "options": [],
+      "answer": "Your English will improve if you keep practising.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 144,
+      "question": "Nobody called on the phone, ...?",
+      "options": [
+        "A. did he",
+        "B. didn’t he",
+        "C. did they",
+        "D. didn’t they"
+      ],
+      "answer": "C. did they",
+      "explanation": "Chọn “did they” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 145,
+      "question": "Are you quite sure you know why ...?",
+      "options": [
+        "A. was he dismissed",
+        "B. he was dismissing",
+        "C. he was dismissed",
+        "D. did he dismiss"
+      ],
+      "answer": "C. he was dismissed",
+      "explanation": "Chọn “he was dismissed” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 146,
+      "question": "“Why was Bob so angry with his wife?” – “Because of ... late”.",
+      "options": [
+        "A. her to be",
+        "B. her being",
+        "C. she is",
+        "D. she be"
+      ],
+      "answer": "B. her being",
+      "explanation": "Chọn “her being” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 147,
+      "question": "Choose one word that has opposite meaning with the word “dead”.",
+      "options": [
+        "A. lively",
+        "B. lovely",
+        "C. alive",
+        "D. alone"
+      ],
+      "answer": "C. alive",
+      "explanation": "Chọn “alive” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 148,
+      "question": "Have you ever read any articles, stories or reports ... UFOs?",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. for",
+        "D. about"
+      ],
+      "answer": "B. on",
+      "explanation": "Chọn “on” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 149,
+      "question": "Choose one word that has opposite meaning with the word “mean”.",
+      "options": [
+        "A. beautiful",
+        "B. excellent",
+        "C. generous",
+        "D. intelligent"
+      ],
+      "answer": "C. generous",
+      "explanation": "Chọn “generous” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 150,
+      "question": "He must be the director, ...?",
+      "options": [
+        "A. will he",
+        "B. mustn’t he",
+        "C. is he",
+        "D. isn’t he"
+      ],
+      "answer": "D. isn’t he",
+      "explanation": "Chọn “isn’t he” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 151,
+      "question": "Either my friends/ or/ she/ is going/ to the beach today./",
+      "options": [],
+      "answer": "Either my friends or she is going to the beach today.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 152,
+      "question": "She’s the best student in the school. - ….",
+      "options": [
+        "A. That’s that",
+        "B. You can say that again",
+        "C. Never mind",
+        "D. That’s ok"
+      ],
+      "answer": "B. You can say that again",
+      "explanation": "Chọn “You can say that again” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 153,
+      "question": "That’s Bob’s, ...?",
+      "options": [
+        "A. is he",
+        "B. isn’t he",
+        "C. is it",
+        "D. isn’t it"
+      ],
+      "answer": "D. isn’t it",
+      "explanation": "Chọn “isn’t it” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 154,
+      "question": "he would come/ his words./ He said/ but/ he didn’t keep/",
+      "options": [],
+      "answer": "He said he would come but he didn’t keep his words.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 155,
+      "question": "Can you give any ... for us to believe that there exist UFOs?",
+      "options": [
+        "A. evidence",
+        "B. example",
+        "C. clue",
+        "D. witness"
+      ],
+      "answer": "A. evidence",
+      "explanation": "Chọn “evidence” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 156,
+      "question": "He expressed/ you would/ a hope that/ well again./ soon be/",
+      "options": [],
+      "answer": "He expressed a hope that you would soon be well again.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 157,
+      "question": "The natural disasters ... is called “Tidal waves” often occur suddenly.",
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. whose",
+        "D. which"
+      ],
+      "answer": "D. which",
+      "explanation": "Chọn “which” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 158,
+      "question": "Do you know all the guests ... to the party?",
+      "options": [
+        "A. inviting",
+        "B. invited",
+        "C. who invited",
+        "D. were invited"
+      ],
+      "answer": "B. invited",
+      "explanation": "Chọn “invited” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 159,
+      "question": "Choose one word that has opposite meaning with the word “tragedies”.",
+      "options": [
+        "A. tears",
+        "B. joys",
+        "C. humors",
+        "D. comedies"
+      ],
+      "answer": "D. comedies",
+      "explanation": "Chọn “comedies” vì đây là lời đáp tự nhiên, đúng chức năng giao tiếp và phù hợp với tình huống của đoạn hội thoại."
+    },
+    {
+      "id": 160,
+      "question": "she/ Either my friends/ is going/ to the beach today./ or/",
+      "options": [],
+      "answer": "Either my friends or she is going to the beach today.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 161,
+      "question": "the sky/ was cloudy./ many pictures/ although/ We took/",
+      "options": [],
+      "answer": "We took many pictures although the sky was cloudy.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 162,
+      "question": "Peter/ the mountain/ suggested/ going to/ to relax./",
+      "options": [],
+      "answer": "Peter suggested going to the mountain to relax.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 163,
+      "question": "soon be/ well again./ a hope that/ He expressed/ you would/",
+      "options": [],
+      "answer": "He expressed a hope that you would soon be well again.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 164,
+      "question": "English/ if you/ Your/ keep practising./ will improve/",
+      "options": [],
+      "answer": "Your English will improve if you keep practising.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 165,
+      "question": "He expressed/ soon be/ well again./ a hope that/ you would/",
+      "options": [],
+      "answer": "He expressed a hope that you would soon be well again.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 166,
+      "question": "We took/ although/ was cloudy./ many pictures/ the sky/",
+      "options": [],
+      "answer": "We took many pictures although the sky was cloudy.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 167,
+      "question": "who/ Only/ those/ in./ had booked in/ advance were allowed/",
+      "options": [],
+      "answer": "Only those who had booked in advance were allowed in.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 168,
+      "question": "going to/ suggested/ to relax./ the mountain/ Peter/",
+      "options": [],
+      "answer": "Peter suggested going to the mountain to relax.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 169,
+      "question": "that red pen./ I would/ rather/ you/ didn’t use/",
+      "options": [],
+      "answer": "I would rather you didn’t use that red pen.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 170,
+      "question": "she/ to the beach today./ Either my friends/ or/ is going/",
+      "options": [],
+      "answer": "Either my friends or she is going to the beach today.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 171,
+      "question": "if you/ Your/ will improve/ English/ keep practising./",
+      "options": [],
+      "answer": "Your English will improve if you keep practising.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 172,
+      "question": "well again./ a hope that/ you would/ soon be/ He expressed/",
+      "options": [],
+      "answer": "He expressed a hope that you would soon be well again.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 173,
+      "question": "had changed/ a bit./ her job/ surprised me/ That Karen/",
+      "options": [],
+      "answer": "That Karen had changed her job surprised me a bit.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 174,
+      "question": "to relax./ suggested/ the mountain/ going to/ Peter/",
+      "options": [],
+      "answer": "Peter suggested going to the mountain to relax.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 175,
+      "question": "I would/ rather/ didn’t use/ you/ that red pen./",
+      "options": [],
+      "answer": "I would rather you didn’t use that red pen.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 176,
+      "question": "a hope that/ you would/ well again./ soon be/ He expressed/",
+      "options": [],
+      "answer": "He expressed a hope that you would soon be well again.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 177,
+      "question": "Only/ who/ in./ those/ advance were allowed/ had booked in/",
+      "options": [],
+      "answer": "Only those who had booked in advance were allowed in.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 178,
+      "question": "Would/ to put the/ chairs away?/ to help me/ you like/",
+      "options": [],
+      "answer": "Would you like to help me to put the chairs away?",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 179,
+      "question": "you/ didn’t use/ I would/ that red pen./ rather/",
+      "options": [],
+      "answer": "I would rather you didn’t use that red pen.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 180,
+      "question": "I would/ you/ that red pen./ didn’t use/ rather/",
+      "options": [],
+      "answer": "I would rather you didn’t use that red pen.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 181,
+      "question": "a hope that/ He expressed/ soon be/ you would/ well again./",
+      "options": [],
+      "answer": "He expressed a hope that you would soon be well again.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 182,
+      "question": "Either my friends/ is going/ or/ to the beach today./ she/",
+      "options": [],
+      "answer": "Either my friends or she is going to the beach today.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 183,
+      "question": "had booked in/ those/ Only/ who/ advance were allowed/ in./",
+      "options": [],
+      "answer": "Only those who had booked in advance were allowed in.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 184,
+      "question": "Although he did not/ the vase./ that he broke/ we know/ admit it,/",
+      "options": [],
+      "answer": "Although he did not admit it, we know that he broke the vase.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 185,
+      "question": "the talent and dedication/ We admire/ losing something./ of the young athletes, but we also/ wonder if they’re/",
+      "options": [],
+      "answer": "We admire the talent and dedication of the young athletes, but we also wonder if they’re losing something.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 186,
+      "question": "my appointment./ I wrote the date/ be sure to remember/ on the board/ in order to/",
+      "options": [],
+      "answer": "I wrote the date on the board in order to be sure to remember my appointment.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 187,
+      "question": "of rice in 2020./ 362,000 hectares/ drought and salinity/ would affect/ The government estimated/",
+      "options": [],
+      "answer": "The government estimated drought and salinity would affect 362,000 hectares of rice in 2020.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 188,
+      "question": "is competent in/ does not know how/ to deal with this client./ Although Richard/ his work, he/",
+      "options": [],
+      "answer": "Although Richard is competent in his work, he does not know how to deal with this client.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 189,
+      "question": "wonder if they’re/ losing something./ of the young athletes, but we also/ We admire/ the talent and dedication/",
+      "options": [],
+      "answer": "We admire the talent and dedication of the young athletes, but we also wonder if they’re losing something.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 190,
+      "question": "he believe she was all the world to him./ realized what she had sacrificed/ Not/ until he/ for him, did/",
+      "options": [],
+      "answer": "Not until he realized what she had sacrificed for him, did he believe she was all the world to him.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 191,
+      "question": "at the airport/ on time./ we arrived/ bad traffic,/ Despite the/ very/",
+      "options": [],
+      "answer": "Despite the very bad traffic, we arrived at the airport on time.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 192,
+      "question": "TV and listen/ unwanted losses./ to the weather forecast/ We should watch/ in order to prevent/",
+      "options": [],
+      "answer": "We should watch TV and listen to the weather forecast in order to prevent unwanted losses.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 193,
+      "question": "several times/ to her grandchildren./ the story/ had to tell/ Grandmother/",
+      "options": [],
+      "answer": "Grandmother had to tell the story several times to her grandchildren.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 194,
+      "question": "clerk as/ no better than the/ He was/ formal/ he had boasted./",
+      "options": [],
+      "answer": "He was no better than the formal clerk as he had boasted.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 195,
+      "question": "not known how/ place, several theories/ have been proposed./ the blocks were put in/ Although it is/",
+      "options": [],
+      "answer": "Although it is not known how the blocks were put in place, several theories have been proposed.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 196,
+      "question": "so small that it cannot maintain a/ may occur if a group is/ self-contained/ unit within the society./ Assimilation/",
+      "options": [],
+      "answer": "Assimilation may occur if a group is so small that it cannot maintain a self-contained unit within the society.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 197,
+      "question": "lots of green vegetables/ body strong./ She should eat/ in order to/ make her/",
+      "options": [],
+      "answer": "She should eat lots of green vegetables in order to make her body strong.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 198,
+      "question": "unless/ you are/ a member./ You aren’t/ allowed into the club/",
+      "options": [],
+      "answer": "You aren’t allowed into the club unless you are a member.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    },
+    {
+      "id": 199,
+      "question": "she is serious/ with students,/ and confidential./ Although/ she is lively/",
+      "options": [],
+      "answer": "Although she is serious with students, she is lively and confidential.",
+      "explanation": "Sắp xếp các cụm từ theo trật tự chuẩn: chủ ngữ, động từ, các thành phần bổ nghĩa và dấu câu. Câu hoàn chỉnh ở cột đáp án giữ đúng theo tài liệu nguồn."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
