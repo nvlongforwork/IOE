@@ -1,0 +1,1673 @@
+{
+  "title": "IOE Lớp 9 - Chuyên đề 1 - Vòng Thành Phố",
+  "vong": "Vòng Thành Phố",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "Toshiko had her car repaired by _ mechanic.",
+      "options": [],
+      "answer": "amechanic",
+      "explanation": "Điền amechanic để hoàn chỉnh ý: “Toshiko had her car repaired by amechanic.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 2,
+      "question": "I’m very much looking _ _ _ _ _ _ _ to the holiday.",
+      "options": [],
+      "answer": "forwardto",
+      "explanation": "Điền forwardto để hoàn chỉnh ý: “I’m very much looking forwardto the holiday.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 3,
+      "question": "We have to suffer flood and hot weather _ _ _ _ _ _ _ of uncontrollable forest destruction.",
+      "options": [],
+      "answer": "becauseof",
+      "explanation": "Điền becauseof để hoàn chỉnh ý: “We have to suffer flood and hot weather becauseof uncontrollable forest destruction.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 4,
+      "question": "Many people said that they saw man-like ... get out of the UFO.",
+      "options": [
+        "A. creature",
+        "B. humans",
+        "C. creation",
+        "D. men"
+      ],
+      "answer": "A. creature",
+      "explanation": "Từ phù hợp là creature. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 5,
+      "question": "During the war, we lost _ _ _ _ _ with many relatives.",
+      "options": [],
+      "answer": "touchwith",
+      "explanation": "Điền touchwith để hoàn chỉnh ý: “During the war, we lost touchwith many relatives.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 6,
+      "question": "Workers were kept in the _ _ _ _ about the plans to sell the company.",
+      "options": [],
+      "answer": "darkabout",
+      "explanation": "Điền darkabout để hoàn chỉnh ý: “Workers were kept in the darkabout the plans to sell the company.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 7,
+      "question": "Margaret is a good _ _ _ _ _ _ who can type 60 words per minute.",
+      "options": [],
+      "answer": "typistwho",
+      "explanation": "Điền typistwho để hoàn chỉnh ý: “Margaret is a good typistwho can type 60 words per minute.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 8,
+      "question": "Nancy’s mother told her ... change her plans.",
+      "options": [
+        "A. not",
+        "B. doesn’t",
+        "C. not to",
+        "D. didn’t"
+      ],
+      "answer": "C. not to",
+      "explanation": "Từ phù hợp là not to. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 9,
+      "question": "I hope we won’t lose _ _ _ _ _ with each other when the course finishes.",
+      "options": [],
+      "answer": "touchwith",
+      "explanation": "Điền touchwith để hoàn chỉnh ý: “I hope we won’t lose touchwith each other when the course finishes.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 10,
+      "question": "People used to think that heavy things always fell faster _ _ _ _ light things.",
+      "options": [],
+      "answer": "thanlight",
+      "explanation": "Điền thanlight để hoàn chỉnh ý: “People used to think that heavy things always fell faster thanlight things.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 11,
+      "question": "The meat and bean group is high _ _ protein.",
+      "options": [],
+      "answer": "inprotein",
+      "explanation": "Điền inprotein để hoàn chỉnh ý: “The meat and bean group is high inprotein.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 12,
+      "question": "You are late again - please try to be ... in future.",
+      "options": [
+        "A. accurate",
+        "B. punctual",
+        "C. efficient",
+        "D. reliable"
+      ],
+      "answer": "B. punctual",
+      "explanation": "Từ phù hợp là punctual. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 13,
+      "question": "This robot is capa_ _ _ of doing almost anything you ask.",
+      "options": [],
+      "answer": "capableof",
+      "explanation": "Điền capableof để hoàn chỉnh ý: “This robot is capableof doing almost anything you ask.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 14,
+      "question": "He’s on his own now - he’ll have to _ _ _ _ _ _ his own canoe.",
+      "options": [],
+      "answer": "paddlehis",
+      "explanation": "Điền paddlehis để hoàn chỉnh ý: “He’s on his own now - he’ll have to paddlehis own canoe.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 15,
+      "question": "Give the correct form of the word “POOR” in the following sentence: Many of the children and families were already in _ _ _ _ _ _ _ or in crisis, so now they are reaching a breaking point.",
+      "options": [],
+      "answer": "povertyor",
+      "explanation": "Điền povertyor để hoàn chỉnh ý: “Give the correct form of the word “POOR” in the following sentence: Many of the children and families were already in povertyor in crisis, so now they are reaching a breaking point.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 16,
+      "question": "While the boss was away, his assistant stood ... him and helped solve any problems.",
+      "options": [
+        "A. up to",
+        "B. in / for",
+        "C. up against",
+        "D. out of"
+      ],
+      "answer": "B. in / for",
+      "explanation": "Từ phù hợp là in / for. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 17,
+      "question": "The city was covered _ _ _ _ smoke from the burns nearby.",
+      "options": [],
+      "answer": "withsmoke",
+      "explanation": "Điền withsmoke để hoàn chỉnh ý: “The city was covered withsmoke from the burns nearby.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 18,
+      "question": "A person who studies life of plants and animals is called a bio_ _ _ _ _ _ .",
+      "options": [],
+      "answer": "biologist",
+      "explanation": "Điền biologist để hoàn chỉnh ý: “A person who studies life of plants and animals is called a biologist.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 19,
+      "question": "Many strange animal behaviors on ... the scientists usually base to study can help them to predict future natural disasters.",
+      "options": [
+        "A. which",
+        "B. that",
+        "C. who",
+        "D. whom"
+      ],
+      "answer": "A. which",
+      "explanation": "Từ phù hợp là which. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 20,
+      "question": "You’ll soon have a loyal audience who will _ _ _ _ _ _ the word about your blog.",
+      "options": [],
+      "answer": "spreadthe",
+      "explanation": "Điền spreadthe để hoàn chỉnh ý: “You’ll soon have a loyal audience who will spreadthe word about your blog.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 21,
+      "question": "Music can effectively _ _ _ _ _ _ one’s hopes and dreams.",
+      "options": [],
+      "answer": "conveyone",
+      "explanation": "Điền conveyone để hoàn chỉnh ý: “Music can effectively conveyone’s hopes and dreams.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 22,
+      "question": "At first, very _ _ _ people drank Coca Cola, but now it is sold in more than 160 countries.",
+      "options": [],
+      "answer": "fewpeople",
+      "explanation": "Điền fewpeople để hoàn chỉnh ý: “At first, very fewpeople drank Coca Cola, but now it is sold in more than 160 countries.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 23,
+      "question": "The result is impossible to predict with any degree of ....",
+      "options": [
+        "A. probability",
+        "B. insurance",
+        "C. assurance",
+        "D. certainty"
+      ],
+      "answer": "D. certainty",
+      "explanation": "Từ phù hợp là certainty. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 24,
+      "question": "I _ _ _ _ _ _ the train which I usually catch, and I had to travel on the next one, which was a slow train.",
+      "options": [],
+      "answer": "missedthe",
+      "explanation": "Điền missedthe để hoàn chỉnh ý: “I missedthe train which I usually catch, and I had to travel on the next one, which was a slow train.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 25,
+      "question": "The Mekong River, according to the World Wildlife Fund, accounts _ _ _ as much as 25% of global freshwater catch.",
+      "options": [],
+      "answer": "foras",
+      "explanation": "Điền foras để hoàn chỉnh ý: “The Mekong River, according to the World Wildlife Fund, accounts foras much as 25% of global freshwater catch.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 26,
+      "question": "More land is used for farms, houses or industry, and there are fewer open spaces _ _ _ _ there once were.",
+      "options": [],
+      "answer": "thanthere",
+      "explanation": "Điền thanthere để hoàn chỉnh ý: “More land is used for farms, houses or industry, and there are fewer open spaces thanthere once were.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 27,
+      "question": "You thought I did wrong but the results ... my action.",
+      "options": [
+        "A. justified",
+        "B. agreed",
+        "C. approved",
+        "D. proved"
+      ],
+      "answer": "A. justified",
+      "explanation": "Từ phù hợp là justified. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 28,
+      "question": "As long as they are in _ _ _ _ _ with one another, communication is not an issue.",
+      "options": [],
+      "answer": "touchwith",
+      "explanation": "Điền touchwith để hoàn chỉnh ý: “As long as they are in touchwith one another, communication is not an issue.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 29,
+      "question": "In the United States, people _ _ _ _ _ each other with a handshake in a formal introduction.",
+      "options": [],
+      "answer": "greeteach",
+      "explanation": "Điền greeteach để hoàn chỉnh ý: “In the United States, people greeteach other with a handshake in a formal introduction.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 30,
+      "question": "Television can make things memorable _ _ _ _ _ _ _ it presents information in an effective way.",
+      "options": [],
+      "answer": "becauseit",
+      "explanation": "Điền becauseit để hoàn chỉnh ý: “Television can make things memorable becauseit presents information in an effective way.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 31,
+      "question": "I ... this book to all who enjoy an exciting story.",
+      "options": [
+        "A. recommend",
+        "B. approve of",
+        "C. compliment",
+        "D. praise"
+      ],
+      "answer": "A. recommend",
+      "explanation": "Từ phù hợp là recommend. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 32,
+      "question": "In a small town in Germany there _ _ _ _ lived a poor shoemaker.",
+      "options": [],
+      "answer": "oncelived",
+      "explanation": "Điền oncelived để hoàn chỉnh ý: “In a small town in Germany there oncelived a poor shoemaker.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 33,
+      "question": "Each company is fighting to _ _ _ _ _ _ _ it own commercial interests.",
+      "options": [],
+      "answer": "protectit",
+      "explanation": "Điền protectit để hoàn chỉnh ý: “Each company is fighting to protectit own commercial interests.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 34,
+      "question": "Can we trust you ... John the message?",
+      "options": [
+        "A. give",
+        "B. to give",
+        "C. giving",
+        "D. of giving"
+      ],
+      "answer": "B. to give",
+      "explanation": "Từ phù hợp là to give. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 35,
+      "question": "This building is no _ _ _ _ _ _ the highest one in the city.",
+      "options": [],
+      "answer": "longerthe",
+      "explanation": "Điền longerthe để hoàn chỉnh ý: “This building is no longerthe highest one in the city.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 36,
+      "question": "Despite the threat of war, people _ _ _ _ about their business as usual.",
+      "options": [],
+      "answer": "wentabout",
+      "explanation": "Điền wentabout để hoàn chỉnh ý: “Despite the threat of war, people wentabout their business as usual.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 37,
+      "question": "No _ _ _ _ _ _ how careful John may be, he’s always making a lot of mistakes in his essays.",
+      "options": [],
+      "answer": "matterhow",
+      "explanation": "Điền matterhow để hoàn chỉnh ý: “No matterhow careful John may be, he’s always making a lot of mistakes in his essays.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 38,
+      "question": "I think there might be a lot of little ... in Mars.",
+      "options": [
+        "A. create",
+        "B. creation",
+        "C. creatures",
+        "D. creative"
+      ],
+      "answer": "C. creatures",
+      "explanation": "Từ phù hợp là creatures. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 39,
+      "question": "Tom was _ _ _ _ _ _ _ to be found.",
+      "options": [],
+      "answer": "nowhereto",
+      "explanation": "Điền nowhereto để hoàn chỉnh ý: “Tom was nowhereto be found.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 40,
+      "question": "Are they happy w_ _ _ their lives or not?",
+      "options": [],
+      "answer": "withtheir",
+      "explanation": "Điền withtheir để hoàn chỉnh ý: “Are they happy withtheir lives or not?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 41,
+      "question": "Jim congratulated me _ _ passing the final exams.",
+      "options": [],
+      "answer": "onpassing",
+      "explanation": "Điền onpassing để hoàn chỉnh ý: “Jim congratulated me onpassing the final exams.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 42,
+      "question": "Peter’s success at college ... his family.",
+      "options": [
+        "A. lulled",
+        "B. delighted",
+        "C. composed",
+        "D. played"
+      ],
+      "answer": "B. delighted",
+      "explanation": "Từ phù hợp là delighted. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 43,
+      "question": "Among 1,482 patients hospitalized _ _ _ _ COVID-19, 74.5% were aged 50 years and older.",
+      "options": [],
+      "answer": "withCOVID",
+      "explanation": "Điền withCOVID để hoàn chỉnh ý: “Among 1,482 patients hospitalized withCOVID-19, 74.5% were aged 50 years and older.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 44,
+      "question": "Diana wants to get to the top in her company, she is very _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "ambitious",
+      "explanation": "Điền ambitious để hoàn chỉnh ý: “Diana wants to get to the top in her company, she is very ambitious.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 45,
+      "question": "He and his friends are both good _ _ Spanish.",
+      "options": [],
+      "answer": "atSpanish",
+      "explanation": "Điền atSpanish để hoàn chỉnh ý: “He and his friends are both good atSpanish.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 46,
+      "question": "The Chinese scientists, ... prediction made by observing animal behavior, saved millions of people from the earthquake in 1976.",
+      "options": [
+        "A. who",
+        "B. whose",
+        "C. whom",
+        "D. that"
+      ],
+      "answer": "B. whose",
+      "explanation": "Từ phù hợp là whose. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 47,
+      "question": "In shops at this time, which were often small and dark, it was still usual to keep goods in drawers under the _ _ _ _ _ _ _ or on shelves behind it.",
+      "options": [],
+      "answer": "counteror",
+      "explanation": "Điền counteror để hoàn chỉnh ý: “In shops at this time, which were often small and dark, it was still usual to keep goods in drawers under the counteror on shelves behind it.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 48,
+      "question": "The desert environment is regarded as _ _ _ _ t for settlement.",
+      "options": [],
+      "answer": "unfit",
+      "explanation": "Điền unfit để hoàn chỉnh ý: “The desert environment is regarded as unfit for settlement.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 49,
+      "question": "Our beauty products are not tested _ _ animals.",
+      "options": [],
+      "answer": "onanimals",
+      "explanation": "Điền onanimals để hoàn chỉnh ý: “Our beauty products are not tested onanimals.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 50,
+      "question": "One ... adults take physical exercise at least once a week.",
+      "options": [
+        "A. in four",
+        "B. from four",
+        "C. of four",
+        "D. with four"
+      ],
+      "answer": "A. in four",
+      "explanation": "Từ phù hợp là in four. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 51,
+      "question": "In _ _ _ _ _ _ _ _ _ , the chest muscles expand the rib cage and allow air to be sucked into the lungs.",
+      "options": [],
+      "answer": "breathing",
+      "explanation": "Điền breathing để hoàn chỉnh ý: “In breathing, the chest muscles expand the rib cage and allow air to be sucked into the lungs.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 52,
+      "question": "Nobody can persuade her to ch_ _ _ _ her mind.",
+      "options": [],
+      "answer": "changeher",
+      "explanation": "Điền changeher để hoàn chỉnh ý: “Nobody can persuade her to changeher mind.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 53,
+      "question": "Take your coat with you ... it gets cold later.",
+      "options": [
+        "A. if",
+        "B. as long as",
+        "C. when",
+        "D. in case"
+      ],
+      "answer": "D. in case",
+      "explanation": "Từ phù hợp là in case. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 54,
+      "question": "Did you congratulate Tessa _ _ passing her exam?",
+      "options": [],
+      "answer": "onpassing",
+      "explanation": "Điền onpassing để hoàn chỉnh ý: “Did you congratulate Tessa onpassing her exam?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 55,
+      "question": "As the drug took _ _ _ _ _ _ the patient became quieter.",
+      "options": [],
+      "answer": "effectthe",
+      "explanation": "Điền effectthe để hoàn chỉnh ý: “As the drug took effectthe patient became quieter.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 56,
+      "question": "I was overwhelmed by the _ _ _ _ _ _ _ of depression.",
+      "options": [],
+      "answer": "feelingof",
+      "explanation": "Điền feelingof để hoàn chỉnh ý: “I was overwhelmed by the feelingof depression.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 57,
+      "question": "In the Cinerama cinemas, the film is ... on to 3 screens.",
+      "options": [
+        "A. projected",
+        "B. exposed",
+        "C. ejected",
+        "D. shown"
+      ],
+      "answer": "A. projected",
+      "explanation": "Từ phù hợp là projected. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 58,
+      "question": "Did you mean hitting him on _ _ _ _ _ _ _ or did it happen accidentally?",
+      "options": [],
+      "answer": "purposeor",
+      "explanation": "Điền purposeor để hoàn chỉnh ý: “Did you mean hitting him on purposeor did it happen accidentally?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 59,
+      "question": "She has so _ _ _ _ money that she can buy everything she wants.",
+      "options": [],
+      "answer": "muchmoney",
+      "explanation": "Điền muchmoney để hoàn chỉnh ý: “She has so muchmoney that she can buy everything she wants.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 60,
+      "question": "He stole money from his parents to feed his _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "addiction",
+      "explanation": "Điền addiction để hoàn chỉnh ý: “He stole money from his parents to feed his addiction.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 61,
+      "question": "Although Eric was ... to admit his guilt, he ultimately confessed that he had stolen Jessica’s wallet.",
+      "options": [
+        "A. eager",
+        "B. reluctant",
+        "C. swift",
+        "D. confused"
+      ],
+      "answer": "B. reluctant",
+      "explanation": "Từ phù hợp là reluctant. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 62,
+      "question": "The development in the use of ultrasound is a major _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "advantage",
+      "explanation": "Điền advantage để hoàn chỉnh ý: “The development in the use of ultrasound is a major advantage.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 63,
+      "question": "My elder brother is living in Canada. He is 2 years _ _ _ _ _ than me.",
+      "options": [],
+      "answer": "olderthan",
+      "explanation": "Điền olderthan để hoàn chỉnh ý: “My elder brother is living in Canada. He is 2 years olderthan me.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 64,
+      "question": "If you never use your brain, your _ _ _ _ _ _ _ to think and learn will deteriorate.",
+      "options": [],
+      "answer": "abilityto",
+      "explanation": "Điền abilityto để hoàn chỉnh ý: “If you never use your brain, your abilityto think and learn will deteriorate.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 65,
+      "question": "The natural disasters ... is called “Tidal waves” often occur suddenly.",
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. whose",
+        "D. which"
+      ],
+      "answer": "D. which",
+      "explanation": "Từ phù hợp là which. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 66,
+      "question": "The British Prime Minister Boris Johnson was down _ _ _ _ COVID-19.",
+      "options": [],
+      "answer": "withCOVID",
+      "explanation": "Điền withCOVID để hoàn chỉnh ý: “The British Prime Minister Boris Johnson was down withCOVID-19.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 67,
+      "question": "You can be online within a few minutes _ _ opening an account.",
+      "options": [],
+      "answer": "ofopening",
+      "explanation": "Điền ofopening để hoàn chỉnh ý: “You can be online within a few minutes ofopening an account.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 68,
+      "question": "The doctor takes notes of any ... marks on the patient’s skin, because such abnormalities often indicate the presence of skin cancer.",
+      "options": [
+        "A. irregular",
+        "B. typical",
+        "C. ordinary",
+        "D. invisible"
+      ],
+      "answer": "A. irregular",
+      "explanation": "Từ phù hợp là irregular. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 69,
+      "question": "They were _ _ _ _ _ _ _ of crimes against humanity.",
+      "options": [],
+      "answer": "accusedof",
+      "explanation": "Điền accusedof để hoàn chỉnh ý: “They were accusedof crimes against humanity.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 70,
+      "question": "The new neighbor _ _ _ _ _ down on us because our house is very modest.",
+      "options": [],
+      "answer": "looksdown",
+      "explanation": "Điền looksdown để hoàn chỉnh ý: “The new neighbor looksdown on us because our house is very modest.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 71,
+      "question": "The _ _ _ _ _ show lasts three hours.",
+      "options": [],
+      "answer": "wholeshow",
+      "explanation": "Điền wholeshow để hoàn chỉnh ý: “The wholeshow lasts three hours.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 72,
+      "question": "I ... this morning, and was late for school.",
+      "options": [
+        "A. sleep",
+        "B. slept",
+        "C. overslept",
+        "D. oversleep"
+      ],
+      "answer": "C. overslept",
+      "explanation": "Từ phù hợp là overslept. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 73,
+      "question": "World War II was a g_ _ _ _ _ war that lasted from 1939 to 1945.",
+      "options": [],
+      "answer": "globalwar",
+      "explanation": "Điền globalwar để hoàn chỉnh ý: “World War II was a globalwar that lasted from 1939 to 1945.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 74,
+      "question": "He lives in a tiny v_ _ _ _ _ _ up in the mountains.",
+      "options": [],
+      "answer": "villageup",
+      "explanation": "Điền villageup để hoàn chỉnh ý: “He lives in a tiny villageup in the mountains.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 75,
+      "question": "My brother often _ _ _ _ _ _ his spare time reading books and watching television.",
+      "options": [],
+      "answer": "spendshis",
+      "explanation": "Điền spendshis để hoàn chỉnh ý: “My brother often spendshis spare time reading books and watching television.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 76,
+      "question": "We all need friends whom we can ... when we are in trouble.",
+      "options": [
+        "A. break off",
+        "B. live on",
+        "C. call on",
+        "D. go by"
+      ],
+      "answer": "C. call on",
+      "explanation": "Từ phù hợp là call on. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 77,
+      "question": "The main advantage of low-_ _ _ _ diets is that they cause you to want to eat less.",
+      "options": [],
+      "answer": "carbdiets",
+      "explanation": "Điền carbdiets để hoàn chỉnh ý: “The main advantage of low-carbdiets is that they cause you to want to eat less.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 78,
+      "question": "Washington, D.C. is the _ _ _ _ _ _ _ of the United States.",
+      "options": [],
+      "answer": "capitalof",
+      "explanation": "Điền capitalof để hoàn chỉnh ý: “Washington, D.C. is the capitalof the United States.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 79,
+      "question": "The Hanging Gardens of Babylon is one of the famous _ _ _ _ _ _ _ of the world.",
+      "options": [],
+      "answer": "wondersof",
+      "explanation": "Điền wondersof để hoàn chỉnh ý: “The Hanging Gardens of Babylon is one of the famous wondersof the world.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 80,
+      "question": "After I ... lunch, I looked for my bag.",
+      "options": [
+        "A. had",
+        "B. had had",
+        "C. have has",
+        "D. have had"
+      ],
+      "answer": "B. had had",
+      "explanation": "Từ phù hợp là had had. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 81,
+      "question": "We listened to the news with a _ _ _ _ _ _ _ of surprise and horror.",
+      "options": [],
+      "answer": "mixtureof",
+      "explanation": "Điền mixtureof để hoàn chỉnh ý: “We listened to the news with a mixtureof surprise and horror.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 82,
+      "question": "It had never _ _ _ _ _ _ _ my mind that I’d win a prize.",
+      "options": [],
+      "answer": "crossedmy",
+      "explanation": "Điền crossedmy để hoàn chỉnh ý: “It had never crossedmy mind that I’d win a prize.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 83,
+      "question": "The cat was _ _ _ _ _ _ _ to be found.",
+      "options": [],
+      "answer": "nowhereto",
+      "explanation": "Điền nowhereto để hoàn chỉnh ý: “The cat was nowhereto be found.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 84,
+      "question": "Today’s my birthday. Let’s ...!",
+      "options": [
+        "A. organize",
+        "B. celebrate",
+        "C. having meeting",
+        "D. give parties"
+      ],
+      "answer": "B. celebrate",
+      "explanation": "Từ phù hợp là celebrate. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 85,
+      "question": "Women now have the freedom to choose _ _ _ _ _ _ _ or not they have children.",
+      "options": [],
+      "answer": "whetheror",
+      "explanation": "Điền whetheror để hoàn chỉnh ý: “Women now have the freedom to choose whetheror not they have children.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 86,
+      "question": "Give the correct form of the word \\\"DIFFERENT\\\" in the following sentence: \\\"How do you _ _ _ _ _ _ the real painting from the fake one?\\\"",
+      "options": [],
+      "answer": "differthe",
+      "explanation": "Điền differthe để hoàn chỉnh ý: “Give the correct form of the word \\\"DIFFERENT\\\" in the following sentence: \\\"How do you differthe real painting from the fake one?\\\"”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 87,
+      "question": "They put up a very large notice ... everybody would see it.",
+      "options": [
+        "A. to make",
+        "B. in order to",
+        "C. so as to",
+        "D. so that"
+      ],
+      "answer": "D. so that",
+      "explanation": "Từ phù hợp là so that. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 88,
+      "question": "I am so grateful to my teacher who always gives me lots of encouragement to _ _ _ _ _ _ _ my knowledge.",
+      "options": [],
+      "answer": "improvemy",
+      "explanation": "Điền improvemy để hoàn chỉnh ý: “I am so grateful to my teacher who always gives me lots of encouragement to improvemy knowledge.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 89,
+      "question": "Solar _ _ _ _ _ _ are installed on the roof of a house to receive the energy from the sun.",
+      "options": [],
+      "answer": "panelsare",
+      "explanation": "Điền panelsare để hoàn chỉnh ý: “Solar panelsare installed on the roof of a house to receive the energy from the sun.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 90,
+      "question": "Are there any good TV show _ _ tonight?",
+      "options": [],
+      "answer": "ontonight",
+      "explanation": "Điền ontonight để hoàn chỉnh ý: “Are there any good TV show ontonight?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 91,
+      "question": "Get him ... the agreement before he has second thoughts.",
+      "options": [
+        "A. to sign",
+        "B. sign",
+        "C. signing",
+        "D. signs"
+      ],
+      "answer": "A. to sign",
+      "explanation": "Từ phù hợp là to sign. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 92,
+      "question": "Give the correct form of the word \\\"DIFFERENT\\\" in the following sentence: \\\"How do you _ _ _ _ _ _ the real painting from the fake one?\\\"“Pána:”\"orderTrue\":0",
+      "options": [],
+      "answer": "differthe",
+      "explanation": "Điền differthe để hoàn chỉnh ý: “Give the correct form of the word \\\"DIFFERENT\\\" in the following sentence: \\\"How do you differthe real painting from the fake one?\\\"“Pána:”\"orderTrue\":0”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 93,
+      "question": "She began to p_ _ _ tennis three years ago.",
+      "options": [],
+      "answer": "playtennis",
+      "explanation": "Điền playtennis để hoàn chỉnh ý: “She began to playtennis three years ago.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 94,
+      "question": "The Minister was shouted _ _ _ _ by protestors who were angry at the government’s proposals.",
+      "options": [],
+      "answer": "downby",
+      "explanation": "Điền downby để hoàn chỉnh ý: “The Minister was shouted downby protestors who were angry at the government’s proposals.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 95,
+      "question": "When someone is old he is in his second ....",
+      "options": [
+        "A. child",
+        "B. childhood",
+        "C. childish",
+        "D. childlike"
+      ],
+      "answer": "B. childhood",
+      "explanation": "Từ phù hợp là childhood. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 96,
+      "question": "To _ _ _ _ _ their nests, tailorbirds use their bills as needles.",
+      "options": [],
+      "answer": "buildtheir",
+      "explanation": "Điền buildtheir để hoàn chỉnh ý: “To buildtheir nests, tailorbirds use their bills as needles.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 97,
+      "question": "Since oil is an irreplaceable natural resource, we must do whatever we can in order to _ _ _ _ _ _ _ _ it.",
+      "options": [],
+      "answer": "conserveit",
+      "explanation": "Điền conserveit để hoàn chỉnh ý: “Since oil is an irreplaceable natural resource, we must do whatever we can in order to conserveit.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 98,
+      "question": "You can avoid _ _ _ _ _ decay by brushing your teeth regularly.",
+      "options": [],
+      "answer": "toothdecay",
+      "explanation": "Điền toothdecay để hoàn chỉnh ý: “You can avoid toothdecay by brushing your teeth regularly.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 99,
+      "question": "His illness made him... of concentration.",
+      "options": [
+        "A. incompetent",
+        "B. unable",
+        "C. powerless",
+        "D. incapable"
+      ],
+      "answer": "D. incapable",
+      "explanation": "Từ phù hợp là incapable. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 100,
+      "question": "Those whose are easily influenced by r_ _ _ _ _ _ can be never be good friends.",
+      "options": [],
+      "answer": "rumourscan",
+      "explanation": "Điền rumourscan để hoàn chỉnh ý: “Those whose are easily influenced by rumourscan be never be good friends.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 101,
+      "question": "Vietnamese people believe that the first person through the door on New Year’s Day brings _ _ _ _ _ _ good or bad luck.",
+      "options": [],
+      "answer": "eithergood",
+      "explanation": "Điền eithergood để hoàn chỉnh ý: “Vietnamese people believe that the first person through the door on New Year’s Day brings eithergood or bad luck.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 102,
+      "question": "We’re going to listen to the President’s Speech ... on TV on New Year’s Eve.",
+      "options": [
+        "A. cast",
+        "B. broadcast",
+        "C. lectured",
+        "D. given"
+      ],
+      "answer": "B. broadcast",
+      "explanation": "Từ phù hợp là broadcast. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 103,
+      "question": "The past form of \\\"threaten\\\" is \\\"_ _ _ _ _ _ _ _ _ _ \\\".",
+      "options": [],
+      "answer": "threatened",
+      "explanation": "Điền threatened để hoàn chỉnh ý: “The past form of \\\"threaten\\\" is \\\"threatened\\\".”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 104,
+      "question": "I’ve got so much work to do that I don’t have much time for recrea_ _ _ _ .",
+      "options": [],
+      "answer": "recreation",
+      "explanation": "Điền recreation để hoàn chỉnh ý: “I’ve got so much work to do that I don’t have much time for recreation.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 105,
+      "question": "Metals _ _ _ _ _ _ when they are heated.",
+      "options": [],
+      "answer": "expandwhen",
+      "explanation": "Điền expandwhen để hoàn chỉnh ý: “Metals expandwhen they are heated.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 106,
+      "question": "The trial is expected ... until the end of the week.",
+      "options": [
+        "A. to be last",
+        "B. to be lasted",
+        "C. to be lasting",
+        "D. to last"
+      ],
+      "answer": "D. to last",
+      "explanation": "Từ phù hợp là to last. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 107,
+      "question": "In _ _ _ _ _ _ _ _ to the challenge to be excellent, American schools have been facing novel problems.",
+      "options": [],
+      "answer": "additionto",
+      "explanation": "Điền additionto để hoàn chỉnh ý: “In additionto the challenge to be excellent, American schools have been facing novel problems.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 108,
+      "question": "My husband pumps water into the paddy fields while I do the rice t_ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "transplant",
+      "explanation": "Điền transplant để hoàn chỉnh ý: “My husband pumps water into the paddy fields while I do the rice transplant.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 109,
+      "question": "The _ _ _ _ _ _ _ was an excellent piece of journalism.",
+      "options": [],
+      "answer": "articlewas",
+      "explanation": "Điền articlewas để hoàn chỉnh ý: “The articlewas an excellent piece of journalism.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 110,
+      "question": "A lot of experts are working at Cancer Research ... to help people overcome the disease.",
+      "options": [
+        "A. Institution",
+        "B. Institutionalization",
+        "C. Institute",
+        "D. Institutions"
+      ],
+      "answer": "C. Institute",
+      "explanation": "Từ phù hợp là Institute. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 111,
+      "question": "The hall was very crowded with over fifty people p_ _ _ _ _ into it.",
+      "options": [],
+      "answer": "packedinto",
+      "explanation": "Điền packedinto để hoàn chỉnh ý: “The hall was very crowded with over fifty people packedinto it.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 112,
+      "question": "Unless you are patient and hard-working, you will _ _ _ succeed.",
+      "options": [],
+      "answer": "notsucceed",
+      "explanation": "Điền notsucceed để hoàn chỉnh ý: “Unless you are patient and hard-working, you will notsucceed.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 113,
+      "question": "He was _ _ _ _ _ _ down for the job because he is unqualified.",
+      "options": [],
+      "answer": "turneddown",
+      "explanation": "Điền turneddown để hoàn chỉnh ý: “He was turneddown for the job because he is unqualified.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 114,
+      "question": "Tying the roof ... the ground ... pegs and ropes.",
+      "options": [
+        "A. with/to",
+        "B. at/ with",
+        "C. at / by",
+        "D. to/ with"
+      ],
+      "answer": "D. to/ with",
+      "explanation": "Từ phù hợp là to/ with. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 115,
+      "question": "The dove is _ _ _ _ _ _ _ _ of peace.",
+      "options": [],
+      "answer": "symbolicof",
+      "explanation": "Điền symbolicof để hoàn chỉnh ý: “The dove is symbolicof peace.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 116,
+      "question": "Although the storm passed us by, we could hear the th_ _ _ _ _ and see the lighting in the distance.",
+      "options": [],
+      "answer": "thunderand",
+      "explanation": "Điền thunderand để hoàn chỉnh ý: “Although the storm passed us by, we could hear the thunderand see the lighting in the distance.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 117,
+      "question": "The new manager explained to the staff that she hoped to ... new procedures to save time and money.",
+      "options": [
+        "A. manufacture",
+        "B. establish",
+        "C. control",
+        "D. restore"
+      ],
+      "answer": "B. establish",
+      "explanation": "Từ phù hợp là establish. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 118,
+      "question": "Streets are decorated with coloured lights and redb_ _ _ _ _ _ .",
+      "options": [],
+      "answer": "redbanners",
+      "explanation": "Điền redbanners để hoàn chỉnh ý: “Streets are decorated with coloured lights and redbanners.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 119,
+      "question": "Food made from milk are ca_ _ _ _ milk products.",
+      "options": [],
+      "answer": "calledmilk",
+      "explanation": "Điền calledmilk để hoàn chỉnh ý: “Food made from milk are calledmilk products.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 120,
+      "question": "She was less enthusiastic _ _ _ _ _ going to France.",
+      "options": [],
+      "answer": "aboutgoing",
+      "explanation": "Điền aboutgoing để hoàn chỉnh ý: “She was less enthusiastic aboutgoing to France.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 121,
+      "question": "There is a lot of evidence for people to believe the ... of UFOs.",
+      "options": [
+        "A. truth",
+        "B. imagination",
+        "C. life",
+        "D. existence"
+      ],
+      "answer": "D. existence",
+      "explanation": "Từ phù hợp là existence. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 122,
+      "question": "Every nation and every country has their own _ _ _ _ _ _ _ and traditions.",
+      "options": [],
+      "answer": "customsand",
+      "explanation": "Điền customsand để hoàn chỉnh ý: “Every nation and every country has their own customsand traditions.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 123,
+      "question": "Can you tell the differences _ _ _ _ _ _ _ the twins?",
+      "options": [],
+      "answer": "betweenthe",
+      "explanation": "Điền betweenthe để hoàn chỉnh ý: “Can you tell the differences betweenthe twins?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 124,
+      "question": "I would _ _ _ _ _ _ stay home than go out with them.",
+      "options": [],
+      "answer": "ratherstay",
+      "explanation": "Điền ratherstay để hoàn chỉnh ý: “I would ratherstay home than go out with them.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 125,
+      "question": "A: Is this the right place to catch the bus to the shopping center? - B: Yes just be sure ... the number fourteen.",
+      "options": [
+        "A. to take",
+        "B. taking",
+        "C. take",
+        "D. takes"
+      ],
+      "answer": "A. to take",
+      "explanation": "Từ phù hợp là to take. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 126,
+      "question": "Young people who don’t do enough exercise often _ _ _ _ _ _ from heart attacks later in life.",
+      "options": [],
+      "answer": "sufferfrom",
+      "explanation": "Điền sufferfrom để hoàn chỉnh ý: “Young people who don’t do enough exercise often sufferfrom heart attacks later in life.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 127,
+      "question": "The past form of CONTROL is _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "controlled",
+      "explanation": "Điền controlled để hoàn chỉnh ý: “The past form of CONTROL is controlled.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 128,
+      "question": "Don’t be so concerned; it’s only a m_ _ _ _ wound.",
+      "options": [],
+      "answer": "minorwound",
+      "explanation": "Điền minorwound để hoàn chỉnh ý: “Don’t be so concerned; it’s only a minorwound.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 129,
+      "question": "UFO ... might be from people’s imagination.",
+      "options": [
+        "A. showing",
+        "B. viewing",
+        "C. watching",
+        "D. sightings"
+      ],
+      "answer": "D. sightings",
+      "explanation": "Từ phù hợp là sightings. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 130,
+      "question": "The telephone was _ _ _ _ _ _ _ _ by the Scottish-born American inventor Alexander Graham Bell in 1876.",
+      "options": [],
+      "answer": "inventedby",
+      "explanation": "Điền inventedby để hoàn chỉnh ý: “The telephone was inventedby the Scottish-born American inventor Alexander Graham Bell in 1876.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 131,
+      "question": "What _ dangerous thing to do! You might have been killed.",
+      "options": [],
+      "answer": "adangerous",
+      "explanation": "Điền adangerous để hoàn chỉnh ý: “What adangerous thing to do! You might have been killed.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 132,
+      "question": "Each football team in the field is led by a _ _ _ _ _ _ _ who wears an armband and is a player himself.",
+      "options": [],
+      "answer": "captainwho",
+      "explanation": "Điền captainwho để hoàn chỉnh ý: “Each football team in the field is led by a captainwho wears an armband and is a player himself.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 133,
+      "question": "I understand ... what you are saying.",
+      "options": [
+        "A. perfect",
+        "B. perfectly",
+        "C. perfection",
+        "D. imperfect"
+      ],
+      "answer": "B. perfectly",
+      "explanation": "Từ phù hợp là perfectly. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 134,
+      "question": "Give the correct form of the word \\\"IMPRESS\\\" in the following sentence: \\\"My words made no _ _ _ _ _ _ _ _ _ _ on her.\\\"",
+      "options": [],
+      "answer": "impression",
+      "explanation": "Điền impression để hoàn chỉnh ý: “Give the correct form of the word \\\"IMPRESS\\\" in the following sentence: \\\"My words made no impression her.\\\"”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 135,
+      "question": "He did finally come with us, _ _ _ _ _ _ _ _ it took a long time to persuade him.",
+      "options": [],
+      "answer": "althoughit",
+      "explanation": "Điền althoughit để hoàn chỉnh ý: “He did finally come with us, althoughit took a long time to persuade him.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 136,
+      "question": "A small fish needs camouflage to hide itself ... its enemies cannot find it.",
+      "options": [
+        "A. so that",
+        "B. nevertheless",
+        "C. but",
+        "D. for"
+      ],
+      "answer": "A. so that",
+      "explanation": "Từ phù hợp là so that. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 137,
+      "question": "He works better when he is _ _ _ _ _ _ _ for time.",
+      "options": [],
+      "answer": "pressedfor",
+      "explanation": "Điền pressedfor để hoàn chỉnh ý: “He works better when he is pressedfor time.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 138,
+      "question": "A man reported that he saw a plate-_ _ _ _ device over a treetop.",
+      "options": [],
+      "answer": "likedevice",
+      "explanation": "Điền likedevice để hoàn chỉnh ý: “A man reported that he saw a plate-likedevice over a treetop.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 139,
+      "question": "Despite _ _ _ illness, he went to the station with his friends.",
+      "options": [],
+      "answer": "hisillness",
+      "explanation": "Điền hisillness để hoàn chỉnh ý: “Despite hisillness, he went to the station with his friends.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 140,
+      "question": "If ... John, tell him I’ll phone him later.",
+      "options": [
+        "A. you see",
+        "B. you saw",
+        "C. you’d seen",
+        "D. you’ll see"
+      ],
+      "answer": "A. you see",
+      "explanation": "Từ phù hợp là you see. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 141,
+      "question": "I didn’t have _ _ _ _ _ _ time to visit all my relatives in California.",
+      "options": [],
+      "answer": "enoughtime",
+      "explanation": "Điền enoughtime để hoàn chỉnh ý: “I didn’t have enoughtime to visit all my relatives in California.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 142,
+      "question": "The fear of having large debts places considerable _ _ _ _ _ _ _ _ on students and many take part-time jobs during the term and work full-time in the vacations.",
+      "options": [],
+      "answer": "pressureon",
+      "explanation": "Điền pressureon để hoàn chỉnh ý: “The fear of having large debts places considerable pressureon students and many take part-time jobs during the term and work full-time in the vacations.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 143,
+      "question": "Air, water, and soil are necessary to the _ _ _ _ _ _ _ _ of all living things.",
+      "options": [],
+      "answer": "survivalof",
+      "explanation": "Điền survivalof để hoàn chỉnh ý: “Air, water, and soil are necessary to the survivalof all living things.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 144,
+      "question": "Cellulose, which ... for making paper, can be found in all plants.",
+      "options": [
+        "A. is used",
+        "B. uses",
+        "C. are used",
+        "D. is using"
+      ],
+      "answer": "A. is used",
+      "explanation": "Từ phù hợp là is used. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 145,
+      "question": "Marie Curie was the fi_ _ _ woman to receive a PhD from the Sorbonne.",
+      "options": [],
+      "answer": "firstwoman",
+      "explanation": "Điền firstwoman để hoàn chỉnh ý: “Marie Curie was the firstwoman to receive a PhD from the Sorbonne.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 146,
+      "question": "From a _ _ _ _ _ _ _ _ we can see the lit restaurant.",
+      "options": [],
+      "answer": "distancewe",
+      "explanation": "Điền distancewe để hoàn chỉnh ý: “From a distancewe can see the lit restaurant.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 147,
+      "question": "Tuan, _ _ _ studies the best of us, is very active.",
+      "options": [],
+      "answer": "whostudies",
+      "explanation": "Điền whostudies để hoàn chỉnh ý: “Tuan, whostudies the best of us, is very active.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 148,
+      "question": "My friend Nam has been nominated as one of the most effective ... in the town charity program.",
+      "options": [
+        "A. activors",
+        "B. activists",
+        "C. activers",
+        "D. activators"
+      ],
+      "answer": "B. activists",
+      "explanation": "Từ phù hợp là activists. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 149,
+      "question": "We intend to go for a picnic tomorrow. Now I’m waiting for the weather _ _ _ _ _ _ _ _ on TV.",
+      "options": [],
+      "answer": "forecaston",
+      "explanation": "Điền forecaston để hoàn chỉnh ý: “We intend to go for a picnic tomorrow. Now I’m waiting for the weather forecaston TV.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 150,
+      "question": "Give the correct form of the word \\\"IMPRESS\\\" in the following sentence: \\\"My words made no _ _ _ _ _ _ _ _ _ _ on her.\\\"“Pána:”\"orderTrue\":0",
+      "options": [],
+      "answer": "impression",
+      "explanation": "Điền impression để hoàn chỉnh ý: “Give the correct form of the word \\\"IMPRESS\\\" in the following sentence: \\\"My words made no impression her.\\\"“Pána:”\"orderTrue\":0”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 151,
+      "question": "Many people think there ... a lot of precious stones on Mars.",
+      "options": [
+        "A. will be",
+        "B. would be",
+        "C. maybe",
+        "D. might be"
+      ],
+      "answer": "D. might be",
+      "explanation": "Từ phù hợp là might be. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 152,
+      "question": "Acid rain, industrial pollution and garbage have made many sources of water un_ _ _ _ _ _ _ le.",
+      "options": [],
+      "answer": "undrinkable",
+      "explanation": "Điền undrinkable để hoàn chỉnh ý: “Acid rain, industrial pollution and garbage have made many sources of water undrinkable.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 153,
+      "question": "How _ _ _ _ runners joined the Boston Marathon in 1984?",
+      "options": [],
+      "answer": "manyrunners",
+      "explanation": "Điền manyrunners để hoàn chỉnh ý: “How manyrunners joined the Boston Marathon in 1984?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 154,
+      "question": "I couldn’t hide my _ _ _ _ _ _ _ _ _ to go back home.",
+      "options": [],
+      "answer": "eagernessto",
+      "explanation": "Điền eagernessto để hoàn chỉnh ý: “I couldn’t hide my eagernessto go back home.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 155,
+      "question": "The chemistry book ... was a little expensive.",
+      "options": [
+        "A. that I bought it",
+        "B. I bought that",
+        "C. what I bought",
+        "D. I bought"
+      ],
+      "answer": "D. I bought",
+      "explanation": "Từ phù hợp là I bought. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 156,
+      "question": "One of the robbers was _ _ _ _ _ _ _ _ _ by the witnesses as of medium height and about 25.",
+      "options": [],
+      "answer": "describedby",
+      "explanation": "Điền describedby để hoàn chỉnh ý: “One of the robbers was describedby the witnesses as of medium height and about 25.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 157,
+      "question": "Don’t ask me such questions. Mind your _ _ _ business!",
+      "options": [],
+      "answer": "ownbusiness",
+      "explanation": "Điền ownbusiness để hoàn chỉnh ý: “Don’t ask me such questions. Mind your ownbusiness!”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 158,
+      "question": "Spacesuits protect astronauts _ _ _ _ extreme temperature change.",
+      "options": [],
+      "answer": "fromextreme",
+      "explanation": "Điền fromextreme để hoàn chỉnh ý: “Spacesuits protect astronauts fromextreme temperature change.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 159,
+      "question": "Monkey can’t sing, ...?",
+      "options": [
+        "A. can they",
+        "B. can’t they",
+        "C. can it",
+        "D. can’t it"
+      ],
+      "answer": "A. can they",
+      "explanation": "Từ phù hợp là can they. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 160,
+      "question": "We _ _ _ _ forward to seeing that film, which has been praised by several film reviewers.",
+      "options": [],
+      "answer": "lookforward",
+      "explanation": "Điền lookforward để hoàn chỉnh ý: “We lookforward to seeing that film, which has been praised by several film reviewers.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 161,
+      "question": "Many young people go to the cities to search for jobs as few are _ _ _ _ _ _ _ _ _ in the rural areas.",
+      "options": [],
+      "answer": "availablein",
+      "explanation": "Điền availablein để hoàn chỉnh ý: “Many young people go to the cities to search for jobs as few are availablein the rural areas.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 162,
+      "question": "A lorry which had broken down was _ _ _ _ _ _ _ _ the road.",
+      "options": [],
+      "answer": "blockingthe",
+      "explanation": "Điền blockingthe để hoàn chỉnh ý: “A lorry which had broken down was blockingthe road.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 163,
+      "question": "In 1954, the woman said that she saw two aliens in the ....",
+      "options": [
+        "A. plane",
+        "B. ship",
+        "C. craft",
+        "D. spacecraft"
+      ],
+      "answer": "D. spacecraft",
+      "explanation": "Từ phù hợp là spacecraft. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 164,
+      "question": "For most households, lighting _ _ _ _ _ _ _ _ for 10 percent to 15 percent of the electricity bill.",
+      "options": [],
+      "answer": "accountsfor",
+      "explanation": "Điền accountsfor để hoàn chỉnh ý: “For most households, lighting accountsfor 10 percent to 15 percent of the electricity bill.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 165,
+      "question": "If you study at the Brighton Language Center, you can live in a _ _ _ _ _ _ _ _ _ on campus.",
+      "options": [],
+      "answer": "dormitoryon",
+      "explanation": "Điền dormitoryon để hoàn chỉnh ý: “If you study at the Brighton Language Center, you can live in a dormitoryon campus.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 166,
+      "question": "My knowledge of the United States of America is _ _ _ _ _ _ _ from the geography and history books that I have read.",
+      "options": [],
+      "answer": "derivedfrom",
+      "explanation": "Điền derivedfrom để hoàn chỉnh ý: “My knowledge of the United States of America is derivedfrom the geography and history books that I have read.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 167,
+      "question": "The building ... he lives ... is very old.",
+      "options": [
+        "A. which/ in",
+        "B. that/ within",
+        "C. where/ in",
+        "D. where/ on"
+      ],
+      "answer": "A. which/ in",
+      "explanation": "Từ phù hợp là which/ in. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 168,
+      "question": "You can’t smoke in here because those barrels contain a highly _ _ _ _ _ _ _ _ ble liquid.",
+      "options": [],
+      "answer": "inflammable",
+      "explanation": "Điền inflammable để hoàn chỉnh ý: “You can’t smoke in here because those barrels contain a highly inflammable liquid.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 169,
+      "question": "It ranked as the tallest _ _ _ _ _ _ _ _ _ on earth for more than 10 centuries.",
+      "options": [],
+      "answer": "structureon",
+      "explanation": "Điền structureon để hoàn chỉnh ý: “It ranked as the tallest structureon earth for more than 10 centuries.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 170,
+      "question": "Nobody called on the phone, ...?",
+      "options": [
+        "A. did he",
+        "B. didn’t he",
+        "C. did they",
+        "D. didn’t they"
+      ],
+      "answer": "C. did they",
+      "explanation": "Từ phù hợp là did they. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 171,
+      "question": "Although the earth was formed about 4,500 million years ago, human beings have _ _ _ _ _ _ _ _ _ it for less than half a million years.",
+      "options": [],
+      "answer": "inhabitedit",
+      "explanation": "Điền inhabitedit để hoàn chỉnh ý: “Although the earth was formed about 4,500 million years ago, human beings have inhabitedit for less than half a million years.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 172,
+      "question": "Would you like to go for a ride with me _ _ _ _ _ dinner?",
+      "options": [],
+      "answer": "afterdinner",
+      "explanation": "Điền afterdinner để hoàn chỉnh ý: “Would you like to go for a ride with me afterdinner?”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 173,
+      "question": "That famous book _ _ _ _ _ _ _ _ _ of five chapters.",
+      "options": [],
+      "answer": "comprisesof",
+      "explanation": "Điền comprisesof để hoàn chỉnh ý: “That famous book comprisesof five chapters.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 174,
+      "question": "We think that Mother’s Day should be celebrated ....",
+      "options": [
+        "A. nationhood",
+        "B. nationwide",
+        "C. nationality",
+        "D. nation"
+      ],
+      "answer": "B. nationwide",
+      "explanation": "Từ phù hợp là nationwide. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 175,
+      "question": "I have been to Japan many t_ _ _ _ before.",
+      "options": [],
+      "answer": "timesbefore",
+      "explanation": "Điền timesbefore để hoàn chỉnh ý: “I have been to Japan many timesbefore.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 176,
+      "question": "Don’t go out. It is raining cats and _ _ _ _ outside.",
+      "options": [],
+      "answer": "dogsoutside",
+      "explanation": "Điền dogsoutside để hoàn chỉnh ý: “Don’t go out. It is raining cats and dogsoutside.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 177,
+      "question": "To avoid disappointment, especially during the summer months, it is best to enquire and make sure in _ _ _ _ _ _ _ that a bed is reserved for you.",
+      "options": [],
+      "answer": "advancethat",
+      "explanation": "Điền advancethat để hoàn chỉnh ý: “To avoid disappointment, especially during the summer months, it is best to enquire and make sure in advancethat a bed is reserved for you.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 178,
+      "question": "My colleagues are very pleasant, but the manager was a little ....",
+      "options": [
+        "A. unfriendly",
+        "B. friendly",
+        "C. friendship",
+        "D. friendless"
+      ],
+      "answer": "A. unfriendly",
+      "explanation": "Từ phù hợp là unfriendly. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 179,
+      "question": "Sunday mornings were nice. I enjoyed them all the _ _ _ _ because Sue used to come round to breakfast.",
+      "options": [],
+      "answer": "morebecause",
+      "explanation": "Điền morebecause để hoàn chỉnh ý: “Sunday mornings were nice. I enjoyed them all the morebecause Sue used to come round to breakfast.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 180,
+      "question": "Give the correct form of the word \\\"CONSUME\\\" in the following sentence: \\\"They’ve measured the car’s fuel _ _ _ _ _ _ _ _ _ _ _ .\\\"",
+      "options": [],
+      "answer": "consumption",
+      "explanation": "Điền consumption để hoàn chỉnh ý: “Give the correct form of the word \\\"CONSUME\\\" in the following sentence: \\\"They’ve measured the car’s fuel consumption.\\\"”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 181,
+      "question": "Lots of o_ _ _ _ _ _ _ and abandoned animals are taken care of.",
+      "options": [],
+      "answer": "orphanedand",
+      "explanation": "Điền orphanedand để hoàn chỉnh ý: “Lots of orphanedand abandoned animals are taken care of.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 182,
+      "question": "The teacher ... her to improve her drawing.",
+      "options": [
+        "A. insisted",
+        "B. encouraged",
+        "C. made",
+        "D. persisted"
+      ],
+      "answer": "B. encouraged",
+      "explanation": "Từ phù hợp là encouraged. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 183,
+      "question": "Teenagers are now more _ _ _ _ _ _ _ _ _ ly dressed than they used to be.",
+      "options": [],
+      "answer": "fashionably",
+      "explanation": "Điền fashionably để hoàn chỉnh ý: “Teenagers are now more fashionably dressed than they used to be.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 184,
+      "question": "Language distinguishes _ _ _ _ _ beings from animals.",
+      "options": [],
+      "answer": "humanbeings",
+      "explanation": "Điền humanbeings để hoàn chỉnh ý: “Language distinguishes humanbeings from animals.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 185,
+      "question": "If disasters ... in an area, people from the other area will offer their help.",
+      "options": [
+        "A. happen",
+        "B. will happen",
+        "C. happening",
+        "D. would happen"
+      ],
+      "answer": "A. happen",
+      "explanation": "Từ phù hợp là happen. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 186,
+      "question": "However, Queen Victoria _ _ _ _ _ _ _ _ him for his discoveries by giving him a stipend and a house.",
+      "options": [],
+      "answer": "rewardedhim",
+      "explanation": "Điền rewardedhim để hoàn chỉnh ý: “However, Queen Victoria rewardedhim for his discoveries by giving him a stipend and a house.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 187,
+      "question": "Just _ _ _ _ _ _ _ _ _ to your favourite newspapers and magazines.",
+      "options": [],
+      "answer": "subscribeto",
+      "explanation": "Điền subscribeto để hoàn chỉnh ý: “Just subscribeto your favourite newspapers and magazines.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 188,
+      "question": "We interviewed a number of candidates but none of them _ _ _ _ _ _ _ _ _ us.",
+      "options": [],
+      "answer": "impressedus",
+      "explanation": "Điền impressedus để hoàn chỉnh ý: “We interviewed a number of candidates but none of them impressedus.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 189,
+      "question": "Don’t leave your ... in the rest room",
+      "options": [
+        "A. possession",
+        "B. belongings",
+        "C. properties",
+        "D. owns"
+      ],
+      "answer": "B. belongings",
+      "explanation": "Từ phù hợp là belongings. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 190,
+      "question": "She took _ _ _ _ _ _ _ _ _ of her good relationship to get the job.",
+      "options": [],
+      "answer": "advantageof",
+      "explanation": "Điền advantageof để hoàn chỉnh ý: “She took advantageof her good relationship to get the job.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 191,
+      "question": "Starting a compost heap in your back yard is a great way to help _ _ _ _ the environment.",
+      "options": [],
+      "answer": "savethe",
+      "explanation": "Điền savethe để hoàn chỉnh ý: “Starting a compost heap in your back yard is a great way to help savethe environment.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 192,
+      "question": "The little boy succeeded _ _ deceiving the enemy.",
+      "options": [],
+      "answer": "indeceiving",
+      "explanation": "Điền indeceiving để hoàn chỉnh ý: “The little boy succeeded indeceiving the enemy.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 193,
+      "question": "California, with the population of more than 23 million, is ... populous state in the US.",
+      "options": [
+        "A. as",
+        "B. more",
+        "C. most",
+        "D. the most"
+      ],
+      "answer": "D. the most",
+      "explanation": "Từ phù hợp là the most. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 194,
+      "question": "Johnson has a talent _ _ _ painting.",
+      "options": [],
+      "answer": "forpainting",
+      "explanation": "Điền forpainting để hoàn chỉnh ý: “Johnson has a talent forpainting.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 195,
+      "question": "Taking all the costs _ _ _ _ account, they estimated the price.",
+      "options": [],
+      "answer": "intoaccount",
+      "explanation": "Điền intoaccount để hoàn chỉnh ý: “Taking all the costs intoaccount, they estimated the price.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 196,
+      "question": "Many people think that all dogs _ _ _ _ _ _ _ from wolves.",
+      "options": [],
+      "answer": "evolvedfrom",
+      "explanation": "Điền evolvedfrom để hoàn chỉnh ý: “Many people think that all dogs evolvedfrom wolves.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 197,
+      "question": "Exams are never enjoyable, ...?",
+      "options": [
+        "A. are there",
+        "B. aren’t there",
+        "C. aren’t they",
+        "D. are they"
+      ],
+      "answer": "D. are they",
+      "explanation": "Từ phù hợp là are they. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    },
+    {
+      "id": 198,
+      "question": "Sewage and fertilizers containing _ _ _ _ harmful elements contribute to pollution.",
+      "options": [],
+      "answer": "manyharmful",
+      "explanation": "Điền manyharmful để hoàn chỉnh ý: “Sewage and fertilizers containing manyharmful elements contribute to pollution.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 199,
+      "question": "They had never visited London be_ _ _ _ their first visit in 1987.",
+      "options": [],
+      "answer": "beforetheir",
+      "explanation": "Điền beforetheir để hoàn chỉnh ý: “They had never visited London beforetheir first visit in 1987.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+    },
+    {
+      "id": 200,
+      "question": "Mary scarcely goes out at night, ...?",
+      "options": [
+        "A. doesn’t she",
+        "B. does she",
+        "C. did she",
+        "D. didn’t she"
+      ],
+      "answer": "B. does she",
+      "explanation": "Từ phù hợp là does she. Các lựa chọn còn lại không diễn đạt đúng ý của câu; cần chọn từ có nghĩa và cách kết hợp tự nhiên với ngữ cảnh trong câu này."
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
