@@ -1,0 +1,1968 @@
+{
+  "title": "IOE Lớp 8 - Chuyên đề 5 - Vòng Trường",
+  "vong": "Vòng Trường",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "What does he do in the morning? - ....",
+      "options": [
+        "A. Listens to the news on TV",
+        "B. Listens to the news on radio",
+        "C. Watches the films on TV",
+        "D. Watches the news on TV"
+      ],
+      "answer": "D. Watches the news on TV",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303161389985349_Audio.mp3"
+    },
+    {
+      "id": 2,
+      "question": "The teacher said this water was impure and couldn’t be used in our _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "experiment",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “experiment” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/10/636589467721762835_Audio.mp3"
+    },
+    {
+      "id": 3,
+      "question": "Listen and tick:",
+      "options": [
+        "A. My flat is smaller than his.",
+        "B. My flat is cooler than his.",
+        "C. My cat is smaller than his cat.",
+        "D. My task is easier than his task."
+      ],
+      "answer": "A. My flat is smaller than his.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302354415231973_Audio.mp3"
+    },
+    {
+      "id": 4,
+      "question": "How does the girl suggest to go by?",
+      "options": [
+        "A. By car",
+        "B. By air",
+        "C. By train",
+        "D. By bike"
+      ],
+      "answer": "C. By train",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/1/12/636513490214312847_Audio.mp3"
+    },
+    {
+      "id": 5,
+      "question": "Is Facebook a dangerous _ _ _ _ _ _ _ _ _  or just harmless fun?",
+      "options": [],
+      "answer": "obsession",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “obsession” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791730019452154_Audio.mp3"
+    },
+    {
+      "id": 6,
+      "question": "In industry, most glass is _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "recycled",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “recycled” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199061421403348_Audio.mp3"
+    },
+    {
+      "id": 7,
+      "question": "A _ _ _ _ _ _ _  is a building or a room where people can go to look at paintings.",
+      "options": [],
+      "answer": "gallery",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “gallery” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199078267458535_Audio.mp3"
+    },
+    {
+      "id": 8,
+      "question": "Thai people have followed the xoe dance as a _ _ _ _ _ _ _ _ _  tradition for generations.",
+      "options": [],
+      "answer": "spiritual",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “spiritual” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/10/636589563922761279_Audio.mp3"
+    },
+    {
+      "id": 9,
+      "question": "Which activity for school children was held last year? - ....",
+      "options": [
+        "A. Baseball competition",
+        "B. Badminton competition",
+        "C. Invention competition",
+        "D. Basketball competition"
+      ],
+      "answer": "B. Badminton competition",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/1/9/635248827442889738_Audio.mp3"
+    },
+    {
+      "id": 10,
+      "question": "Areas around the Cuu Long delta can _ _ _ _ _ _  clouds during the day.",
+      "options": [],
+      "answer": "expect",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “expect” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/29/635213227700203512_Audio.mp3"
+    },
+    {
+      "id": 11,
+      "question": "Why doesn’t she have to send the letter by post? - ....",
+      "options": [
+        "A. Because I will see him tomorrow and I can give it to him then",
+        "B. Because I would see him tomorrow and I can deliver it to him then",
+        "C. Because I would see him tomorrow and I can give it to him then",
+        "D. Because I will see him tomorrow and I can deliver it to him then"
+      ],
+      "answer": "A. Because I will see him tomorrow and I can give it to him then",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303163395368871_Audio.mp3"
+    },
+    {
+      "id": 12,
+      "question": "The _ _ _ _ _ _ _ _ _  will meet next Tuesday.",
+      "options": [],
+      "answer": "committee",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “committee” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/1/9/635248821323355476_Audio.mp3"
+    },
+    {
+      "id": 13,
+      "question": "Both politicians and scientists are now looking at the issues of _ _ _ _ _ _ -saving.",
+      "options": [],
+      "answer": "energy",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “energy” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2016/12/8/636168156369335529_Audio.mp3"
+    },
+    {
+      "id": 14,
+      "question": "Phong’s uncle is _ _ _ _ _ _ _  the truck with vegetables.",
+      "options": [],
+      "answer": "loading",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “loading” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/8/635563326781004883_Audio.mp3"
+    },
+    {
+      "id": 15,
+      "question": "This area of the country is mostly _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "desert",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “desert” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199092302476568_Audio.mp3"
+    },
+    {
+      "id": 16,
+      "question": "When do English people often eat salad?",
+      "options": [
+        "A. Winter",
+        "B. Summer",
+        "C. Cold weather",
+        "D. Fall"
+      ],
+      "answer": "B. Summer",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/1/636555205464136165_Audio.mp3"
+    },
+    {
+      "id": 17,
+      "question": "How is she? - ....",
+      "options": [
+        "A. She is the prettiest person among them",
+        "B. She is the happiest person among them",
+        "C. She is the laziest person among them",
+        "D. She is the creepiest person among them"
+      ],
+      "answer": "B. She is the happiest person among them",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302344439326451_Audio.mp3"
+    },
+    {
+      "id": 18,
+      "question": "We enjoyed the hot summer days in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "orchard",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “orchard” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/3/636241443376192412_Audio.mp3"
+    },
+    {
+      "id": 19,
+      "question": "She brought three children up single-handedly, often at great personal _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sacrifice",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “sacrifice” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199130745855469_Audio.mp3"
+    },
+    {
+      "id": 20,
+      "question": "We’ll have a _ _ _ _ _ _ _ _  at the beach.",
+      "options": [],
+      "answer": "barbecue",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “barbecue” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/2/636555791808308816_Audio.mp3"
+    },
+    {
+      "id": 21,
+      "question": "What does the speak think about his clothes?",
+      "options": [
+        "A. He has more clothes than necessary.",
+        "B. He has enough clothes to wear.",
+        "C. He has less clothes than expected.",
+        "D. He needs more clothes to wear."
+      ],
+      "answer": "A. He has more clothes than necessary.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198185494363029_Audio.mp3"
+    },
+    {
+      "id": 22,
+      "question": "There is an _ _ _ _ _ _  need for more money.",
+      "options": [],
+      "answer": "urgent",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “urgent” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/2/636555845548383108_Audio.mp3"
+    },
+    {
+      "id": 23,
+      "question": "Rescue operations have started and many people trapped in _ _ _ _ _ _ _ _ _  or damaged buildings have been freed.",
+      "options": [],
+      "answer": "collapsed",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “collapsed” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/10/636589563706665993_Audio.mp3"
+    },
+    {
+      "id": 24,
+      "question": "During the _ _ _ _ _ _ _ _  we exchanged news.",
+      "options": [],
+      "answer": "dialogue",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “dialogue” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/13/636199077259335712_Audio.mp3"
+    },
+    {
+      "id": 25,
+      "question": "What is true about the statement?",
+      "options": [
+        "A. There are so many people who need help.",
+        "B. They’ve been stuck in a flood.",
+        "C. Their neighbourhood has been flooded.",
+        "D. People who are in flooded areas really need help."
+      ],
+      "answer": "A. There are so many people who need help.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/1/12/636198186996549504_Audio.mp3"
+    },
+    {
+      "id": 26,
+      "question": "Why doesn’t he have to introduce you to her? - ....",
+      "options": [
+        "A. Because she’s already known me",
+        "B. Because I didn’t know her",
+        "C. Because I’ve already known her",
+        "D. Because she didn’t know me"
+      ],
+      "answer": "C. Because I’ve already known her",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303164246974367_Audio.mp3"
+    },
+    {
+      "id": 27,
+      "question": "We were _ _ _ _ _ _ _ _ _  by the beauty of the country.",
+      "options": [],
+      "answer": "impressed",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “impressed” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/26/635236670724955820_Audio.mp3"
+    },
+    {
+      "id": 28,
+      "question": "Noise pollution can also lead to headaches and high blood _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "pressure",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “pressure” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/11/30/636791728127260820_Audio.mp3"
+    },
+    {
+      "id": 29,
+      "question": "What can we do? - ....",
+      "options": [
+        "A. Try to stay underwater",
+        "B. Try to stay away from the water",
+        "C. Try to stay away from the weather",
+        "D. Try to stay away from the butcher"
+      ],
+      "answer": "B. Try to stay away from the water",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302348118436913_Audio.mp3"
+    },
+    {
+      "id": 30,
+      "question": "The Arts Museum is a popular place of _ _ _ _ _ _ _ _  in my city.",
+      "options": [],
+      "answer": "interest",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “interest” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/Thi_cac_cap/2020-2021/Lop9/captruong/de2/nghe/11.mp3"
+    },
+    {
+      "id": 31,
+      "question": "What will he bring?",
+      "options": [
+        "A. a pair of shoes",
+        "B. orange juice",
+        "C. an umbrella",
+        "D. a raincoat"
+      ],
+      "answer": "D. a raincoat",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/29/635213209000762669_Audio.mp3"
+    },
+    {
+      "id": 32,
+      "question": "Listen and tick:",
+      "options": [
+        "A. There were many sharks, dolphins and turtles.",
+        "B. There weren’t many sharks, dolphins and turtles.",
+        "C. There were some sharks, dolphins and turtles.",
+        "D. There were sometimes many sharks, dolphins and turtles."
+      ],
+      "answer": "A. There were many sharks, dolphins and turtles.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302360873643316_Audio.mp3"
+    },
+    {
+      "id": 33,
+      "question": "What does Peter learn? - ....",
+      "options": [
+        "A. He learns how to commerce",
+        "B. He learns how to use the poster",
+        "C. He learns how to use the calculator",
+        "D. He learns how to use the computer"
+      ],
+      "answer": "D. He learns how to use the computer",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302345486088289_Audio.mp3"
+    },
+    {
+      "id": 34,
+      "question": "What will happen if their English is better next year?",
+      "options": [
+        "A. They will be sent to work in Canada.",
+        "B. They will be sent to work in America.",
+        "C. They will be sent to work in Australia.",
+        "D. They will be sent to work in England."
+      ],
+      "answer": "B. They will be sent to work in America.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635563929429138053_Audio.mp3"
+    },
+    {
+      "id": 35,
+      "question": "People say that it is the _ _ _ _ _ _ _ _  film of the year.",
+      "options": [],
+      "answer": "funniest",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “funniest” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/8/635563346279910855_Audio.mp3"
+    },
+    {
+      "id": 36,
+      "question": "What is NOT right about Stonehenge?",
+      "options": [
+        "A. The Stonehenge Stone Circles are in Great Britain.",
+        "B. The stones were first transported to the place about 50 centuries ago.",
+        "C. Stonehenge was built with three kinds of stone.",
+        "D. The way and reason to build Stonehenge are mysteries."
+      ],
+      "answer": "C. Stonehenge was built with three kinds of stone.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/10/636589475211510434_Audio.mp3"
+    },
+    {
+      "id": 37,
+      "question": "What is the time? - ....",
+      "options": [
+        "A. It’s a quarter to seven now.",
+        "B. It’s a quarter to eleven now.",
+        "C. It’s a quarter past seven now.",
+        "D. It’s a quarter past eleven now."
+      ],
+      "answer": "A. It’s a quarter to seven now.",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/3/6/635612600623459566_Audio.mp3"
+    },
+    {
+      "id": 38,
+      "question": "You must leave your key at the _ _ _ _ _ _ _ _ _  when you go out.",
+      "options": [],
+      "answer": "reception",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “reception” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635563985490179342_Audio.mp3"
+    },
+    {
+      "id": 39,
+      "question": "These _ _ _ _ _ _ _ _  are 200,000 dong.",
+      "options": [],
+      "answer": "trousers",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “trousers” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/1/9/635248822861485691_Audio.mp3"
+    },
+    {
+      "id": 40,
+      "question": "What will the temperature be in Hue?",
+      "options": [
+        "A. between 25oC-35oC",
+        "B. between 28oC-30oC",
+        "C. between 15oC-20oC",
+        "D. between 25oC-30oC"
+      ],
+      "answer": "D. between 25oC-30oC",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/29/635213207357455782_Audio.mp3"
+    },
+    {
+      "id": 41,
+      "question": "What festival occurs in late January or early February?",
+      "options": [
+        "A. Thanksgiving",
+        "B. Easter",
+        "C. Tet",
+        "D. Passover"
+      ],
+      "answer": "C. Tet",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/29/635213207900804737_Audio.mp3"
+    },
+    {
+      "id": 42,
+      "question": "He will tell me to count _ _ _ _ _ _ _ _ _  from ten.",
+      "options": [],
+      "answer": "backwards",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “backwards” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/3/636241450131205533_Audio.mp3"
+    },
+    {
+      "id": 43,
+      "question": "I _ _ _ _ _  people by how they treat me, and I try to treat like I would want to be treated.",
+      "options": [],
+      "answer": "judge",
+      "explanation": "Khi nghe, cần nhận diện đúng từ hoặc cụm từ “judge” để hoàn chỉnh câu; từ này phù hợp cả về nghĩa lẫn số lượng chữ cái ở chỗ trống.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/3/636241438635089434_Audio.mp3"
+    },
+    {
+      "id": 44,
+      "question": "Which team didn’t use to play well in the World Cup? - ....",
+      "options": [
+        "A. Holland team",
+        "B. Poland team",
+        "C. Thailand team",
+        "D. England team"
+      ],
+      "answer": "A. Holland team",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/13/635303162505699308_Audio.mp3"
+    },
+    {
+      "id": 45,
+      "question": "What is NOT the reason why people cut down the rainforest?",
+      "options": [
+        "A. High demand for wood",
+        "B. High demand for beef",
+        "C. Building hydroelectric dams",
+        "D. The nations’ permission for cutting down the rainforests"
+      ],
+      "answer": "C. Building hydroelectric dams",
+      "explanation": "Bản ghi âm cung cấp trực tiếp thông tin tương ứng với phương án này; cần nghe từ khóa của câu hỏi và đối chiếu với các lựa chọn, không chọn theo từ xuất hiện đơn lẻ.",
+      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/4/10/636589568283465097_Audio.mp3"
+    },
+    {
+      "id": 46,
+      "question": "No animals runs so fast _ _  the cheetah.",
+      "options": [],
+      "answer": "as",
+      "explanation": "Từ/cụm từ “as” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 47,
+      "question": "In the future, machines … all the work for us.",
+      "options": [
+        "A. are doing",
+        "B. will do",
+        "C. were doing",
+        "D. do"
+      ],
+      "answer": "B. will do",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 48,
+      "question": "This film is … than the one we saw last week.",
+      "options": [
+        "A. as good",
+        "B. gooder",
+        "C. more good",
+        "D. better"
+      ],
+      "answer": "D. better",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 49,
+      "question": "All of us were ... that he came first. He hasn’t been working hard so far.",
+      "options": [
+        "A. surprising",
+        "B. to surprise",
+        "C. surprised",
+        "D. to be surprised"
+      ],
+      "answer": "C. surprised",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 50,
+      "question": "These medicines can help re_ _ _ ve the symptoms of the flu.",
+      "options": [],
+      "answer": "lie",
+      "explanation": "Từ/cụm từ “lie” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 51,
+      "question": "She _ _ _ _  aerobics and plays badminton everyday.",
+      "options": [],
+      "answer": "does",
+      "explanation": "Từ/cụm từ “does” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 52,
+      "question": "Many schools focused _ _  military training.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Từ/cụm từ “on” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 53,
+      "question": "They ... in that house for several months",
+      "options": [
+        "A. have lived",
+        "B. lived",
+        "C. live",
+        "D. are living"
+      ],
+      "answer": "A. have lived",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 54,
+      "question": "My house is quite narrow. It ... two bedrooms, a kitchen and a bathroom.",
+      "options": [
+        "A. consists",
+        "B. comprises",
+        "C. divides",
+        "D. takes"
+      ],
+      "answer": "B. comprises",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 55,
+      "question": "_ _ _ _ _  answer do you choose? A or B?",
+      "options": [],
+      "answer": "Which",
+      "explanation": "Từ/cụm từ “Which” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 56,
+      "question": "We intend to go for a picnic tomorrow. Now I’m waiting for the weather _ _ _ _ _ _ _ _  on TV.",
+      "options": [],
+      "answer": "forecast",
+      "explanation": "Từ/cụm từ “forecast” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 57,
+      "question": "Mrs. Green is proud _ _  her son’s contribution to the play.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Từ/cụm từ “of” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 58,
+      "question": "It took me a long time to get used … glasses.",
+      "options": [
+        "A. to wear",
+        "B. to wearing",
+        "C. wear",
+        "D. wore"
+      ],
+      "answer": "B. to wearing",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 59,
+      "question": "I remember you ... that shirt.",
+      "options": [
+        "A. buy",
+        "B. to buy",
+        "C. buying",
+        "D. for buying"
+      ],
+      "answer": "C. buying",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 60,
+      "question": "I don’t know much, but my brother knows even less than I _ _ .",
+      "options": [],
+      "answer": "do",
+      "explanation": "Từ/cụm từ “do” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 61,
+      "question": "Tim is worried _ _ _ _  his parents may punish him.",
+      "options": [],
+      "answer": "that",
+      "explanation": "Từ/cụm từ “that” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 62,
+      "question": "Yesterday I met a foreigner, she asked me _ _  I spoke English.",
+      "options": [],
+      "answer": "if",
+      "explanation": "Từ/cụm từ “if” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 63,
+      "question": "Stomachache, toothache and flu are dis_ _ _ _ .",
+      "options": [],
+      "answer": "ease",
+      "explanation": "Từ/cụm từ “ease” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 64,
+      "question": "We were delighted ... your result last week.",
+      "options": [
+        "A. hearing",
+        "B. to hear",
+        "C. hear",
+        "D. heard"
+      ],
+      "answer": "B. to hear",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 65,
+      "question": "There was so little sugar _ _ _ _  I decided not to make a cake.",
+      "options": [],
+      "answer": "that",
+      "explanation": "Từ/cụm từ “that” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 66,
+      "question": "The coffee is … hot that I can’t drink it.",
+      "options": [
+        "A. too",
+        "B. very",
+        "C. such",
+        "D. so"
+      ],
+      "answer": "D. so",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 67,
+      "question": "He wrote his most famous plays between 1999 _ _ _  2005.",
+      "options": [],
+      "answer": "and",
+      "explanation": "Từ/cụm từ “and” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 68,
+      "question": "Hung and Tuan have corresponded _ _ _ _  each other for years.",
+      "options": [],
+      "answer": "with",
+      "explanation": "Từ/cụm từ “with” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 69,
+      "question": "Nobody will support him, ...?",
+      "options": [
+        "A. won’t they",
+        "B. do they",
+        "C. don’t they",
+        "D. will they"
+      ],
+      "answer": "D. will they",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 70,
+      "question": "Someone is knocking … the door.",
+      "options": [
+        "A. in",
+        "B. at",
+        "C. over",
+        "D. out"
+      ],
+      "answer": "B. at",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 71,
+      "question": "Hoa failed her math test. …, she has to do the test again.",
+      "options": [
+        "A. Therefore",
+        "B. However",
+        "C. Because",
+        "D. So"
+      ],
+      "answer": "A. Therefore",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 72,
+      "question": "He is such a … smoker. He smokes two packages per day.",
+      "options": [
+        "A. strong",
+        "B. big",
+        "C. weighted",
+        "D. heavy"
+      ],
+      "answer": "D. heavy",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 73,
+      "question": "It’s good to sit under the _ _ _ _ _  of a tree on a summer afternoon.",
+      "options": [],
+      "answer": "shade",
+      "explanation": "Từ/cụm từ “shade” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 74,
+      "question": "In Britain, students have to wear _ _ _ _ _ _ _ _  when they go to school.",
+      "options": [],
+      "answer": "uniforms",
+      "explanation": "Từ/cụm từ “uniforms” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 75,
+      "question": "The teacher said that we … harder on our pronunciation.",
+      "options": [
+        "A. work",
+        "B. have worked",
+        "C. should work",
+        "D. working"
+      ],
+      "answer": "C. should work",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 76,
+      "question": "His mother told him not to le_ _ _  the door unlocked.",
+      "options": [],
+      "answer": "ave",
+      "explanation": "Từ/cụm từ “ave” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 77,
+      "question": "Long time _ _ _  Levis made his pants with blue cotton cloth called “denim”.",
+      "options": [],
+      "answer": "ago",
+      "explanation": "Từ/cụm từ “ago” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 78,
+      "question": "I couldn’t make coffee for everybody. There weren’t ....",
+      "options": [
+        "A. cups enough",
+        "B. enough cups",
+        "C. cups too",
+        "D. too cups"
+      ],
+      "answer": "B. enough cups",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 79,
+      "question": "In _ _ _ _ _  to be highly paid, they work much harder.",
+      "options": [],
+      "answer": "order",
+      "explanation": "Từ/cụm từ “order” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 80,
+      "question": "Smoking ... in public.",
+      "options": [
+        "A. should prohibit",
+        "B. is prohibit",
+        "C. prohibits",
+        "D. should be prohibited"
+      ],
+      "answer": "D. should be prohibited",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 81,
+      "question": "The climate is ... hotter and hotter.",
+      "options": [
+        "A. causing",
+        "B. going",
+        "C. making",
+        "D. getting"
+      ],
+      "answer": "D. getting",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 82,
+      "question": "He thinks that ... on the Internet is a waste of time.",
+      "options": [
+        "A. chat",
+        "B. chatting",
+        "C. chatter",
+        "D. to chat"
+      ],
+      "answer": "B. chatting",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 83,
+      "question": "They marked the occasion with _ _  open-air concert.",
+      "options": [],
+      "answer": "an",
+      "explanation": "Từ/cụm từ “an” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 84,
+      "question": "Study hard _ _  you’ll fail the exam.",
+      "options": [],
+      "answer": "or",
+      "explanation": "Từ/cụm từ “or” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 85,
+      "question": "Our post is delivered daily, except _ _ _  Sunday.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Từ/cụm từ “for” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 86,
+      "question": "Most paper is made _ _ _ _  wood.",
+      "options": [],
+      "answer": "from",
+      "explanation": "Từ/cụm từ “from” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 87,
+      "question": "_ _  the other hand, there are some serious disadvantages.",
+      "options": [],
+      "answer": "On",
+      "explanation": "Từ/cụm từ “On” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 88,
+      "question": "Grocery store is a place where people can ….",
+      "options": [
+        "A. buy drugs",
+        "B. buy food and small things",
+        "C. buy stamps and send letters",
+        "D. take a rest"
+      ],
+      "answer": "B. buy food and small things",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 89,
+      "question": "You have to _ _ _  a deposit if you want to use the motorbike.",
+      "options": [],
+      "answer": "pay",
+      "explanation": "Từ/cụm từ “pay” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 90,
+      "question": "Peter _ _ _ _  to write to me until last year. Now he sends me e-mail.",
+      "options": [],
+      "answer": "used",
+      "explanation": "Từ/cụm từ “used” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 91,
+      "question": "He said ’’Hello’’ in a most ... way.",
+      "options": [
+        "A. friend",
+        "B. friendly",
+        "C. friends",
+        "D. friendliness"
+      ],
+      "answer": "B. friendly",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 92,
+      "question": "The girl helping children in her free _ _ _ _  is my friend.",
+      "options": [],
+      "answer": "time",
+      "explanation": "Từ/cụm từ “time” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 93,
+      "question": "Milk bottles can be ... after being cleaned.",
+      "options": [
+        "A. recycled",
+        "B. thrown away",
+        "C. broken",
+        "D. reused"
+      ],
+      "answer": "D. reused",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 94,
+      "question": "She arrived early in order to _ _ _  a good seat.",
+      "options": [],
+      "answer": "get",
+      "explanation": "Từ/cụm từ “get” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 95,
+      "question": "You can answer these questions _ _  mail.",
+      "options": [],
+      "answer": "by",
+      "explanation": "Từ/cụm từ “by” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 96,
+      "question": "Thank you _ _ _  waking me up. I was having a nightmare!",
+      "options": [],
+      "answer": "for",
+      "explanation": "Từ/cụm từ “for” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 97,
+      "question": "_ _ _ _  I met them in the streets yesterday, they were going to the cinema.",
+      "options": [],
+      "answer": "When",
+      "explanation": "Từ/cụm từ “When” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 98,
+      "question": "Lying on the sofa, you can turn on or turn off your TV by using the ....",
+      "options": [
+        "A. button",
+        "B. keyboard",
+        "C. remote control",
+        "D. mouse"
+      ],
+      "answer": "C. remote control",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 99,
+      "question": "Agriculture may c_ _ se environmental problems.",
+      "options": [],
+      "answer": "au",
+      "explanation": "Từ/cụm từ “au” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 100,
+      "question": "Phong doesn’t like English. He is very bad _ _  it.",
+      "options": [],
+      "answer": "at",
+      "explanation": "Từ/cụm từ “at” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 101,
+      "question": "The footballer scored six _ _ _ _ _ , so his team won the game.",
+      "options": [],
+      "answer": "goals",
+      "explanation": "Từ/cụm từ “goals” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 102,
+      "question": "They have known each _ _ _ _ _  for a long time.",
+      "options": [],
+      "answer": "other",
+      "explanation": "Từ/cụm từ “other” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 103,
+      "question": "Arthur apologized _ _ _  hurting her feeling.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Từ/cụm từ “for” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 104,
+      "question": "To obtain the best result, mix the powder _ _ _ _  warm water.",
+      "options": [],
+      "answer": "with",
+      "explanation": "Từ/cụm từ “with” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 105,
+      "question": "If I had a lot of money, I _ _ _ _ _  buy a car.",
+      "options": [],
+      "answer": "would",
+      "explanation": "Từ/cụm từ “would” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 106,
+      "question": "“Buy” is an irre_ _ _ _ r verb. It changes into “bought” in the past form.",
+      "options": [],
+      "answer": "gula",
+      "explanation": "Từ/cụm từ “gula” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 107,
+      "question": "People didn’t talk on the phone one hundred years _ _ _ .",
+      "options": [],
+      "answer": "ago",
+      "explanation": "Từ/cụm từ “ago” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 108,
+      "question": "Jane and Jack stood in front of the mirror and looked at _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "themselves",
+      "explanation": "Từ/cụm từ “themselves” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 109,
+      "question": "After the flood, people in this province have to face up ... famine.",
+      "options": [
+        "A. to",
+        "B. for",
+        "C. on",
+        "D. with"
+      ],
+      "answer": "D. with",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 110,
+      "question": "This pen costs … the other one.",
+      "options": [
+        "A. twice as much as",
+        "B. two times more than",
+        "C. as two times much more",
+        "D. as twice much as"
+      ],
+      "answer": "A. twice as much as",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 111,
+      "question": "He is delighted _ _ _ _  you have paid attention to recycling.",
+      "options": [],
+      "answer": "that",
+      "explanation": "Từ/cụm từ “that” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 112,
+      "question": "We are taking our evening w_ _ k at the moment.",
+      "options": [],
+      "answer": "al",
+      "explanation": "Từ/cụm từ “al” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 113,
+      "question": "The car alarm _ _ _ _  me up at 6:00 yesterday morning.",
+      "options": [],
+      "answer": "woke",
+      "explanation": "Từ/cụm từ “woke” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 114,
+      "question": "Mary is interested in marine life _ _  she’s visiting the oceanic institute in Nha Trang.",
+      "options": [],
+      "answer": "so",
+      "explanation": "Từ/cụm từ “so” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 115,
+      "question": "The 20th century is considered to be the century of ... with TV, computer and etc.",
+      "options": [
+        "A. inventions",
+        "B. inventing",
+        "C. invents",
+        "D. inventors"
+      ],
+      "answer": "A. inventions",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 116,
+      "question": "The factory workers work from seven in the morning _ _ _ _ l five in the afternoon.",
+      "options": [],
+      "answer": "unti",
+      "explanation": "Từ/cụm từ “unti” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 117,
+      "question": "_ _ _ _  do you like best about your school?",
+      "options": [],
+      "answer": "What",
+      "explanation": "Từ/cụm từ “What” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 118,
+      "question": "Unfortunately, our flight was delayed for 2 hours, _ _  we were late for the last train.",
+      "options": [],
+      "answer": "so",
+      "explanation": "Từ/cụm từ “so” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 119,
+      "question": "They spent a lot of money _ _  food and clothes.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Từ/cụm từ “on” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 120,
+      "question": "I wonder _ _  he will ever return home after going to Paris.",
+      "options": [],
+      "answer": "if",
+      "explanation": "Từ/cụm từ “if” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 121,
+      "question": "It is better for schoolgirls to wear trousers and blouses _ _ _ _  they are at school.",
+      "options": [],
+      "answer": "when",
+      "explanation": "Từ/cụm từ “when” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 122,
+      "question": "Sooner or later a satellite ... by a large piece of rubbish.",
+      "options": [
+        "A. will destroy",
+        "B. will destroyed",
+        "C. will be destroyed",
+        "D. will been destroyed"
+      ],
+      "answer": "C. will be destroyed",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 123,
+      "question": "The children are playing ... in the schoolyard.",
+      "options": [
+        "A. happy",
+        "B. happily",
+        "C. happier",
+        "D. happiness"
+      ],
+      "answer": "B. happily",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 124,
+      "question": "There aren’t _ _ _  buses in the streets because the drivers have gone on strike.",
+      "options": [],
+      "answer": "any",
+      "explanation": "Từ/cụm từ “any” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 125,
+      "question": "The teacher _ _ _  ill last week.",
+      "options": [],
+      "answer": "was",
+      "explanation": "Từ/cụm từ “was” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 126,
+      "question": "We use _ _ _ _ _ _  to write things on the blackboard.",
+      "options": [],
+      "answer": "chalks",
+      "explanation": "Từ/cụm từ “chalks” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 127,
+      "question": "It was very uncomfortable to sit in one place for so _ _ _ _ .",
+      "options": [],
+      "answer": "long",
+      "explanation": "Từ/cụm từ “long” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 128,
+      "question": "The doctor told me to stop thinking and then took some exercises. I felt relaxing _ _ _ _ _ _ ard.",
+      "options": [],
+      "answer": "afterw",
+      "explanation": "Từ/cụm từ “afterw” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 129,
+      "question": "Sorry, I am late because I got stuck in the ....",
+      "options": [
+        "A. traffic",
+        "B. traffic light",
+        "C. rush",
+        "D. traffic jam"
+      ],
+      "answer": "D. traffic jam",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 130,
+      "question": "His mother asked him to t_ _ _  up his room as it was dirty.",
+      "options": [],
+      "answer": "idy",
+      "explanation": "Từ/cụm từ “idy” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 131,
+      "question": "He has written four novels ....",
+      "options": [
+        "A. so far",
+        "B. one year ago",
+        "C. last year",
+        "D. yesterday"
+      ],
+      "answer": "A. so far",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 132,
+      "question": "It’ll only take me a _ _ _  minutes and I’ll be back very soon.",
+      "options": [],
+      "answer": "few",
+      "explanation": "Từ/cụm từ “few” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 133,
+      "question": "At _ _ _ _ , after trying three times, he passed the examination.",
+      "options": [],
+      "answer": "last",
+      "explanation": "Từ/cụm từ “last” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 134,
+      "question": "Her good diet k_ _ _ _  her healthy.",
+      "options": [],
+      "answer": "eeps",
+      "explanation": "Từ/cụm từ “eeps” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 135,
+      "question": "Over 50000 people in Ethiopia have died _ _  starvation in the past month.",
+      "options": [],
+      "answer": "of",
+      "explanation": "Từ/cụm từ “of” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 136,
+      "question": "All the subjects were taught _ _  one teacher.",
+      "options": [],
+      "answer": "by",
+      "explanation": "Từ/cụm từ “by” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 137,
+      "question": "Your sister likes watching detective films, …?",
+      "options": [
+        "A. isn’t she",
+        "B. does she",
+        "C. is she",
+        "D. doesn’t she"
+      ],
+      "answer": "D. doesn’t she",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 138,
+      "question": "The film was not interesting _ _ _ _ _ _  for me to watch.",
+      "options": [],
+      "answer": "enough",
+      "explanation": "Từ/cụm từ “enough” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 139,
+      "question": "My grandmother prefers wearing the traditional clothing _ _  the modern clothing.",
+      "options": [],
+      "answer": "to",
+      "explanation": "Từ/cụm từ “to” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 140,
+      "question": "By _ _ _ _  was this story written?",
+      "options": [],
+      "answer": "whom",
+      "explanation": "Từ/cụm từ “whom” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 141,
+      "question": "She went to market without … anything.",
+      "options": [
+        "A. buy",
+        "B. to buy",
+        "C. bought",
+        "D. buying"
+      ],
+      "answer": "D. buying",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 142,
+      "question": "I need a _ _ _ _ dresser. I haven’t been to the barber’s recently.",
+      "options": [],
+      "answer": "hair",
+      "explanation": "Từ/cụm từ “hair” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 143,
+      "question": "Sharp knives are actually safer to use ….",
+      "options": [
+        "A. as dull ones",
+        "B. as ones that are dull",
+        "C. that are dull ones",
+        "D. than dull ones"
+      ],
+      "answer": "D. than dull ones",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 144,
+      "question": "Don’t you believe in equality between _ _ _  and women?",
+      "options": [],
+      "answer": "men",
+      "explanation": "Từ/cụm từ “men” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 145,
+      "question": "In the world, tons of used papers ... away everyday.",
+      "options": [
+        "A. thrown",
+        "B. are thrown",
+        "C. is thrown",
+        "D. threw"
+      ],
+      "answer": "C. is thrown",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 146,
+      "question": "As a se_ _ _ _ _ _  man, Henry always looks calm and makes a wise decision.",
+      "options": [],
+      "answer": "nsible",
+      "explanation": "Từ/cụm từ “nsible” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 147,
+      "question": "Our environment is becoming _ _ _ _  and more polluted.",
+      "options": [],
+      "answer": "more",
+      "explanation": "Từ/cụm từ “more” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 148,
+      "question": "Columbus discovered America in the 15th _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "century",
+      "explanation": "Từ/cụm từ “century” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 149,
+      "question": "Can you give me …?",
+      "options": [
+        "A. a ride",
+        "B. a drive",
+        "C. riding",
+        "D. driving"
+      ],
+      "answer": "A. a ride",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 150,
+      "question": "He … for himself.",
+      "options": [
+        "A. very set difficult standards",
+        "B. set very difficult standards",
+        "C. set difficult very standards",
+        "D. very difficult set standards"
+      ],
+      "answer": "B. set very difficult standards",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 151,
+      "question": "The cold “cures” don’t cure a cold, but they ... the symptoms.",
+      "options": [
+        "A. prevent",
+        "B. relieve",
+        "C. help",
+        "D. bring"
+      ],
+      "answer": "B. relieve",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 152,
+      "question": "Add sugar, water and flour to the beaten eggs and _ _ _ _  the mixture well.",
+      "options": [],
+      "answer": "stir",
+      "explanation": "Từ/cụm từ “stir” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 153,
+      "question": "My little daughter is looking at herself in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "mirror",
+      "explanation": "Từ/cụm từ “mirror” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 154,
+      "question": "About 60% of the world’s radio stations broadcast ... English.",
+      "options": [
+        "A. by",
+        "B. with",
+        "C. of",
+        "D. in"
+      ],
+      "answer": "D. in",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 155,
+      "question": "I always drive _ _ _ _  the post office on my way to work.",
+      "options": [],
+      "answer": "past",
+      "explanation": "Từ/cụm từ “past” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 156,
+      "question": "I _ _ _ _ _  if she could speak English.",
+      "options": [],
+      "answer": "asked",
+      "explanation": "Từ/cụm từ “asked” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 157,
+      "question": "By learning English, you can get access to the world’s ....",
+      "options": [
+        "A. develop",
+        "B. developing",
+        "C. development",
+        "D. developed"
+      ],
+      "answer": "C. development",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 158,
+      "question": "He always ….",
+      "options": [
+        "A. avoids to meet me",
+        "B. avoiding to meet me",
+        "C. avoids meeting me",
+        "D. to avoid meeting me"
+      ],
+      "answer": "C. avoids meeting me",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 159,
+      "question": "We sometimes _ _ _ _  our relatives of friends greeting cards on special occasions.",
+      "options": [],
+      "answer": "send",
+      "explanation": "Từ/cụm từ “send” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 160,
+      "question": "Binh and I ... anywhere last weekend.",
+      "options": [
+        "A. don’t go",
+        "B. didn’t go",
+        "C. wasn’t go",
+        "D. haven’t gone"
+      ],
+      "answer": "B. didn’t go",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 161,
+      "question": "The new radio didn’t work, _ _  he took it back to the shop.",
+      "options": [],
+      "answer": "so",
+      "explanation": "Từ/cụm từ “so” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 162,
+      "question": "Dead leaves fall to the ground and decompose very quickly in wet _ _ _ _ _ er.",
+      "options": [],
+      "answer": "weath",
+      "explanation": "Từ/cụm từ “weath” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 163,
+      "question": "Don’t talk _ _ _ _  that to me!",
+      "options": [],
+      "answer": "like",
+      "explanation": "Từ/cụm từ “like” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 164,
+      "question": "There are only a few hotels in the city so it’s hard to _ _ _ _  accommodation during the high season.",
+      "options": [],
+      "answer": "find",
+      "explanation": "Từ/cụm từ “find” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 165,
+      "question": "Having the common cold is very _ _ _ _ _ asant.",
+      "options": [],
+      "answer": "unple",
+      "explanation": "Từ/cụm từ “unple” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 166,
+      "question": "When the clock strikes 6a.m., my new day b_ _ _ _ _  again.",
+      "options": [],
+      "answer": "egins",
+      "explanation": "Từ/cụm từ “egins” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 167,
+      "question": "We can look _ _ _  information on recycling things in the local library.",
+      "options": [],
+      "answer": "for",
+      "explanation": "Từ/cụm từ “for” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 168,
+      "question": "The 22nd Olympic Games _ _ _ _  held in Moscow.",
+      "options": [],
+      "answer": "were",
+      "explanation": "Từ/cụm từ “were” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 169,
+      "question": "My sister is … at cooking than I am.",
+      "options": [
+        "A. good",
+        "B. well",
+        "C. better",
+        "D. badly"
+      ],
+      "answer": "C. better",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 170,
+      "question": "Much of champagne _ _ _  exported from France to our country this year.",
+      "options": [],
+      "answer": "was",
+      "explanation": "Từ/cụm từ “was” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 171,
+      "question": "I’m not sure, but as far _ _  I know he will stay at home on holiday.",
+      "options": [],
+      "answer": "as",
+      "explanation": "Từ/cụm từ “as” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 172,
+      "question": "My father doesn’t smoke cigarettes any _ _ _ _ . He gave it up five years ago.",
+      "options": [],
+      "answer": "more",
+      "explanation": "Từ/cụm từ “more” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 173,
+      "question": "Your application must be typed _ _ _ _  3 copies to hand in for our company.",
+      "options": [],
+      "answer": "into",
+      "explanation": "Từ/cụm từ “into” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 174,
+      "question": "Big Ben is the _ _ _ _  famous clock in London.",
+      "options": [],
+      "answer": "most",
+      "explanation": "Từ/cụm từ “most” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 175,
+      "question": "You can play _ _ _ _ ever games you like in summer holiday.",
+      "options": [],
+      "answer": "what",
+      "explanation": "Từ/cụm từ “what” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 176,
+      "question": "It only _ _ _ _ _  me about 40 minutes to get to work.",
+      "options": [],
+      "answer": "takes",
+      "explanation": "Từ/cụm từ “takes” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 177,
+      "question": "How many syllables are there in the word “aquarium”?",
+      "options": [
+        "A. three",
+        "B. two",
+        "C. one",
+        "D. four"
+      ],
+      "answer": "D. four",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 178,
+      "question": "The professor gave an interesting … on the global climates.",
+      "options": [
+        "A. talk",
+        "B. tell",
+        "C. speak",
+        "D. say"
+      ],
+      "answer": "A. talk",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 179,
+      "question": "_ _  Vietnam, there are more and more families having cable TV.",
+      "options": [],
+      "answer": "In",
+      "explanation": "Từ/cụm từ “In” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 180,
+      "question": "_ _ _ _ _  day of the week is the School’s festival day?",
+      "options": [],
+      "answer": "which",
+      "explanation": "Từ/cụm từ “which” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 181,
+      "question": "He arrived in England … Thursday afternoon.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. at",
+        "D. for"
+      ],
+      "answer": "A. on",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 182,
+      "question": "- Tom: What colour is her hair? - Lan: It’s _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "blonde",
+      "explanation": "Từ/cụm từ “blonde” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 183,
+      "question": "It _ _ _ _  the old woman an hour to walk around the lake yesterday.",
+      "options": [],
+      "answer": "took",
+      "explanation": "Từ/cụm từ “took” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 184,
+      "question": "The sea and rivers are too ... to swim in.",
+      "options": [
+        "A. dirt",
+        "B. dirty",
+        "C. dirtily",
+        "D. dirtiness"
+      ],
+      "answer": "B. dirty",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 185,
+      "question": "Lucy _ _ _  dressed quickly and went for work.",
+      "options": [],
+      "answer": "got",
+      "explanation": "Từ/cụm từ “got” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 186,
+      "question": "There is a meeting … 9 am and 2 pm.",
+      "options": [
+        "A. on",
+        "B. between",
+        "C. till",
+        "D. at"
+      ],
+      "answer": "B. between",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 187,
+      "question": "Susan was very pleased _ _ _ _  the birthday present her father gave her.",
+      "options": [],
+      "answer": "with",
+      "explanation": "Từ/cụm từ “with” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 188,
+      "question": "Bowls, vases, jars, beer mugs and champagne glasses _ _ _  sold in the glassware store.",
+      "options": [],
+      "answer": "are",
+      "explanation": "Từ/cụm từ “are” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 189,
+      "question": "If it is kept dry, a seed can still sprout up to forty years after _ _ _  formation.",
+      "options": [],
+      "answer": "its",
+      "explanation": "Từ/cụm từ “its” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 190,
+      "question": "She is very gorgeous in v_ _ _ _ _ .",
+      "options": [],
+      "answer": "iolet",
+      "explanation": "Từ/cụm từ “iolet” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 191,
+      "question": "I have to change the old car _ _ _ _ . It’s flat.",
+      "options": [],
+      "answer": "tire",
+      "explanation": "Từ/cụm từ “tire” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 192,
+      "question": "The road to our village should be widened as _ _ _ _  as possible.",
+      "options": [],
+      "answer": "soon",
+      "explanation": "Từ/cụm từ “soon” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 193,
+      "question": "A boy was _ _ _ _ _ _ _  in the accident, he is now in the hospital.",
+      "options": [],
+      "answer": "injured",
+      "explanation": "Từ/cụm từ “injured” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 194,
+      "question": "It was a boring weekend. I … anything.",
+      "options": [
+        "A. didn’t",
+        "B. don’t do",
+        "C. didn’t do",
+        "D. doesn’t do"
+      ],
+      "answer": "C. didn’t do",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 195,
+      "question": "You were wrong … criticize your parents for something they didn’t do.",
+      "options": [
+        "A. to",
+        "B. when",
+        "C. so as to",
+        "D. if"
+      ],
+      "answer": "A. to",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 196,
+      "question": "Are you used ... on your own?",
+      "options": [
+        "A. to working",
+        "B. with working",
+        "C. at work",
+        "D. to work"
+      ],
+      "answer": "A. to working",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 197,
+      "question": "That is why English has being chosen by most people to be a foreign _ _ _ _ _ _ _ _  to master.",
+      "options": [],
+      "answer": "language",
+      "explanation": "Từ/cụm từ “language” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 198,
+      "question": "Could you ... the radio, please? It’s too noisy and I want to have a nap.",
+      "options": [
+        "A. turn on",
+        "B. close up",
+        "C. turn off",
+        "D. close off"
+      ],
+      "answer": "C. turn off",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    },
+    {
+      "id": 199,
+      "question": "Jane told me not to _ _ _ _  for her if she was late.",
+      "options": [],
+      "answer": "wait",
+      "explanation": "Từ/cụm từ “wait” là lựa chọn phù hợp với ngữ cảnh và cấu trúc của câu; các phương án khác không đáp ứng đúng nghĩa hoặc dạng từ cần dùng.",
+      "audio": ""
+    },
+    {
+      "id": 200,
+      "question": "Are you interested in … to the cinema with me this evening?",
+      "options": [
+        "A. go",
+        "B. going",
+        "C. to go",
+        "D. went"
+      ],
+      "answer": "B. going",
+      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "audio": ""
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
