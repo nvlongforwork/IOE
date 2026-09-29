@@ -7,6 +7,7 @@
 
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 
     <script>
         tailwind.config = {
@@ -298,7 +299,7 @@
 
     <!-- ===== SCREEN: RESULT ===== -->
     <div id="screen-result" class="hidden fixed inset-0 overflow-y-auto bg-gray-50 flex items-start justify-center p-4 pt-6">
-        <div class="bg-white max-w-lg w-full rounded-3xl shadow-2xl overflow-hidden mb-6">
+        <div id="result-card" class="bg-white max-w-lg w-full rounded-3xl shadow-2xl overflow-hidden mb-6">
             <div class="bg-ruby p-6 sm:p-8 text-center relative overflow-hidden">
                 <div class="absolute inset-0 opacity-10" style="background-image:radial-gradient(circle at 2px 2px,white 1px,transparent 0);background-size:20px 20px"></div>
                 <h1 class="text-3xl sm:text-4xl font-extrabold text-white relative z-10 mb-1">Hoàn thành!</h1>
@@ -342,6 +343,10 @@
                     <button id="btn-review"
                         class="flex-1 py-3.5 px-4 bg-gray-100 hover:bg-gray-200 text-gray-800 font-bold rounded-xl transition-colors flex items-center justify-center gap-2 border border-gray-200 text-sm">
                         <i class="fas fa-list-check"></i> Xem lại đáp án
+                    </button>
+                    <button id="btn-save-result"
+                        class="flex-1 py-3.5 px-4 bg-ruby hover:bg-ruby-dark text-white font-bold rounded-xl transition-colors flex items-center justify-center gap-2 text-sm">
+                        <i class="fas fa-download"></i> Lưu kết quả
                     </button>
                 </div>
             </div>
@@ -926,6 +931,24 @@
         };
 
         document.getElementById('btn-back-result').onclick = () => showScreen('screen-result');
+
+        document.getElementById('btn-save-result').onclick = async () => {
+            const btn = document.getElementById('btn-save-result');
+            btn.disabled = true;
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Đang tạo...';
+            try {
+                const card = document.getElementById('result-card');
+                const canvas = await html2canvas(card, { scale: 2, useCORS: true, backgroundColor: '#f9fafb' });
+                const link = document.createElement('a');
+                const name = (appState.studentName || 'ket-qua').replace(/\s+/g, '-');
+                link.download = `IOE-${name}-L${appState.grade}-V${appState.examRound}.png`;
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = '<i class="fas fa-download"></i> Lưu kết quả';
+            }
+        };
     </script>
 </body>
 </html>
