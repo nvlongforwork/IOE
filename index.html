@@ -615,12 +615,15 @@
 
         // --- Ordering (drag-and-drop) question helpers ---
         function isOrderQuestion(q) {
-            return !q.options?.length && /^Sắp xếp/i.test(q.text) && q.text.includes('/');
+            if (q.options?.length) return false;
+            const t = q.text.trimEnd();
+            return t.endsWith('/') && t.split('/').filter(s => s.trim()).length >= 2;
         }
 
         function parseOrderFragments(text) {
+            const hasSapXep = /^Sắp xếp/i.test(text);
             const colonIdx = text.indexOf(':');
-            const part = colonIdx >= 0 ? text.slice(colonIdx + 1) : text;
+            const part = (hasSapXep && colonIdx >= 0) ? text.slice(colonIdx + 1) : text;
             return part.split('/').map(s => s.trim()).filter(Boolean);
         }
 
@@ -762,9 +765,14 @@
             document.getElementById('current-q-label').textContent = `Câu ${index+1}`;
             const isOrder = isOrderQuestion(q);
             if (isOrder) {
-                const colonIdx = q.text.indexOf(':');
-                const instruction = colonIdx >= 0 ? q.text.slice(0, colonIdx + 1) : q.text;
-                document.getElementById('question-text').innerHTML = escapeHtml(instruction);
+                const hasSapXep = /^Sắp xếp/i.test(q.text);
+                if (hasSapXep) {
+                    const colonIdx = q.text.indexOf(':');
+                    const instr = colonIdx >= 0 ? q.text.slice(0, colonIdx + 1) : 'Sắp xếp:';
+                    document.getElementById('question-text').innerHTML = escapeHtml(instr);
+                } else {
+                    document.getElementById('question-text').innerHTML = 'Sắp xếp thành câu đúng:';
+                }
             } else {
                 document.getElementById('question-text').innerHTML = q.text;
             }
