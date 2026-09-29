@@ -671,7 +671,7 @@
                             ${sel ? 'bg-ruby text-white' : 'bg-gray-100 text-gray-500'}">
                             ${labels[i]}
                         </div>
-                        <div class="text-gray-800 font-medium text-base sm:text-lg lg:text-3xl flex-1">${opt}</div>
+                        <div class="text-gray-800 font-medium text-base sm:text-lg lg:text-3xl flex-1">${opt.replace(/^[A-D]\.\s*/, '')}</div>
                         <div class="w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0
                             ${sel ? 'border-ruby bg-ruby' : 'border-gray-300'}">
                             ${sel ? '<div class="w-2 h-2 bg-white rounded-full"></div>' : ''}
