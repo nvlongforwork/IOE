@@ -393,6 +393,8 @@
             isTeacher: false,
             questions: [],
             answers: {},
+            orderPlaced: {},
+            orderBankShuffled: {},
             currentQuestionIndex: 0,
             startTime: null,
             timerInterval: null,
@@ -573,6 +575,8 @@
             if (qs && qs.length>0) {
                 appState.questions = qs;
                 appState.answers = {};
+                appState.orderPlaced = {};
+                appState.orderBankShuffled = {};
                 appState.currentQuestionIndex = 0;
                 try { if(document.documentElement.requestFullscreen) document.documentElement.requestFullscreen(); } catch(e){}
                 initQuiz();
@@ -609,6 +613,122 @@
             updateProgress();
         }
 
+        // --- Ordering (drag-and-drop) question helpers ---
+        function isOrderQuestion(q) {
+            return !q.options?.length && /^Sắp xếp/i.test(q.text) && q.text.includes('/');
+        }
+
+        function parseOrderFragments(text) {
+            const colonIdx = text.indexOf(':');
+            const part = colonIdx >= 0 ? text.slice(colonIdx + 1) : text;
+            return part.split('/').map(s => s.trim()).filter(Boolean);
+        }
+
+        function updateOrderAnswer(q, frags) {
+            const sentence = (appState.orderPlaced[q.id] || []).map(i => frags[i]).join(' ');
+            if (sentence) appState.answers[q.id] = sentence;
+            else delete appState.answers[q.id];
+            const navBtn = document.getElementById(`nav-btn-${appState.currentQuestionIndex}`);
+            if (navBtn) {
+                const answered = !!appState.answers[q.id];
+                navBtn.className = `w-full aspect-square rounded-lg font-bold text-xs flex items-center justify-center transition-colors border-2 shadow-sm ${answered ? 'bg-ruby text-white border-ruby' : 'bg-white text-gray-600 border-gray-200 hover:border-ruby'}`;
+            }
+            updateAnsweredCount();
+        }
+
+        function renderOrderUI(q, frags) {
+            if (!appState.orderBankShuffled[q.id])
+                appState.orderBankShuffled[q.id] = shuffleArray(frags.map((_, i) => i));
+            if (!appState.orderPlaced[q.id])
+                appState.orderPlaced[q.id] = [];
+
+            const placedIdxs = appState.orderPlaced[q.id];
+            const placedSet = new Set(placedIdxs);
+            const bankOrder = appState.orderBankShuffled[q.id].filter(i => !placedSet.has(i));
+
+            const chipCls = 'order-chip select-none rounded-lg px-3 py-2 text-sm font-medium cursor-pointer transition-all flex items-center gap-1.5';
+            const placedHtml = placedIdxs.map((idx, pos) => `
+                <div class="${chipCls} placed bg-ruby text-white shadow-sm" data-idx="${idx}" data-pos="${pos}" draggable="true">
+                    <i class="fas fa-grip-vertical text-xs opacity-50"></i>${escapeHtml(frags[idx])}
+                </div>`).join('');
+            const bankHtml = bankOrder.map(idx => `
+                <div class="${chipCls} bank bg-white border-2 border-gray-200 text-gray-800 hover:border-ruby hover:bg-red-50" data-idx="${idx}">
+                    ${escapeHtml(frags[idx])}
+                </div>`).join('');
+
+            const container = document.getElementById('options-container');
+            container.innerHTML = `
+                <div class="flex flex-col gap-4">
+                    <div>
+                        <div class="text-xs font-semibold text-gray-500 mb-2 uppercase tracking-wide flex items-center gap-1.5">
+                            <i class="fas fa-list-ol"></i> Câu trả lời của bạn
+                            ${placedIdxs.length > 0 ? `<button id="order-clear" class="ml-auto text-xs text-gray-400 hover:text-red-500 font-normal normal-case"><i class="fas fa-rotate-left mr-1"></i>Xóa hết</button>` : ''}
+                        </div>
+                        <div id="order-answer-zone" class="min-h-[52px] border-2 border-dashed ${placedIdxs.length > 0 ? 'border-ruby/40 bg-red-50/30' : 'border-gray-300 bg-gray-50'} rounded-xl p-3 flex flex-wrap gap-2">
+                            ${placedHtml || '<span class="text-gray-400 text-sm italic">Bấm vào từ bên dưới để chọn...</span>'}
+                        </div>
+                    </div>
+                    <div>
+                        <div class="text-xs font-semibold text-gray-500 mb-2 uppercase tracking-wide flex items-center gap-1.5">
+                            <i class="fas fa-layer-group"></i> Từ/cụm từ
+                        </div>
+                        <div id="order-bank-zone" class="flex flex-wrap gap-2">
+                            ${bankHtml || '<span class="text-gray-400 text-sm italic">Đã chọn hết!</span>'}
+                        </div>
+                    </div>
+                </div>`;
+
+            // Click bank → add to placed
+            container.querySelectorAll('.order-chip.bank').forEach(chip => {
+                chip.addEventListener('click', () => {
+                    appState.orderPlaced[q.id].push(parseInt(chip.dataset.idx));
+                    updateOrderAnswer(q, frags);
+                    renderOrderUI(q, frags);
+                });
+            });
+
+            // Click placed → remove
+            container.querySelectorAll('.order-chip.placed').forEach(chip => {
+                chip.addEventListener('click', () => {
+                    appState.orderPlaced[q.id].splice(parseInt(chip.dataset.pos), 1);
+                    updateOrderAnswer(q, frags);
+                    renderOrderUI(q, frags);
+                });
+            });
+
+            // Clear button
+            const clearBtn = document.getElementById('order-clear');
+            if (clearBtn) clearBtn.addEventListener('click', e => {
+                e.stopPropagation();
+                appState.orderPlaced[q.id] = [];
+                updateOrderAnswer(q, frags);
+                renderOrderUI(q, frags);
+            });
+
+            // Drag-and-drop reorder within answer zone (desktop)
+            let dragSrcPos = null;
+            container.querySelectorAll('.order-chip.placed').forEach(chip => {
+                chip.addEventListener('dragstart', e => {
+                    dragSrcPos = parseInt(chip.dataset.pos);
+                    e.dataTransfer.effectAllowed = 'move';
+                    setTimeout(() => chip.classList.add('opacity-40'), 0);
+                });
+                chip.addEventListener('dragend', () => chip.classList.remove('opacity-40'));
+                chip.addEventListener('dragover', e => { e.preventDefault(); e.dataTransfer.dropEffect = 'move'; });
+                chip.addEventListener('drop', e => {
+                    e.preventDefault();
+                    const targetPos = parseInt(chip.dataset.pos);
+                    if (dragSrcPos !== null && dragSrcPos !== targetPos) {
+                        const [moved] = appState.orderPlaced[q.id].splice(dragSrcPos, 1);
+                        appState.orderPlaced[q.id].splice(targetPos, 0, moved);
+                        updateOrderAnswer(q, frags);
+                        renderOrderUI(q, frags);
+                    }
+                    dragSrcPos = null;
+                });
+            });
+        }
+
         function renderQuestionList() {
             const grid = document.getElementById('question-grid');
             grid.innerHTML = '';
@@ -640,7 +760,14 @@
             }
 
             document.getElementById('current-q-label').textContent = `Câu ${index+1}`;
-            document.getElementById('question-text').innerHTML = q.text;
+            const isOrder = isOrderQuestion(q);
+            if (isOrder) {
+                const colonIdx = q.text.indexOf(':');
+                const instruction = colonIdx >= 0 ? q.text.slice(0, colonIdx + 1) : q.text;
+                document.getElementById('question-text').innerHTML = escapeHtml(instruction);
+            } else {
+                document.getElementById('question-text').innerHTML = q.text;
+            }
             const qImgEl = document.getElementById('question-image');
             if (q.image) {
                 qImgEl.innerHTML = `<img src="${q.image}" class="max-w-full rounded-xl mx-auto block" style="max-height:260px;object-fit:contain">`;
@@ -684,6 +811,8 @@
                     btn.onclick = () => selectOption(q.id, opt);
                     opts.appendChild(btn);
                 });
+            } else if (isOrder) {
+                renderOrderUI(q, parseOrderFragments(q.text));
             } else {
                 opts.innerHTML = `
                     <label class="text-sm lg:text-xl font-semibold text-gray-500 mb-1 lg:mb-2 block">Gõ từ/cụm từ còn thiếu:</label>
@@ -845,6 +974,8 @@
             appState.retryMode = true;
             appState.questions = appState.questions.filter(q=>!isAnswerCorrect(q));
             appState.answers = {};
+            appState.orderPlaced = {};
+            appState.orderBankShuffled = {};
             appState.currentQuestionIndex = 0;
             appState.timeElapsed = 0;
             initQuiz();
