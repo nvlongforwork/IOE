@@ -253,13 +253,13 @@
             <!-- Main Content -->
             <main class="flex-1 flex flex-col overflow-hidden">
                 <div class="flex-1 overflow-y-auto p-3 sm:p-6">
-                    <div class="max-w-3xl lg:max-w-5xl mx-auto flex flex-col gap-4 h-full">
+                    <div class="max-w-3xl lg:max-w-4xl mx-auto flex flex-col gap-4 h-full">
 
                         <!-- Question Card -->
-                        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 sm:p-8 lg:p-16 relative">
-                            <div class="flex items-center gap-2 lg:gap-6 mb-4 lg:mb-10">
-                                <span class="bg-ruby text-white font-bold px-4 py-1.5 lg:px-8 lg:py-3 rounded-lg text-sm lg:text-4xl" id="current-q-label">Câu 1</span>
-                                <span class="text-gray-400 text-sm lg:text-4xl" id="total-q-label">/ 0</span>
+                        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 sm:p-8 lg:p-10 relative">
+                            <div class="flex items-center gap-2 lg:gap-4 mb-4 lg:mb-6">
+                                <span class="bg-ruby text-white font-bold px-4 py-1.5 lg:px-6 lg:py-2 rounded-lg text-sm lg:text-2xl" id="current-q-label">Câu 1</span>
+                                <span class="text-gray-400 text-sm lg:text-2xl" id="total-q-label">/ 0</span>
                             </div>
                             <div id="question-image" class="mb-4 hidden">
                             </div>
@@ -269,7 +269,7 @@
                                 </audio>
                             </div>
                             <div id="question-text"
-                                class="text-xl sm:text-2xl lg:text-6xl font-semibold text-gray-800 leading-relaxed">
+                                class="text-xl sm:text-2xl lg:text-4xl font-semibold text-gray-800 leading-relaxed">
                             </div>
                         </div>
 
@@ -663,14 +663,14 @@
                 q.options.forEach((opt,i)=>{
                     const sel = appState.answers[q.id]===opt;
                     const btn = document.createElement('button');
-                    btn.className = `w-full text-left py-4 px-5 lg:py-8 lg:px-10 rounded-xl border-2 transition-all flex items-center gap-4 lg:gap-8
+                    btn.className = `w-full text-left py-4 px-5 lg:py-6 lg:px-8 rounded-xl border-2 transition-all flex items-center gap-4 lg:gap-6
                         ${sel ? 'border-ruby bg-red-50' : 'border-gray-200 bg-white hover:border-ruby/50 hover:bg-gray-50'}`;
                     btn.innerHTML = `
-                        <div class="w-9 h-9 lg:w-24 lg:h-24 rounded-full flex items-center justify-center font-bold text-base lg:text-4xl shrink-0 transition-colors
+                        <div class="w-9 h-9 lg:w-16 lg:h-16 rounded-full flex items-center justify-center font-bold text-base lg:text-2xl shrink-0 transition-colors
                             ${sel ? 'bg-ruby text-white' : 'bg-gray-100 text-gray-500'}">
                             ${labels[i]}
                         </div>
-                        <div class="text-gray-800 font-medium text-base sm:text-lg lg:text-5xl flex-1">${opt}</div>
+                        <div class="text-gray-800 font-medium text-base sm:text-lg lg:text-3xl flex-1">${opt}</div>
                         <div class="w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0
                             ${sel ? 'border-ruby bg-ruby' : 'border-gray-300'}">
                             ${sel ? '<div class="w-2 h-2 bg-white rounded-full"></div>' : ''}
@@ -680,9 +680,9 @@
                 });
             } else {
                 opts.innerHTML = `
-                    <label class="text-sm lg:text-3xl font-semibold text-gray-500 mb-1 lg:mb-4 block">Gõ từ/cụm từ còn thiếu:</label>
+                    <label class="text-sm lg:text-xl font-semibold text-gray-500 mb-1 lg:mb-2 block">Gõ từ/cụm từ còn thiếu:</label>
                     <input type="text" id="fill-answer-input" autocomplete="off" autocorrect="off" spellcheck="false"
-                        class="w-full px-4 py-3.5 lg:px-8 lg:py-8 rounded-xl border-2 border-gray-200 focus:border-ruby focus:ring-2 focus:ring-red-100 outline-none transition-all text-base lg:text-5xl font-medium text-gray-800"
+                        class="w-full px-4 py-3.5 lg:px-6 lg:py-6 rounded-xl border-2 border-gray-200 focus:border-ruby focus:ring-2 focus:ring-red-100 outline-none transition-all text-base lg:text-3xl font-medium text-gray-800"
                         placeholder="Nhập đáp án...">`;
                 const inp = document.getElementById('fill-answer-input');
                 inp.value = appState.answers[q.id]||'';
