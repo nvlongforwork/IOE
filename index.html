@@ -936,6 +936,8 @@
             const btn = document.getElementById('btn-save-result');
             btn.disabled = true;
             btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Đang tạo...';
+            const btnRow = btn.parentElement;
+            btnRow.style.display = 'none';
             try {
                 const card = document.getElementById('result-card');
                 const canvas = await html2canvas(card, { scale: 2, useCORS: true, backgroundColor: '#f9fafb' });
@@ -945,6 +947,7 @@
                 link.href = canvas.toDataURL('image/png');
                 link.click();
             } finally {
+                btnRow.style.display = '';
                 btn.disabled = false;
                 btn.innerHTML = '<i class="fas fa-download"></i> Lưu kết quả';
             }
