@@ -4,7 +4,7 @@
   "part_A": [
     {
       "id": 1,
-      "question": "The boy loves ba_ _ _ _ _ on",
+      "question": "The boy loves ba_ _ _ _ _ on.",
       "options": [],
       "answer": "dmint",
       "explanation": "Âm thanh cung cấp phần còn thiếu “dmint”. Ghép với các chữ đã cho tạo thành “badminton”; câu hoàn chỉnh là “The boy loves badminton”. Nguồn đối chiếu: đề IOE gốc số 11, câu 140.",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "question": "This is her grand_ _ _ _ _ _",
+      "question": "This is her grand_ _ _ _ _ _.",
       "options": [],
       "answer": "mother",
       "explanation": "Âm thanh cung cấp phần còn thiếu “mother”. Ghép với các chữ đã cho tạo thành “grandmother”; câu hoàn chỉnh là “This is her grandmother”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 21, câu 70.",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "question": "He plays c_ _ _ _ at break time",
+      "question": "He plays c_ _ _ _ at break time.",
       "options": [],
       "answer": "hess",
       "explanation": "Âm thanh cung cấp phần còn thiếu “hess”. Ghép với các chữ đã cho tạo thành “chess”; câu hoàn chỉnh là “He plays chess at break time”. Nguồn đối chiếu: đề IOE gốc số 11, câu 81.",
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "question": "My brother is thir_ _ _ _ years old",
+      "question": "My brother is thir_ _ _ _ years old.",
       "options": [],
       "answer": "teen",
       "explanation": "Âm thanh cung cấp phần còn thiếu “teen”. Ghép với các chữ đã cho tạo thành “thirteen”; câu hoàn chỉnh là “My brother is thirteen years old”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 25, câu 189.",
@@ -36,7 +36,7 @@
     },
     {
       "id": 5,
-      "question": "This is my _ _ _ _ _ _",
+      "question": "This is my _ _ _ _ _ _.",
       "options": [],
       "answer": "school",
       "explanation": "Ở vị trí trống, file nghe phát “school”, nghĩa là “trường học”. Điền từ/cụm này tạo câu “This is my school”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 18, câu 17.",
@@ -44,7 +44,7 @@
     },
     {
       "id": 6,
-      "question": "He’s _ _ _ _ _ years old",
+      "question": "He’s _ _ _ _ _ years old.",
       "options": [],
       "answer": "eight",
       "explanation": "Ở vị trí trống, file nghe phát “eight”, nghĩa là “số tám”. Điền từ/cụm này tạo câu “He’s eight years old”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 1, câu 41.",
@@ -52,7 +52,7 @@
     },
     {
       "id": 7,
-      "question": "That is my _ _ _ _ _ _ _",
+      "question": "That is my _ _ _ _ _ _ _.",
       "options": [],
       "answer": "teacher",
       "explanation": "Ở vị trí trống, file nghe phát “teacher”, nghĩa là “giáo viên”. Điền từ/cụm này tạo câu “That is my teacher”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 7, câu 13.",
@@ -68,7 +68,7 @@
     },
     {
       "id": 9,
-      "question": "She’s got _ _ _ _ _ eyes",
+      "question": "She’s got _ _ _ _ _ eyes.",
       "options": [],
       "answer": "brown",
       "explanation": "Ở vị trí trống, file nghe phát “brown”, nghĩa là “màu nâu”. Điền từ/cụm này tạo câu “She’s got brown eyes”. Nguồn đối chiếu: đề IOE gốc số 34, câu 139.",
@@ -76,7 +76,7 @@
     },
     {
       "id": 10,
-      "question": "My new _ _ _ _ _ _ is Adam",
+      "question": "My new _ _ _ _ _ _ is Adam.",
       "options": [],
       "answer": "friend",
       "explanation": "Ở vị trí trống, file nghe phát “friend”, nghĩa là “bạn”. Điền từ/cụm này tạo câu “My new friend is Adam”. Nguồn đối chiếu: đề IOE gốc số 34, câu 9.",
@@ -84,7 +84,7 @@
     },
     {
       "id": 11,
-      "question": "They go to school by _ _ _",
+      "question": "They go to school by _ _ _.",
       "options": [],
       "answer": "bus",
       "explanation": "Ở vị trí trống, file nghe phát “bus”, nghĩa là “xe buýt”. Điền từ/cụm này tạo câu “They go to school by bus”. Nguồn đối chiếu: đề IOE gốc số 43, câu 197.",
@@ -92,7 +92,7 @@
     },
     {
       "id": 12,
-      "question": "They are in the _ _ _ _ _ _",
+      "question": "They are in the _ _ _ _ _ _.",
       "options": [],
       "answer": "garden",
       "explanation": "Ở vị trí trống, file nghe phát “garden”, nghĩa là “khu vườn”. Điền từ/cụm này tạo câu “They are in the garden”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 16, câu 36.",
@@ -100,7 +100,7 @@
     },
     {
       "id": 13,
-      "question": "My school _ _ _ is very long",
+      "question": "My school _ _ _ is very long.",
       "options": [],
       "answer": "bus",
       "explanation": "Ở vị trí trống, file nghe phát “bus”, nghĩa là “xe buýt”. Điền từ/cụm này tạo câu “My school bus is very long”. Nguồn đối chiếu: đề IOE gốc số 28, câu 142.",
@@ -108,7 +108,7 @@
     },
     {
       "id": 14,
-      "question": "Pat is in the _ _ _ _ _ _ room",
+      "question": "Pat is in the _ _ _ _ _ _ room.",
       "options": [],
       "answer": "Đề hỏi nội dung không xuất hiện trong bài nghe. “14” không được nhắc đến, nên chọn A; các phương án còn lại là những chi tiết có trong file nghe gốc. Nguồn đối chiếu: đề IOE gốc số 33, câu 125.",
       "explanation": "",
@@ -124,7 +124,7 @@
     },
     {
       "id": 16,
-      "question": "Ben’s _ _ _ _ _ years old today",
+      "question": "Ben’s _ _ _ _ _ years old today.",
       "options": [],
       "answer": "Đề hỏi nội dung không xuất hiện trong bài nghe. “16” không được nhắc đến, nên chọn A; các phương án còn lại là những chi tiết có trong file nghe gốc. Nguồn đối chiếu: đề IOE gốc số 20, câu 78.",
       "explanation": "",
@@ -140,7 +140,7 @@
     },
     {
       "id": 18,
-      "question": "You are reading a _ _ _ _ _ now",
+      "question": "You are reading a _ _ _ _ _ now.",
       "options": [],
       "answer": "comic",
       "explanation": "Ở vị trí trống, file nghe phát “comic”. Điền từ/cụm này tạo câu “You are reading a comic now”. Cấu trúc “be + V-ing” diễn tả hoạt động đang xảy ra. Nguồn đối chiếu: đề IOE gốc số 47, câu 4.",
@@ -148,7 +148,7 @@
     },
     {
       "id": 19,
-      "question": "What are they? - They’re _ _ _ _",
+      "question": "What are they? - They’re _ _ _ _.",
       "options": [],
       "answer": "pens",
       "explanation": "Ở vị trí trống, file nghe phát “pens”, nghĩa là “những chiếc bút mực”. Điền từ/cụm này tạo câu “What are they? - They’re pens”. Nguồn đối chiếu: đề IOE gốc số 12, câu 182.",
@@ -156,7 +156,7 @@
     },
     {
       "id": 20,
-      "question": "This is the _ _ _ _ _ _ _ _ room",
+      "question": "This is the _ _ _ _ _ _ _ _ room.",
       "options": [],
       "answer": "computer",
       "explanation": "Ở vị trí trống, file nghe phát “computer”, nghĩa là “máy tính”. Điền từ/cụm này tạo câu “This is the computer room”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 13, câu 134.",
@@ -164,7 +164,7 @@
     },
     {
       "id": 21,
-      "question": "Let’s go to _ _ _ _ _ _ together",
+      "question": "Let’s go to _ _ _ _ _ _ together.",
       "options": [],
       "answer": "school",
       "explanation": "Ở vị trí trống, file nghe phát “school”, nghĩa là “trường học”. Điền từ/cụm này tạo câu “Let’s go to school together”. Nguồn đối chiếu: đề IOE gốc số 16, câu 125.",
@@ -172,7 +172,7 @@
     },
     {
       "id": 22,
-      "question": "This is my _ _ _ _ _ _ _ _ _ _ _",
+      "question": "This is my _ _ _ _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "grandfather",
       "explanation": "Ở vị trí trống, file nghe phát “grandfather”. Điền từ/cụm này tạo câu “This is my grandfather”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 31, câu 124.",
@@ -180,7 +180,7 @@
     },
     {
       "id": 23,
-      "question": "His _ _ _ is in the football net",
+      "question": "His _ _ _ is in the football net.",
       "options": [],
       "answer": "toy",
       "explanation": "Ở vị trí trống, file nghe phát “toy”. Điền từ/cụm này tạo câu “His toy is in the football net”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 31, câu 144.",
@@ -188,7 +188,7 @@
     },
     {
       "id": 24,
-      "question": "The chairs are _ _ _ _ the table",
+      "question": "The chairs are _ _ _ _ the table.",
       "options": [],
       "answer": "near",
       "explanation": "Ở vị trí trống, file nghe phát “near”. Điền từ/cụm này tạo câu “The chairs are near the table”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 41, câu 60.",
@@ -196,7 +196,7 @@
     },
     {
       "id": 25,
-      "question": "He carries a baby in his _ _ _ _",
+      "question": "He carries a baby in his _ _ _ _.",
       "options": [],
       "answer": "arms",
       "explanation": "Ở vị trí trống, file nghe phát “arms”. Điền từ/cụm này tạo câu “He carries a baby in his arms”. Nguồn đối chiếu: đề IOE gốc số 41, câu 149.",
@@ -204,7 +204,7 @@
     },
     {
       "id": 26,
-      "question": "Dave is _ _ _ _ _ _ _ _ years old",
+      "question": "Dave is _ _ _ _ _ _ _ _ years old.",
       "options": [],
       "answer": "nineteen",
       "explanation": "Ở vị trí trống, file nghe phát “nineteen”. Điền từ/cụm này tạo câu “Dave is nineteen years old”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 18, câu 49.",
@@ -212,7 +212,7 @@
     },
     {
       "id": 27,
-      "question": "Max’s favorite color is _ _ _ _ _",
+      "question": "Max’s favorite color is _ _ _ _ _.",
       "options": [],
       "answer": "green",
       "explanation": "Ở vị trí trống, file nghe phát “green”, nghĩa là “màu xanh lá”. Điền từ/cụm này tạo câu “Max’s favorite color is green”. Nguồn đối chiếu: đề IOE gốc số 24, câu 135.",
@@ -220,7 +220,7 @@
     },
     {
       "id": 28,
-      "question": "Some students go by _ _ _ _ _ _ _",
+      "question": "Some students go by _ _ _ _ _ _ _.",
       "options": [],
       "answer": "bicycle",
       "explanation": "Ở vị trí trống, file nghe phát “bicycle”. Điền từ/cụm này tạo câu “Some students go by bicycle”. Nguồn đối chiếu: đề IOE gốc số 24, câu 192.",
@@ -228,7 +228,7 @@
     },
     {
       "id": 29,
-      "question": "The cat walks _ _ _ _ to the ball",
+      "question": "The cat walks _ _ _ _ to the ball.",
       "options": [],
       "answer": "over",
       "explanation": "Ở vị trí trống, file nghe phát “over”. Điền từ/cụm này tạo câu “The cat walks over to the ball”. Nguồn đối chiếu: đề IOE gốc số 35, câu 23.",
@@ -236,7 +236,7 @@
     },
     {
       "id": 30,
-      "question": "There is a desk _ _ _ _ to my bed",
+      "question": "There is a desk _ _ _ _ to my bed.",
       "options": [],
       "answer": "next",
       "explanation": "Ở vị trí trống, file nghe phát “next”. Điền từ/cụm này tạo câu “There is a desk next to my bed”. “There is” dùng để nói có một người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 35, câu 35.",
@@ -244,7 +244,7 @@
     },
     {
       "id": 31,
-      "question": "This is John. He is a _ _ _ _ _ _",
+      "question": "This is John. He is a _ _ _ _ _ _.",
       "options": [],
       "answer": "farmer",
       "explanation": "Ở vị trí trống, file nghe phát “farmer”, nghĩa là “nông dân”. Điền từ/cụm này tạo câu “This is John. He is a farmer”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 39, câu 190.",
@@ -252,7 +252,7 @@
     },
     {
       "id": 32,
-      "question": "A girl is eating _ _ _ ice-creams",
+      "question": "A girl is eating _ _ _ ice-creams.",
       "options": [],
       "answer": "two",
       "explanation": "Ở vị trí trống, file nghe phát “two”, nghĩa là “số hai”. Điền từ/cụm này tạo câu “A girl is eating two ice-creams”. Cấu trúc “be + V-ing” diễn tả hoạt động đang xảy ra. Nguồn đối chiếu: đề IOE gốc số 46, câu 65.",
@@ -260,7 +260,7 @@
     },
     {
       "id": 33,
-      "question": "There is a concert in the _ _ _ _",
+      "question": "There is a concert in the _ _ _ _.",
       "options": [],
       "answer": "park",
       "explanation": "Ở vị trí trống, file nghe phát “park”. Điền từ/cụm này tạo câu “There is a concert in the park”. “There is” dùng để nói có một người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 47, câu 123.",
@@ -268,7 +268,7 @@
     },
     {
       "id": 34,
-      "question": "The girl’s T-shirt is in the _ _ _",
+      "question": "The girl’s T-shirt is in the _ _ _.",
       "options": [],
       "answer": "car",
       "explanation": "Ở vị trí trống, file nghe phát “car”. Điền từ/cụm này tạo câu “The girl’s T-shirt is in the car”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 36, câu 198.",
@@ -276,7 +276,7 @@
     },
     {
       "id": 35,
-      "question": "There are six _ _ _ _ _ _ _ on top",
+      "question": "There are six _ _ _ _ _ _ _ on top.",
       "options": [],
       "answer": "candles",
       "explanation": "Ở vị trí trống, file nghe phát “candles”. Điền từ/cụm này tạo câu “There are six candles on top”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 38, câu 118.",
@@ -284,7 +284,7 @@
     },
     {
       "id": 36,
-      "question": "Her English teacher is Mr. _ _ _ _",
+      "question": "Her English teacher is Mr. _ _ _ _.",
       "options": [],
       "answer": "tony",
       "explanation": "Ở vị trí trống, file nghe phát “tony”. Điền từ/cụm này tạo câu “Her English teacher is Mr. tony”. Nguồn đối chiếu: đề IOE gốc số 38, câu 198.",
@@ -292,7 +292,7 @@
     },
     {
       "id": 37,
-      "question": "Flames come out of the _ _ _ _ _ _",
+      "question": "Flames come out of the _ _ _ _ _ _.",
       "options": [],
       "answer": "window",
       "explanation": "Ở vị trí trống, file nghe phát “window”. Điền từ/cụm này tạo câu “Flames come out of the window”. Nguồn đối chiếu: đề IOE gốc số 44, câu 119.",
@@ -300,7 +300,7 @@
     },
     {
       "id": 38,
-      "question": "Let’s go to the _ _ _ _ _ _ library",
+      "question": "Let’s go to the _ _ _ _ _ _ library.",
       "options": [],
       "answer": "school",
       "explanation": "Ở vị trí trống, file nghe phát “school”, nghĩa là “trường học”. Điền từ/cụm này tạo câu “Let’s go to the school library”. Nguồn đối chiếu: đề IOE gốc số 9, câu 157.",
@@ -308,7 +308,7 @@
     },
     {
       "id": 39,
-      "question": "Today is Emily’s _ _ _ _ _ birthday",
+      "question": "Today is Emily’s _ _ _ _ _ birthday.",
       "options": [],
       "answer": "third",
       "explanation": "Ở vị trí trống, file nghe phát “third”. Điền từ/cụm này tạo câu “Today is Emily’s third birthday”. Nguồn đối chiếu: đề IOE gốc số 18, câu 112.",
@@ -316,7 +316,7 @@
     },
     {
       "id": 40,
-      "question": "His sister’s _ _ _ _ is in the tree",
+      "question": "His sister’s _ _ _ _ is in the tree.",
       "options": [],
       "answer": "kite",
       "explanation": "Ở vị trí trống, file nghe phát “kite”, nghĩa là “cái diều”. Điền từ/cụm này tạo câu “His sister’s kite is in the tree”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 21, câu 83.",
@@ -324,7 +324,7 @@
     },
     {
       "id": 41,
-      "question": "When it’s sunny, the sky is _ _ _ _",
+      "question": "When it’s sunny, the sky is _ _ _ _.",
       "options": [],
       "answer": "blue",
       "explanation": "Ở vị trí trống, file nghe phát “blue”, nghĩa là “màu xanh dương”. Điền từ/cụm này tạo câu “When it’s sunny, the sky is blue”. Nguồn đối chiếu: đề IOE gốc số 38, câu 30.",
@@ -332,7 +332,7 @@
     },
     {
       "id": 42,
-      "question": "This is a bike. It’s a _ _ _ _ bike",
+      "question": "This is a bike. It’s a _ _ _ _ bike.",
       "options": [],
       "answer": "fast",
       "explanation": "Ở vị trí trống, file nghe phát “fast”. Điền từ/cụm này tạo câu “This is a bike. It’s a fast bike”. “This/That” chỉ một người hoặc vật nên đi với “is”. Nguồn đối chiếu: đề IOE gốc số 45, câu 100.",
@@ -340,7 +340,7 @@
     },
     {
       "id": 43,
-      "question": "He puts the hot dogs on a _ _ _ _ _",
+      "question": "He puts the hot dogs on a _ _ _ _ _.",
       "options": [],
       "answer": "plate",
       "explanation": "Ở vị trí trống, file nghe phát “plate”. Điền từ/cụm này tạo câu “He puts the hot dogs on a plate”. Nguồn đối chiếu: đề IOE gốc số 48, câu 71.",
@@ -348,7 +348,7 @@
     },
     {
       "id": 44,
-      "question": "Let’s go to the school _ _ _ _ _ _ _",
+      "question": "Let’s go to the school _ _ _ _ _ _ _.",
       "options": [],
       "answer": "library",
       "explanation": "Ở vị trí trống, file nghe phát “library”, nghĩa là “thư viện”. Điền từ/cụm này tạo câu “Let’s go to the school library”. Nguồn đối chiếu: đề IOE gốc số 2, câu 2.",
@@ -356,7 +356,7 @@
     },
     {
       "id": 45,
-      "question": "Her brother, Tom, is _ _ _ years old",
+      "question": "Her brother, Tom, is _ _ _ years old.",
       "options": [],
       "answer": "six",
       "explanation": "Ở vị trí trống, file nghe phát “six”, nghĩa là “số sáu”. Điền từ/cụm này tạo câu “Her brother, Tom, is six years old”. Cụm “years old” dùng để nói tuổi. Nguồn đối chiếu: đề IOE gốc số 28, câu 183.",
@@ -364,7 +364,7 @@
     },
     {
       "id": 46,
-      "question": "The garden is very _ _ _ _ _ _ _ _ _",
+      "question": "The garden is very _ _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "beautiful",
       "explanation": "Ở vị trí trống, file nghe phát “beautiful”, nghĩa là “đẹp”. Điền từ/cụm này tạo câu “The garden is very beautiful”. Nguồn đối chiếu: đề IOE gốc số 41, câu 130.",
@@ -372,7 +372,7 @@
     },
     {
       "id": 47,
-      "question": "Is this your _ _ _ _ _ ? - Yes, it is",
+      "question": "Is this your _ _ _ _ _ ? - Yes, it is.",
       "options": [],
       "answer": "house",
       "explanation": "Ở vị trí trống, file nghe phát “house”, nghĩa là “ngôi nhà”. Điền từ/cụm này tạo câu “Is this your house ? - Yes, it is”. Nguồn đối chiếu: đề IOE gốc số 8, câu 33.",
@@ -380,7 +380,7 @@
     },
     {
       "id": 48,
-      "question": "Today is Carla’s _ _ _ _ _ _ birthday",
+      "question": "Today is Carla’s _ _ _ _ _ _ birthday.",
       "options": [],
       "answer": "eighth",
       "explanation": "Ở vị trí trống, file nghe phát “eighth”. Điền từ/cụm này tạo câu “Today is Carla’s eighth birthday”. Nguồn đối chiếu: đề IOE gốc số 20, câu 178.",
@@ -388,7 +388,7 @@
     },
     {
       "id": 49,
-      "question": "Jenny is _ _ _ _ ing with her friends",
+      "question": "Jenny is _ _ _ _ ing with her friends.",
       "options": [],
       "answer": "talk",
       "explanation": "Ở vị trí trống, file nghe phát “talk”. Điền từ/cụm này tạo câu “Jenny is talk ing with her friends”. Nguồn đối chiếu: đề IOE gốc số 35, câu 189.",
@@ -396,7 +396,7 @@
     },
     {
       "id": 50,
-      "question": "It has _ _ _ _ _ _ _ _ of many animals",
+      "question": "It has _ _ _ _ _ _ _ _ of many animals.",
       "options": [],
       "answer": "pictures",
       "explanation": "Ở vị trí trống, file nghe phát “pictures”. Điền từ/cụm này tạo câu “It has pictures of many animals”. Nguồn đối chiếu: đề IOE gốc số 38, câu 62.",
@@ -404,7 +404,7 @@
     },
     {
       "id": 51,
-      "question": "There are _ _ _ _ books in the bookcase",
+      "question": "There are _ _ _ _ books in the bookcase.",
       "options": [],
       "answer": "five",
       "explanation": "Ở vị trí trống, file nghe phát “five”, nghĩa là “số năm”. Điền từ/cụm này tạo câu “There are five books in the bookcase”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 5, câu 1.",
@@ -412,7 +412,7 @@
     },
     {
       "id": 52,
-      "question": "It has a big school _ _ _ _ _ _ _ _ _ _",
+      "question": "It has a big school _ _ _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "Bài nghe cung cấp con số/độ tuổi “52”. Chi tiết này trùng với phương án A; các con số còn lại không khớp. Nguồn đối chiếu: đề IOE gốc số 41, câu 187.",
       "explanation": "",
@@ -420,7 +420,7 @@
     },
     {
       "id": 53,
-      "question": "The _ _ _ _ _ _ _ _ are in the classroom",
+      "question": "The _ _ _ _ _ _ _ _ are in the classroom.",
       "options": [],
       "answer": "children",
       "explanation": "Ở vị trí trống, file nghe phát “children”, nghĩa là “trẻ em”. Điền từ/cụm này tạo câu “The children are in the classroom”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 5, câu 172.",
@@ -436,7 +436,7 @@
     },
     {
       "id": 55,
-      "question": "His favourite sport is _ _ _ _ _ _ _ _ _",
+      "question": "His favourite sport is _ _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "badminton",
       "explanation": "Ở vị trí trống, file nghe phát “badminton”. Điền từ/cụm này tạo câu “His favourite sport is badminton”. Nguồn đối chiếu: đề IOE gốc số 33, câu 44.",
@@ -444,7 +444,7 @@
     },
     {
       "id": 56,
-      "question": "There are many _ _ _ _ in the pencil case",
+      "question": "There are many _ _ _ _ in the pencil case.",
       "options": [],
       "answer": "pens",
       "explanation": "Ở vị trí trống, file nghe phát “pens”, nghĩa là “những chiếc bút mực”. Điền từ/cụm này tạo câu “There are many pens in the pencil case”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 29, câu 109.",
@@ -452,7 +452,7 @@
     },
     {
       "id": 57,
-      "question": "That’s a nice fence _ _ _ _ _ _ the house",
+      "question": "That’s a nice fence _ _ _ _ _ _ the house.",
       "options": [],
       "answer": "around",
       "explanation": "Ở vị trí trống, file nghe phát “around”. Điền từ/cụm này tạo câu “That’s a nice fence around the house”. Nguồn đối chiếu: đề IOE gốc số 40, câu 9.",
@@ -460,7 +460,7 @@
     },
     {
       "id": 58,
-      "question": "He is hungry. He wants something to _ _ _",
+      "question": "He is hungry. He wants something to _ _ _.",
       "options": [],
       "answer": "eat",
       "explanation": "Ở vị trí trống, file nghe phát “eat”. Điền từ/cụm này tạo câu “He is hungry. He wants something to eat”. Nguồn đối chiếu: đề IOE gốc số 42, câu 193.",
@@ -468,7 +468,7 @@
     },
     {
       "id": 59,
-      "question": "What’s the weather like? - It’s _ _ _ _ _",
+      "question": "What’s the weather like? - It’s _ _ _ _ _.",
       "options": [],
       "answer": "rainy",
       "explanation": "Ở vị trí trống, file nghe phát “rainy”, nghĩa là “có mưa”. Điền từ/cụm này tạo câu “What’s the weather like? - It’s rainy”. Nguồn đối chiếu: đề IOE gốc số 48, câu 88.",
@@ -476,7 +476,7 @@
     },
     {
       "id": 60,
-      "question": "He eats his breakfast in the _ _ _ _ _ _ _",
+      "question": "He eats his breakfast in the _ _ _ _ _ _ _.",
       "options": [],
       "answer": "kitchen",
       "explanation": "Ở vị trí trống, file nghe phát “kitchen”, nghĩa là “nhà bếp”. Điền từ/cụm này tạo câu “He eats his breakfast in the kitchen”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 36, câu 59.",
@@ -484,7 +484,7 @@
     },
     {
       "id": 61,
-      "question": "She shows them the pictures in the _ _ _ _",
+      "question": "She shows them the pictures in the _ _ _ _.",
       "options": [],
       "answer": "book",
       "explanation": "Ở vị trí trống, file nghe phát “book”, nghĩa là “quyển sách”. Điền từ/cụm này tạo câu “She shows them the pictures in the book”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 42, câu 130.",
@@ -492,7 +492,7 @@
     },
     {
       "id": 62,
-      "question": "What do you like? - I like _ _ _ _ _ _ _ _",
+      "question": "What do you like? - I like _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "balloons",
       "explanation": "Ở vị trí trống, file nghe phát “balloons”. Điền từ/cụm này tạo câu “What do you like? - I like balloons”. Nguồn đối chiếu: đề IOE gốc số 48, câu 127.",
@@ -500,7 +500,7 @@
     },
     {
       "id": 63,
-      "question": "What are these? - They are my _ _ _ _ _ _ _",
+      "question": "What are these? - They are my _ _ _ _ _ _ _.",
       "options": [],
       "answer": "pencils",
       "explanation": "Ở vị trí trống, file nghe phát “pencils”, nghĩa là “những chiếc bút chì”. Điền từ/cụm này tạo câu “What are these? - They are my pencils”. Nguồn đối chiếu: đề IOE gốc số 11, câu 55.",
@@ -508,7 +508,7 @@
     },
     {
       "id": 64,
-      "question": "There are schools all _ _ _ _ _ _ the world",
+      "question": "There are schools all _ _ _ _ _ _ the world.",
       "options": [],
       "answer": "around",
       "explanation": "Ở vị trí trống, file nghe phát “around”. Điền từ/cụm này tạo câu “There are schools all around the world”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 44, câu 176.",
@@ -516,7 +516,7 @@
     },
     {
       "id": 65,
-      "question": "Little cloud changes into a _ _ _ _ _ cloud",
+      "question": "Little cloud changes into a _ _ _ _ _ cloud.",
       "options": [],
       "answer": "giant",
       "explanation": "Ở vị trí trống, file nghe phát “giant”. Điền từ/cụm này tạo câu “Little cloud changes into a giant cloud”. Nguồn đối chiếu: đề IOE gốc số 45, câu 106.",
@@ -524,7 +524,7 @@
     },
     {
       "id": 66,
-      "question": "There is a blue _ _ _ _ _ _ _ _ on the desk",
+      "question": "There is a blue _ _ _ _ _ _ _ _ on the desk.",
       "options": [],
       "answer": "computer",
       "explanation": "Ở vị trí trống, file nghe phát “computer”, nghĩa là “máy tính”. Điền từ/cụm này tạo câu “There is a blue computer on the desk”. “There is” dùng để nói có một người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 46, câu 133.",
@@ -532,7 +532,7 @@
     },
     {
       "id": 67,
-      "question": "What’s the name of the pupil? – She’s _ _ _ _",
+      "question": "What’s the name of the pupil? – She’s _ _ _ _.",
       "options": [],
       "answer": "alex",
       "explanation": "Ở vị trí trống, file nghe phát “alex”. Điền từ/cụm này tạo câu “What’s the name of the pupil? – She’s alex”. Nguồn đối chiếu: đề IOE gốc số 42, câu 62.",
@@ -540,7 +540,7 @@
     },
     {
       "id": 68,
-      "question": "There are _ _ _ _ teen students in their class",
+      "question": "There are _ _ _ _ teen students in their class.",
       "options": [],
       "answer": "thir",
       "explanation": "Ở vị trí trống, file nghe phát “thir”. Điền từ/cụm này tạo câu “There are thirteen students in their class”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 18, câu 164.",
@@ -556,7 +556,7 @@
     },
     {
       "id": 70,
-      "question": "Can I borrow your _ _ _ _ for a minute? – Sure",
+      "question": "Can I borrow your _ _ _ _ for a minute? – Sure.",
       "options": [],
       "answer": "book",
       "explanation": "Ở vị trí trống, file nghe phát “book”, nghĩa là “quyển sách”. Điền từ/cụm này tạo câu “Can I borrow your book for a minute? – Sure”. Nguồn đối chiếu: đề IOE gốc số 38, câu 113.",
@@ -572,7 +572,7 @@
     },
     {
       "id": 72,
-      "question": "Sue _ _ _ _ _ up at seven o’clock in the morning",
+      "question": "Sue _ _ _ _ _ up at seven o’clock in the morning.",
       "options": [],
       "answer": "wakes",
       "explanation": "Ở vị trí trống, file nghe phát “wakes”. Điền từ/cụm này tạo câu “Sue wakes up at seven o’clock in the morning”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 25, câu 64.",
@@ -580,7 +580,7 @@
     },
     {
       "id": 73,
-      "question": "I like playing _ _ _ _ _ _ _ _ _ _ at break time",
+      "question": "I like playing _ _ _ _ _ _ _ _ _ _ at break time.",
       "options": [],
       "answer": "basketball",
       "explanation": "Ở vị trí trống, file nghe phát “basketball”, nghĩa là “bóng rổ”. Điền từ/cụm này tạo câu “I like playing basketball at break time”. Sau “like/likes”, động từ có thể dùng dạng V-ing để nói sở thích. Nguồn đối chiếu: đề IOE gốc số 30, câu 126.",
@@ -588,7 +588,7 @@
     },
     {
       "id": 74,
-      "question": "Jamie is celebrating her _ _ _ _ _ birthday party",
+      "question": "Jamie is celebrating her _ _ _ _ _ birthday party.",
       "options": [],
       "answer": "sixth",
       "explanation": "Ở vị trí trống, file nghe phát “sixth”. Điền từ/cụm này tạo câu “Jamie is celebrating her sixth birthday party”. Cấu trúc “be + V-ing” diễn tả hoạt động đang xảy ra. Nguồn đối chiếu: đề IOE gốc số 19, câu 5.",
@@ -596,7 +596,7 @@
     },
     {
       "id": 75,
-      "question": "We’re playing football in the _ _ _ _ _ _ _ _ _ _",
+      "question": "We’re playing football in the _ _ _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "playground",
       "explanation": "Ở vị trí trống, file nghe phát “playground”, nghĩa là “sân chơi”. Điền từ/cụm này tạo câu “We’re playing football in the playground”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 36, câu 175.",
@@ -604,7 +604,7 @@
     },
     {
       "id": 76,
-      "question": "His _ _ _ _ _ _ is in the kitchen with his mother",
+      "question": "His _ _ _ _ _ _ is in the kitchen with his mother.",
       "options": [],
       "answer": "sister",
       "explanation": "Ở vị trí trống, file nghe phát “sister”, nghĩa là “chị/em gái”. Điền từ/cụm này tạo câu “His sister is in the kitchen with his mother”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 42, câu 122.",
@@ -612,7 +612,7 @@
     },
     {
       "id": 77,
-      "question": "There are _ _ _ teen children in the girl’s class",
+      "question": "There are _ _ _ teen children in the girl’s class.",
       "options": [],
       "answer": "fif",
       "explanation": "Ở vị trí trống, file nghe phát “fif”. Điền từ/cụm này tạo câu “There are fifteen children in the girl’s class”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 44, câu 77.",
@@ -620,7 +620,7 @@
     },
     {
       "id": 78,
-      "question": "The girl’s school has got a big _ _ _ _ _ ter room",
+      "question": "The girl’s school has got a big _ _ _ _ _ ter room.",
       "options": [],
       "answer": "compu",
       "explanation": "Ở vị trí trống, file nghe phát “compu”. Điền từ/cụm này tạo câu “The girl’s school has got a big computer room”. Nguồn đối chiếu: đề IOE gốc số 13, câu 31.",
@@ -628,7 +628,7 @@
     },
     {
       "id": 79,
-      "question": "She asks you to put the _ _ _ _ _ _ under the chair",
+      "question": "She asks you to put the _ _ _ _ _ _ under the chair.",
       "options": [],
       "answer": "pencil",
       "explanation": "Ở vị trí trống, file nghe phát “pencil”, nghĩa là “bút chì”. Điền từ/cụm này tạo câu “She asks you to put the pencil under the chair”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 5, câu 34.",
@@ -636,7 +636,7 @@
     },
     {
       "id": 80,
-      "question": "My mother makes a great cake. She is a good _ _ _ _",
+      "question": "My mother makes a great cake. She is a good _ _ _ _.",
       "options": [],
       "answer": "cook",
       "explanation": "Ở vị trí trống, file nghe phát “cook”, nghĩa là “đầu bếp”. Điền từ/cụm này tạo câu “My mother makes a great cake. She is a good cook”. Nguồn đối chiếu: đề IOE gốc số 18, câu 159.",
@@ -644,7 +644,7 @@
     },
     {
       "id": 81,
-      "question": "This _ _ _ is pink and yellow",
+      "question": "This _ _ _ is pink and yellow.",
       "options": [],
       "answer": "one",
       "explanation": "Ở vị trí trống, file nghe phát “one”. Điền từ/cụm này tạo câu “This one is pink and yellow”. Nguồn đối chiếu: đề IOE gốc số 15, câu 32.",
@@ -652,7 +652,7 @@
     },
     {
       "id": 82,
-      "question": "They _ _ _ _ and they are happy",
+      "question": "They _ _ _ _ and they are happy.",
       "options": [],
       "answer": "talk",
       "explanation": "Ở vị trí trống, file nghe phát “talk”. Điền từ/cụm này tạo câu “They talk and they are happy”. Nguồn đối chiếu: đề IOE gốc số 23, câu 102.",
@@ -660,7 +660,7 @@
     },
     {
       "id": 83,
-      "question": "The car behind the _ _ _ _ _ is white",
+      "question": "The car behind the _ _ _ _ _ is white.",
       "options": [],
       "answer": "chair",
       "explanation": "Ở vị trí trống, file nghe phát “chair”, nghĩa là “cái ghế”. Điền từ/cụm này tạo câu “The car behind the chair is white”. Từ chỉ vị trí giúp xác định đúng nơi của người hoặc vật trong câu. Nguồn đối chiếu: đề IOE gốc số 35, câu 148.",
@@ -668,7 +668,7 @@
     },
     {
       "id": 84,
-      "question": "They’ve got two _ _ _ sins, Amy and Leo",
+      "question": "They’ve got two _ _ _ sins, Amy and Leo.",
       "options": [],
       "answer": "cou",
       "explanation": "Ở vị trí trống, file nghe phát “cou”. Điền từ/cụm này tạo câu “They’ve got two cousins, Amy and Leo”. Nguồn đối chiếu: đề IOE gốc số 21, câu 64.",
@@ -676,7 +676,7 @@
     },
     {
       "id": 85,
-      "question": "There are sweets, _ _ _ _ _ and lollipops",
+      "question": "There are sweets, _ _ _ _ _ and lollipops.",
       "options": [],
       "answer": "cakes",
       "explanation": "Ở vị trí trống, file nghe phát “cakes”. Điền từ/cụm này tạo câu “There are sweets, cakes and lollipops”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 12, câu 70.",
@@ -716,7 +716,7 @@
     },
     {
       "id": 90,
-      "question": "What colour are her eyes? - _ _ _ _",
+      "question": "What colour are her eyes? - _ _ _ _.",
       "options": [],
       "answer": "Blue",
       "explanation": "Ở vị trí trống, file nghe phát “Blue”, nghĩa là “màu xanh dương”. Điền từ/cụm này tạo câu “What colour are her eyes? - Blue”. “What colour” hỏi về màu sắc. Nguồn đối chiếu: đề IOE gốc số 35, câu 128.",
@@ -724,7 +724,7 @@
     },
     {
       "id": 91,
-      "question": "What colour is her hair? - _ _ _ _ _",
+      "question": "What colour is her hair? - _ _ _ _ _.",
       "options": [],
       "answer": "Brown",
       "explanation": "Ở vị trí trống, file nghe phát “Brown”, nghĩa là “màu nâu”. Điền từ/cụm này tạo câu “What colour is her hair? - Brown”. “What colour” hỏi về màu sắc. Nguồn đối chiếu: đề IOE gốc số 35, câu 125.",
@@ -732,7 +732,7 @@
     },
     {
       "id": 92,
-      "question": "Tony has a lot of books and he likes _ _ _ _ _ _ _ hip hop",
+      "question": "Tony has a lot of books and he likes _ _ _ _ _ _ _ hip hop.",
       "options": [],
       "answer": "dancing",
       "explanation": "Ở vị trí trống, file nghe phát “dancing”. Điền từ/cụm này tạo câu “Tony has a lot of books and he likes dancing hip hop”. Sau “like/likes”, động từ có thể dùng dạng V-ing để nói sở thích. Nguồn đối chiếu: đề IOE gốc số 33, câu 4.",
@@ -769,7 +769,7 @@
     },
     {
       "id": 96,
-      "question": "Put the computer in the ….",
+      "question": "Put the computer in the …",
       "options": [
         "A. wardrobe",
         "B. bookcase",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 115,
-      "question": "The teddy is … and ….",
+      "question": "The teddy is … and …",
       "options": [
         "A. small – brown",
         "B. big – brown",
@@ -1037,7 +1037,7 @@
     },
     {
       "id": 117,
-      "question": "Tom and Lee are playing ….",
+      "question": "Tom and Lee are playing …",
       "options": [
         "A. volleyball",
         "B. baseball",
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 118,
-      "question": "These are your new … and ….",
+      "question": "These are your new … and …",
       "options": [
         "A. bookcases – boards",
         "B. tables – computers",
@@ -1076,7 +1076,7 @@
     },
     {
       "id": 120,
-      "question": "Which is the _ _ _ _ _ _ _ , a giraffe, an elephant or a monkey? – Of course, a giraffe",
+      "question": "Which is the _ _ _ _ _ _ _ , a giraffe, an elephant or a monkey? – Of course, a giraffe.",
       "options": [],
       "answer": "tallest",
       "explanation": "Ở vị trí trống, file nghe phát “tallest”. Điền từ/cụm này tạo câu “Which is the tallest , a giraffe, an elephant or a monkey? – Of course, a giraffe”. Nguồn đối chiếu: đề IOE gốc số 38, câu 128.",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": 169,
-      "question": "The girl has got ….",
+      "question": "The girl has got …",
       "options": [
         "A. one brother and two sisters",
         "B. two brothers and two sisters",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": 170,
-      "question": "There aren’t any _ _ _ _ here",
+      "question": "There aren’t any _ _ _ _ here.",
       "options": [],
       "answer": "boys",
       "explanation": "Ở vị trí trống, file nghe phát “boys”. Điền từ/cụm này tạo câu “There aren’t any boys here”. Nguồn đối chiếu: đề IOE gốc số 39, câu 107.",
@@ -1729,7 +1729,7 @@
     },
     {
       "id": 171,
-      "question": "It’s not a white _ _ _ _ _ _ _ _",
+      "question": "It’s not a white _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "computer",
       "explanation": "Ở vị trí trống, file nghe phát “computer”, nghĩa là “máy tính”. Điền từ/cụm này tạo câu “It’s not a white computer”. Nguồn đối chiếu: đề IOE gốc số 5, câu 127.",
@@ -1750,7 +1750,7 @@
     },
     {
       "id": 173,
-      "question": "Emma doesn’t like playing _ _ _ _ _ _",
+      "question": "Emma doesn’t like playing _ _ _ _ _ _.",
       "options": [],
       "answer": "tennis",
       "explanation": "Ở vị trí trống, file nghe phát “tennis”, nghĩa là “quần vợt”. Điền từ/cụm này tạo câu “Emma doesn’t like playing tennis”. Sau “like/likes”, động từ có thể dùng dạng V-ing để nói sở thích. Nguồn đối chiếu: đề IOE gốc số 4, câu 122.",
@@ -1810,7 +1810,7 @@
     },
     {
       "id": 178,
-      "question": "Peter likes _ _ _ _ _ _ _ _ but Lulu doesn’t",
+      "question": "Peter likes _ _ _ _ _ _ _ _ but Lulu doesn’t.",
       "options": [],
       "answer": "football",
       "explanation": "Ở vị trí trống, file nghe phát “football”, nghĩa là “bóng đá”. Điền từ/cụm này tạo câu “Peter likes football but Lulu doesn’t”. Nguồn đối chiếu: đề IOE gốc số 15, câu 37.",

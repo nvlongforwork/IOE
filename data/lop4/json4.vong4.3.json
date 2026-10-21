@@ -64,7 +64,7 @@
     },
     {
       "id": 6,
-      "question": "Choose the letter(s) to make a correct word: mor__ng",
+      "question": "Choose the letter(s) to make a correct word: mor__ng.",
       "options": [
         "A. ni",
         "B. ne",
@@ -76,7 +76,7 @@
     },
     {
       "id": 7,
-      "question": "Choose the letter(s) to make a correct word: st__t",
+      "question": "Choose the letter(s) to make a correct word: st__t.",
       "options": [
         "A. aa",
         "B. ar",
@@ -88,7 +88,7 @@
     },
     {
       "id": 8,
-      "question": "Choose the letter(s) to make a correct word: cla__room",
+      "question": "Choose the letter(s) to make a correct word: cla__room.",
       "options": [
         "A. ff",
         "B. ss",
@@ -100,7 +100,7 @@
     },
     {
       "id": 9,
-      "question": "Choose the letter(s) to make a correct word: phot__raph",
+      "question": "Choose the letter(s) to make a correct word: phot__raph.",
       "options": [
         "A. og",
         "B. ij",
@@ -112,7 +112,7 @@
     },
     {
       "id": 10,
-      "question": "Choose the letter(s) to make a correct word: e___cise",
+      "question": "Choose the letter(s) to make a correct word: e___cise.",
       "options": [
         "A. xo",
         "B. xer",
@@ -124,7 +124,7 @@
     },
     {
       "id": 11,
-      "question": "Choose the letter(s) to make a correct word: t__ice",
+      "question": "Choose the letter(s) to make a correct word: t__ice.",
       "options": [
         "A. u",
         "B. ll",
@@ -136,7 +136,7 @@
     },
     {
       "id": 12,
-      "question": "Choose the letter(s) to make a correct word: tomo__ow",
+      "question": "Choose the letter(s) to make a correct word: tomo__ow.",
       "options": [
         "A. r",
         "B. a",
@@ -496,7 +496,7 @@
     },
     {
       "id": 42,
-      "question": "What are your classmates doing? - ___",
+      "question": "What are your classmates doing? - ___.",
       "options": [
         "A. They paint pictures in the Art room.",
         "B. They are painting pictures in the Art room.",
@@ -600,7 +600,7 @@
     },
     {
       "id": 54,
-      "question": "Unscramble the following word: extt -> _ _ _ _",
+      "question": "Unscramble the following word: extt -> _ _ _ _.",
       "options": [],
       "answer": "text",
       "explanation": "\"_text_\" → \"text\" = văn bản; điền \"text\". Sắp xếp: extt → text."
@@ -761,7 +761,7 @@
     },
     {
       "id": 77,
-      "question": "Unscramble this word: aifryd ? _ _ _ _ _ _",
+      "question": "Unscramble this word: aifryd ? _ _ _ _ _ _.",
       "options": [],
       "answer": "Friday",
       "explanation": "\"_Friday_\" → \"Friday\" = thứ Sáu; điền \"Friday\". Sắp xếp: aifryd → Friday."
@@ -824,7 +824,7 @@
     },
     {
       "id": 86,
-      "question": "Unscramble this word: vdierr -> _ _ _ _ _ _",
+      "question": "Unscramble this word: vdierr -> _ _ _ _ _ _.",
       "options": [],
       "answer": "driver",
       "explanation": "\"_driver_\" → \"driver\" = tài xế, người lái xe; điền \"driver\". Sắp xếp: vdierr → driver."
@@ -887,7 +887,7 @@
     },
     {
       "id": 95,
-      "question": "Unscramble this word: jsectub -> _ _ _ _ _ _ _",
+      "question": "Unscramble this word: jsectub -> _ _ _ _ _ _ _.",
       "options": [],
       "answer": "subject",
       "explanation": "\"_subject_\" → \"subject\" = môn học; điền \"subject\". Sắp xếp: jsectub → subject."
@@ -936,7 +936,7 @@
     },
     {
       "id": 102,
-      "question": "Unscramble the following word: clsehto ---> _ _ _ _ _ _ _",
+      "question": "Unscramble the following word: clsehto ---> _ _ _ _ _ _ _.",
       "options": [],
       "answer": "clothes",
       "explanation": "\"_clothes_\" → \"clothes\" = quần áo; điền \"clothes\". Sắp xếp: clsehto → clothes."
@@ -964,7 +964,7 @@
     },
     {
       "id": 106,
-      "question": "Unscramble the following word: exerseci -> _ _ _ _ _ _ _ _",
+      "question": "Unscramble the following word: exerseci -> _ _ _ _ _ _ _ _.",
       "options": [],
       "answer": "exercise",
       "explanation": "\"_exercise_\" → \"exercise\" = bài tập; điền \"exercise\". Sắp xếp: exerseci → exercise."
