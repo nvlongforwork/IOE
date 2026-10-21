@@ -878,7 +878,7 @@
     },
     {
       "id": 123,
-      "question": "this a desk? - Yes, it is",
+      "question": "________ this a desk? - Yes, it is.",
       "options": [
         "A. Is",
         "B. Are",
@@ -890,7 +890,7 @@
     },
     {
       "id": 124,
-      "question": "I’m fine, thank",
+      "question": "I’m fine, thank ________.",
       "options": [
         "A. he",
         "B. she",
@@ -914,7 +914,7 @@
     },
     {
       "id": 126,
-      "question": "My school is",
+      "question": "My school is ________.",
       "options": [
         "A. name",
         "B. new",
@@ -1022,7 +1022,7 @@
     },
     {
       "id": 135,
-      "question": "I come in? - Yes, please",
+      "question": "________ I come in? - Yes, please.",
       "options": [
         "A. My",
         "B. May",
@@ -1046,7 +1046,7 @@
     },
     {
       "id": 137,
-      "question": "night, children",
+      "question": "________ night, children.",
       "options": [
         "A. Bye",
         "B. Hi",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": 138,
-      "question": "fine, thank you",
+      "question": "________ fine, thank you.",
       "options": [
         "A. Hi",
         "B. I",
@@ -1238,7 +1238,7 @@
     },
     {
       "id": 153,
-      "question": "Let’s sing with",
+      "question": "Let’s sing with ________.",
       "options": [
         "A. he",
         "B. I",
@@ -1274,7 +1274,7 @@
     },
     {
       "id": 156,
-      "question": ", I’m Tom",
+      "question": "________ , I’m Tom.",
       "options": [
         "A. Hi",
         "B. Goodbye",
@@ -1454,7 +1454,7 @@
     },
     {
       "id": 171,
-      "question": "morning, Peter",
+      "question": "________ morning, Peter.",
       "options": [
         "A. Good’s",
         "B. Bye",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": 173,
-      "question": "this a desk? – Yes, it is",
+      "question": "________ this a desk? – Yes, it is.",
       "options": [
         "A. Is",
         "B. Are",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": 178,
-      "question": "David can play",
+      "question": "David can play ________.",
       "options": [
         "A. desk",
         "B. chair",
