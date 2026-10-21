@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "question": "Nice to _ _ _ _ you, too",
+      "question": "Nice to _ _ _ _ you, too.",
       "options": [],
       "answer": "meet",
       "explanation": "\"Nice to meet you, too.\" = Rất vui được gặp bạn (đáp lại lời chào làm quen)."
@@ -403,7 +403,7 @@
     },
     {
       "id": 58,
-      "question": "’’What’s her _ _ _ ?’’ – ’’She’s an actress.’’",
+      "question": "’’What’s her _ _ _ ?’’ – ’’She’s an actress.’’.",
       "options": [],
       "answer": "job",
       "explanation": "\"job\" = nghề nghiệp; \"actress\" = nữ diễn viên."
@@ -770,7 +770,7 @@
     },
     {
       "id": 94,
-      "question": "I can’t speak French but my brother ….",
+      "question": "I can’t speak French but my brother …",
       "options": [
         "A. can",
         "B. can’t",

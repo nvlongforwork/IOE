@@ -160,7 +160,7 @@
     },
     {
       "id": 14,
-      "question": "She takes her children out ....",
+      "question": "She takes her children out ...",
       "options": [
         "A. for the walk",
         "B. for a walk",
@@ -352,7 +352,7 @@
     },
     {
       "id": 30,
-      "question": "Where are the boys? – They are ....",
+      "question": "Where are the boys? – They are ...",
       "options": [
         "A. at home",
         "B. doing homework",
@@ -412,7 +412,7 @@
     },
     {
       "id": 35,
-      "question": "She travels to work by train ....",
+      "question": "She travels to work by train ...",
       "options": [
         "A. every day",
         "B. now",
@@ -424,7 +424,7 @@
     },
     {
       "id": 36,
-      "question": "My father likes beer, but my mother ....",
+      "question": "My father likes beer, but my mother ...",
       "options": [
         "A. isn’t",
         "B. has",
@@ -436,7 +436,7 @@
     },
     {
       "id": 37,
-      "question": "Peter is ....",
+      "question": "Peter is ...",
       "options": [
         "A. shortly and thin",
         "B. short and thinly",
@@ -448,7 +448,7 @@
     },
     {
       "id": 38,
-      "question": "Potato and tomato are some of the ....",
+      "question": "Potato and tomato are some of the ...",
       "options": [
         "A. noodles",
         "B. fruits",
@@ -748,7 +748,7 @@
     },
     {
       "id": 63,
-      "question": "John is speaking to his teacher ....",
+      "question": "John is speaking to his teacher ...",
       "options": [
         "A. present",
         "B. at moment",
@@ -784,7 +784,7 @@
     },
     {
       "id": 66,
-      "question": "Be quiet! She ....",
+      "question": "Be quiet! She ...",
       "options": [
         "A. sleeps",
         "B. is sleeping",
@@ -976,7 +976,7 @@
     },
     {
       "id": 82,
-      "question": "How is your new roommate? – He’s ....",
+      "question": "How is your new roommate? – He’s ...",
       "options": [
         "A. interesting",
         "B. well",
@@ -988,7 +988,7 @@
     },
     {
       "id": 83,
-      "question": "I’d like a cake and a glass of milk. – ....",
+      "question": "I’d like a cake and a glass of milk. – ...",
       "options": [
         "A. Yes, please",
         "B. Yes, thanks",
@@ -1000,7 +1000,7 @@
     },
     {
       "id": 84,
-      "question": "Where are the students? – They are ....",
+      "question": "Where are the students? – They are ...",
       "options": [
         "A. from library",
         "B. in the library",
@@ -1012,7 +1012,7 @@
     },
     {
       "id": 85,
-      "question": "Quan likes ….",
+      "question": "Quan likes …",
       "options": [
         "A. reading English novels",
         "B. to reading English novels",
@@ -1036,7 +1036,7 @@
     },
     {
       "id": 87,
-      "question": "Mr. Baker grows ....",
+      "question": "Mr. Baker grows ...",
       "options": [
         "A. some vegetables",
         "B. some eggs",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": 89,
-      "question": "Is this your car? – No, it’s ....",
+      "question": "Is this your car? – No, it’s ...",
       "options": [
         "A. of Mr. Brown",
         "B. to Mr. Brown",
@@ -1072,7 +1072,7 @@
     },
     {
       "id": 90,
-      "question": "Can you go to the store and buy some bread home? “Buy” here means ....",
+      "question": "Can you go to the store and buy some bread home? “Buy” here means ...",
       "options": [
         "A. choose",
         "B. get",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 93,
-      "question": "What is your date of birth? - ....",
+      "question": "What is your date of birth? - ...",
       "options": [
         "A. February 8th",
         "B. February 8",
@@ -1386,85 +1386,85 @@
   "part_B": [
     {
       "id": 116,
-      "question": "Nam is _ _ _ _ _ . He’d like to sit down",
+      "question": "Nam is _ _ _ _ _ . He’d like to sit down.",
       "answer": "tired",
       "explanation": "Điền “tired” để tạo từ/cụm từ đúng là “tired”. Khi hoàn chỉnh, câu là: “Nam is tired . He’d like to sit down”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 117,
-      "question": "Which _ _ _ _ _ are you in? - 6A",
+      "question": "Which _ _ _ _ _ are you in? - 6A.",
       "answer": "class",
       "explanation": "Điền “class” để tạo từ/cụm từ đúng là “class”. Khi hoàn chỉnh, câu là: “Which class are you in? - 6A”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 118,
-      "question": "I’m very lazy. I _ _ _ _ _ do morning exercise",
+      "question": "I’m very lazy. I _ _ _ _ _ do morning exercise.",
       "answer": "never",
       "explanation": "Điền “never” để tạo từ/cụm từ đúng là “never”. Khi hoàn chỉnh, câu là: “I’m very lazy. I never do morning exercise”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 119,
-      "question": "How _ _ _ _ _ are you? – I’m 42 kilos",
+      "question": "How _ _ _ _ _ are you? – I’m 42 kilos.",
       "answer": "heavy",
       "explanation": "Điền “heavy” để tạo từ/cụm từ đúng là “heavy”. Khi hoàn chỉnh, câu là: “How heavy are you? – I’m 42 kilos”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 120,
-      "question": "Don’t _ _ _ _ _ electricity",
+      "question": "Don’t _ _ _ _ _ electricity.",
       "answer": "waste",
       "explanation": "Điền “waste” để tạo từ/cụm từ đúng là “waste”. Khi hoàn chỉnh, câu là: “Don’t waste electricity”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 121,
-      "question": "It _ _ _ _ _ us 10 minutes to walk to school",
+      "question": "It _ _ _ _ _ us 10 minutes to walk to school.",
       "answer": "takes",
       "explanation": "Điền “takes” để tạo từ/cụm từ đúng là “takes”. Khi hoàn chỉnh, câu là: “It takes us 10 minutes to walk to school”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 122,
-      "question": "How _ _ _ is it from his house to the park? – Just 1 kilometer",
+      "question": "How _ _ _ is it from his house to the park? – Just 1 kilometer.",
       "answer": "far",
       "explanation": "Điền “far” để tạo từ/cụm từ đúng là “far”. Khi hoàn chỉnh, câu là: “How far is it from his house to the park? – Just 1 kilometer”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 123,
-      "question": "How _ _ _ is it from your house to the market? - About 1 kilometer",
+      "question": "How _ _ _ is it from your house to the market? - About 1 kilometer.",
       "answer": "far",
       "explanation": "Điền “far” để tạo từ/cụm từ đúng là “far”. Khi hoàn chỉnh, câu là: “How far is it from your house to the market? - About 1 kilometer”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 124,
-      "question": "Dr Mina fixed my tooth and it stopped hurting afterw_ _ _ s",
+      "question": "Dr Mina fixed my tooth and it stopped hurting afterw_ _ _ s.",
       "answer": "ard",
       "explanation": "Điền “ard” để tạo từ/cụm từ đúng là “afterward”. Khi hoàn chỉnh, câu là: “Dr Mina fixed my tooth and it stopped hurting afterward s”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 125,
-      "question": "Do you live near your parents? – No, I live _ _ _ from them",
+      "question": "Do you live near your parents? – No, I live _ _ _ from them.",
       "answer": "far",
       "explanation": "Điền “far” để tạo từ/cụm từ đúng là “far”. Khi hoàn chỉnh, câu là: “Do you live near your parents? – No, I live far from them”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 126,
-      "question": "We collect all waste paper, scrap metal and re_ _ _ le them",
+      "question": "We collect all waste paper, scrap metal and re_ _ _ le them.",
       "answer": "cyc",
       "explanation": "Điền “cyc” để tạo từ/cụm từ đúng là “recyc”. Khi hoàn chỉnh, câu là: “We collect all waste paper, scrap metal and recyc le them”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 127,
-      "question": "How many languages can you s_ _ _ k? – Two. English and French",
+      "question": "How many languages can you s_ _ _ k? – Two. English and French.",
       "answer": "pea",
       "explanation": "Điền “pea” để tạo từ/cụm từ đúng là “spea”. Khi hoàn chỉnh, câu là: “How many languages can you spea k? – Two. English and French”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 128,
-      "question": "How _ _ _ is it from here to the post office? – Nearly 1 kilometre",
+      "question": "How _ _ _ is it from here to the post office? – Nearly 1 kilometre.",
       "answer": "far",
       "explanation": "Điền “far” để tạo từ/cụm từ đúng là “far”. Khi hoàn chỉnh, câu là: “How far is it from here to the post office? – Nearly 1 kilometre”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 129,
-      "question": "On the weekend, they often go trekking in the moun_ _ _ _",
+      "question": "On the weekend, they often go trekking in the moun_ _ _ _.",
       "answer": "tain",
       "explanation": "Điền “tain” để tạo từ/cụm từ đúng là “mountain”. Khi hoàn chỉnh, câu là: “On the weekend, they often go trekking in the mountain”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
@@ -1476,85 +1476,85 @@
     },
     {
       "id": 131,
-      "question": "- How _ _ _ _ are you going to stay here ? - For two weeks",
+      "question": "- How _ _ _ _ are you going to stay here ? - For two weeks.",
       "answer": "long",
       "explanation": "Điền “long” để tạo từ/cụm từ đúng là “long”. Khi hoàn chỉnh, câu là: “- How long are you going to stay here ? - For two weeks”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 132,
-      "question": "Can I _ _ _ _ you? - Yes, I’d like some beef, please",
+      "question": "Can I _ _ _ _ you? - Yes, I’d like some beef, please.",
       "answer": "help",
       "explanation": "Điền “help” để tạo từ/cụm từ đúng là “help”. Khi hoàn chỉnh, câu là: “Can I help you? - Yes, I’d like some beef, please”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 133,
-      "question": "A person who joins a club is also a partici_ _ _ _",
+      "question": "A person who joins a club is also a partici_ _ _ _.",
       "answer": "pant",
       "explanation": "Điền “pant” để tạo từ/cụm từ đúng là “participant”. Khi hoàn chỉnh, câu là: “A person who joins a club is also a participant”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 134,
-      "question": "How _ _ _ _ are you going to stay here? - For a week",
+      "question": "How _ _ _ _ are you going to stay here? - For a week.",
       "answer": "long",
       "explanation": "Điền “long” để tạo từ/cụm từ đúng là “long”. Khi hoàn chỉnh, câu là: “How long are you going to stay here? - For a week”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 135,
-      "question": "Do you have any toothpaste? I’d like a large _ _ _ _",
+      "question": "Do you have any toothpaste? I’d like a large _ _ _ _.",
       "answer": "tube",
       "explanation": "Điền “tube” để tạo từ/cụm từ đúng là “tube”. Khi hoàn chỉnh, câu là: “Do you have any toothpaste? I’d like a large tube”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 136,
-      "question": "How _ _ _ _ _ do you visit your relatives? – Once a week",
+      "question": "How _ _ _ _ _ do you visit your relatives? – Once a week.",
       "answer": "often",
       "explanation": "Điền “often” để tạo từ/cụm từ đúng là “often”. Khi hoàn chỉnh, câu là: “How often do you visit your relatives? – Once a week”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 137,
-      "question": "- A: How _ _ _ _ _ does she go jogging? – B: Every evening",
+      "question": "- A: How _ _ _ _ _ does she go jogging? – B: Every evening.",
       "answer": "often",
       "explanation": "Điền “often” để tạo từ/cụm từ đúng là “often”. Khi hoàn chỉnh, câu là: “- A: How often does she go jogging? – B: Every evening”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 138,
-      "question": "How _ _ _ _ _ are the Olympic Games held? – Every four years",
+      "question": "How _ _ _ _ _ are the Olympic Games held? – Every four years.",
       "answer": "often",
       "explanation": "Điền “often” để tạo từ/cụm từ đúng là “often”. Khi hoàn chỉnh, câu là: “How often are the Olympic Games held? – Every four years”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 139,
-      "question": "I will meet Minh in _ _ _ _ _ of the movie theater",
+      "question": "I will meet Minh in _ _ _ _ _ of the movie theater.",
       "answer": "front",
       "explanation": "Điền “front” để tạo từ/cụm từ đúng là “front”. Khi hoàn chỉnh, câu là: “I will meet Minh in front of the movie theater”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 140,
-      "question": "What are you _ _ _ _ _ ? – I’m playing with my cat",
+      "question": "What are you _ _ _ _ _ ? – I’m playing with my cat.",
       "answer": "doing",
       "explanation": "Điền “doing” để tạo từ/cụm từ đúng là “doing”. Khi hoàn chỉnh, câu là: “What are you doing ? – I’m playing with my cat”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 141,
-      "question": "What would you like to _ _ _ _ _ ? - An orange juice, please",
+      "question": "What would you like to _ _ _ _ _ ? - An orange juice, please.",
       "answer": "drink",
       "explanation": "Điền “drink” để tạo từ/cụm từ đúng là “drink”. Khi hoàn chỉnh, câu là: “What would you like to drink ? - An orange juice, please”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 142,
-      "question": "A: How are you? – B: I’m fine, _ _ _ _ _ you",
+      "question": "A: How are you? – B: I’m fine, _ _ _ _ _ you.",
       "answer": "thank",
       "explanation": "Điền “thank” để tạo từ/cụm từ đúng là “thank”. Khi hoàn chỉnh, câu là: “A: How are you? – B: I’m fine, thank you”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 143,
-      "question": "Miss Nga _ _ _ _ _ at 24 Ly Thuong Kiet Street, Hoan Kiem",
+      "question": "Miss Nga _ _ _ _ _ at 24 Ly Thuong Kiet Street, Hoan Kiem.",
       "answer": "lives",
       "explanation": "Điền “lives” để tạo từ/cụm từ đúng là “lives”. Khi hoàn chỉnh, câu là: “Miss Nga lives at 24 Ly Thuong Kiet Street, Hoan Kiem”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 144,
-      "question": "I’m _ _ _ _ _ _ . I’d like some biscuits",
+      "question": "I’m _ _ _ _ _ _ . I’d like some biscuits.",
       "answer": "hungry",
       "explanation": "Điền “hungry” để tạo từ/cụm từ đúng là “hungry”. Khi hoàn chỉnh, câu là: “I’m hungry . I’d like some biscuits”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
@@ -1566,139 +1566,139 @@
     },
     {
       "id": 146,
-      "question": "April, June and September have _ _ _ _ _ _ days",
+      "question": "April, June and September have _ _ _ _ _ _ days.",
       "answer": "thirty",
       "explanation": "Điền “thirty” để tạo từ/cụm từ đúng là “thirty”. Khi hoàn chỉnh, câu là: “April, June and September have thirty days”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 147,
-      "question": "Cabbages, spinach and beans are vege_ _ _ _ _ _",
+      "question": "Cabbages, spinach and beans are vege_ _ _ _ _ _.",
       "answer": "tables",
       "explanation": "Điền “tables” để tạo từ/cụm từ đúng là “vegetables”. Khi hoàn chỉnh, câu là: “Cabbages, spinach and beans are vegetables”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 148,
-      "question": "He wants to _ _ _ _ _ _ an engineer",
+      "question": "He wants to _ _ _ _ _ _ an engineer.",
       "answer": "become",
       "explanation": "Điền “become” để tạo từ/cụm từ đúng là “become”. Khi hoàn chỉnh, câu là: “He wants to become an engineer”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 149,
-      "question": "They are playing bad_ _ _ _ _ _ in the yard",
+      "question": "They are playing bad_ _ _ _ _ _ in the yard.",
       "answer": "minton",
       "explanation": "Điền “minton” để tạo từ/cụm từ đúng là “badminton”. Khi hoàn chỉnh, câu là: “They are playing badminton in the yard”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 150,
-      "question": "Which number comes right after nineteen? - _ _ _ _ _ _",
+      "question": "Which number comes right after nineteen? - _ _ _ _ _ _.",
       "answer": "Twenty",
       "explanation": "Điền “Twenty” để tạo từ/cụm từ đúng là “Twenty”. Khi hoàn chỉnh, câu là: “Which number comes right after nineteen? - Twenty”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 151,
-      "question": "Nile River is _ _ _ _ _ _ than Amazon River",
+      "question": "Nile River is _ _ _ _ _ _ than Amazon River.",
       "answer": "longer",
       "explanation": "Điền “longer” để tạo từ/cụm từ đúng là “longer”. Khi hoàn chỉnh, câu là: “Nile River is longer than Amazon River”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 152,
-      "question": "_ _ _ _ _ _ robots can help sick people",
+      "question": "_ _ _ _ _ _ robots can help sick people.",
       "answer": "doctor",
       "explanation": "Điền “doctor” để tạo từ/cụm từ đúng là “doctor”. Khi hoàn chỉnh, câu là: “doctor robots can help sick people”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 153,
-      "question": "She is from France. She speaks _ _ _ _ _ _",
+      "question": "She is from France. She speaks _ _ _ _ _ _.",
       "answer": "French",
       "explanation": "Điền “French” để tạo từ/cụm từ đúng là “French”. Khi hoàn chỉnh, câu là: “She is from France. She speaks French”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 154,
-      "question": "It’s very cold in _ _ _ _ _ _",
+      "question": "It’s very cold in _ _ _ _ _ _.",
       "answer": "winter",
       "explanation": "Điền “winter” để tạo từ/cụm từ đúng là “winter”. Khi hoàn chỉnh, câu là: “It’s very cold in winter”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 155,
-      "question": "Lan speaks English _ _ _ _ _ _ than me",
+      "question": "Lan speaks English _ _ _ _ _ _ than me.",
       "answer": "better",
       "explanation": "Điền “better” để tạo từ/cụm từ đúng là “better”. Khi hoàn chỉnh, câu là: “Lan speaks English better than me”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 156,
-      "question": "Millions of children _ _ _ _ _ _ the world enjoy the show",
+      "question": "Millions of children _ _ _ _ _ _ the world enjoy the show.",
       "answer": "around",
       "explanation": "Điền “around” để tạo từ/cụm từ đúng là “around”. Khi hoàn chỉnh, câu là: “Millions of children around the world enjoy the show”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 157,
-      "question": "We can’t _ _ _ _ _ _ to buy a car",
+      "question": "We can’t _ _ _ _ _ _ to buy a car.",
       "answer": "afford",
       "explanation": "Điền “afford” để tạo từ/cụm từ đúng là “afford”. Khi hoàn chỉnh, câu là: “We can’t afford to buy a car”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 158,
-      "question": "I think people will stay on the Moon for a short _ _ _ _",
+      "question": "I think people will stay on the Moon for a short _ _ _ _.",
       "answer": "time",
       "explanation": "Điền “time” để tạo từ/cụm từ đúng là “time”. Khi hoàn chỉnh, câu là: “I think people will stay on the Moon for a short time”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 159,
-      "question": "I always _ _ _ _ for a long and happy lie for my parents",
+      "question": "I always _ _ _ _ for a long and happy lie for my parents.",
       "answer": "wish",
       "explanation": "Điền “wish” để tạo từ/cụm từ đúng là “wish”. Khi hoàn chỉnh, câu là: “I always wish for a long and happy lie for my parents”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 160,
-      "question": "A: What would you _ _ _ _ to drink? – B: An orange juice, please",
+      "question": "A: What would you _ _ _ _ to drink? – B: An orange juice, please.",
       "answer": "like",
       "explanation": "Điền “like” để tạo từ/cụm từ đúng là “like”. Khi hoàn chỉnh, câu là: “A: What would you like to drink? – B: An orange juice, please”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 161,
-      "question": "Can I help you? – I’d like ten _ _ _ _ of soda, please",
+      "question": "Can I help you? – I’d like ten _ _ _ _ of soda, please.",
       "answer": "cans",
       "explanation": "Điền “cans” để tạo từ/cụm từ đúng là “cans”. Khi hoàn chỉnh, câu là: “Can I help you? – I’d like ten cans of soda, please”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 162,
-      "question": "Which sea does the Red River _ _ _ _ into? - The Gulf of Tonkin",
+      "question": "Which sea does the Red River _ _ _ _ into? - The Gulf of Tonkin.",
       "answer": "flow",
       "explanation": "Điền “flow” để tạo từ/cụm từ đúng là “flow”. Khi hoàn chỉnh, câu là: “Which sea does the Red River flow into? - The Gulf of Tonkin”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 163,
-      "question": "Schools here often plans to improve water safety aware_ _ _ _ for children",
+      "question": "Schools here often plans to improve water safety aware_ _ _ _ for children.",
       "answer": "ness",
       "explanation": "Điền “ness” để tạo từ/cụm từ đúng là “awareness”. Khi hoàn chỉnh, câu là: “Schools here often plans to improve water safety awareness for children”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 164,
-      "question": "She has to use a cal_ _ _ _ tor to do Math exercises",
+      "question": "She has to use a cal_ _ _ _ tor to do Math exercises.",
       "answer": "cula",
       "explanation": "Điền “cula” để tạo từ/cụm từ đúng là “calcula”. Khi hoàn chỉnh, câu là: “She has to use a calcula tor to do Math exercises”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 165,
-      "question": "A: How do you _ _ _ _ _ your name?- B: N-G-A",
+      "question": "A: How do you _ _ _ _ _ your name?- B: N-G-A.",
       "answer": "spell",
       "explanation": "Điền “spell” để tạo từ/cụm từ đúng là “spell”. Khi hoàn chỉnh, câu là: “A: How do you spell your name?- B: N-G-A”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 166,
-      "question": "A: How _ _ _ is it from your house to the market? – B: About 1 kilometre",
+      "question": "A: How _ _ _ is it from your house to the market? – B: About 1 kilometre.",
       "answer": "far",
       "explanation": "Điền “far” để tạo từ/cụm từ đúng là “far”. Khi hoàn chỉnh, câu là: “A: How far is it from your house to the market? – B: About 1 kilometre”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 167,
-      "question": "The meal we have in the evening is called _ _ _ _ _ _",
+      "question": "The meal we have in the evening is called _ _ _ _ _ _.",
       "answer": "dinner",
       "explanation": "Điền “dinner” để tạo từ/cụm từ đúng là “dinner”. Khi hoàn chỉnh, câu là: “The meal we have in the evening is called dinner”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 168,
-      "question": "My mother is a _ _ _ _ _ _ . She works in a hospital",
+      "question": "My mother is a _ _ _ _ _ _ . She works in a hospital.",
       "answer": "doctor",
       "explanation": "Điền “doctor” để tạo từ/cụm từ đúng là “doctor”. Khi hoàn chỉnh, câu là: “My mother is a doctor . She works in a hospital”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
@@ -1710,31 +1710,31 @@
     },
     {
       "id": 170,
-      "question": "She’s out at the _ _ _ _ _ _ . Please call back later",
+      "question": "She’s out at the _ _ _ _ _ _ . Please call back later.",
       "answer": "moment",
       "explanation": "Điền “moment” để tạo từ/cụm từ đúng là “moment”. Khi hoàn chỉnh, câu là: “She’s out at the moment . Please call back later”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 171,
-      "question": "I like swimming very much. There is a swimming _ _ _ _ near my school",
+      "question": "I like swimming very much. There is a swimming _ _ _ _ near my school.",
       "answer": "pool",
       "explanation": "Điền “pool” để tạo từ/cụm từ đúng là “pool”. Khi hoàn chỉnh, câu là: “I like swimming very much. There is a swimming pool near my school”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 172,
-      "question": "Small children shouldn’t run or walk a_ _ _ _ d the pool edge",
+      "question": "Small children shouldn’t run or walk a_ _ _ _ d the pool edge.",
       "answer": "roun",
       "explanation": "Điền “roun” để tạo từ/cụm từ đúng là “aroun”. Khi hoàn chỉnh, câu là: “Small children shouldn’t run or walk aroun d the pool edge”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 173,
-      "question": "The English summer is never hot, and the winter is not very _ _ _ _",
+      "question": "The English summer is never hot, and the winter is not very _ _ _ _.",
       "answer": "cold",
       "explanation": "Điền “cold” để tạo từ/cụm từ đúng là “cold”. Khi hoàn chỉnh, câu là: “The English summer is never hot, and the winter is not very cold”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 174,
-      "question": "The past simple form of ’’think’’ is ’’_ _ _ _ _ _ _ ’’",
+      "question": "The past simple form of ’’think’’ is ’’_ _ _ _ _ _ _ ’’.",
       "answer": "thought",
       "explanation": "Điền “thought” để tạo từ/cụm từ đúng là “thought”. Khi hoàn chỉnh, câu là: “The past simple form of ’’think’’ is ’’thought ’’”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
@@ -1746,91 +1746,91 @@
     },
     {
       "id": 176,
-      "question": "Let him do it _ _ _ _ _ _ _",
+      "question": "Let him do it _ _ _ _ _ _ _.",
       "answer": "himself",
       "explanation": "Điền “himself” để tạo từ/cụm từ đúng là “himself”. Khi hoàn chỉnh, câu là: “Let him do it himself”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 177,
-      "question": "3Rs stands for Reduce, Reuse and _ _ _ _ _ _ _",
+      "question": "3Rs stands for Reduce, Reuse and _ _ _ _ _ _ _.",
       "answer": "recycle",
       "explanation": "Điền “recycle” để tạo từ/cụm từ đúng là “recycle”. Khi hoàn chỉnh, câu là: “3Rs stands for Reduce, Reuse and recycle”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 178,
-      "question": "Nam is _ _ _ _ _ _ _ something on his book",
+      "question": "Nam is _ _ _ _ _ _ _ something on his book.",
       "answer": "writing",
       "explanation": "Điền “writing” để tạo từ/cụm từ đúng là “writing”. Khi hoàn chỉnh, câu là: “Nam is writing something on his book”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 179,
-      "question": "Phanxipang is the _ _ _ _ _ _ _ mountain in Viet Nam",
+      "question": "Phanxipang is the _ _ _ _ _ _ _ mountain in Viet Nam.",
       "answer": "highest",
       "explanation": "Điền “highest” để tạo từ/cụm từ đúng là “highest”. Khi hoàn chỉnh, câu là: “Phanxipang is the highest mountain in Viet Nam”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 180,
-      "question": "We need a tent to go _ _ _ _ _ _ _",
+      "question": "We need a tent to go _ _ _ _ _ _ _.",
       "answer": "camping",
       "explanation": "Điền “camping” để tạo từ/cụm từ đúng là “camping”. Khi hoàn chỉnh, câu là: “We need a tent to go camping”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 181,
-      "question": "Thanks for helping me! – You're _ _ _ _ _ _ _",
+      "question": "Thanks for helping me! – You're _ _ _ _ _ _ _.",
       "answer": "welcome",
       "explanation": "Điền “welcome” để tạo từ/cụm từ đúng là “welcome”. Khi hoàn chỉnh, câu là: “Thanks for helping me! – You're welcome”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 182,
-      "question": "My father likes _ _ _ _ _ _ _ newspaper very much",
+      "question": "My father likes _ _ _ _ _ _ _ newspaper very much.",
       "answer": "reading",
       "explanation": "Điền “reading” để tạo từ/cụm từ đúng là “reading”. Khi hoàn chỉnh, câu là: “My father likes reading newspaper very much”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 183,
-      "question": "We _ _ _ _ _ _ _ waste food and feed it to pigs",
+      "question": "We _ _ _ _ _ _ _ waste food and feed it to pigs.",
       "answer": "collect",
       "explanation": "Điền “collect” để tạo từ/cụm từ đúng là “collect”. Khi hoàn chỉnh, câu là: “We collect waste food and feed it to pigs”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 184,
-      "question": "Please ask the receptionist for _ _ _ _ _ _ _ information",
+      "question": "Please ask the receptionist for _ _ _ _ _ _ _ information.",
       "answer": "further",
       "explanation": "Điền “further” để tạo từ/cụm từ đúng là “further”. Khi hoàn chỉnh, câu là: “Please ask the receptionist for further information”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 185,
-      "question": "Watching television too long is _ _ _ _ _ _ _ to your eyes",
+      "question": "Watching television too long is _ _ _ _ _ _ _ to your eyes.",
       "answer": "harmful",
       "explanation": "Điền “harmful” để tạo từ/cụm từ đúng là “harmful”. Khi hoàn chỉnh, câu là: “Watching television too long is harmful to your eyes”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 186,
-      "question": "Is there anything to drink? I’m _ _ _ _ _ _ _",
+      "question": "Is there anything to drink? I’m _ _ _ _ _ _ _.",
       "answer": "thirsty",
       "explanation": "Điền “thirsty” để tạo từ/cụm từ đúng là “thirsty”. Khi hoàn chỉnh, câu là: “Is there anything to drink? I’m thirsty”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 187,
-      "question": "What about _ _ _ _ _ _ _ football? - It’s a nice idea",
+      "question": "What about _ _ _ _ _ _ _ football? - It’s a nice idea.",
       "answer": "playing",
       "explanation": "Điền “playing” để tạo từ/cụm từ đúng là “playing”. Khi hoàn chỉnh, câu là: “What about playing football? - It’s a nice idea”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 188,
-      "question": "My sister doesn't like volleyball at all. She _ _ _ _ _ plays it",
+      "question": "My sister doesn't like volleyball at all. She _ _ _ _ _ plays it.",
       "answer": "never",
       "explanation": "Điền “never” để tạo từ/cụm từ đúng là “never”. Khi hoàn chỉnh, câu là: “My sister doesn't like volleyball at all. She never plays it”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 189,
-      "question": "A: How do you _ _ _ _ _ your name? – B: L-A-N, Lan",
+      "question": "A: How do you _ _ _ _ _ your name? – B: L-A-N, Lan.",
       "answer": "spell",
       "explanation": "Điền “spell” để tạo từ/cụm từ đúng là “spell”. Khi hoàn chỉnh, câu là: “A: How do you spell your name? – B: L-A-N, Lan”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },
     {
       "id": 190,
-      "question": "We can _ _ _ _ _ food from the restaurant by calling at its hotline",
+      "question": "We can _ _ _ _ _ food from the restaurant by calling at its hotline.",
       "answer": "order",
       "explanation": "Điền “order” để tạo từ/cụm từ đúng là “order”. Khi hoàn chỉnh, câu là: “We can order food from the restaurant by calling at its hotline”; từ này phù hợp với nghĩa và cách viết chuẩn."
     }
