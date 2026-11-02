@@ -107,28 +107,12 @@
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206315177231266_Audio.mp3"
     },
     {
-      "id": 14,
-      "question": "Pat is in the _ _ _ _ _ _ room.",
-      "options": [],
-      "answer": "Đề hỏi nội dung không xuất hiện trong bài nghe. “14” không được nhắc đến, nên chọn A; các phương án còn lại là những chi tiết có trong file nghe gốc. Nguồn đối chiếu: đề IOE gốc số 33, câu 125.",
-      "explanation": "",
-      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2018/3/1/636555109922358236_Audio.mp3"
-    },
-    {
       "id": 15,
       "question": "How do you _ _ _ _ _ your name?",
       "options": [],
       "answer": "spell",
       "explanation": "Ở vị trí trống, file nghe phát “spell”. Điền từ/cụm này tạo câu “How do you spell your name?”. Nguồn đối chiếu: đề IOE gốc số 26, câu 149.",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2015/1/9/635564309900068258_Audio.mp3"
-    },
-    {
-      "id": 16,
-      "question": "Ben’s _ _ _ _ _ years old today.",
-      "options": [],
-      "answer": "Đề hỏi nội dung không xuất hiện trong bài nghe. “16” không được nhắc đến, nên chọn A; các phương án còn lại là những chi tiết có trong file nghe gốc. Nguồn đối chiếu: đề IOE gốc số 20, câu 78.",
-      "explanation": "",
-      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2019/1/11/636828227366080431_Audio.mp3"
     },
     {
       "id": 17,
@@ -409,14 +393,6 @@
       "answer": "five",
       "explanation": "Ở vị trí trống, file nghe phát “five”, nghĩa là “số năm”. Điền từ/cụm này tạo câu “There are five books in the bookcase”. “There are” dùng để nói có nhiều người hoặc vật. Nguồn đối chiếu: đề IOE gốc số 5, câu 1.",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/21/635206392629963305_Audio.mp3"
-    },
-    {
-      "id": 52,
-      "question": "It has a big school _ _ _ _ _ _ _ _ _ _.",
-      "options": [],
-      "answer": "Bài nghe cung cấp con số/độ tuổi “52”. Chi tiết này trùng với phương án A; các con số còn lại không khớp. Nguồn đối chiếu: đề IOE gốc số 41, câu 187.",
-      "explanation": "",
-      "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2017/3/2/636240496663578143_Audio.mp3"
     },
     {
       "id": 53,
