@@ -487,7 +487,7 @@
     },
     {
       "id": 70,
-      "question": "How/ today?/ is/ your/ mother",
+      "question": "How/ today?/ is/ your/ mother/",
       "options": [],
       "answer": "How is your mother today?",
       "explanation": "Trong câu “How is your mother today?”, đặt từ hỏi “How” ở đầu, rồi đến “is”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
@@ -550,7 +550,7 @@
     },
     {
       "id": 79,
-      "question": "is/ The/ bookcase/ brown.",
+      "question": "is/ The/ bookcase/ brown./",
       "options": [],
       "answer": "The bookcase is brown.",
       "explanation": "Trong câu “The bookcase is brown”, đặt chủ ngữ “The” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
@@ -585,14 +585,14 @@
     },
     {
       "id": 84,
-      "question": "you/ How/ do/ your name?/ spell",
+      "question": "you/ How/ do/ your name?/ spell/",
       "options": [],
       "answer": "How do you spell your name?",
       "explanation": "Trong câu “How do you spell your name?”, đặt từ hỏi “How” ở đầu, rồi đến “do”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
     },
     {
       "id": 85,
-      "question": "I/ come/ May/ in?",
+      "question": "I/ come/ May/ in?/",
       "options": [],
       "answer": "May I come in?",
       "explanation": "Trong câu “May I come in?”, đưa “May” lên đầu để tạo câu hỏi Yes/No, rồi đặt chủ ngữ và phần còn lại; cuối câu dùng dấu hỏi."
@@ -634,7 +634,7 @@
     },
     {
       "id": 91,
-      "question": "His/ is/ name/ Tommy.",
+      "question": "His/ is/ name/ Tommy./",
       "options": [],
       "answer": "His name is Tommy.",
       "explanation": "Trong câu “His name is Tommy”, đặt chủ ngữ “His” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
@@ -697,21 +697,21 @@
     },
     {
       "id": 100,
-      "question": "What/ your/ is/ name?",
+      "question": "What/ your/ is/ name?/",
       "options": [],
       "answer": "What is your name?",
       "explanation": "Trong câu “What is your name?”, đặt từ hỏi “What” ở đầu, rồi đến “is”, sau đó là chủ ngữ và nội dung cần hỏi; cuối câu dùng dấu hỏi."
     },
     {
       "id": 101,
-      "question": "often/ It is/ rainy/ July./ in",
+      "question": "often/ It is/ rainy/ July./ in/",
       "options": [],
       "answer": "It is often rainy in July.",
       "explanation": "Trong câu “It is often rainy in July”, đặt chủ ngữ “It” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
     },
     {
       "id": 102,
-      "question": "to school/ go/ We/ early./ so",
+      "question": "to school/ go/ We/ early./ so/",
       "options": [],
       "answer": "We go to school so early.",
       "explanation": "Trong câu “We go to school so early”, đặt chủ ngữ “We” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."
@@ -795,7 +795,7 @@
     },
     {
       "id": 114,
-      "question": "pen. It’s not/ This is/ my/ your pen.",
+      "question": "pen. It’s not/ This is/ my/ your pen./",
       "options": [],
       "answer": "This is my pen. It’s not your pen.",
       "explanation": "Trong câu “This is my pen. It’s not your pen”, đặt chủ ngữ “This” trước, sau đó là động từ/cụm động từ và phần bổ sung; trật tự này làm rõ ai thực hiện hành động hoặc có đặc điểm gì."

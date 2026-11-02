@@ -95,7 +95,7 @@
     },
     {
       "id": 14,
-      "question": "Sắp xếp: Here/ my/ is/ notebook.",
+      "question": "Sắp xếp: Here/ my/ is/ notebook./",
       "options": [],
       "answer": "Here is my notebook.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Here is my notebook.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 114."
@@ -186,7 +186,7 @@
     },
     {
       "id": 27,
-      "question": "Sắp xếp: Is/ this/ your/ pen?",
+      "question": "Sắp xếp: Is/ this/ your/ pen?/",
       "options": [],
       "answer": "Is this your pen?",
       "explanation": "Đặt “Is” ở đầu để tạo câu hỏi Yes/No; sau đó là chủ ngữ và phần còn lại của câu. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “Is this your pen?”. Nguồn đối chiếu: đề IOE gốc số 5, câu 149."
@@ -207,7 +207,7 @@
     },
     {
       "id": 30,
-      "question": "Sắp xếp: What/ have?/ does/ subjects/ he",
+      "question": "Sắp xếp: What/ have?/ does/ subjects/ he/",
       "options": [],
       "answer": "What subjects does he have?",
       "explanation": "Đặt từ hỏi “What” ở đầu, tiếp theo là trợ động từ hoặc “to be”, rồi đến chủ ngữ. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “What subjects does he have?”. Nguồn đối chiếu: đề IOE gốc số 1, câu 116."
@@ -235,7 +235,7 @@
     },
     {
       "id": 34,
-      "question": "Sắp xếp: the teacher/ Write/ what/ says.",
+      "question": "Sắp xếp: the teacher/ Write/ what/ says./",
       "options": [],
       "answer": "Write what the teacher says.",
       "explanation": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu; “please” được đặt đầu hoặc cuối để lời yêu cầu lịch sự. Câu hoàn chỉnh: “Write what the teacher says.”. Nguồn đối chiếu: đề IOE gốc số 2, câu 50."
@@ -256,7 +256,7 @@
     },
     {
       "id": 37,
-      "question": "Sắp xếp: May/ I/ borrow/ your notebook?",
+      "question": "Sắp xếp: May/ I/ borrow/ your notebook?/",
       "options": [],
       "answer": "May I borrow your notebook?",
       "explanation": "Đặt “May” ở đầu để tạo câu hỏi Yes/No; sau đó là chủ ngữ và phần còn lại của câu. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “May I borrow your notebook?”. Nguồn đối chiếu: đề IOE gốc số 2, câu 112."
@@ -277,7 +277,7 @@
     },
     {
       "id": 40,
-      "question": "Sắp xếp: your/ room?/ it/ Is/ computer",
+      "question": "Sắp xếp: your/ room?/ it/ Is/ computer/",
       "options": [],
       "answer": "Is it your computer room?",
       "explanation": "Đặt “Is” ở đầu để tạo câu hỏi Yes/No; sau đó là chủ ngữ và phần còn lại của câu. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “Is it your computer room?”. Nguồn đối chiếu: đề IOE gốc số 3, câu 21."
@@ -298,7 +298,7 @@
     },
     {
       "id": 43,
-      "question": "Sắp xếp: cats/ many/ How/ there?/ are",
+      "question": "Sắp xếp: cats/ many/ How/ there?/ are/",
       "options": [],
       "answer": "How many cats are there?",
       "explanation": "Đặt từ hỏi “How” ở đầu, tiếp theo là trợ động từ hoặc “to be”, rồi đến chủ ngữ. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “How many cats are there?”. Nguồn đối chiếu: đề IOE gốc số 3, câu 135."
@@ -319,28 +319,28 @@
     },
     {
       "id": 46,
-      "question": "Sắp xếp: classroom/ is/ My/ small.",
+      "question": "Sắp xếp: classroom/ is/ My/ small./",
       "options": [],
       "answer": "My classroom is small.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “My classroom is small.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 21."
     },
     {
       "id": 47,
-      "question": "Sắp xếp: classroom/ My/ is/ big.",
+      "question": "Sắp xếp: classroom/ My/ is/ big./",
       "options": [],
       "answer": "My classroom is big.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “My classroom is big.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 54."
     },
     {
       "id": 48,
-      "question": "Sắp xếp: My/ is/ name/ Billy.",
+      "question": "Sắp xếp: My/ is/ name/ Billy./",
       "options": [],
       "answer": "My name is Billy.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “My name is Billy.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 66."
     },
     {
       "id": 49,
-      "question": "Sắp xếp: you/ fine/ Are/ today?",
+      "question": "Sắp xếp: you/ fine/ Are/ today?/",
       "options": [],
       "answer": "Are you fine today?",
       "explanation": "Đặt “Are” ở đầu để tạo câu hỏi Yes/No; sau đó là chủ ngữ và phần còn lại của câu. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “Are you fine today?”. Nguồn đối chiếu: đề IOE gốc số 8, câu 140."
@@ -375,7 +375,7 @@
     },
     {
       "id": 54,
-      "question": "Sắp xếp: apple./ This/ is/ a/ red",
+      "question": "Sắp xếp: apple./ This/ is/ a/ red/",
       "options": [],
       "answer": "This is a red apple.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “This is a red apple.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 134."
@@ -403,7 +403,7 @@
     },
     {
       "id": 58,
-      "question": "Sắp xếp: book/ Put/ your/ away.",
+      "question": "Sắp xếp: book/ Put/ your/ away./",
       "options": [],
       "answer": "Put your book away.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Put your book away.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 56."
@@ -438,7 +438,7 @@
     },
     {
       "id": 63,
-      "question": "Sắp xếp: classmates./ not/ are/ They/ my",
+      "question": "Sắp xếp: classmates./ not/ are/ They/ my/",
       "options": [],
       "answer": "They are not my classmates.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “They are not my classmates.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 63."
@@ -452,7 +452,7 @@
     },
     {
       "id": 65,
-      "question": "Sắp xếp: book./ It/ a/ is/ small",
+      "question": "Sắp xếp: book./ It/ a/ is/ small/",
       "options": [],
       "answer": "It is a small book.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “It is a small book.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 187."
@@ -513,7 +513,7 @@
     },
     {
       "id": 73,
-      "question": "Sắp xếp: a blue/ is/ It/ ball.",
+      "question": "Sắp xếp: a blue/ is/ It/ ball./",
       "options": [],
       "answer": "It is a blue ball.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “It is a blue ball.”. Nguồn đối chiếu: đề IOE gốc số 6, câu 103."
@@ -569,7 +569,7 @@
     },
     {
       "id": 81,
-      "question": "Sắp xếp: new/ This is/ my/ school bag.",
+      "question": "Sắp xếp: new/ This is/ my/ school bag./",
       "options": [],
       "answer": "This is my new school bag.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “This is my new school bag.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 10."
@@ -583,7 +583,7 @@
     },
     {
       "id": 83,
-      "question": "Sắp xếp: your/ hands/ the table./ Put/ on",
+      "question": "Sắp xếp: your/ hands/ the table./ Put/ on/",
       "options": [],
       "answer": "Put your hands on the table.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Put your hands on the table.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 79."
@@ -604,7 +604,7 @@
     },
     {
       "id": 86,
-      "question": "Sắp xếp: is/ He/ my/ father.",
+      "question": "Sắp xếp: is/ He/ my/ father./",
       "options": [],
       "answer": "He is my father.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “He is my father.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 46."
@@ -632,7 +632,7 @@
     },
     {
       "id": 90,
-      "question": "Sắp xếp: a red/ That/ is/ pencil.",
+      "question": "Sắp xếp: a red/ That/ is/ pencil./",
       "options": [],
       "answer": "That is a red pencil.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “That is a red pencil.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 88."
@@ -784,14 +784,14 @@
     },
     {
       "id": 111,
-      "question": "Sắp xếp: Let's/ book./ read/ a/ comic",
+      "question": "Sắp xếp: Let's/ book./ read/ a/ comic/",
       "options": [],
       "answer": "Let's read a comic book.",
       "explanation": "Dùng mẫu “Let’s + động từ nguyên mẫu” để rủ hoặc đề nghị cùng làm một việc. Câu hoàn chỉnh: “Let's read a comic book.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 72."
     },
     {
       "id": 112,
-      "question": "Sắp xếp: in/ are/ They/ the park.",
+      "question": "Sắp xếp: in/ are/ They/ the park./",
       "options": [],
       "answer": "They are in the park.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “They are in the park.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 81."
@@ -805,7 +805,7 @@
     },
     {
       "id": 114,
-      "question": "Sắp xếp: Where/ your/ school?/ is/ primary",
+      "question": "Sắp xếp: Where/ your/ school?/ is/ primary/",
       "options": [],
       "answer": "Where is your primary school?",
       "explanation": "Đặt từ hỏi “Where” ở đầu, tiếp theo là trợ động từ hoặc “to be”, rồi đến chủ ngữ. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “Where is your primary school?”. Nguồn đối chiếu: đề IOE gốc số 10, câu 109."
@@ -826,7 +826,7 @@
     },
     {
       "id": 117,
-      "question": "Sắp xếp: Raise/ your/ hands, / please.",
+      "question": "Sắp xếp: Raise/ your/ hands, / please./",
       "options": [],
       "answer": "Raise your hands, please.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Raise your hands, please”. Nguồn đối chiếu: đề IOE gốc số 2, câu 100."
@@ -840,7 +840,7 @@
     },
     {
       "id": 119,
-      "question": "Sắp xếp: Give/ your/ me/ notebooks.",
+      "question": "Sắp xếp: Give/ your/ me/ notebooks./",
       "options": [],
       "answer": "Give me your notebooks.",
       "explanation": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu; “please” được đặt đầu hoặc cuối để lời yêu cầu lịch sự. Câu hoàn chỉnh: “Give me your notebooks.”. Nguồn đối chiếu: đề IOE gốc số 15, câu 30."
@@ -882,7 +882,7 @@
     },
     {
       "id": 125,
-      "question": "Sắp xếp: yellow/ Their bags/ are/ and green.",
+      "question": "Sắp xếp: yellow/ Their bags/ are/ and green./",
       "options": [],
       "answer": "Their bags are yellow and green.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Their bags are yellow and green.”. Nguồn đối chiếu: đề IOE gốc số 7, câu 79."
@@ -903,7 +903,7 @@
     },
     {
       "id": 128,
-      "question": "Sắp xếp: is/ This/ my/ bedroom.",
+      "question": "Sắp xếp: is/ This/ my/ bedroom./",
       "options": [],
       "answer": "This is my bedroom.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “This is my bedroom.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 160."
@@ -917,7 +917,7 @@
     },
     {
       "id": 130,
-      "question": "Sắp xếp: Clean/ your/ teeth/, please.",
+      "question": "Sắp xếp: Clean/ your/ teeth/, please./",
       "options": [],
       "answer": "Clean your teeth, please.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Clean your teeth, please.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 130."
@@ -931,7 +931,7 @@
     },
     {
       "id": 132,
-      "question": "Sắp xếp: red/ are there?/ many/ How/ apples",
+      "question": "Sắp xếp: red/ are there?/ many/ How/ apples/",
       "options": [],
       "answer": "How many red apples are there?",
       "explanation": "Đặt từ hỏi “How” ở đầu, tiếp theo là trợ động từ hoặc “to be”, rồi đến chủ ngữ. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “How many red apples are there?”. Nguồn đối chiếu: đề IOE gốc số 8, câu 162."
@@ -959,7 +959,7 @@
     },
     {
       "id": 136,
-      "question": "Sắp xếp: you/ See/ Bye./ later.",
+      "question": "Sắp xếp: you/ See/ Bye./ later./",
       "options": [],
       "answer": "Bye. See you later.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Bye. See you later.”. Nguồn đối chiếu: đề IOE gốc số 5, câu 3."
@@ -987,7 +987,7 @@
     },
     {
       "id": 140,
-      "question": "Sắp xếp: is/ My/ school/ new and big.",
+      "question": "Sắp xếp: is/ My/ school/ new and big./",
       "options": [],
       "answer": "My school is new and big.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “My school is new and big.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 175."
@@ -1034,7 +1034,7 @@
     },
     {
       "id": 146,
-      "question": "Sắp xếp: It/ Monday/ is/ today.",
+      "question": "Sắp xếp: It/ Monday/ is/ today./",
       "options": [],
       "answer": "It is Monday today.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “It is Monday today.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 146."
@@ -1083,7 +1083,7 @@
     },
     {
       "id": 153,
-      "question": "Sắp xếp: my/ is/ teacher./ Miss Lien/ new",
+      "question": "Sắp xếp: my/ is/ teacher./ Miss Lien/ new/",
       "options": [],
       "answer": "Miss Lien is my new teacher.",
       "explanation": "Sắp xếp theo trật tự câu kể: chủ ngữ đứng trước, tiếp theo là động từ, rồi đến tân ngữ hoặc thông tin bổ sung. Câu hoàn chỉnh: “Miss Lien is my new teacher.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 9."
@@ -1188,7 +1188,7 @@
     },
     {
       "id": 168,
-      "question": "Sắp xếp: these/ his pens and/ Are/ pencils?",
+      "question": "Sắp xếp: these/ his pens and/ Are/ pencils?/",
       "options": [],
       "answer": "Are these his pens and pencils?",
       "explanation": "Đặt “Are” ở đầu để tạo câu hỏi Yes/No; sau đó là chủ ngữ và phần còn lại của câu. Cuối câu dùng dấu hỏi. Câu hoàn chỉnh: “Are these his pens and pencils?”. Nguồn đối chiếu: đề IOE gốc số 11, câu 135."
