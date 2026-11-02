@@ -695,7 +695,7 @@
       "options": [
         "A. boat trip along the sea",
         "A. boat trip along rivers",
-        "A. boat trip along canals",
+        "A. A boat trip along canals",
         "A. boat trip around the island"
       ],
       "answer": "A. A boat trip along canals",
@@ -1180,7 +1180,7 @@
         "A. T-shirt and jeans",
         "B. Big jeans",
         "A. pink T-shirt",
-        "A. shiny dress"
+        "A. A shiny dress"
       ],
       "answer": "A. A shiny dress",
       "explanation": "Đáp án: A. A shiny dress",
@@ -1391,7 +1391,7 @@
         "A. lot of lucky money",
         "A. lot of candies",
         "A. lot of lucky wishes",
-        "A. lot of parties"
+        "A. A lot of parties"
       ],
       "answer": "A. A lot of parties",
       "explanation": "Đáp án: A. A lot of parties",
@@ -1440,7 +1440,8 @@
       "id": 114,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. My friend is staying with us next week."
+        "A. My friend is staying with us next week.",
+        "C. My aunt is staying with us this week."
       ],
       "answer": "C. My aunt is staying with us this week.",
       "explanation": "Đáp án: C. My aunt is staying with us this week. | Chú ý: A: aunt, this, (không phải 'friend'), (không phải 'next') | B: aunt, (không phải 'uncle')",
@@ -1450,9 +1451,10 @@
       "id": 115,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Today I go to the library and borrow some story books."
+        "A. Today I go to the library and borrow some story books.",
+        "C. Today I go to the library and choose some story books."
       ],
-      "answer": "C. Today I go to the library and choose some story bo",
+      "answer": "C. Today I go to the library and choose some story books.",
       "explanation": "Đáp án: C. Today I go to the library and choose some story books. | Chú ý: A: choose, (không phải 'borrow') | B: story, choose, (không phải 'chose'), (không phải 'scary')",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/11/29/635213183821850444_Audio.mp3"
     },
@@ -1470,7 +1472,8 @@
       "id": 117,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. How is your new department different from your old one?"
+        "A. How is your new department different from your old one?",
+        "D. How is your new flat different from your old one?"
       ],
       "answer": "D. How is your new flat different from your old one?",
       "explanation": "Đáp án: D. How is your new flat different from your old one? | Chú ý: A: flat, (không phải 'department') | B: is, different, (không phải 'does'), (không phải 'differ')",
@@ -1480,9 +1483,10 @@
       "id": 118,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Their children usually play at home in the evening."
+        "A. Their children usually play at home in the evening.",
+        "C. Their children usually stay at home in the evening."
       ],
-      "answer": "C. Their children usually stay at home in the evening",
+      "answer": "C. Their children usually stay at home in the evening.",
       "explanation": "Đáp án: C. Their children usually stay at home in the evening. | Chú ý: A: stay, (không phải 'play') | B: usually, stay, (không phải 'be'), (không phải 'may')",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302358979643990_Audio.mp3"
     },
@@ -1490,7 +1494,8 @@
       "id": 119,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. A man is buying some stamps."
+        "A. A man is buying some stamps.",
+        "D. A woman is buying some stamps."
       ],
       "answer": "D. A woman is buying some stamps.",
       "explanation": "Đáp án: D. A woman is buying some stamps. | Chú ý: A: woman, (không phải 'man') | B: some, stamps., (không phải 'stamp.')",
@@ -1510,7 +1515,8 @@
       "id": 121,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. The sun is shining. What a sunny day!"
+        "A. The sun is shining. What a sunny day!",
+        "D. The sun is shining. What a beautiful day!"
       ],
       "answer": "D. The sun is shining. What a beautiful day!",
       "explanation": "Đáp án: D. The sun is shining. What a beautiful day! | Chú ý: A: beautiful, (không phải 'sunny') | B: beautiful, (không phải 'wonderful')",
@@ -1520,7 +1526,8 @@
       "id": 122,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Sometimes the noise affects me at night."
+        "A. Sometimes the noise affects me at night.",
+        "B. Sometimes the noise keeps me awake at night."
       ],
       "answer": "B. Sometimes the noise keeps me awake at night.",
       "explanation": "Đáp án: B. Sometimes the noise keeps me awake at night. | Chú ý: A: keeps, awake, (không phải 'affects') | C: keeps, (không phải 'helps')",
@@ -1530,7 +1537,8 @@
       "id": 123,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. The village has quite a little traffic."
+        "A. The village has quite a little traffic.",
+        "B. The village was quiet with a little traffic."
       ],
       "answer": "B. The village was quiet with a little traffic.",
       "explanation": "Đáp án: B. The village was quiet with a little traffic. | Chú ý: A: with, was, (không phải 'has'), (không phải 'quite') | C: with, quiet, (không phải 'only'), (không phải 'there')",
@@ -1540,7 +1548,8 @@
       "id": 124,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Her birthday is on the third of May."
+        "A. Her birthday is on the third of May.",
+        "D. Her birthday is on the fifth of May."
       ],
       "answer": "D. Her birthday is on the fifth of May.",
       "explanation": "Đáp án: D. Her birthday is on the fifth of May. | Chú ý: A: fifth, (không phải 'third') | B: may., (không phải 'july.')",
@@ -1550,7 +1559,8 @@
       "id": 125,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. They are thirty, so they want to drink."
+        "A. They are thirty, so they want to drink.",
+        "C. They are thirsty. They want something to drink."
       ],
       "answer": "C. They are thirsty. They want something to drink.",
       "explanation": "Đáp án: C. They are thirsty. They want something to drink. | Chú ý: A: thirsty., something, (không phải 'so'), (không phải 'thirty,') | B: drink., to, (không phải 'pink.'), (không phải 'lovely.')",
@@ -1570,9 +1580,10 @@
       "id": 127,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. The doctor says that you shouldn’t spend time playing video games."
+        "A. The doctor says that you shouldn’t spend time playing video games.",
+        "D. The doctor says that you should spend less time playing video games."
       ],
-      "answer": "D. The doctor says that you should spend less time pl",
+      "answer": "D. The doctor says that you should spend less time playing video games.",
       "explanation": "Đáp án: D. The doctor says that you should spend less time playing video games. | Chú ý: A: should, less, (không phải 'shouldn’t') | B: doctor, less, (không phải 'teacher'), (không phải 'little')",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302359764013367_Audio.mp3"
     },
@@ -1580,7 +1591,8 @@
       "id": 128,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Peter wants some books for this term."
+        "A. Peter wants some books for this term.",
+        "D. Peter wants some notebooks for this term."
       ],
       "answer": "D. Peter wants some notebooks for this term.",
       "explanation": "Đáp án: D. Peter wants some notebooks for this term. | Chú ý: A: notebooks, (không phải 'books') | B: notebooks, (không phải 'notes')",
@@ -1590,7 +1602,8 @@
       "id": 129,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. This clock is about some hundreds years old."
+        "A. This clock is about some hundreds years old.",
+        "B. This clock is about one hundred years old."
       ],
       "answer": "B. This clock is about one hundred years old.",
       "explanation": "Đáp án: B. This clock is about one hundred years old. | Chú ý: A: one, hundred, (không phải 'some'), (không phải 'hundreds') | C: about, (không phải 'than'), (không phải 'less')",
@@ -1610,9 +1623,10 @@
       "id": 131,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Can you tell me the way to the nearest police station?"
+        "A. Can you tell me the way to the nearest police station?",
+        "B. Can you tell me the way to the nearest post office?"
       ],
-      "answer": "B. Can you tell me the way to the nearest post office",
+      "answer": "B. Can you tell me the way to the nearest post office?",
       "explanation": "Đáp án: B. Can you tell me the way to the nearest post office? | Chú ý: A: office?, post, (không phải 'station?'), (không phải 'police') | C: post",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302358102142448_Audio.mp3"
     },
@@ -1620,7 +1634,8 @@
       "id": 132,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Are you studying Spanish at this moment?"
+        "A. Are you studying Spanish at this moment?",
+        "C. Are you studying English at this moment?"
       ],
       "answer": "C. Are you studying English at this moment?",
       "explanation": "Đáp án: C. Are you studying English at this moment? | Chú ý: A: english, (không phải 'spanish') | B: english, (không phải 'france')",
@@ -1630,7 +1645,8 @@
       "id": 133,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. There are many people in the restaurant."
+        "A. There are many people in the restaurant.",
+        "C. There aren’t many people in the restaurant."
       ],
       "answer": "C. There aren’t many people in the restaurant.",
       "explanation": "Đáp án: C. There aren’t many people in the restaurant. | Chú ý: A: aren’t, (không phải 'are') | B: aren’t, (không phải 'were')",
@@ -1640,9 +1656,10 @@
       "id": 134,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Ho Chi Minh city is more convenient than Hai Phong city."
+        "A. Ho Chi Minh city is more convenient than Hai Phong city.",
+        "B. Ho Chi Minh city is more modern than Hai Phong city."
       ],
-      "answer": "B. Ho Chi Minh city is more modern than Hai Phong cit",
+      "answer": "B. Ho Chi Minh city is more modern than Hai Phong city.",
       "explanation": "Đáp án: B. Ho Chi Minh city is more modern than Hai Phong city. | Chú ý: A: modern, (không phải 'convenient') | C: hai, phong, (không phải 'noi.'), (không phải 'ha')",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2014/3/12/635302356582543779_Audio.mp3"
     },
@@ -1650,7 +1667,8 @@
       "id": 135,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. On a rainy morning, John decided to go dancing."
+        "A. On a rainy morning, John decided to go dancing.",
+        "D. One sunny morning, John decided to go camping."
       ],
       "answer": "D. One sunny morning, John decided to go camping.",
       "explanation": "Đáp án: D. One sunny morning, John decided to go camping. | Chú ý: A: one, camping., (không phải 'on'), (không phải 'a') | B: one, camping., (không phải 'on'), (không phải 'a')",
@@ -1660,7 +1678,8 @@
       "id": 136,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Lan doesn’t get used to living in a big country."
+        "A. Lan doesn’t get used to living in a big country.",
+        "C. Lan doesn’t get used to living in a big city."
       ],
       "answer": "C. Lan doesn’t get used to living in a big city.",
       "explanation": "Đáp án: C. Lan doesn’t get used to living in a big city. | Chú ý: A: city., (không phải 'country.') | B: living, in, (không phải 'leaving')",
@@ -1670,7 +1689,8 @@
       "id": 137,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. This hotel isn’t more expensive than that one."
+        "A. This hotel isn’t more expensive than that one.",
+        "D. This hotel is more expensive than that one."
       ],
       "answer": "D. This hotel is more expensive than that one.",
       "explanation": "Đáp án: D. This hotel is more expensive than that one. | Chú ý: A: is, (không phải 'isn’t') | B: expensive, (không phải 'luxurious')",
@@ -1680,7 +1700,8 @@
       "id": 138,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Pete has to cross the road in Hanoi."
+        "A. Pete has to cross the road in Hanoi.",
+        "B. Pete hates crossing the road in Hanoi."
       ],
       "answer": "B. Pete hates crossing the road in Hanoi.",
       "explanation": "Đáp án: B. Pete hates crossing the road in Hanoi. | Chú ý: A: hates, crossing, (không phải 'to'), (không phải 'has') | C: hates, crossing, (không phải 'on'), (không phải 'loss')",
@@ -1690,7 +1711,8 @@
       "id": 139,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. John likes cartoons and neither does Jack."
+        "A. John likes cartoons and neither does Jack.",
+        "C. John likes cartoons and so does Jack."
       ],
       "answer": "C. John likes cartoons and so does Jack.",
       "explanation": "Đáp án: C. John likes cartoons and so does Jack. | Chú ý: A: so, (không phải 'neither') | B: so, (không phải 'either')",
@@ -1700,7 +1722,8 @@
       "id": 140,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. We play baseball once a week."
+        "A. We play baseball once a week.",
+        "C. We play football twice a week."
       ],
       "answer": "C. We play football twice a week.",
       "explanation": "Đáp án: C. We play football twice a week. | Chú ý: A: twice, football, (không phải 'once'), (không phải 'baseball') | B: twice, (không phải 'once')",
@@ -1730,7 +1753,8 @@
       "id": 143,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. Pete has to cross the road in Hanoi."
+        "A. Pete has to cross the road in Hanoi.",
+        "B. Pete hates crossing the road in Hanoi."
       ],
       "answer": "B. Pete hates crossing the road in Hanoi.",
       "explanation": "Đáp án: B. Pete hates crossing the road in Hanoi. | Chú ý: A: hates, crossing, (không phải 'to'), (không phải 'has') | C: hates, crossing, (không phải 'on'), (không phải 'loss')",
@@ -1740,7 +1764,8 @@
       "id": 144,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. There are many people in the restaurant."
+        "A. There are many people in the restaurant.",
+        "C. There aren’t many people in the restaurant."
       ],
       "answer": "C. There aren’t many people in the restaurant.",
       "explanation": "Đáp án: C. There aren’t many people in the restaurant. | Chú ý: A: aren’t, (không phải 'are') | B: aren’t, (không phải 'were')",
@@ -1781,7 +1806,8 @@
       "id": 148,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. My friend is staying with us next week."
+        "A. My friend is staying with us next week.",
+        "C. My aunt is staying with us this week."
       ],
       "answer": "C. My aunt is staying with us this week.",
       "explanation": "Đáp án: C. My aunt is staying with us this week. | Chú ý: A: aunt, this, (không phải 'friend'), (không phải 'next') | B: aunt, (không phải 'uncle')",
@@ -1791,7 +1817,8 @@
       "id": 149,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. They are thirty, so they want to drink."
+        "A. They are thirty, so they want to drink.",
+        "C. They are thirsty. They want something to drink."
       ],
       "answer": "C. They are thirsty. They want something to drink.",
       "explanation": "Đáp án: C. They are thirsty. They want something to drink. | Chú ý: A: thirsty., something, (không phải 'so'), (không phải 'thirty,') | B: drink., to, (không phải 'pink.'), (không phải 'lovely.')",
@@ -1801,9 +1828,10 @@
       "id": 150,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. English is a compulsory subject at secondary school in my city."
+        "A. English is a compulsory subject at secondary school in my city.",
+        "D. English is a compulsory subject at high school in my city."
       ],
-      "answer": "D. English is a compulsory subject at high school in",
+      "answer": "D. English is a compulsory subject at high school in my city.",
       "explanation": "Đáp án: D. English is a compulsory subject at high school in my city. | Chú ý: A: high, (không phải 'secondary') | B: compulsory, a, (không phải 'an'), (không phải 'optional')",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/3/635216780477376901_Audio.mp3"
     },
@@ -1811,9 +1839,10 @@
       "id": 151,
       "question": "Nghe và đánh dấu câu đúng:",
       "options": [
-        "A. You cannot get on the net without buying an ISP."
+        "A. You cannot get on the net without buying an ISP.",
+        "B. You cannot get on the net without connecting to an ISP."
       ],
-      "answer": "B. You cannot get on the net without connecting to an",
+      "answer": "B. You cannot get on the net without connecting to an ISP.",
       "explanation": "Đáp án: B. You cannot get on the net without connecting to an ISP. | Chú ý: A: to, connecting, (không phải 'buying') | C: cannot, (không phải 'can'), (không phải 'with')",
       "audio": "https://res.ioe.vn/edu/EOlympic/ExamData/ImageExam/2013/12/3/635216781674991005_Audio.mp3"
     },
