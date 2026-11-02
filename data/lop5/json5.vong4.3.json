@@ -1423,7 +1423,7 @@
     },
     {
       "id": 183,
-      "question": "Count|the items|in|your classroom,|please.lỗig:the items/ Count/ please./ in/ your classroom,",
+      "question": "Count/ the items/ in/ your classroom,/ please./",
       "options": [],
       "answer": "Count the items in your classroom, please.",
       "explanation": "Câu gốc bị xáo trộn. Đặt mạo từ “the” ngay trước cụm danh từ “items”. Mạo từ không đứng sau động từ chính hoặc tách khỏi danh từ nó xác định. Sau khi ghép đúng, câu hoàn chỉnh là: “Count the items in your classroom, please.”. Nguồn đối chiếu: đề IOE gốc số 45, câu 192."
