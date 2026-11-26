@@ -1410,10 +1410,12 @@
       "id": 118,
       "question": "_____ ? – Two, please.",
       "options": [
-        "A. What do you need?",
-        "B. How many apples do you need?"
+        "A. How many apples do you need?",
+        "B. What do you need?",
+        "C. How much apples do you need?",
+        "D. Which apple do you need?"
       ],
-      "answer": "B. How many apples do you need?",
+      "answer": "A. How many apples do you need?",
       "explanation": "Hoàn chỉnh câu: “How many apples do you need?? – Two, please”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How many apples do you need?”."
     },
     {

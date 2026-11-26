@@ -126,10 +126,12 @@
       "id": 11,
       "question": "Which sentence is correct?",
       "options": [
-        "A. My lettuce is vegetable favorite",
-        "B. Lettuce is my favorite vegetable"
+        "A. Lettuce is my favorite vegetable",
+        "B. My lettuce is vegetable favorite",
+        "C. Lettuce is my vegetable favorite",
+        "D. My favorite vegetable are lettuce"
       ],
-      "answer": "B. Lettuce is my favorite vegetable",
+      "answer": "A. Lettuce is my favorite vegetable",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Lettuce is my favorite vegetable”."
     },
     {
@@ -244,10 +246,12 @@
       "id": 21,
       "question": "Which sentence is correct?",
       "options": [
-        "A. How much does your hat?",
-        "B. How much is your hat?"
+        "A. How much is your hat?",
+        "B. How much does your hat?",
+        "C. How much are your hat?",
+        "D. How many is your hat?"
       ],
-      "answer": "B. How much is your hat?",
+      "answer": "A. How much is your hat?",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How much is your hat?”."
     },
     {
@@ -434,10 +438,12 @@
       "id": 37,
       "question": "- …? - Black. And it’s very long.",
       "options": [
-        "A. What color are her lips",
-        "B. What color is her hair"
+        "A. What color is her hair",
+        "B. What color are her lips",
+        "C. What color is her shoes",
+        "D. How long is her hair"
       ],
-      "answer": "B. What color is her hair",
+      "answer": "A. What color is her hair",
       "explanation": "Hoàn chỉnh câu: “- What color is her hair? - Black. And it’s very long”. Liên từ được chọn phải thể hiện đúng quan hệ bổ sung, đối lập, lựa chọn hoặc nguyên nhân–kết quả giữa hai vế. Vì vậy dùng “What color is her hair”."
     },
     {
@@ -456,20 +462,24 @@
       "id": 39,
       "question": "_____ ? – A red skirt.",
       "options": [
-        "A. What did she gave you yesterday?",
-        "B. What did she give you yesterday?"
+        "A. What did she give you yesterday?",
+        "B. What did she gave you yesterday?",
+        "C. What she did give you yesterday?",
+        "D. What did she gives you yesterday?"
       ],
-      "answer": "B. What did she give you yesterday?",
+      "answer": "A. What did she give you yesterday?",
       "explanation": "Hoàn chỉnh câu: “What did she give you yesterday?? – A red skirt”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “What did she give you yesterday?”."
     },
     {
       "id": 40,
       "question": "Which sentence is correct?",
       "options": [
-        "A. Mark stays often up late",
-        "C. Mark often stays up late"
+        "A. Mark often stays up late",
+        "B. Mark stays often up late",
+        "C. Mark stays up often late",
+        "D. Mark up often stays late"
       ],
-      "answer": "C. Mark often stays up late",
+      "answer": "A. Mark often stays up late",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Mark often stays up late”."
     },
     {
@@ -584,20 +594,24 @@
       "id": 50,
       "question": "Which sentence is correct?",
       "options": [
-        "A. John found this film is boring",
-        "B. John found this film boring"
+        "A. John found this film boring",
+        "B. John found this film is boring",
+        "C. John found this film bored",
+        "D. John was found this film boring"
       ],
-      "answer": "B. John found this film boring",
+      "answer": "A. John found this film boring",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “John found this film boring”."
     },
     {
       "id": 51,
       "question": "_____ will attend the meeting tonight.",
       "options": [
-        "A. Many my mother’s friends",
-        "B. Many of my mother’s friends"
+        "A. Many of my mother’s friends",
+        "B. Many my mother’s friends",
+        "C. Many of my mother friends",
+        "D. Many my mother friends"
       ],
-      "answer": "B. Many of my mother’s friends",
+      "answer": "A. Many of my mother’s friends",
       "explanation": "Hoàn chỉnh câu: “Many of my mother’s friends will attend the meeting tonight”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Many of my mother’s friends”."
     },
     {
@@ -688,20 +702,24 @@
       "id": 59,
       "question": "_____ ? – I play video games.",
       "options": [
-        "A. What is your favorite sport?",
-        "B. What do you do in your free time?"
+        "A. What do you do in your free time?",
+        "B. What is your favorite sport?",
+        "C. Where do you play video games?",
+        "D. When do you have free time?"
       ],
-      "answer": "B. What do you do in your free time?",
+      "answer": "A. What do you do in your free time?",
       "explanation": "Hoàn chỉnh câu: “What do you do in your free time?? – I play video games”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “What do you do in your free time?”."
     },
     {
       "id": 60,
       "question": "Which sentence is correct?",
       "options": [
-        "A. How we are going to travel?",
-        "B. How are we going to travel?"
+        "A. How are we going to travel?",
+        "B. How we are going to travel?",
+        "C. How are we go to travel?",
+        "D. How do we are going to travel?"
       ],
-      "answer": "B. How are we going to travel?",
+      "answer": "A. How are we going to travel?",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How are we going to travel?”."
     },
     {
@@ -720,10 +738,12 @@
       "id": 62,
       "question": "Which sentence is correct?",
       "options": [
-        "A. How does she often visit you?",
-        "C. How often does she visit you?"
+        "A. How often does she visit you?",
+        "B. How does she often visit you?",
+        "C. How often she does visit you?",
+        "D. How often do she visit you?"
       ],
-      "answer": "C. How often does she visit you?",
+      "answer": "A. How often does she visit you?",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How often does she visit you?”."
     },
     {
@@ -802,10 +822,12 @@
       "id": 69,
       "question": "How long is the road?",
       "options": [
-        "A. What is the long of the road?",
-        "C. What is the length of the road?"
+        "A. What is the length of the road?",
+        "B. What is the long of the road?",
+        "C. How much long is the road?",
+        "D. What is the road length of?"
       ],
-      "answer": "C. What is the length of the road?",
+      "answer": "A. What is the length of the road?",
       "explanation": "Hoàn chỉnh câu: “How long is the road?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “What is the length of the road?”."
     },
     {
@@ -836,10 +858,12 @@
       "id": 72,
       "question": "Where _____ you ______ since you ______ from your high school?",
       "options": [
-        "A. do – work – have graduated",
-        "B. have – worked – graduated"
+        "A. have – worked – graduated",
+        "B. do – work – have graduated",
+        "C. did – work – graduated",
+        "D. have – work – have graduated"
       ],
-      "answer": "B. have – worked – graduated",
+      "answer": "A. have – worked – graduated",
       "explanation": "Hoàn chỉnh câu: “Where have – worked – graduatedyou ______ since you ______ from your high school?”. Dấu hiệu này thường đi với hiện tại hoàn thành: “have/has + V3/ed”. Vì vậy dùng “have – worked – graduated”."
     },
     {
@@ -966,20 +990,24 @@
       "id": 83,
       "question": "Which sentence is correct?",
       "options": [
-        "A. She wants a glass of milk fresh",
-        "C. She wants a glass of fresh milk"
+        "A. She wants a glass of fresh milk",
+        "B. She wants a glass of milk fresh",
+        "C. She wants a glass fresh of milk",
+        "D. She wants fresh a glass of milk"
       ],
-      "answer": "C. She wants a glass of fresh milk",
+      "answer": "A. She wants a glass of fresh milk",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “She wants a glass of fresh milk”."
     },
     {
       "id": 84,
       "question": "Which sentence is correct?",
       "options": [
-        "A. Does black or white coffee she like?",
-        "B. Does she like black or white coffee?"
+        "A. Does she like black or white coffee?",
+        "B. Does black or white coffee she like?",
+        "C. Does she likes black or white coffee?",
+        "D. Do she like black or white coffee?"
       ],
-      "answer": "B. Does she like black or white coffee?",
+      "answer": "A. Does she like black or white coffee?",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Does she like black or white coffee?”."
     },
     {
@@ -1082,10 +1110,12 @@
       "id": 93,
       "question": "The party / start / seven?",
       "options": [
-        "A. The party does starts seven?",
-        "D. Does the party start at seven?"
+        "A. Does the party start at seven?",
+        "B. The party does starts seven?",
+        "C. Does the party starts at seven?",
+        "D. Do the party start at seven?"
       ],
-      "answer": "D. Does the party start at seven?",
+      "answer": "A. Does the party start at seven?",
       "explanation": "Hoàn chỉnh câu: “The party / start / seven?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Does the party start at seven?”."
     },
     {
@@ -1140,30 +1170,36 @@
       "id": 98,
       "question": "_____ ? – Eight thousand dong.",
       "options": [
-        "A. How many potatoes are there?",
-        "C. How much are those potatoes?"
+        "A. How much are those potatoes?",
+        "B. How many potatoes are there?",
+        "C. How many potatoes do you want?",
+        "D. Where are those potatoes?"
       ],
-      "answer": "C. How much are those potatoes?",
+      "answer": "A. How much are those potatoes?",
       "explanation": "Hoàn chỉnh câu: “How much are those potatoes?? – Eight thousand dong”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How much are those potatoes?”."
     },
     {
       "id": 99,
       "question": "_____ ? – Two, please.",
       "options": [
-        "A. What do you need?",
-        "C. How many oranges do you like?"
+        "A. How many oranges would you like?",
+        "B. What do you need?",
+        "C. How much oranges would you like?",
+        "D. Which orange would you like?"
       ],
-      "answer": "C. How many oranges do you like?",
+      "answer": "A. How many oranges would you like?",
       "explanation": "Hoàn chỉnh câu: “How many oranges do you like?? – Two, please”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How many oranges do you like?”."
     },
     {
       "id": 100,
       "question": "Which sentence is correct?",
       "options": [
-        "A. She wanted me not wash those jeans",
-        "B. She wanted me to not wash those jeans"
+        "A. She wanted me not to wash those jeans",
+        "B. She wanted me not wash those jeans",
+        "C. She wanted me to not wash those jeans",
+        "D. She wanted me don’t wash those jeans"
       ],
-      "answer": "B. She wanted me to not wash those jeans",
+      "answer": "A. She wanted me not to wash those jeans",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “She wanted me to not wash those jeans”."
     },
     {
@@ -1182,10 +1218,12 @@
       "id": 102,
       "question": "_____ ? – Half a dozen, please.",
       "options": [
-        "A. Do you need eggs?",
-        "D. How many eggs would you like?"
+        "A. How many eggs would you like?",
+        "B. Do you need eggs?",
+        "C. How much eggs would you like?",
+        "D. How many egg would you like?"
       ],
-      "answer": "D. How many eggs would you like?",
+      "answer": "A. How many eggs would you like?",
       "explanation": "Hoàn chỉnh câu: “How many eggs would you like?? – Half a dozen, please”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How many eggs would you like?”."
     },
     {
@@ -1204,10 +1242,12 @@
       "id": 104,
       "question": "I ______ her five times last night, but she ______.",
       "options": [
-        "A. have phoned – hasn’t answered",
-        "D. phoned – didn’t answer"
+        "A. phoned – didn’t answer",
+        "B. have phoned – hasn’t answered",
+        "C. phoned – hasn’t answered",
+        "D. have phoned – didn’t answer"
       ],
-      "answer": "D. phoned – didn’t answer",
+      "answer": "A. phoned – didn’t answer",
       "explanation": "Hoàn chỉnh câu: “I phoned – didn’t answerher five times last night, but she ______”. Dấu hiệu thời gian quá khứ yêu cầu thì quá khứ đơn; dùng dạng quá khứ của động từ hoặc “was/were”. Vì vậy dùng “phoned – didn’t answer”."
     },
     {
@@ -1238,10 +1278,12 @@
       "id": 107,
       "question": "_____ ? – Half a kilo.",
       "options": [
-        "A. How many eggs do you want?",
-        "B. How much beef does she need?"
+        "A. How much beef does she need?",
+        "B. How many eggs do you want?",
+        "C. How many beef does she need?",
+        "D. How much beef do she need?"
       ],
-      "answer": "B. How much beef does she need?",
+      "answer": "A. How much beef does she need?",
       "explanation": "Hoàn chỉnh câu: “How much beef does she need?? – Half a kilo”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How much beef does she need?”."
     },
     {
@@ -1296,10 +1338,12 @@
       "id": 112,
       "question": "_____ ? – She would like a glass of milk.",
       "options": [
-        "A. How much milk does she want?",
-        "C. What would she like?"
+        "A. What would she like?",
+        "B. How much milk does she want?",
+        "C. How many milk would she like?",
+        "D. Where would she like milk?"
       ],
-      "answer": "C. What would she like?",
+      "answer": "A. What would she like?",
       "explanation": "Hoàn chỉnh câu: “What would she like?? – She would like a glass of milk”. Sau “would like” dùng “to + động từ nguyên mẫu” khi nói về mong muốn. Vì vậy dùng “What would she like?”."
     },
     {
@@ -1342,10 +1386,12 @@
       "id": 116,
       "question": "Which sentence is correct?",
       "options": [
-        "A. Henry was late school yesterday",
-        "B. Henry was late for school yesterday"
+        "A. Henry was late for school yesterday",
+        "B. Henry was late school yesterday",
+        "C. Henry was late at school yesterday",
+        "D. Henry late for school was yesterday"
       ],
-      "answer": "B. Henry was late for school yesterday",
+      "answer": "A. Henry was late for school yesterday",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Henry was late for school yesterday”."
     },
     {
@@ -1376,10 +1422,12 @@
       "id": 119,
       "question": "What is the price of a loaf of bread?",
       "options": [
-        "A. How much is a bread?",
-        "B. How much does a loaf of bread cost?"
+        "A. How much does a loaf of bread cost?",
+        "B. How much is a bread?",
+        "C. How many does a loaf of bread cost?",
+        "D. How much do a loaf of bread cost?"
       ],
-      "answer": "B. How much does a loaf of bread cost?",
+      "answer": "A. How much does a loaf of bread cost?",
       "explanation": "Hoàn chỉnh câu: “What is the price of a loaf of bread?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How much does a loaf of bread cost?”."
     },
     {
@@ -1398,10 +1446,12 @@
       "id": 121,
       "question": "Which sentence is correct?",
       "options": [
-        "A. Mr. Jones travels to works by train",
-        "C. Mr. Jones travels to work by train"
+        "A. Mr. Jones travels to work by train",
+        "B. Mr. Jones travels to works by train",
+        "C. Mr. Jones travels to work by a train",
+        "D. Mr. Jones travel to work by train"
       ],
-      "answer": "C. Mr. Jones travels to work by train",
+      "answer": "A. Mr. Jones travels to work by train",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Mr. Jones travels to work by train”."
     },
     {
@@ -1456,10 +1506,12 @@
       "id": 126,
       "question": "Why don’t you join us for lunch?",
       "options": [
-        "A. You must join us for lunch",
-        "C. Let’s join us for lunch"
+        "A. Would you like to join us for lunch?",
+        "B. You must join us for lunch",
+        "C. Let’s join us for lunch",
+        "D. You never join us for lunch"
       ],
-      "answer": "C. Let’s join us for lunch",
+      "answer": "A. Would you like to join us for lunch?",
       "explanation": "Hoàn chỉnh câu: “Why don’t you join us for lunch?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Let’s join us for lunch”."
     },
     {
@@ -1490,10 +1542,12 @@
       "id": 129,
       "question": "Which sentence is correct?",
       "options": [
-        "A. I’m hungry. I am like some meat and rice",
-        "B. I’m hungry. I’d like some meat and rice"
+        "A. I’m hungry. I’d like some meat and rice",
+        "B. I’m hungry. I am like some meat and rice",
+        "C. I’m hungry. I’d like to some meat and rice",
+        "D. I’m hungry. I’d liking some meat and rice"
       ],
-      "answer": "B. I’m hungry. I’d like some meat and rice",
+      "answer": "A. I’m hungry. I’d like some meat and rice",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “I’m hungry. I’d like some meat and rice”."
     },
     {
@@ -1512,20 +1566,24 @@
       "id": 131,
       "question": "Which sentence is correct?",
       "options": [
-        "A. Bread and some milk have I for breakfast",
-        "D. I have some bread and milk for breakfast"
+        "A. I have some bread and milk for breakfast",
+        "B. Bread and some milk have I for breakfast",
+        "C. For breakfast have I some bread and milk",
+        "D. I has some bread and milk for breakfast"
       ],
-      "answer": "D. I have some bread and milk for breakfast",
+      "answer": "A. I have some bread and milk for breakfast",
       "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “I have some bread and milk for breakfast”."
     },
     {
       "id": 132,
       "question": "_____ ? – She would like a glass of milk.",
       "options": [
-        "A. How much milk does she have?",
-        "C. What would she like?"
+        "A. What would she like?",
+        "B. How much milk does she have?",
+        "C. How many milk does she like?",
+        "D. When would she like milk?"
       ],
-      "answer": "C. What would she like?",
+      "answer": "A. What would she like?",
       "explanation": "Hoàn chỉnh câu: “What would she like?? – She would like a glass of milk”. Sau “would like” dùng “to + động từ nguyên mẫu” khi nói về mong muốn. Vì vậy dùng “What would she like?”."
     },
     {
@@ -1544,20 +1602,24 @@
       "id": 134,
       "question": "_____ Thomas has worked for BBC One since 2005.",
       "options": [
-        "A. Thomas started working for BBC One since 2005",
-        "C. Thomas started to work for BBC One in 2005"
+        "A. Thomas started to work for BBC One in 2005",
+        "B. Thomas started working for BBC One since 2005",
+        "C. Thomas has started to work for BBC One in 2005",
+        "D. Thomas worked for BBC One until 2005"
       ],
-      "answer": "C. Thomas started to work for BBC One in 2005",
+      "answer": "A. Thomas started to work for BBC One in 2005",
       "explanation": "Hoàn chỉnh câu: “Thomas has worked for BBC One since 2005”. Dấu hiệu này thường đi với hiện tại hoàn thành: “have/has + V3/ed”. Vì vậy dùng “Thomas started to work for BBC One in 2005”."
     },
     {
       "id": 135,
       "question": "_____ Nobody in my family is older than my grandmother.",
       "options": [
-        "A. My grandmother is older than many other people in my family",
-        "C. My grandmother is the oldest person in my family"
+        "A. My grandmother is the oldest person in my family",
+        "B. My grandmother is older than many other people in my family",
+        "C. My grandmother is the older person in my family",
+        "D. My grandmother is younger than everyone in my family"
       ],
-      "answer": "C. My grandmother is the oldest person in my family",
+      "answer": "A. My grandmother is the oldest person in my family",
       "explanation": "Hoàn chỉnh câu: “Nobody in my family is older than my grandmother”. Có “than” nên cần dạng so sánh hơn của tính từ/trạng từ. Vì vậy dùng “My grandmother is the oldest person in my family”."
     },
     {
@@ -1576,20 +1638,24 @@
       "id": 137,
       "question": "Are there fifty students in your class?",
       "options": [
-        "A. Is your class having fifty students?",
-        "D. Does your class have fifty students?"
+        "A. Does your class have fifty students?",
+        "B. Is your class having fifty students?",
+        "C. Do your class have fifty students?",
+        "D. Does your class has fifty students?"
       ],
-      "answer": "D. Does your class have fifty students?",
+      "answer": "A. Does your class have fifty students?",
       "explanation": "Hoàn chỉnh câu: “Are there fifty students in your class?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Does your class have fifty students?”."
     },
     {
       "id": 138,
       "question": "The store is behind two tall trees. It means ...",
       "options": [
-        "A. There’re two trees next to the store",
-        "B. There’re two trees in front of the store"
+        "A. There’re two trees in front of the store",
+        "B. There’re two trees next to the store",
+        "C. The store is in front of two tall trees",
+        "D. There’re two stores behind the trees"
       ],
-      "answer": "B. There’re two trees in front of the store",
+      "answer": "A. There’re two trees in front of the store",
       "explanation": "Hoàn chỉnh câu: “The store is behind two tall trees. It means There’re two trees in front of the store”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “There’re two trees in front of the store”."
     },
     {
@@ -1608,10 +1674,12 @@
       "id": 140,
       "question": "She doesn’t have as many stamps as I do. It means ...",
       "options": [
-        "A. she has more stamps than I do",
-        "B. she has fewer stamps than I do"
+        "A. she has fewer stamps than I do",
+        "B. she has more stamps than I do",
+        "C. she has as many stamps as I do",
+        "D. I have fewer stamps than she does"
       ],
-      "answer": "B. she has fewer stamps than I do",
+      "answer": "A. she has fewer stamps than I do",
       "explanation": "Hoàn chỉnh câu: “She doesn’t have as many stamps as I do. It means she has fewer stamps than I do”. Chọn lượng từ theo dạng khẳng định/phủ định/câu hỏi và theo danh từ đếm được hay không đếm được. Vì vậy dùng “she has fewer stamps than I do”."
     },
     {
@@ -1630,50 +1698,60 @@
       "id": 142,
       "question": "_____ I’ve never eaten this kind of food before.",
       "options": [
-        "A. At first I have eaten this kind of food",
-        "D. This is the first time I have ever eaten this kind of food"
+        "A. This is the first time I have ever eaten this kind of food",
+        "B. At first I have eaten this kind of food",
+        "C. I ate this kind of food for the first time yesterday",
+        "D. It is the first time I never eat this kind of food"
       ],
-      "answer": "D. This is the first time I have ever eaten this kind of food",
+      "answer": "A. This is the first time I have ever eaten this kind of food",
       "explanation": "Hoàn chỉnh câu: “I’ve never eaten this kind of food before”. Đây là dấu hiệu thói quen nên dùng hiện tại đơn; động từ phải hòa hợp với chủ ngữ. Vì vậy dùng “This is the first time I have ever eaten this kind of food”."
     },
     {
       "id": 143,
       "question": "_____ Let’s take part in the English singing contest.",
       "options": [
-        "A. Don’t you take part in the English singing contest?",
-        "D. Why don’t we take part in the English singing contest?"
+        "A. Why don’t we take part in the English singing contest?",
+        "B. Don’t you take part in the English singing contest?",
+        "C. Why we don’t take part in the English singing contest?",
+        "D. Why don’t taking part in the English singing contest?"
       ],
-      "answer": "D. Why don’t we take part in the English singing contest?",
+      "answer": "A. Why don’t we take part in the English singing contest?",
       "explanation": "Hoàn chỉnh câu: “Let’s take part in the English singing contest”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Why don’t we take part in the English singing contest?”."
     },
     {
       "id": 144,
       "question": "_____ You feel unhealthy. You should take more exercise.",
       "options": [
-        "A. If you had taken more exercise, you would feel healthier",
-        "B. If you take more exercise, you will feel healthier"
+        "A. If you take more exercise, you will feel healthier",
+        "B. If you had taken more exercise, you would feel healthier",
+        "C. If you took more exercise, you will feel healthier",
+        "D. If you will take more exercise, you feel healthier"
       ],
-      "answer": "B. If you take more exercise, you will feel healthier",
+      "answer": "A. If you take more exercise, you will feel healthier",
       "explanation": "Hoàn chỉnh câu: “You feel unhealthy. You should take more exercise”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “If you take more exercise, you will feel healthier”."
     },
     {
       "id": 145,
       "question": "_____ We like ice-cream, but we don’t have it every day.",
       "options": [
-        "A. Because we like ice-cream, we don’t have it every day",
-        "B. Although we like ice-cream, we don’t have it every day"
+        "A. Although we like ice-cream, we don’t have it every day",
+        "B. Because we like ice-cream, we don’t have it every day",
+        "C. Although we like ice-cream, but we don’t have it every day",
+        "D. So we like ice-cream, we don’t have it every day"
       ],
-      "answer": "B. Although we like ice-cream, we don’t have it every day",
+      "answer": "A. Although we like ice-cream, we don’t have it every day",
       "explanation": "Hoàn chỉnh câu: “We like ice-cream, but we don’t have it every day”. Đây là dấu hiệu thói quen nên dùng hiện tại đơn; động từ phải hòa hợp với chủ ngữ. Vì vậy dùng “Although we like ice-cream, we don’t have it every day”."
     },
     {
       "id": 146,
       "question": "_____ Don’t touch the picture on the wall or it will fall to the floor.",
       "options": [
-        "A. When not touching the picture on the wall, it won’t fall to the floor",
-        "D. If you touch the picture on the wall, it will fall to the floor"
+        "A. If you touch the picture on the wall, it will fall to the floor",
+        "B. When not touching the picture on the wall, it won’t fall to the floor",
+        "C. Unless you touch the picture on the wall, it will fall to the floor",
+        "D. If you touched the picture on the wall, it will fall to the floor"
       ],
-      "answer": "D. If you touch the picture on the wall, it will fall to the floor",
+      "answer": "A. If you touch the picture on the wall, it will fall to the floor",
       "explanation": "Hoàn chỉnh câu: “Don’t touch the picture on the wall or it will fall to the floor”. Liên từ được chọn phải thể hiện đúng quan hệ bổ sung, đối lập, lựa chọn hoặc nguyên nhân–kết quả giữa hai vế. Vì vậy dùng “If you touch the picture on the wall, it will fall to the floor”."
     }
   ],

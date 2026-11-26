@@ -722,11 +722,12 @@
       "id": 68,
       "question": "Listen and tick:",
       "options": [
-        "A. I always have a showering the morning.",
-        "B. I always do morning exercise.",
-        "C. I always have breakfast in the morning."
+        "A. I always have breakfast in the morning.",
+        "B. I always have a shower in the morning.",
+        "C. I always do morning exercise.",
+        "D. I always go to school in the morning."
       ],
-      "answer": "C. I always have breakfast in the morning.",
+      "answer": "A. I always have breakfast in the morning.",
       "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là I always have breakfast in the morning.",
       "audio": "media/audio/lop6/cc318b3db5154e93d788.mp3"
     },
