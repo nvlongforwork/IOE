@@ -11,8 +11,11 @@
 - `tailwind.config.cjs` và `css/tailwind.input.css`: cấu hình và nguồn để biên dịch lại CSS.
 - `media/json/lop<lớp>/vong<vòng>/cd<chuyên đề>.json`: 140 bộ câu hỏi, chia từ lớn
   đến nhỏ theo lớp, vòng thi rồi chuyên đề (ví dụ `media/json/lop3/vong2/cd4.json`).
-- `media/images`: ảnh minh họa của câu hỏi, kể cả các ảnh trước đây nhúng trong JSON.
-- `media/audio`: các MP3 dùng trong câu hỏi; `sources.json` ghi nguồn gốc tải về.
+- `media/images/lop<lớp>/vong<vòng>/cd<chuyên đề>/`: ảnh minh họa của câu hỏi,
+  chia cùng cách với câu hỏi. Ảnh dùng ở nhiều chuyên đề được nhân bản vào
+  từng thư mục để mỗi chuyên đề là một bộ hoàn chỉnh.
+- `media/audio`: các MP3 dùng trong câu hỏi, để phẳng một thư mục vì phần lớn
+  file được nhiều lớp và vòng dùng lại; `sources.json` ghi nguồn gốc tải về.
 
 Ứng dụng tải câu hỏi và tài nguyên qua đường dẫn từ thư mục gốc của website.
 Để chạy trên máy, hãy dùng một máy chủ HTTP thay vì mở `index.html`
