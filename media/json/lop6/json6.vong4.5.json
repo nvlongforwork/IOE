@@ -1,0 +1,2027 @@
+{
+  "title": "IOE Lớp 6 - Chuyên đề 5 - Vòng Quốc Gia",
+  "vong": "Vòng Quốc Gia",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "What _ _ _ _ _ _ _ _ _ _ might you have?",
+      "options": [],
+      "answer": "appliances",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “appliances”.",
+      "audio": "media/audio/c51788685ba1bcc308e8.mp3"
+    },
+    {
+      "id": 2,
+      "question": "Where is the museum?",
+      "options": [
+        "A. in front of the hospital",
+        "B. between the factories",
+        "C. next to the factory",
+        "D. next to the hospital"
+      ],
+      "answer": "D. next to the hospital",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. next to the hospital”.",
+      "audio": "media/audio/8bcae7c3846a868df1ec.mp3"
+    },
+    {
+      "id": 3,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Whose birthday party was it?",
+        "B. Whose birthday had party?",
+        "C. Who had a birthday party?",
+        "D. Who was in this birthday party?"
+      ],
+      "answer": "A. Whose birthday party was it?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là A. Whose birthday party was it?.",
+      "audio": "media/audio/8637d17c5a4e23cfe0d2.mp3"
+    },
+    {
+      "id": 4,
+      "question": "What did he do?",
+      "options": [
+        "A. He played basketball.",
+        "B. He helped her dad.",
+        "C. He watched TV in the afternoon.",
+        "D. He mended his bike."
+      ],
+      "answer": "B. He helped her dad.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. He helped her dad”.",
+      "audio": "media/audio/0a90ddcdba4911a3df12.mp3"
+    },
+    {
+      "id": 5,
+      "question": "What was NOT in the recording?",
+      "options": [
+        "A. There was a flower.",
+        "B. There was a river.",
+        "C. There was a parrot.",
+        "D. There was a rabbit."
+      ],
+      "answer": "D. There was a rabbit.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. There was a rabbit”.",
+      "audio": "media/audio/a81855ddab51d58bf48a.mp3"
+    },
+    {
+      "id": 6,
+      "question": "What was TRUE?",
+      "options": [
+        "A. It was rainy and wet.",
+        "B. They played on the beach.",
+        "C. They visited an old house.",
+        "D. They swam on the sea"
+      ],
+      "answer": "B. They played on the beach.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. They played on the beach”.",
+      "audio": "media/audio/e06cc1087d9c1fe12164.mp3"
+    },
+    {
+      "id": 7,
+      "question": "What does she often give her grandparents on Christmas?",
+      "options": [
+        "A. a tea pot",
+        "B. some money",
+        "C. packets of tea",
+        "D. packets of coffee"
+      ],
+      "answer": "C. packets of tea",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. packets of tea”.",
+      "audio": "media/audio/ee93e539a6117b9e355e.mp3"
+    },
+    {
+      "id": 8,
+      "question": "What is ISN’T true?",
+      "options": [
+        "A. The boy is tired.",
+        "B. They won’t play football.",
+        "C. They won’t go to the park.",
+        "D. They won’t play computer games."
+      ],
+      "answer": "D. They won’t play computer games.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. They won’t play computer games”.",
+      "audio": "media/audio/75f61f6069af87d5c44e.mp3"
+    },
+    {
+      "id": 9,
+      "question": "Listen and tick:",
+      "options": [
+        "A. I will never forget your cat.",
+        "B. I will never forget your hat.",
+        "C. I will never forget your hall.",
+        "D. I will never forget your help."
+      ],
+      "answer": "D. I will never forget your help.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là D. I will never forget your help.",
+      "audio": "media/audio/239a8b92c33898a90cc3.mp3"
+    },
+    {
+      "id": 10,
+      "question": "When are most of the Nobel Prizes awarded?",
+      "options": [
+        "A. On November the 12th.",
+        "B. On November the 20th.",
+        "C. On December the 10th.",
+        "D. On December the 20th."
+      ],
+      "answer": "C. On December the 10th.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. On December the 10th”.",
+      "audio": "media/audio/231953ce2254778b7da3.mp3"
+    },
+    {
+      "id": 11,
+      "question": "Listen and tick:",
+      "options": [
+        "A. What will we do in the morning?",
+        "B. What will we do in the afternoon?",
+        "C. Where will we go in the evening?",
+        "D. What will we be able to do in the morning?"
+      ],
+      "answer": "A. What will we do in the morning?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là A. What will we do in the morning?.",
+      "audio": "media/audio/9f31ba3c4ef28ad63e17.mp3"
+    },
+    {
+      "id": 12,
+      "question": "What is true?",
+      "options": [
+        "A. The boy hasn’t got a racket.",
+        "B. The sun is hiding.",
+        "C. They will play tennis.",
+        "D. They will ride a horse."
+      ],
+      "answer": "A. The boy hasn’t got a racket.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. The boy hasn’t got a racket”.",
+      "audio": "media/audio/134428e9f36987df65c9.mp3"
+    },
+    {
+      "id": 13,
+      "question": "Listen and tick:",
+      "options": [
+        "A. I always have a showering the morning.",
+        "B. I always do morning exercise.",
+        "C. I always have breakfast in the morning."
+      ],
+      "answer": "C. I always have breakfast in the morning.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là I always have breakfast in the morning.",
+      "audio": "media/audio/cc318b3db5154e93d788.mp3"
+    },
+    {
+      "id": 14,
+      "question": "What is true about Linda?",
+      "options": [
+        "A. She lives in a small town.",
+        "B. She comes from America.",
+        "C. She speaks English.",
+        "D. She is Elizabeth."
+      ],
+      "answer": "C. She speaks English.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. She speaks English”.",
+      "audio": "media/audio/f9ed81946f2be0585490.mp3"
+    },
+    {
+      "id": 15,
+      "question": "Listen and tick:",
+      "options": [
+        "A. He’s going to spell a word.",
+        "B. He’s going to give us a poke.",
+        "C. He’s going to have a shock.",
+        "D. He’s going to tell a joke."
+      ],
+      "answer": "D. He’s going to tell a joke.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là D. He’s going to tell a joke.",
+      "audio": "media/audio/117aa48b35d76c9b3242.mp3"
+    },
+    {
+      "id": 16,
+      "question": "What was NOT true?",
+      "options": [
+        "A. There was spider next to their tent.",
+        "B. It crawled slowly.",
+        "C. It was interesting.",
+        "D. It happened this morning."
+      ],
+      "answer": "C. It was interesting.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. It was interesting”.",
+      "audio": "media/audio/9d1816b2878ae2dd2637.mp3"
+    },
+    {
+      "id": 17,
+      "question": "What did they do this evening?",
+      "options": [
+        "A. They listened to the parrots.",
+        "B. They listened to the insects.",
+        "C. They climbed up a hill.",
+        "D. He drank a cup of milk."
+      ],
+      "answer": "B. They listened to the insects.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. They listened to the insects”.",
+      "audio": "media/audio/dd4d244cdabfa5c554ea.mp3"
+    },
+    {
+      "id": 18,
+      "question": "Listen and tick:",
+      "options": [
+        "A. She has long and black hair.",
+        "B. She has strong and black hair.",
+        "C. She has long and blonde hair.",
+        "D. She has blonde and black hair."
+      ],
+      "answer": "A. She has long and black hair.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là A. She has long and black hair.",
+      "audio": "media/audio/062b791612113df93651.mp3"
+    },
+    {
+      "id": 19,
+      "question": "What did the monkey do?",
+      "options": [
+        "A. It jumped happily to see human.",
+        "B. It watched them quietly.",
+        "C. It climbed the hill.",
+        "D. It ate bananas."
+      ],
+      "answer": "B. It watched them quietly.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. It watched them quietly”.",
+      "audio": "media/audio/12f1113a190e80e7f2d2.mp3"
+    },
+    {
+      "id": 20,
+      "question": "What didn’t happen this morning?",
+      "options": [
+        "A. The children were all sleep.",
+        "B. The man mended the basket.",
+        "C. The man walked into the jungle.",
+        "D. The lion stood in front of the man."
+      ],
+      "answer": "D. The lion stood in front of the man.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. The lion stood in front of the man”.",
+      "audio": "media/audio/ffcc98219b778fe6d683.mp3"
+    },
+    {
+      "id": 21,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Where is Kate’s birthday party?",
+        "B. When is Kate’s holiday?",
+        "C. When is Kate’s birthday?",
+        "D. What is the date today?"
+      ],
+      "answer": "C. When is Kate’s birthday?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. When is Kate’s birthday?.",
+      "audio": "media/audio/505539016c275619bffa.mp3"
+    },
+    {
+      "id": 22,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Everyone cheered and then they went home.",
+        "B. Everyone cheered and the party stopped.",
+        "C. Everyone cheered and the party went on.",
+        "D. Everyone cheered and everybody danced."
+      ],
+      "answer": "C. Everyone cheered and the party went on.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. Everyone cheered and the party went on.",
+      "audio": "media/audio/54f200ebaff13b998c2d.mp3"
+    },
+    {
+      "id": 23,
+      "question": "There aren’t any … but there are some …",
+      "options": [
+        "A. apples – mangos",
+        "B. watermelon – oranges",
+        "C. apples – oranges",
+        "D. mangos and oranges"
+      ],
+      "answer": "C. apples – oranges",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. apples – oranges”.",
+      "audio": "media/audio/89b7737731c63240b9a6.mp3"
+    },
+    {
+      "id": 24,
+      "question": "Why does the world need more food?",
+      "options": [
+        "A. there are less people",
+        "B. there are more people",
+        "C. there is less food",
+        "D. there is more food"
+      ],
+      "answer": "B. there are more people",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. there are more people”.",
+      "audio": "media/audio/d292cefd99e1708ea08b.mp3"
+    },
+    {
+      "id": 25,
+      "question": "Listen and tick:",
+      "options": [
+        "A. Would you mind opening your house, please?",
+        "B. Would you mind opening your door, please?",
+        "C. Would you mind opening your mouth, please?",
+        "D. Would you mind opening your eyes, please?"
+      ],
+      "answer": "C. Would you mind opening your mouth, please?",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. Would you mind opening your mouth, please?.",
+      "audio": "media/audio/1e4475e0a090b2fd2af1.mp3"
+    },
+    {
+      "id": 26,
+      "question": "Listen and tick:",
+      "options": [
+        "A. You should get up early and stay up late.",
+        "B. You should go to school early and do morning exercise.",
+        "C. You should get up early and do morning exercise.",
+        "D. You should get up early and do your exercises."
+      ],
+      "answer": "C. You should get up early and do morning exercise.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là C. You should get up early and do morning exercise.",
+      "audio": "media/audio/4f1f6ac5da52cad881dd.mp3"
+    },
+    {
+      "id": 27,
+      "question": "Listen and tick:",
+      "options": [
+        "A. My grandparents’ house is big and colorful.",
+        "B. My grandparents’ house is big and comfortable.",
+        "C. My grandparents’ house is nice and comfortable.",
+        "D. My grandparents’ house is thick and enjoyable."
+      ],
+      "answer": "B. My grandparents’ house is big and comfortable.",
+      "explanation": "Nghe đúng file MP3 gốc và đánh dấu phương án/câu có nội dung trùng với bài nghe. Đáp án là B. My grandparents’ house is big and comfortable.",
+      "audio": "media/audio/53274942db1f37c8fe1a.mp3"
+    },
+    {
+      "id": 28,
+      "question": "The bag is behind the _ _ _ _ .",
+      "options": [],
+      "answer": "door",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “door”.",
+      "audio": "media/audio/f165cc09330529f483a7.mp3"
+    },
+    {
+      "id": 29,
+      "question": "_ _ _ _ _ _.",
+      "options": [],
+      "answer": "career",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “career”.",
+      "audio": "media/audio/7cf8fbe4a9387cd27966.mp3"
+    },
+    {
+      "id": 30,
+      "question": "They won’t go to the _ _ _ _ .",
+      "options": [],
+      "answer": "shop",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “shop”.",
+      "audio": "media/audio/0a410e3930f865e3259d.mp3"
+    },
+    {
+      "id": 31,
+      "question": "There is some b_ _ _ d.",
+      "options": [],
+      "answer": "rea",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “rea”.",
+      "audio": "media/audio/64a546bb40667a6d138a.mp3"
+    },
+    {
+      "id": 32,
+      "question": "Every apartment has a _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "balcony",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “balcony”.",
+      "audio": "media/audio/1db655aa639467155b24.mp3"
+    },
+    {
+      "id": 33,
+      "question": "They will go to the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "cinema",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “cinema”.",
+      "audio": "media/audio/d3ffcadb3ac62d599dd8.mp3"
+    },
+    {
+      "id": 34,
+      "question": "Books are _ _ _ _ _ _ good presents.",
+      "options": [],
+      "answer": "always",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “always”.",
+      "audio": "media/audio/f8df0cfdaa2a8f54a12d.mp3"
+    },
+    {
+      "id": 35,
+      "question": "Add some _ _ _ _ _ to the coffee.",
+      "options": [],
+      "answer": "sugar",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sugar”.",
+      "audio": "media/audio/9565d8eab088244edd52.mp3"
+    },
+    {
+      "id": 36,
+      "question": "Lynda comes from _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sydney",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sydney”.",
+      "audio": "media/audio/016a3ec593f648898f59.mp3"
+    },
+    {
+      "id": 37,
+      "question": "Andy is playing _ _ _ _ ball.",
+      "options": [],
+      "answer": "foot",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “foot”.",
+      "audio": "media/audio/9691ad5ccff87096cb41.mp3"
+    },
+    {
+      "id": 38,
+      "question": "Brian can play the _ _ _ tar.",
+      "options": [],
+      "answer": "gui",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “gui”.",
+      "audio": "media/audio/674f13de6d39d5eca520.mp3"
+    },
+    {
+      "id": 39,
+      "question": "When do you have _ _ _ lessons?",
+      "options": [],
+      "answer": "art",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “art”.",
+      "audio": "media/audio/7b041af049541e0281b3.mp3"
+    },
+    {
+      "id": 40,
+      "question": "Put the car on the cup_ _ _ _ _ .",
+      "options": [],
+      "answer": "board",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “board”.",
+      "audio": "media/audio/f6806b273026e8ea5326.mp3"
+    },
+    {
+      "id": 41,
+      "question": "What’s his _ _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "nationality",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “nationality”.",
+      "audio": "media/audio/5c085a6e9c505f1bd731.mp3"
+    },
+    {
+      "id": 42,
+      "question": "It’s very _ _ _ _ _ .",
+      "options": [],
+      "answer": "foggy",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “foggy”.",
+      "audio": "media/audio/fb8a56efe14fab010ecc.mp3"
+    },
+    {
+      "id": 43,
+      "question": "William has got one _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sister",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sister”.",
+      "audio": "media/audio/640b0b24330ce60bb874.mp3"
+    },
+    {
+      "id": 44,
+      "question": "They will go _ _ _ _ _ ing now.",
+      "options": [],
+      "answer": "swimm",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “swimm”.",
+      "audio": "media/audio/dbbd7746930c07fc4282.mp3"
+    },
+    {
+      "id": 45,
+      "question": "The sh_ _ _ are on the floor.",
+      "options": [],
+      "answer": "oes",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “oes”.",
+      "audio": "media/audio/3d663b680cc1b7b8bd76.mp3"
+    },
+    {
+      "id": 46,
+      "question": "Helen’s making a _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "snowman",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “snowman”.",
+      "audio": "media/audio/43ce4431b921f45a14ee.mp3"
+    },
+    {
+      "id": 47,
+      "question": "It’s _ _ _ _ _ _ _ _ _ to remember.",
+      "options": [],
+      "answer": "difficult",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “difficult”.",
+      "audio": "media/audio/91983ff9f093ba10dd2d.mp3"
+    },
+    {
+      "id": 48,
+      "question": "When do you do your _ _ _ _ work?",
+      "options": [],
+      "answer": "home",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “home”.",
+      "audio": "media/audio/a38cf6008760d1107133.mp3"
+    },
+    {
+      "id": 49,
+      "question": "Her _ _ _ _ _ is sewing.",
+      "options": [],
+      "answer": "hobby",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “hobby”.",
+      "audio": "media/audio/1dcae1534bdc998da5c8.mp3"
+    },
+    {
+      "id": 50,
+      "question": "Where do you _ _ _ _ ?",
+      "options": [],
+      "answer": "live",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “live”.",
+      "audio": "media/audio/ac60ae124c35df171779.mp3"
+    },
+    {
+      "id": 51,
+      "question": "His weekend was _ _ _ _ .",
+      "options": [],
+      "answer": "good",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “good”.",
+      "audio": "media/audio/3114d4a9f9e857fa1a70.mp3"
+    },
+    {
+      "id": 52,
+      "question": "They are in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "garden",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “garden”.",
+      "audio": "media/audio/81fc9124736c2ccde2c2.mp3"
+    },
+    {
+      "id": 53,
+      "question": "The _ _ _ _ _ will go onto the chair.",
+      "options": [],
+      "answer": "phone",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “phone”.",
+      "audio": "media/audio/4ce5f6fb8f7ea0ee8d3e.mp3"
+    },
+    {
+      "id": 54,
+      "question": "The bag will go _ _ the cupboard.",
+      "options": [],
+      "answer": "in",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “in”.",
+      "audio": "media/audio/472fa480a61277736c2c.mp3"
+    },
+    {
+      "id": 55,
+      "question": "It’s difficult to _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "remember",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “remember”.",
+      "audio": "media/audio/0b66f400acf52db6ee56.mp3"
+    },
+    {
+      "id": 56,
+      "question": "Put the computer on the t_ _ _ _ .",
+      "options": [],
+      "answer": "able",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “able”.",
+      "audio": "media/audio/d784a88e08e348016b9b.mp3"
+    },
+    {
+      "id": 57,
+      "question": "What time does school _ _ _ _ _ ?",
+      "options": [],
+      "answer": "start",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “start”.",
+      "audio": "media/audio/8008dd0786b94001d31c.mp3"
+    },
+    {
+      "id": 58,
+      "question": "The lamp is _ _ the desk.",
+      "options": [],
+      "answer": "on",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “on”.",
+      "audio": "media/audio/9c5ebd4ed4476baf4fe3.mp3"
+    },
+    {
+      "id": 59,
+      "question": "She climbed a _ _ _ _ yesterday.",
+      "options": [],
+      "answer": "tree",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “tree”.",
+      "audio": "media/audio/f68a0b53d2d184d112a6.mp3"
+    },
+    {
+      "id": 60,
+      "question": "His book is under the _ _ _ .",
+      "options": [],
+      "answer": "bag",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “bag”.",
+      "audio": "media/audio/4bb7f1de30688f50b4ac.mp3"
+    },
+    {
+      "id": 61,
+      "question": "It’s a pretty great place to _ _ _ _ .",
+      "options": [],
+      "answer": "live",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “live”.",
+      "audio": "media/audio/4ba61d74f67effb3fea8.mp3"
+    },
+    {
+      "id": 62,
+      "question": "Melbourne is a _ _ _ _ _ city.",
+      "options": [],
+      "answer": "great",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “great”.",
+      "audio": "media/audio/28932cb79127a5879164.mp3"
+    },
+    {
+      "id": 63,
+      "question": "The balloon was _ _ _ _ in the skype.",
+      "options": [],
+      "answer": "high",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “high”.",
+      "audio": "media/audio/c2714fa0d54e5a36ef1b.mp3"
+    },
+    {
+      "id": 64,
+      "question": "When won’t she phone her?",
+      "options": [
+        "A. on weekends",
+        "B. on weekdays",
+        "C. on Wednesday",
+        "D. on Monday"
+      ],
+      "answer": "B. on weekdays",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. on weekdays”.",
+      "audio": "media/audio/49427e4f6c67171b2e56.mp3"
+    },
+    {
+      "id": 65,
+      "question": "He got up very early and ran downstairs to the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "kitchen",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “kitchen”.",
+      "audio": "media/audio/95d4897c1a061ed909d0.mp3"
+    },
+    {
+      "id": 66,
+      "question": "When was her cousin born?",
+      "options": [
+        "A. two months ago",
+        "B. two years ago",
+        "C. two days ago",
+        "D. two weeks ago"
+      ],
+      "answer": "D. two weeks ago",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. two weeks ago”.",
+      "audio": "media/audio/1c982e351a2ee418ec08.mp3"
+    },
+    {
+      "id": 67,
+      "question": "There’s a _ _ _ _ _ _ _ at the theatre on Sunday.",
+      "options": [],
+      "answer": "concert",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “concert”.",
+      "audio": "media/audio/d642d1b857a9a7f54f6d.mp3"
+    },
+    {
+      "id": 68,
+      "question": "Plants live in soil and they find _ _ _ _ _ there.",
+      "options": [],
+      "answer": "water",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “water”.",
+      "audio": "media/audio/7d5f6889b19ef1903772.mp3"
+    },
+    {
+      "id": 69,
+      "question": "In the story, there was a princess living in the _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "jungle",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “jungle”.",
+      "audio": "media/audio/b1696480d4cd2df8b1e2.mp3"
+    },
+    {
+      "id": 70,
+      "question": "There is a scarf with red and blue _ _ _ _ _ _ _ on the snowman.",
+      "options": [],
+      "answer": "stripes",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “stripes”.",
+      "audio": "media/audio/3ba476ab0c35ac67117b.mp3"
+    },
+    {
+      "id": 71,
+      "question": "The earthquake happened about … years ago on Santorini.",
+      "options": [
+        "A. 200",
+        "B. 2000",
+        "C. 3000",
+        "D. 4000"
+      ],
+      "answer": "B. 2000",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. 2000”.",
+      "audio": "media/audio/d480a46d813365d4f9e9.mp3"
+    },
+    {
+      "id": 72,
+      "question": "What company does Steve work for?",
+      "options": [
+        "A. publishing",
+        "B. public",
+        "C. pub",
+        "D. publish"
+      ],
+      "answer": "A. publishing",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. publishing”.",
+      "audio": "media/audio/01a34ed1b02d90f9d7f4.mp3"
+    },
+    {
+      "id": 73,
+      "question": "It was very long and thin and it looks like a _ _ _ _ _ .",
+      "options": [],
+      "answer": "snake",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “snake”.",
+      "audio": "media/audio/b982965958d21f637a40.mp3"
+    },
+    {
+      "id": 74,
+      "question": "What does he play?",
+      "options": [
+        "A. baseball",
+        "B. tennis",
+        "C. soccer",
+        "D. basketball"
+      ],
+      "answer": "C. soccer",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. soccer”.",
+      "audio": "media/audio/ce23fb54f3f8f2b67922.mp3"
+    },
+    {
+      "id": 75,
+      "question": "We will go to the ... next weekend.",
+      "options": [
+        "A. garden",
+        "B. mountain",
+        "C. kitchen",
+        "D. beach"
+      ],
+      "answer": "B. mountain",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. mountain”.",
+      "audio": "media/audio/27d000a74fcc18f228db.mp3"
+    },
+    {
+      "id": 76,
+      "question": "What is the _ _ _ _ _ of a box of chocolates?",
+      "options": [],
+      "answer": "price",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “price”.",
+      "audio": "media/audio/66ebe85d82bd8ba2f2d4.mp3"
+    },
+    {
+      "id": 77,
+      "question": "Where did you spend your _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "summer",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “summer”.",
+      "audio": "media/audio/0961f4666545c4e037e8.mp3"
+    },
+    {
+      "id": 78,
+      "question": "She reads in the _ _ _ _ _ _ _ from 7 o’clock to 9.30.",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “library”.",
+      "audio": "media/audio/00dab3a4b9da39ac305f.mp3"
+    },
+    {
+      "id": 79,
+      "question": "Yesterday she …",
+      "options": [
+        "A. listened to the radio",
+        "B. watched TV",
+        "C. had a shower",
+        "D. went to school late"
+      ],
+      "answer": "B. watched TV",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. watched TV”.",
+      "audio": "media/audio/42bb4b71066939009238.mp3"
+    },
+    {
+      "id": 80,
+      "question": "There is a … on the wall.",
+      "options": [
+        "A. poster",
+        "B. clock",
+        "C. picture",
+        "D. knot"
+      ],
+      "answer": "B. clock",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. clock”.",
+      "audio": "media/audio/f1ec4df7f24c860fd5ea.mp3"
+    },
+    {
+      "id": 81,
+      "question": "David doesn’t like his math _ _ _ _ _ _ _ very much.",
+      "options": [],
+      "answer": "lessons",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “lessons”.",
+      "audio": "media/audio/c468151b5f9e8eda6f5f.mp3"
+    },
+    {
+      "id": 82,
+      "question": "How many cats are there in his house?",
+      "options": [
+        "A. one",
+        "B. two",
+        "C. three",
+        "D. four"
+      ],
+      "answer": "A. one",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. one”.",
+      "audio": "media/audio/5efbd9a40767da42409b.mp3"
+    },
+    {
+      "id": 83,
+      "question": "Edward can take _ _ _ _ _ _ _ _ _ photos.",
+      "options": [],
+      "answer": "excellent",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “excellent”.",
+      "audio": "media/audio/8706d68b3bc29529fd90.mp3"
+    },
+    {
+      "id": 84,
+      "question": "Jim’s father operates _ _ _ _ _ _ _ _ in a factory.",
+      "options": [],
+      "answer": "machines",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “machines”.",
+      "audio": "media/audio/e11fdd3b7766c6a8f6dd.mp3"
+    },
+    {
+      "id": 85,
+      "question": "What does Ha’s house look like?",
+      "options": [
+        "A. in the city",
+        "B. big",
+        "C. small",
+        "D. in the country"
+      ],
+      "answer": "C. small",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. small”.",
+      "audio": "media/audio/275f8a74475ac5a59adf.mp3"
+    },
+    {
+      "id": 86,
+      "question": "How are the mountains?",
+      "options": [
+        "A. safe",
+        "B. dangerous",
+        "C. high",
+        "D. beautiful"
+      ],
+      "answer": "B. dangerous",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. dangerous”.",
+      "audio": "media/audio/60d8b5a27d77025f2789.mp3"
+    },
+    {
+      "id": 87,
+      "question": "After that, you can _ _ _ _ _ _ _ _ the famous old town of Inca in Peru.",
+      "options": [],
+      "answer": "discover",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “discover”.",
+      "audio": "media/audio/ca6f40330027a44d7d10.mp3"
+    },
+    {
+      "id": 88,
+      "question": "Joe’s birthday is on the _ _ _ _ _ of August.",
+      "options": [],
+      "answer": "ninth",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “ninth”.",
+      "audio": "media/audio/c619a19f0000e37adb69.mp3"
+    },
+    {
+      "id": 89,
+      "question": "They will make a cake because she is _ _ _ _ ry.",
+      "options": [],
+      "answer": "hung",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “hung”.",
+      "audio": "media/audio/69bc5e619aa7be11c86b.mp3"
+    },
+    {
+      "id": 90,
+      "question": "How do Mrs. Oanh and her family _ _ _ _ _ _ to Ho Chi Minh City?",
+      "options": [],
+      "answer": "travel",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “travel”.",
+      "audio": "media/audio/433d68ad64222ec3c3f5.mp3"
+    },
+    {
+      "id": 91,
+      "question": "Where does her brother work? – In a factory near the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "airport",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “airport”.",
+      "audio": "media/audio/87f32fdae580b68aa52b.mp3"
+    },
+    {
+      "id": 92,
+      "question": "Where did he play football?",
+      "options": [
+        "A. In the playground.",
+        "B. In the park.",
+        "C. In the schoolyard.",
+        "D. In the classroom."
+      ],
+      "answer": "B. In the park.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. In the park”.",
+      "audio": "media/audio/39213a29fc6d081fe0a0.mp3"
+    },
+    {
+      "id": 93,
+      "question": "On _ _ _ _ _ _ _ I usually take my books back to the library.",
+      "options": [],
+      "answer": "Tuesday",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “Tuesday”.",
+      "audio": "media/audio/ddfc0e0e663bd34dd913.mp3"
+    },
+    {
+      "id": 94,
+      "question": "We are _ _ _ _ _ _ _ _ _ too much trash.",
+      "options": [],
+      "answer": "producing",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “producing”.",
+      "audio": "media/audio/21eb95f7b06bfa399154.mp3"
+    },
+    {
+      "id": 95,
+      "question": "What’s her address? – It’s 17 _ _ _ _ _ _ _ Street.",
+      "options": [],
+      "answer": "randall",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “randall”.",
+      "audio": "media/audio/d2603c2f920c1178b0d9.mp3"
+    },
+    {
+      "id": 96,
+      "question": "She thinks that mobile phones for _ _ _ _ _ _ reason.",
+      "options": [],
+      "answer": "safety",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “safety”.",
+      "audio": "media/audio/edef17ee8310d74707f5.mp3"
+    },
+    {
+      "id": 97,
+      "question": "There are four _ _ _ _ _ _ _ in the room.",
+      "options": [],
+      "answer": "benches",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “benches”.",
+      "audio": "media/audio/cacc1441308f9c0fa704.mp3"
+    },
+    {
+      "id": 98,
+      "question": "How many bathrooms are there in Jane’s house in Japan?",
+      "options": [
+        "A. One",
+        "B. Two",
+        "C. Three",
+        "D. Four"
+      ],
+      "answer": "A. One",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. One”.",
+      "audio": "media/audio/15a320059ea22342b98e.mp3"
+    },
+    {
+      "id": 99,
+      "question": "Well, books are always good _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "presents",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “presents”.",
+      "audio": "media/audio/90edfd42e9d4f15d6f28.mp3"
+    },
+    {
+      "id": 100,
+      "question": "What is the population of Tokyo?",
+      "options": [
+        "A. 2 million",
+        "B. 10 million",
+        "C. 12 million",
+        "D. 20 million"
+      ],
+      "answer": "C. 12 million",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. 12 million”.",
+      "audio": "media/audio/f6740a3b08a4377201e8.mp3"
+    },
+    {
+      "id": 101,
+      "question": "You can learn how to make a house for your _ _ _ in “Home and Garden” at 8:25.",
+      "options": [],
+      "answer": "dog",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “dog”.",
+      "audio": "media/audio/f1d9106ee8869ea07f41.mp3"
+    },
+    {
+      "id": 102,
+      "question": "We’ll have rice and _ _ _ _ _ _ _ in a restaurant.",
+      "options": [],
+      "answer": "seafood",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “seafood”.",
+      "audio": "media/audio/a2d43231b2763b5f88b2.mp3"
+    },
+    {
+      "id": 103,
+      "question": "What has he got? - …",
+      "options": [
+        "A. A coat",
+        "B. A raincoat",
+        "C. A jacket",
+        "D. A sweater"
+      ],
+      "answer": "C. A jacket",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. A jacket”.",
+      "audio": "media/audio/bd7081bdabe6dc811453.mp3"
+    },
+    {
+      "id": 104,
+      "question": "Helen’s birthday is on the twenty _ _ _ _ _ _ of October.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “second”.",
+      "audio": "media/audio/0d82924a717ae69d913b.mp3"
+    },
+    {
+      "id": 105,
+      "question": "The cat is under the …",
+      "options": [
+        "A. box",
+        "B. bed",
+        "C. shelf",
+        "D. clothes"
+      ],
+      "answer": "B. bed",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. bed”.",
+      "audio": "media/audio/17b148fc2292a46a938c.mp3"
+    },
+    {
+      "id": 106,
+      "question": "What is the price of a box of _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "chocolates",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “chocolates”.",
+      "audio": "media/audio/a7e358c9e81bf535fd4d.mp3"
+    },
+    {
+      "id": 107,
+      "question": "Well, congratulations on your new _ _ _ _ _ .",
+      "options": [],
+      "answer": "house",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “house”.",
+      "audio": "media/audio/9867eacb4fda7dd30e16.mp3"
+    },
+    {
+      "id": 108,
+      "question": "What does Akane do?",
+      "options": [
+        "A. doctor",
+        "B. teacher",
+        "C. worker",
+        "D. nurse"
+      ],
+      "answer": "B. teacher",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. teacher”.",
+      "audio": "media/audio/ba67d1699979125ac76d.mp3"
+    },
+    {
+      "id": 109,
+      "question": "She lives on the _ _ _ _ _ _ floor of Ha Noi Tower.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “second”.",
+      "audio": "media/audio/11fdc4b6335bbf3f67dd.mp3"
+    },
+    {
+      "id": 110,
+      "question": "Most rivers come from _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "mountains",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “mountains”.",
+      "audio": "media/audio/684668b41a2154cc2921.mp3"
+    },
+    {
+      "id": 111,
+      "question": "Where is Peter’s classroom?",
+      "options": [
+        "A. on the twentieth floor",
+        "B. on the fifth floor",
+        "C. on the desk",
+        "D. on the sixth floor"
+      ],
+      "answer": "B. on the fifth floor",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. on the fifth floor”.",
+      "audio": "media/audio/17075f514b1bde9b9d5f.mp3"
+    },
+    {
+      "id": 112,
+      "question": "In _ _ _ weather, the ocean can be rough.",
+      "options": [],
+      "answer": "bad",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “bad”.",
+      "audio": "media/audio/fa0ae7641379ad815fb6.mp3"
+    },
+    {
+      "id": 113,
+      "question": "On the land, there are _ _ _ _ _ _ _ , mountains, and deserts.",
+      "options": [],
+      "answer": "forests",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “forests”.",
+      "audio": "media/audio/8bd12d4a8b837371c074.mp3"
+    },
+    {
+      "id": 114,
+      "question": "Shirley is from … .",
+      "options": [
+        "A. America",
+        "B. Australia",
+        "C. Austria",
+        "D. Romania"
+      ],
+      "answer": "B. Australia",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. Australia”.",
+      "audio": "media/audio/a9b03447085fe083f1eb.mp3"
+    },
+    {
+      "id": 115,
+      "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “library”.",
+      "audio": "media/audio/eb4ebd9e4d512d3ea71e.mp3"
+    },
+    {
+      "id": 116,
+      "question": "'Todd: What actors or actresses do you like? - Kate: My _ _ _ _ _ _ _ _ _ actor would be Brad Pitt.'.",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “favourite”.",
+      "audio": "media/audio/8447bc95c9c76049d005.mp3"
+    },
+    {
+      "id": 117,
+      "question": "I would like to _ _ _ _ _ _ to different places.",
+      "options": [],
+      "answer": "travel",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “travel”.",
+      "audio": "media/audio/d357401c08bf67a5c5e0.mp3"
+    },
+    {
+      "id": 118,
+      "question": "What does her father go to work by?",
+      "options": [
+        "A. bus",
+        "B. motorbike",
+        "C. car",
+        "D. train"
+      ],
+      "answer": "A. bus",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. bus”.",
+      "audio": "media/audio/119ef6011206cabaa451.mp3"
+    },
+    {
+      "id": 119,
+      "question": "What does Ken bring his camera for?",
+      "options": [
+        "A. to take some photos",
+        "B. to sell",
+        "C. to throw it away",
+        "D. to record a movie"
+      ],
+      "answer": "A. to take some photos",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. to take some photos”.",
+      "audio": "media/audio/a45091400476133c5a48.mp3"
+    },
+    {
+      "id": 120,
+      "question": "Nam _ _ _ _ _ _ _ goes swimming in the afternoon.",
+      "options": [],
+      "answer": "usually",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “usually”.",
+      "audio": "media/audio/18891d136ba7a2c8602e.mp3"
+    },
+    {
+      "id": 121,
+      "question": "How old is his mother?",
+      "options": [
+        "A. 84",
+        "B. 48",
+        "C. 18",
+        "D. 40"
+      ],
+      "answer": "B. 48",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. 48”.",
+      "audio": "media/audio/a99436ce41695403f0b4.mp3"
+    },
+    {
+      "id": 122,
+      "question": "What is the height of Petronas Twin Towers?",
+      "options": [
+        "A. 245 meters",
+        "B. 425 meters",
+        "C. 452 meters",
+        "D. 524 meters"
+      ],
+      "answer": "C. 452 meters",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. 452 meters”.",
+      "audio": "media/audio/c36b9138e69f097da393.mp3"
+    },
+    {
+      "id": 123,
+      "question": "We live in an _ _ _ _ _ _ _ _ _ in the city.",
+      "options": [],
+      "answer": "apartment",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “apartment”.",
+      "audio": "media/audio/3bacdf791bc2e3be635e.mp3"
+    },
+    {
+      "id": 124,
+      "question": "What did she keep fresh water for?",
+      "options": [
+        "A. eating",
+        "B. boiling",
+        "C. drinking",
+        "D. washing"
+      ],
+      "answer": "C. drinking",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. drinking”.",
+      "audio": "media/audio/e967b2d38663ab0e474f.mp3"
+    },
+    {
+      "id": 125,
+      "question": "They had good ... and drinks.",
+      "options": [
+        "A. fruit",
+        "B. food",
+        "C. juice",
+        "D. book"
+      ],
+      "answer": "B. food",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. food”.",
+      "audio": "media/audio/472edeb5abcffa8bf790.mp3"
+    },
+    {
+      "id": 126,
+      "question": "The boy with _ _ _ _ _ hair has taken a photo.",
+      "options": [],
+      "answer": "curly",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “curly”.",
+      "audio": "media/audio/7aa0b441e5c72cf3b36e.mp3"
+    },
+    {
+      "id": 127,
+      "question": "What does Josh like to play?",
+      "options": [
+        "A. guitar",
+        "B. piano",
+        "C. violin",
+        "D. drum"
+      ],
+      "answer": "A. guitar",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. guitar”.",
+      "audio": "media/audio/023aca73bbce3e82b3ae.mp3"
+    },
+    {
+      "id": 128,
+      "question": "Where do they play soccer?",
+      "options": [
+        "A. stadium",
+        "B. schoolyard",
+        "C. field",
+        "D. garden"
+      ],
+      "answer": "B. schoolyard",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. schoolyard”.",
+      "audio": "media/audio/df69742db1d2b93d5f2f.mp3"
+    },
+    {
+      "id": 129,
+      "question": "Ia is a small … .",
+      "options": [
+        "A. city",
+        "B. town",
+        "C. island",
+        "D. countryside"
+      ],
+      "answer": "B. town",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. town”.",
+      "audio": "media/audio/7859ecdea5fb39bbf4bb.mp3"
+    },
+    {
+      "id": 130,
+      "question": "Who does Susan get on well with in her family?",
+      "options": [
+        "A. father",
+        "B. brother",
+        "C. mother",
+        "D. sister"
+      ],
+      "answer": "C. mother",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. mother”.",
+      "audio": "media/audio/acc8e7d13b6dd5dd079a.mp3"
+    },
+    {
+      "id": 131,
+      "question": "Nick, have you ever taken part in a sports _ _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "competition",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “competition”.",
+      "audio": "media/audio/20fdabc2ea73ea9f2075.mp3"
+    },
+    {
+      "id": 132,
+      "question": "Listen and choose the fruit which is NOT in the recording.",
+      "options": [
+        "A. oranges",
+        "B. bananas",
+        "C. grapes",
+        "D. apples"
+      ],
+      "answer": "D. apples",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. apples”.",
+      "audio": "media/audio/b31ac51e70aa178bddfc.mp3"
+    },
+    {
+      "id": 133,
+      "question": "I _ _ _ _ _ of being an astronaut some day.",
+      "options": [],
+      "answer": "dream",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “dream”.",
+      "audio": "media/audio/54d08db2233bcc30896f.mp3"
+    },
+    {
+      "id": 134,
+      "question": "My dream house is _ _ _ _ _ _ _ _ _ _ different.",
+      "options": [],
+      "answer": "completely",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “completely”.",
+      "audio": "media/audio/08c021bcefc08a905e0d.mp3"
+    },
+    {
+      "id": 135,
+      "question": "Both Mike and his father were very _ _ _ _ _ _ _ when they read about the coming events.",
+      "options": [],
+      "answer": "excited",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “excited”.",
+      "audio": "media/audio/38324eb6d62f4fa91873.mp3"
+    },
+    {
+      "id": 136,
+      "question": "There is some iced coffee but there are not any _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "apples",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “apples”.",
+      "audio": "media/audio/573adc770b12b4959042.mp3"
+    },
+    {
+      "id": 137,
+      "question": "Niagara Falls are amazing waterfalls in _ _ _ _ _ _ and the USA.",
+      "options": [],
+      "answer": "Canada",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “Canada”.",
+      "audio": "media/audio/f88573da48501c33aa2a.mp3"
+    },
+    {
+      "id": 138,
+      "question": "What has his Uncle got?",
+      "options": [
+        "A. A new car.",
+        "B. A nice hat.",
+        "C. Funny socks.",
+        "D. A long hair."
+      ],
+      "answer": "A. A new car.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. A new car”.",
+      "audio": "media/audio/856bc11b410450cbdddf.mp3"
+    },
+    {
+      "id": 139,
+      "question": "What’s Ron’s favourite ice-cream flavor?",
+      "options": [
+        "A. orange",
+        "B. apple",
+        "C. strawberry",
+        "D. chocolate"
+      ],
+      "answer": "C. strawberry",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. strawberry”.",
+      "audio": "media/audio/bf3a11a38410b48b0db1.mp3"
+    },
+    {
+      "id": 140,
+      "question": "When did Eucharia move to her new house?",
+      "options": [
+        "A. Last week",
+        "B. Last month",
+        "C. Yesterday",
+        "D. Last year"
+      ],
+      "answer": "A. Last week",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. Last week”.",
+      "audio": "media/audio/beab6c601ff1ac5b5219.mp3"
+    },
+    {
+      "id": 141,
+      "question": "Paul went on a beautiful boat trip on a big river, and he sent a _ _ _ _ _ _ _ _ of that.",
+      "options": [],
+      "answer": "postcard",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “postcard”.",
+      "audio": "media/audio/0528fa5827839f733a1d.mp3"
+    },
+    {
+      "id": 142,
+      "question": "Where is the bowl of noodles?",
+      "options": [
+        "A. next to the shelf",
+        "B. under the shelf",
+        "C. in the shelf",
+        "D. on the shelf"
+      ],
+      "answer": "D. on the shelf",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. on the shelf”.",
+      "audio": "media/audio/98cfbabbaf9b6839519e.mp3"
+    },
+    {
+      "id": 143,
+      "question": "Sam and his uncle were in the jungle for six _ _ _ _ .",
+      "options": [],
+      "answer": "days",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “days”.",
+      "audio": "media/audio/8f1391426499996b4215.mp3"
+    },
+    {
+      "id": 144,
+      "question": "We’ll play volleyball on the _ _ _ _ _ .",
+      "options": [],
+      "answer": "beach",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “beach”.",
+      "audio": "media/audio/5bb184a1c1d8d513156e.mp3"
+    },
+    {
+      "id": 145,
+      "question": "What is in danger of extinction?",
+      "options": [
+        "A. this kind of leopard",
+        "B. this kind of lion",
+        "C. teacher",
+        "D. this kind of tiger"
+      ],
+      "answer": "D. this kind of tiger",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. this kind of tiger”.",
+      "audio": "media/audio/3e9433ebe47bc890c139.mp3"
+    },
+    {
+      "id": 146,
+      "question": "The boy tells the girl put the guitar … the sofa.",
+      "options": [
+        "A. in front of",
+        "B. under",
+        "C. above",
+        "D. behind"
+      ],
+      "answer": "D. behind",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. behind”.",
+      "audio": "media/audio/8e685671848df8f5c8c8.mp3"
+    },
+    {
+      "id": 147,
+      "question": "He got up very early and ran _ _ _ _ _ _ _ _ _ _ to the kitchen.",
+      "options": [],
+      "answer": "downstairs",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “downstairs”.",
+      "audio": "media/audio/b40c6d6363e39b664cf4.mp3"
+    },
+    {
+      "id": 148,
+      "question": "Where will Linda’s dream house be? – It will be near the _ _ _ _ _ .",
+      "options": [],
+      "answer": "coast",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “coast”.",
+      "audio": "media/audio/00a016afbb8cc7ac4dde.mp3"
+    },
+    {
+      "id": 149,
+      "question": "The boy tells the girl to put the _ _ _ _ _ under the sofa.",
+      "options": [
+        "A. toys",
+        "B. carf",
+        "C. shoes",
+        "D. clothes"
+      ],
+      "answer": "C. shoes",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “C. shoes”.",
+      "audio": "media/audio/2506a4d8ff9a5547f271.mp3"
+    },
+    {
+      "id": 150,
+      "question": "Mrs. Hue and her children are eating their breakfast in the food _ _ _ _ _ .",
+      "options": [],
+      "answer": "stall",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “stall”.",
+      "audio": "media/audio/c485e5301f0985608d39.mp3"
+    },
+    {
+      "id": 151,
+      "question": "_ _ _ _ _ the beef, then add some green peppers and onions.",
+      "options": [],
+      "answer": "slice",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “slice”.",
+      "audio": "media/audio/dcc5619d68e49c151b63.mp3"
+    },
+    {
+      "id": 152,
+      "question": "They are riding in _ _ _ _ _ on the lake or talking to friends.",
+      "options": [],
+      "answer": "boats",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “boats”.",
+      "audio": "media/audio/d31392922fa41236c7eb.mp3"
+    },
+    {
+      "id": 153,
+      "question": "It’s famous for its traditonal houses and beautiful _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sunsets",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “sunsets”.",
+      "audio": "media/audio/49463026f51b55306340.mp3"
+    },
+    {
+      "id": 154,
+      "question": "Mary often goes ... in the morning.",
+      "options": [
+        "A. walking",
+        "B. jogging",
+        "C. talking",
+        "D. fishing"
+      ],
+      "answer": "B. jogging",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. jogging”.",
+      "audio": "media/audio/99f3c4dc829f90b8e404.mp3"
+    },
+    {
+      "id": 155,
+      "question": "Her new house is on the _ _ _ _ of a mountain.",
+      "options": [],
+      "answer": "side",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “side”.",
+      "audio": "media/audio/96ad285d3b337a680285.mp3"
+    },
+    {
+      "id": 156,
+      "question": "Mary: So, um, how big is your immediate family? - Ruth: Ah, there are _ _ _ _ of us.'.",
+      "options": [],
+      "answer": "four",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “four”.",
+      "audio": "media/audio/54b13edd938760cf3313.mp3"
+    },
+    {
+      "id": 157,
+      "question": "What don’t they do after dinner?",
+      "options": [
+        "A. go to sleep",
+        "B. eat dinner",
+        "C. listen to music",
+        "D. do homework"
+      ],
+      "answer": "C. listen to music",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. listen to music”.",
+      "audio": "media/audio/184d7cf093fa6c7ff21d.mp3"
+    },
+    {
+      "id": 158,
+      "question": "You’re such a good _ _ _ _ . I wish I could cook like you can.",
+      "options": [],
+      "answer": "cook",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “cook”.",
+      "audio": "media/audio/0a5219c109128a0e5ea6.mp3"
+    },
+    {
+      "id": 159,
+      "question": "Who would like some coffee?",
+      "options": [
+        "A. Oscar.",
+        "B. Jenny.",
+        "C. The speaker.",
+        "D. Oscar’s friend."
+      ],
+      "answer": "A. Oscar.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. Oscar”.",
+      "audio": "media/audio/75063c90dc3cd8b9b1fb.mp3"
+    },
+    {
+      "id": 160,
+      "question": "In the morning the balloon was a _ _ _ _ .",
+      "options": [],
+      "answer": "boat",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “boat”.",
+      "audio": "media/audio/a7a63e7f684501131b84.mp3"
+    },
+    {
+      "id": 161,
+      "question": "Jane goes to school at _ _ _ _ _ o’clock every morning.",
+      "options": [],
+      "answer": "eight",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “eight”.",
+      "audio": "media/audio/bcb83fa2b9925bbef327.mp3"
+    },
+    {
+      "id": 162,
+      "question": "Yesterday she visited her _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "grandma",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “grandma”.",
+      "audio": "media/audio/ae37d66d14c3fbc3b645.mp3"
+    },
+    {
+      "id": 163,
+      "question": "What did he do before he _ _ _ _ _ _ _ his job?",
+      "options": [],
+      "answer": "started",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “started”.",
+      "audio": "media/audio/f5dddd55695b6814cb01.mp3"
+    },
+    {
+      "id": 164,
+      "question": "How was the boy?",
+      "options": [
+        "A. Tired and bored.",
+        "B. Hungry and happy.",
+        "C. Tired but happy.",
+        "D. Sleepy but happy."
+      ],
+      "answer": "C. Tired but happy.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. Tired but happy”.",
+      "audio": "media/audio/83499a6000c11f68f069.mp3"
+    },
+    {
+      "id": 165,
+      "question": "What does he think the best season to visit America?",
+      "options": [
+        "A. Spring",
+        "B. Summer",
+        "C. Fall",
+        "D. Winter"
+      ],
+      "answer": "C. Fall",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. Fall”.",
+      "audio": "media/audio/b3e8466909bbaf3e9ae0.mp3"
+    },
+    {
+      "id": 166,
+      "question": "What does he have?",
+      "options": [
+        "A. a car",
+        "B. a cow",
+        "C. some buffaloes",
+        "D. some paddy fields"
+      ],
+      "answer": "D. some paddy fields",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. some paddy fields”.",
+      "audio": "media/audio/a94f84cfcb8dd039fcaf.mp3"
+    },
+    {
+      "id": 167,
+      "question": "People and animals run because they are _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "scared",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “scared”.",
+      "audio": "media/audio/18af315770b1809289ff.mp3"
+    },
+    {
+      "id": 168,
+      "question": "The bird is …",
+      "options": [
+        "A. really big.",
+        "B. a bit small.",
+        "C. quite beautiful.",
+        "D. very clever."
+      ],
+      "answer": "A. really big.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. really big”.",
+      "audio": "media/audio/8cbb5f54d46de4c1d71f.mp3"
+    },
+    {
+      "id": 169,
+      "question": "The birthday party was at 7 o’clock _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "yesterday",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “yesterday”.",
+      "audio": "media/audio/50d9638c4883ac984742.mp3"
+    },
+    {
+      "id": 170,
+      "question": "What does he like? – He likes …",
+      "options": [
+        "A. sports",
+        "B. playing basketball",
+        "C. swimming",
+        "D. All are correct."
+      ],
+      "answer": "D. All are correct.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. All are correct”.",
+      "audio": "media/audio/b42cfd37be245b1e219b.mp3"
+    },
+    {
+      "id": 171,
+      "question": "What do we collect waste paper and old plastic for?",
+      "options": [
+        "A. to sell",
+        "B. to recycle",
+        "C. to burn",
+        "D. to throw away"
+      ],
+      "answer": "B. to recycle",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. to recycle”.",
+      "audio": "media/audio/f228559cace8b28f176f.mp3"
+    },
+    {
+      "id": 172,
+      "question": "They s_ _ _ _ _ across the sea and through the whales.",
+      "options": [],
+      "answer": "ailed",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “ailed”.",
+      "audio": "media/audio/0791ea4565c4f5869ef4.mp3"
+    },
+    {
+      "id": 173,
+      "question": "The road is _ _ _ _ _ _ _ _ _ . He must slow down.",
+      "options": [],
+      "answer": "dangerous",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “dangerous”.",
+      "audio": "media/audio/fff40d7a93c5804d1d57.mp3"
+    },
+    {
+      "id": 174,
+      "question": "The _ _ _ _ is red and the wall is yellow.",
+      "options": [],
+      "answer": "roof",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “roof”.",
+      "audio": "media/audio/627548990aef43753b83.mp3"
+    },
+    {
+      "id": 175,
+      "question": "What is being burned too much?",
+      "options": [
+        "A. tree",
+        "B. coal",
+        "C. fire",
+        "D. paper"
+      ],
+      "answer": "B. coal",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “B. coal”.",
+      "audio": "media/audio/52cc81486000613f962e.mp3"
+    },
+    {
+      "id": 176,
+      "question": "Yesterday she watched TV, climbed a tree, _ _ _ _ _ ed her grandma and brushed her teeth.",
+      "options": [],
+      "answer": "visit",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “visit”.",
+      "audio": "media/audio/57c44b3854e0761992bf.mp3"
+    },
+    {
+      "id": 177,
+      "question": "Can you tell me about your future _ _ _ _ _ ?",
+      "options": [],
+      "answer": "plans",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “plans”.",
+      "audio": "media/audio/222b55b943f8de68431a.mp3"
+    },
+    {
+      "id": 178,
+      "question": "I bought a lot of _ _ _ _ _ _ _ _ _ gifts for my friends in America.",
+      "options": [],
+      "answer": "different",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “different”.",
+      "audio": "media/audio/619b97ad268e2e1110f5.mp3"
+    },
+    {
+      "id": 179,
+      "question": "Where are the rulers?",
+      "options": [
+        "A. next to the table",
+        "B. under the table",
+        "C. on the table",
+        "D. in the table"
+      ],
+      "answer": "C. on the table",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. on the table”.",
+      "audio": "media/audio/0079a8f2c7b409d533d4.mp3"
+    },
+    {
+      "id": 180,
+      "question": "Amy Hickson has been a runner since _ _ _ _ .",
+      "options": [],
+      "answer": "1998",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “1998”.",
+      "audio": "media/audio/bc987ffb24714227a0e8.mp3"
+    },
+    {
+      "id": 181,
+      "question": "He had a slight _ _ _ _ _ , coughing and sneezing.",
+      "options": [],
+      "answer": "fever",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “fever”.",
+      "audio": "media/audio/fd7a9588133a7a2f56a5.mp3"
+    },
+    {
+      "id": 182,
+      "question": "She brushed her …",
+      "options": [
+        "A. teeth",
+        "B. clothes",
+        "C. hair",
+        "D. cheeks"
+      ],
+      "answer": "C. hair",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. hair”.",
+      "audio": "media/audio/2d2ca64fcf399724458f.mp3"
+    },
+    {
+      "id": 183,
+      "question": "What does Tim’s father repair in the factory?",
+      "options": [
+        "A. plane",
+        "B. motorbike",
+        "C. machines",
+        "D. car"
+      ],
+      "answer": "C. machines",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “C. machines”.",
+      "audio": "media/audio/c169bd152b404cbacea3.mp3"
+    },
+    {
+      "id": 184,
+      "question": "Jane goes to school at _____ every morning.",
+      "options": [
+        "A. 6 o’clock",
+        "B. 7 o’clock",
+        "C. 8 o’clock",
+        "D. 9 o’clock"
+      ],
+      "answer": "C. 8 o’clock",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “C. 8 o’clock”.",
+      "audio": "media/audio/ca16952bf01ce9bf0dd8.mp3"
+    },
+    {
+      "id": 185,
+      "question": "What is next to the rice paddy?",
+      "options": [
+        "A. a field",
+        "B. a sea",
+        "C. a lake",
+        "D. a river"
+      ],
+      "answer": "D. a river",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. a river”.",
+      "audio": "media/audio/fda253a9cd5260b7f3f9.mp3"
+    },
+    {
+      "id": 186,
+      "question": "She bought a _ _ _ _ _ _ _ _ _ on her way to the office.",
+      "options": [],
+      "answer": "newspaper",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “newspaper”.",
+      "audio": "media/audio/dd7065a7b57216674ddc.mp3"
+    },
+    {
+      "id": 187,
+      "question": "What does she do after having breakfast?",
+      "options": [
+        "A. listen to the radio",
+        "B. listen to music",
+        "C. watch TV",
+        "D. have lunch"
+      ],
+      "answer": "A. listen to the radio",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. listen to the radio”.",
+      "audio": "media/audio/f562b5f17956bc90e0ad.mp3"
+    },
+    {
+      "id": 188,
+      "question": "I’m interested in _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "photography",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “photography”.",
+      "audio": "media/audio/ba7af2510e6982c95905.mp3"
+    },
+    {
+      "id": 189,
+      "question": "The alarm clock is … the table.",
+      "options": [
+        "A. on",
+        "B. in",
+        "C. under",
+        "D. off"
+      ],
+      "answer": "A. on",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. on”.",
+      "audio": "media/audio/89995828d61f49f9610d.mp3"
+    },
+    {
+      "id": 190,
+      "question": "What have they got?",
+      "options": [
+        "A. Pizzas.",
+        "B. Sandwiches and salad.",
+        "C. A big cake.",
+        "D. All are correct."
+      ],
+      "answer": "D. All are correct.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. All are correct”.",
+      "audio": "media/audio/d8de92945db69911540d.mp3"
+    },
+    {
+      "id": 191,
+      "question": "We use milk to make cheese, butter, cream and _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "yogurt",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “yogurt”.",
+      "audio": "media/audio/63233ce04fc99cd8b89d.mp3"
+    },
+    {
+      "id": 192,
+      "question": "Deep in Earth, the _ _ _ _ is very, very hot.",
+      "options": [],
+      "answer": "rock",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “rock”.",
+      "audio": "media/audio/e59496a576ff017429a8.mp3"
+    },
+    {
+      "id": 193,
+      "question": "Where did Akane’s parents move to?",
+      "options": [
+        "A. Vancouver",
+        "B. Toronto",
+        "C. Quebec",
+        "D. West Coast"
+      ],
+      "answer": "A. Vancouver",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “A. Vancouver”.",
+      "audio": "media/audio/9a87c1b78801952e83ce.mp3"
+    },
+    {
+      "id": 194,
+      "question": "Humans are _ _ _ _ _ _ _ too much fossil fuels.",
+      "options": [],
+      "answer": "burning",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “burning”.",
+      "audio": "media/audio/ea3c9553e4f85e55223e.mp3"
+    },
+    {
+      "id": 195,
+      "question": "This is the _ _ _ _ _ time Mathew has eaten dog meat.",
+      "options": [],
+      "answer": "first",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “first”.",
+      "audio": "media/audio/deebe8a3f72f7037d91e.mp3"
+    },
+    {
+      "id": 196,
+      "question": "_ _ _ _ _ _ _ _ _ _ _ _ and other soft fruit grow in cool weather.",
+      "options": [],
+      "answer": "strawberries",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “strawberries”.",
+      "audio": "media/audio/fd26caad34429d3262c8.mp3"
+    },
+    {
+      "id": 197,
+      "question": "Listen and choose the drink which is NOT in the recording.",
+      "options": [
+        "A. tea",
+        "B. coffee",
+        "C. milk",
+        "D. apple juice"
+      ],
+      "answer": "D. apple juice",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. apple juice”.",
+      "audio": "media/audio/4c2b28d8498e49d65911.mp3"
+    },
+    {
+      "id": 198,
+      "question": "Why did they stay at home? – Because … .",
+      "options": [
+        "A. it was cold",
+        "B. it was rainy",
+        "C. the weather was bad",
+        "D. All are correct."
+      ],
+      "answer": "D. All are correct.",
+      "explanation": "Dựa vào thông tin trực tiếp trong file MP3 gốc, chọn đáp án phù hợp là “D. All are correct”.",
+      "audio": "media/audio/0f1b8614e2ee41e34d7f.mp3"
+    },
+    {
+      "id": 199,
+      "question": "Alex goes to a _ _ _ _ _ restaurant every Friday.",
+      "options": [],
+      "answer": "pizza",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “pizza”.",
+      "audio": "media/audio/69f62469780072ff5e0a.mp3"
+    },
+    {
+      "id": 200,
+      "question": "She has got lessons at school in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "morning",
+      "explanation": "Nghe từ hoặc cụm từ trong file MP3 gốc, rồi điền đúng phần còn thiếu. Từ/cụm đúng là “morning”.",
+      "audio": "media/audio/6cd44d61cb543e76e2ad.mp3"
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}
