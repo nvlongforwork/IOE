@@ -260,7 +260,7 @@
     },
     {
       "id": 33,
-      "question": "Jane _ _ _ _ _ her bike home at6.",
+      "question": "Jane _ _ _ _ _ her bike home at 6.",
       "options": [],
       "answer": "rides",
       "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “Jane _ _ _ _ _ her bike home at6.”, đáp án phù hợp là “rides”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 44.",
@@ -332,7 +332,7 @@
     },
     {
       "id": 42,
-      "question": "It takes him30 minutes to _ _ _ _ every morning.",
+      "question": "It takes him 30 minutes to _ _ _ _ every morning.",
       "options": [],
       "answer": "swim",
       "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “It takes him30 minutes to _ _ _ _ every morning.”, đáp án phù hợp là “swim”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 196.",
@@ -964,7 +964,7 @@
     },
     {
       "id": 121,
-      "question": "There are only28 days in Feb_ _ _ _ _ .",
+      "question": "There are only 28 days in Feb_ _ _ _ _ .",
       "options": [],
       "answer": "ruary",
       "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “There are only28 days in Feb_ _ _ _ _ .”, đáp án phù hợp là “ruary”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 16, câu 108.",
@@ -1736,7 +1736,7 @@
     },
     {
       "id": 187,
-      "question": "How many syllables are there in the word \\\"underground\\\"?",
+      "question": "How many syllables are there in the word \"underground\"?",
       "options": [
         "A. Two",
         "B. Three",
@@ -1744,7 +1744,7 @@
         "D. Five"
       ],
       "answer": "B. Three",
-      "explanation": "Đọc “Three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 3, câu 130."
+      "explanation": "Tách từ “underground” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 188,
@@ -1756,7 +1756,7 @@
         "D. three"
       ],
       "answer": "D. three",
-      "explanation": "Đọc “three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 4, câu 41."
+      "explanation": "Tách từ “cinema” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 189,
@@ -1772,7 +1772,7 @@
     },
     {
       "id": 190,
-      "question": "How many syllables are there in the word \\\"beaches\\\"?",
+      "question": "How many syllables are there in the word \"beaches\"?",
       "options": [
         "A. 1",
         "B. 2",
@@ -1780,7 +1780,7 @@
         "D. 4"
       ],
       "answer": "B. 2",
-      "explanation": "Đọc “2” theo nhịp (xem âm của từ) và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 6, câu 8."
+      "explanation": "Tách từ “beaches” thành từng âm tiết rồi đếm: từ này có 2 âm tiết."
     },
     {
       "id": 191,
@@ -1792,7 +1792,7 @@
         "D. two"
       ],
       "answer": "A. three",
-      "explanation": "Đọc “three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 7, câu 23."
+      "explanation": "Tách từ “location” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 192,
@@ -1804,7 +1804,7 @@
         "D. one"
       ],
       "answer": "C. three",
-      "explanation": "Đọc “three” theo nhịp /θriː/ và tách thành các âm tiết trước khi đếm. Số âm tiết của từ này khớp yêu cầu câu hỏi; không đếm theo số chữ cái. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 199."
+      "explanation": "Tách từ “neighborhood” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 193,

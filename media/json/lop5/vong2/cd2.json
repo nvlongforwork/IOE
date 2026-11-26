@@ -47,7 +47,7 @@
         "D. two"
       ],
       "answer": "A. three",
-      "explanation": "Đáp án là “three” vì mẫu trọng âm của từ này khác ba phương án còn lại. Khi đọc, xác định âm tiết được nhấn mạnh trước rồi so sánh vị trí nhấn của bốn từ. Câu/đáp án đối chiếu: “three / four / five / two”. Nguồn đối chiếu: đề IOE gốc số 7, câu 23."
+      "explanation": "Tách từ “location” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 7,
@@ -164,7 +164,7 @@
         "D. one"
       ],
       "answer": "C. three",
-      "explanation": "Đáp án là “three” vì mẫu trọng âm của từ này khác ba phương án còn lại. Khi đọc, xác định âm tiết được nhấn mạnh trước rồi so sánh vị trí nhấn của bốn từ. Câu/đáp án đối chiếu: “two / four / three / one”. Nguồn đối chiếu: đề IOE gốc số 8, câu 199."
+      "explanation": "Tách từ “neighborhood” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 23,
@@ -287,7 +287,7 @@
     },
     {
       "id": 40,
-      "question": "Vietnamese Women's Day is on20th _______.",
+      "question": "Vietnamese Women's Day is on 20th _______.",
       "options": [],
       "answer": "October",
       "explanation": "Điền đúng từ “October” vào chỗ trống trong câu “Vietnamese Women's Day is on20th ___.”. Chỗ trống có 7 ô; viết các chữ cái của “October” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “Vietnamese Women's Day is on 20th October.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 44."
@@ -301,7 +301,7 @@
     },
     {
       "id": 42,
-      "question": "The word for the number15 is ...",
+      "question": "The word for the number 15 is ...",
       "options": [],
       "answer": "fifteen",
       "explanation": "Điền đúng từ “fifteen” vào chỗ trống trong câu “The word for the number15 is ....”. Chỗ trống có 0 ô; viết các chữ cái của “fifteen” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “The word for the number 15 is fifteen.”. Nguồn đối chiếu: đề IOE gốc số 19, câu 118."
@@ -420,7 +420,7 @@
     },
     {
       "id": 59,
-      "question": "Tom plays football from5 to6 pm, but Mary r_ _ _ _ books.",
+      "question": "Tom plays football from 5 to 6 pm, but Mary r_ _ _ _ books.",
       "options": [],
       "answer": "eads",
       "explanation": "Điền “eads” vào phần còn thiếu để tạo thành từ “reads”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “Tom plays football from5 to6 pm, but Mary r___ books.”, chỉ cách viết “reads” tạo được từ đúng. Câu/đáp án đối chiếu: “Tom plays football from 5 to 6 pm, but Mary reads books.”. Nguồn đối chiếu: đề IOE gốc số 12, câu 91."
@@ -504,7 +504,7 @@
     },
     {
       "id": 71,
-      "question": "We must stay here _ _ _ _8.30 to9.",
+      "question": "We must stay here _ _ _ _8.30 to 9.",
       "options": [],
       "answer": "from",
       "explanation": "Điền đúng từ “from” vào chỗ trống trong câu “We must stay here ___8.30 to9.”. Chỗ trống có 4 ô; viết các chữ cái của “from” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “We must stay here from 8.30 to 9.”. Nguồn đối chiếu: đề IOE gốc số 29, câu 113."
@@ -518,7 +518,7 @@
     },
     {
       "id": 73,
-      "question": "They li_ _ _ in Ho Chi Minh City5 years ago.",
+      "question": "They li_ _ _ in Ho Chi Minh City 5 years ago.",
       "options": [],
       "answer": "ved",
       "explanation": "Điền “ved” vào phần còn thiếu để tạo thành từ “lived”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “They li___ in Ho Chi Minh City5 years ago.”, chỉ cách viết “lived” tạo được từ đúng. Câu/đáp án đối chiếu: “They lived in Ho Chi Minh City 5 years ago.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 99."
@@ -684,7 +684,7 @@
     },
     {
       "id": 96,
-      "question": "Does she do her home_ _ _ _ at8?",
+      "question": "Does she do her home_ _ _ _ at 8?",
       "options": [],
       "answer": "work",
       "explanation": "Điền “work” vào phần còn thiếu để tạo thành từ “homework”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “Does she do her home___ at8?”, chỉ cách viết “homework” tạo được từ đúng. Câu/đáp án đối chiếu: “Does she do her homework at 8?”. Nguồn đối chiếu: đề IOE gốc số 21, câu 66."
@@ -754,7 +754,7 @@
     },
     {
       "id": 106,
-      "question": "My mother was born in _____. There are only28 days in that month.",
+      "question": "My mother was born in _____. There are only 28 days in that month.",
       "options": [],
       "answer": "February",
       "explanation": "Điền đúng từ “February” vào chỗ trống trong câu “My mother was born in ___. There are only28 days in that month.”. Chỗ trống có 5 ô; viết các chữ cái của “February” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “My mother was born in February. There are only 28 days in that month.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 11."
@@ -810,17 +810,17 @@
     },
     {
       "id": 114,
-      "question": "Jane gets _ _ _ _ sed at6:45 in the morning.",
+      "question": "Jane gets _ _ _ _ sed at 6:45 in the morning.",
       "options": [],
       "answer": "dres",
       "explanation": "Điền “dres” vào phần còn thiếu để tạo thành từ “dressed”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “Jane gets ___ sed at6:45 in the morning.”, chỉ cách viết “dressed” tạo được từ đúng. Câu/đáp án đối chiếu: “Jane gets dressed at 6:45 in the morning.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 87."
     },
     {
       "id": 115,
-      "question": "\\\"Different\\\" is the opposite of \\\"...\\\".",
+      "question": "\"Different\" is the opposite of \"...\".",
       "options": [],
       "answer": "Similar",
-      "explanation": "Điền đúng từ “Similar” vào chỗ trống trong câu “\\\"Different\\\" is the opposite of \\\"...\\\".”. Chỗ trống có 0 ô; viết các chữ cái của “Similar” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “\\\"Different\\\" is the opposite of \\\"Similar\\\".”. Nguồn đối chiếu: đề IOE gốc số 27, câu 79."
+      "explanation": "Điền đúng từ “Similar” vào chỗ trống trong câu “\"Different\" is the opposite of \"...\".”. Chỗ trống có 0 ô; viết các chữ cái của “Similar” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “\"Different\" is the opposite of \"Similar\".”. Nguồn đối chiếu: đề IOE gốc số 27, câu 79."
     },
     {
       "id": 116,
@@ -964,7 +964,7 @@
     },
     {
       "id": 136,
-      "question": "My family lived in Ho Chi Minh city ...1999 and2006.",
+      "question": "My family lived in Ho Chi Minh city ...1999 and 2006.",
       "options": [],
       "answer": "between",
       "explanation": "Điền đúng từ “between” vào chỗ trống trong câu “My family lived in Ho Chi Minh city ...1999 and2006.”. Chỗ trống có 0 ô; viết các chữ cái của “between” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “My family lived in Ho Chi Minh city between 1999 and 2006.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 41."

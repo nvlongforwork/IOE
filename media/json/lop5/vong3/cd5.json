@@ -4,7 +4,7 @@
   "part_A": [
     {
       "id": 1,
-      "question": "Twenty thousand workers used one thousand elephants and _ _ _ _ _ _ _ _ it in1653.",
+      "question": "Twenty thousand workers used one thousand elephants and _ _ _ _ _ _ _ _ it in 1653.",
       "options": [],
       "answer": "finished",
       "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “finished”. Câu hoàn chỉnh là “Twenty thousand workers used one thousand elephants and finished it in1653.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 30, câu 61.",
@@ -425,7 +425,7 @@
     },
     {
       "id": 43,
-      "question": "At10:30 AM, the students go to _ _ _ class.",
+      "question": "At 10:30 AM, the students go to _ _ _ class.",
       "options": [],
       "answer": "gym",
       "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “gym”. Câu hoàn chỉnh là “At10:30 AM, the students go to gym class.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 40, câu 66.",
@@ -640,7 +640,7 @@
     },
     {
       "id": 63,
-      "question": "Count from10 _ _ _ _ to zero.",
+      "question": "Count from 10 _ _ _ _ to zero.",
       "options": [],
       "answer": "down",
       "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “down”. Câu hoàn chỉnh là “Count from10 down to zero.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 43, câu 150.",
@@ -815,7 +815,7 @@
     },
     {
       "id": 83,
-      "question": "Rock ‘n roll music first became popular in1950s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
+      "question": "Rock ‘n roll music first became popular in 1950 s. There were many popular rock ‘n roll _ _ _ _ _ _ _ during that time.",
       "options": [],
       "answer": "singers",
       "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “singers”. Câu hoàn chỉnh là “Rock ‘n roll music first became popular in1950s. There were many popular rock ‘n roll singers during that time.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 32, câu 41.",
@@ -945,10 +945,10 @@
     },
     {
       "id": 98,
-      "question": "What does the Australian king parrot look like?",
+      "question": "What colour is the Australian king parrot’s head?",
       "options": [],
-      "answer": "It has a red head with a yellow circle around each eye, green wings and a blue tail.",
-      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “It has a red head with a yellow circle around each eye, green wings and a blue tail.”. Câu hoàn chỉnh là “What does the Australian king parrot look like?”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 5, đề 47, câu 11.",
+      "answer": "red",
+      "explanation": "Nghe file gốc: con vẹt có đầu màu đỏ (a red head), nên đáp án là \"red\".",
       "audio": "media/audio/lop5/5aa9dc62a6397c97b3b2.mp3"
     },
     {

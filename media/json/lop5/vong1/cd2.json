@@ -429,7 +429,7 @@
     },
     {
       "id": 61,
-      "question": "We do morning _ _ ercise at5:30.",
+      "question": "We do morning _ _ ercise at 5:30.",
       "options": [],
       "answer": "ex",
       "explanation": "Điền “ex” vào phần còn thiếu để tạo thành từ “exercise”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “We do morning ___ ercise at5:30.”, chỉ cách viết “exercise” tạo được từ đúng. Câu/đáp án đối chiếu: “We do morning exercise at 5:30.”. Nguồn đối chiếu: đề IOE gốc số 8, câu 84."
@@ -478,7 +478,7 @@
     },
     {
       "id": 68,
-      "question": "There are12 months in one _ _ _ _ .",
+      "question": "There are 12 months in one _ _ _ _ .",
       "options": [],
       "answer": "year",
       "explanation": "Điền đúng từ “year” vào chỗ trống trong câu “There are12 months in one ___ .”. Chỗ trống có 4 ô; viết các chữ cái của “year” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “There are 12 months in one year.”. Nguồn đối chiếu: đề IOE gốc số 15, câu 34."
@@ -548,7 +548,7 @@
     },
     {
       "id": 78,
-      "question": "My class is _ _ _ _7a.m to11 a.m everyday.",
+      "question": "My class is _ _ _ _7 a.m to 11 a.m everyday.",
       "options": [],
       "answer": "from",
       "explanation": "Điền đúng từ “from” vào chỗ trống trong câu “My class is ___7a.m to11 a.m everyday.”. Chỗ trống có 4 ô; viết các chữ cái của “from” theo đúng thứ tự và đối chiếu nghĩa của cả câu. Câu/đáp án đối chiếu: “My class is from 7 a. m to 11 a. m everyday.”. Nguồn đối chiếu: đề IOE gốc số 4, câu 87."
@@ -632,7 +632,7 @@
     },
     {
       "id": 90,
-      "question": "The party end_ _ at7 p.m yesterday.",
+      "question": "The party end_ _ at 7 p.m yesterday.",
       "options": [],
       "answer": "ed",
       "explanation": "Điền “ed” vào phần còn thiếu để tạo thành từ “ended”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “The party end___ at7 p.m yesterday.”, chỉ cách viết “ended” tạo được từ đúng. Câu/đáp án đối chiếu: “The party ended at 7 p. m yesterday.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 111."
@@ -674,7 +674,7 @@
     },
     {
       "id": 96,
-      "question": "I a_ _ _ _ s get up at6 o’clock.",
+      "question": "I a_ _ _ _ s get up at 6 o’clock.",
       "options": [],
       "answer": "lway",
       "explanation": "Điền “lway” vào phần còn thiếu để tạo thành từ “always”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “I a___ s get up at6 o’clock.”, chỉ cách viết “always” tạo được từ đúng. Câu/đáp án đối chiếu: “I always get up at 6 o’clock.”. Nguồn đối chiếu: đề IOE gốc số 9, câu 75."
@@ -828,7 +828,7 @@
     },
     {
       "id": 118,
-      "question": "She _ _ ten gets up at6 o’clock.",
+      "question": "She _ _ ten gets up at 6 o’clock.",
       "options": [],
       "answer": "of",
       "explanation": "Điền “of” vào phần còn thiếu để tạo thành từ “often”. Phần chữ đã có và phần điền phải ghép liền theo đúng thứ tự; trong câu “She ___ ten gets up at6 o’clock.”, chỉ cách viết “often” tạo được từ đúng. Câu/đáp án đối chiếu: “She often gets up at 6 o’clock.”. Nguồn đối chiếu: đề IOE gốc số 16, câu 132."
@@ -849,7 +849,7 @@
     },
     {
       "id": 121,
-      "question": "How many syllables are there in the word \\\"underground\\\"?",
+      "question": "How many syllables are there in the word \"underground\"?",
       "options": [
         "A. Two",
         "B. Three",
@@ -857,7 +857,7 @@
         "D. Five"
       ],
       "answer": "B. Three",
-      "explanation": "Đáp án là “Three” vì mẫu trọng âm của từ này khác ba phương án còn lại. Khi đọc, xác định âm tiết được nhấn mạnh trước rồi so sánh vị trí nhấn của bốn từ. Câu/đáp án đối chiếu: “Two / Three / Four / Five”. Nguồn đối chiếu: đề IOE gốc số 3, câu 130."
+      "explanation": "Tách từ “underground” thành từng âm tiết rồi đếm: từ này có 3 âm tiết."
     },
     {
       "id": 122,
@@ -1127,7 +1127,7 @@
     },
     {
       "id": 160,
-      "question": "How many syllables are there in the word \\\"beaches\\\"?",
+      "question": "How many syllables are there in the word \"beaches\"?",
       "options": [
         "A. 1",
         "B. 2",
@@ -1135,7 +1135,7 @@
         "D. 4"
       ],
       "answer": "B. 2",
-      "explanation": "Đáp án là “2” vì mẫu trọng âm của từ này khác ba phương án còn lại. Khi đọc, xác định âm tiết được nhấn mạnh trước rồi so sánh vị trí nhấn của bốn từ. Câu/đáp án đối chiếu: “1 / 2 / 3 / 4”. Nguồn đối chiếu: đề IOE gốc số 6, câu 8."
+      "explanation": "Tách từ “beaches” thành từng âm tiết rồi đếm: từ này có 2 âm tiết."
     },
     {
       "id": 161,
