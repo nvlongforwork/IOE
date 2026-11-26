@@ -149,6 +149,39 @@
         document.getElementById('partial-count-wrap').classList.toggle('hidden', isFull);
     }
 
+    // --- Link riêng cho từng bài thi (lớp / vòng / chuyên đề / số câu) ---
+    function readDeepLink() {
+        const p = new URLSearchParams(location.search);
+        const pick = (id, value) => {
+            if (!value) return;
+            const el = document.getElementById(id);
+            if ([...el.options].some(o => o.value === value)) el.value = value;
+        };
+        pick('student-grade', p.get('lop'));
+        pick('exam-round', p.get('vong'));
+        const cd = p.get('cd');
+        if (cd) pick('test-mode', `full-${cd}`);
+        const n = parseInt(p.get('socau'), 10);
+        if (n >= 1) {
+            setQuizMode('partial');
+            document.getElementById('question-count').value = Math.min(n, 199);
+        }
+    }
+
+    function syncDeepLink() {
+        const p = new URLSearchParams();
+        const grade = document.getElementById('student-grade').value;
+        const round = document.getElementById('exam-round').value;
+        if (grade) p.set('lop', grade);
+        if (round) p.set('vong', round);
+        p.set('cd', document.getElementById('test-mode').value.split('-')[1]);
+        if (quizMode === 'partial') {
+            const n = parseInt(document.getElementById('question-count').value, 10);
+            if (n >= 1) p.set('socau', String(Math.min(n, 199)));
+        }
+        history.replaceState(null, '', `${location.pathname}?${p}`);
+    }
+
     // --- Start form ---
     document.getElementById('start-form').addEventListener('submit', async e => {
         e.preventDefault();
@@ -174,6 +207,8 @@
         }
         qCount = Math.min(raw, 199);
         }
+
+        syncDeepLink();
 
         appState.studentName = name;
         appState.grade = grade;
@@ -854,3 +889,10 @@ document.getElementById('btn-sidebar-close').addEventListener('click', closeSide
 for (const filter of ['wrong', 'correct', 'all']) {
     document.getElementById(`filter-${filter}`).addEventListener('click', () => renderReview(filter));
 }
+
+for (const id of ['student-grade', 'exam-round', 'test-mode', 'question-count']) {
+    document.getElementById(id).addEventListener('change', syncDeepLink);
+}
+document.getElementById('mode-full').addEventListener('click', syncDeepLink);
+document.getElementById('mode-partial').addEventListener('click', syncDeepLink);
+readDeepLink();
