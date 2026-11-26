@@ -964,10 +964,10 @@
     },
     {
       "id": 121,
-      "question": "\"dataType\": 1, \" Ảnh: _______ is one of the most attractive sports events in the world. France is its current champion.",
+      "question": "_______ is one of the most attractive sports events in the world. France is its current champion.",
       "options": [],
       "answer": "The FIFA World Cup",
-      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “\"dataType\": 1, \" Ảnh: _______ is one of the most attractive sports events in the world. France is its current champion.”, đáp án phù hợp là “The FIFA World Cup”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 6, đề 11, câu 60.",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “_______ is one of the most attractive sports events in the world. France is its current champion.”, đáp án phù hợp là “The FIFA World Cup”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 6, đề 11, câu 60.",
       "image": "media/images/lop5/vong4/cd4/lop5_cd4_v4_image120.jpg"
     },
     {
