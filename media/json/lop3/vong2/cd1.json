@@ -1166,7 +1166,7 @@
     },
     {
       "id": 147,
-      "question": "morning, Adam!",
+      "question": "_____ morning, Adam!",
       "options": [
         "A. Hello",
         "B. Hi",
@@ -1382,7 +1382,7 @@
     },
     {
       "id": 165,
-      "question": "Look at t..e cat",
+      "question": "Look at t_e cat.",
       "options": [
         "A. w",
         "B. h",

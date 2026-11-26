@@ -1072,7 +1072,7 @@
     },
     {
       "id": 130,
-      "question": "is my house.",
+      "question": "_____ is my house.",
       "options": [
         "A. This",
         "B. That",
@@ -1397,7 +1397,7 @@
     },
     {
       "id": 155,
-      "question": "your books, please.",
+      "question": "_____ your books, please.",
       "options": [
         "A. Open",
         "B. Close",

@@ -1114,7 +1114,7 @@
     },
     {
       "id": 137,
-      "question": "is a pupil.",
+      "question": "_____ is a pupil.",
       "options": [
         "A. She",
         "B. He",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": 154,
-      "question": "is my house.",
+      "question": "_____ is my house.",
       "options": [
         "A. This",
         "B. That",
@@ -1400,7 +1400,7 @@
     },
     {
       "id": 159,
-      "question": "are my books.",
+      "question": "_____ are my books.",
       "options": [
         "A. They",
         "B. These",
@@ -1699,7 +1699,7 @@
     },
     {
       "id": 182,
-      "question": "your books, please.",
+      "question": "_____ your books, please.",
       "options": [
         "A. open",
         "B. listen",

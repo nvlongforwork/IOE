@@ -249,10 +249,10 @@
     },
     {
       "id": 36,
-      "question": "We write \\\"06:20\\\" and we say \\\"It’s twenty _ _ _ _ six\\\".",
+      "question": "We write \"06:20\" and we say \"It’s twenty _ _ _ _ six\".",
       "options": [],
       "answer": "past",
-      "explanation": "Điền “past” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “We write \\\"06:20\\\" and we say \\\"It’s twenty past six\\\"”."
+      "explanation": "Điền “past” vào chỗ trống để câu đúng cấu trúc và đúng nghĩa. Câu hoàn chỉnh là “We write \"06:20\" and we say \"It’s twenty past six\"”."
     },
     {
       "id": 37,
@@ -753,7 +753,7 @@
     },
     {
       "id": 108,
-      "question": "Linda/ like/ play/ guitar",
+      "question": "Reorder the words to make a complete sentence: Linda / like / play / guitar",
       "options": [
         "A. Linda likes playing guitar",
         "B. Linda like playing the guitar",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": 196,
-      "question": "Peter/ Linda/ hide-and-seek/ now",
+      "question": "Reorder the words to make a complete sentence: Peter / Linda / hide-and-seek / now",
       "options": [
         "A. Peter and Linda is playing hide-and-seek now",
         "B. Peter and Linda are playing with hide-and-seek now",
