@@ -1,0 +1,2008 @@
+{
+  "title": "IOE Lớp 4 - Chuyên đề 5 - Vòng Quốc Gia",
+  "vong": "Vòng Quốc Gia",
+  "part_A": [
+    {
+      "id": 1,
+      "question": "_ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "pharmacy",
+      "explanation": "Nghe → điền từ: PHARMACY. Đánh vần: P-H-A-R-M-A-C-Y.",
+      "audio": "media/audio/9e8d820fb30b4e0c0de2.mp3"
+    },
+    {
+      "id": 2,
+      "question": "_ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "dictation",
+      "explanation": "Nghe → điền từ: DICTATION. Đánh vần: D-I-C-T-A-T-I-O-N.",
+      "audio": "media/audio/c189f13ec16ad88ecbd4.mp3"
+    },
+    {
+      "id": 3,
+      "question": "Billy doesn’t like _ _ _ _ _ _ nts.",
+      "options": [],
+      "answer": "elepha",
+      "explanation": "Nghe câu → điền từ: \"Billy doesn’t like elephants.\". Đánh vần: E-L-E-P-H-A.",
+      "audio": "media/audio/c5c7ee376c7fa323e977.mp3"
+    },
+    {
+      "id": 4,
+      "question": "There is a _ _ _ _ _ _ near my home.",
+      "options": [],
+      "answer": "bakery",
+      "explanation": "Nghe câu → điền từ: \"There is a bakerynear my home.\". Đánh vần: B-A-K-E-R-Y.",
+      "audio": "media/audio/21e4aeff1be077af2d4e.mp3"
+    },
+    {
+      "id": 5,
+      "question": "My dad is a _ _ _ _ _ _ man.",
+      "options": [],
+      "answer": "police",
+      "explanation": "Nghe câu → điền từ: \"My dad is a policeman.\". Đánh vần: P-O-L-I-C-E.",
+      "audio": "media/audio/930d592d9a26322fbdfc.mp3"
+    },
+    {
+      "id": 6,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A.",
+      "audio": "media/audio/59563cbf82897d14bd0c.mp3"
+    },
+    {
+      "id": 7,
+      "question": "Mrs. Smith is in the super_ _ _ _ _ _ today.",
+      "options": [],
+      "answer": "market",
+      "explanation": "Nghe câu → điền từ: \"Mrs. Smith is in the supermarkettoday.\". Đánh vần: M-A-R-K-E-T.",
+      "audio": "media/audio/2dfd9db709d93c0d4de0.mp3"
+    },
+    {
+      "id": 8,
+      "question": "Wear your school _ _ _ _ _ _ _ on Wednesday.",
+      "options": [],
+      "answer": "clothes",
+      "explanation": "Nghe câu → điền từ: \"Wear your school clotheson Wednesday.\". Đánh vần: C-L-O-T-H-E-S.",
+      "audio": "media/audio/fba7913f3dcb24e28adc.mp3"
+    },
+    {
+      "id": 9,
+      "question": "I don’t have a music _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "lesson",
+      "explanation": "Nghe câu → điền từ: \"I don’t have a music lesson.\". Đánh vần: L-E-S-S-O-N.",
+      "audio": "media/audio/db417bb503fa3863159f.mp3"
+    },
+    {
+      "id": 10,
+      "question": "I learn at _ _ _ _ _ _ in the afternoon.",
+      "options": [],
+      "answer": "school",
+      "explanation": "Nghe câu → điền từ: \"I learn at schoolin the afternoon.\" (trường). Đánh vần: S-C-H-O-O-L.",
+      "audio": "media/audio/57bee0a13a2a28acf25c.mp3"
+    },
+    {
+      "id": 11,
+      "question": "She goes running at seven _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "fifteen",
+      "explanation": "Nghe câu → điền từ: \"She goes running at seven fifteen.\". Đánh vần: F-I-F-T-E-E-N.",
+      "audio": "media/audio/bce73469fcd225fd250f.mp3"
+    },
+    {
+      "id": 12,
+      "question": "He’s playing the _ _ _ _ _ _ in his room.",
+      "options": [],
+      "answer": "guitar",
+      "explanation": "Nghe câu → điền từ: \"He’s playing the guitarin his room.\". Đánh vần: G-U-I-T-A-R.",
+      "audio": "media/audio/75a6b1c6fdc0dcbd6496.mp3"
+    },
+    {
+      "id": 13,
+      "question": "What _ _ _ _ _ _ would you like?",
+      "options": [],
+      "answer": "colour",
+      "explanation": "Nghe câu → điền từ: \"What colourwould you like?.\". Đánh vần: C-O-L-O-U-R.",
+      "audio": "media/audio/67b2cb85d374bef90bbc.mp3"
+    },
+    {
+      "id": 14,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/8b38940dad9d97a04045.mp3"
+    },
+    {
+      "id": 15,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/7a20f76329db0f9ab2fd.mp3"
+    },
+    {
+      "id": 16,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/8b38940dad9d97a04045.mp3"
+    },
+    {
+      "id": 17,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/cdf44e45aad21c9e8d92.mp3"
+    },
+    {
+      "id": 18,
+      "question": "My dad is a _ _ _ _ _ _ man.",
+      "options": [],
+      "answer": "police",
+      "explanation": "Nghe câu → điền từ: \"My dad is a policeman.\". Đánh vần: P-O-L-I-C-E.",
+      "audio": "media/audio/930d592d9a26322fbdfc.mp3"
+    },
+    {
+      "id": 19,
+      "question": "Can she play _ _ _ _ _ _ ? - Yes, she can.",
+      "options": [],
+      "answer": "tennis",
+      "explanation": "Nghe câu → điền từ: \"Can she play tennis? - Yes, she can.\". Đánh vần: T-E-N-N-I-S.",
+      "audio": "media/audio/ace4407d8e1125b7b1ec.mp3"
+    },
+    {
+      "id": 20,
+      "question": "He is a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He is a doctor.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/2692d26302d3ab77791c.mp3"
+    },
+    {
+      "id": 21,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A.",
+      "audio": "media/audio/0fb7a4330a24f3a0f9ea.mp3"
+    },
+    {
+      "id": 22,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A.",
+      "audio": "media/audio/0fb7a4330a24f3a0f9ea.mp3"
+    },
+    {
+      "id": 23,
+      "question": "Where were you last _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "weekend",
+      "explanation": "Nghe câu → điền từ: \"Where were you last weekend?.\". Đánh vần: W-E-E-K-E-N-D.",
+      "audio": "media/audio/2d44ebebf61ad7d751f3.mp3"
+    },
+    {
+      "id": 24,
+      "question": "Her brother has _ _ _ _ _ _ at seven o’clock.",
+      "options": [],
+      "answer": "dinner",
+      "explanation": "Nghe câu → điền từ: \"Her brother has dinnerat seven o’clock.\". Đánh vần: D-I-N-N-E-R.",
+      "audio": "media/audio/8e6c86ae2a1ffbe1cebe.mp3"
+    },
+    {
+      "id": 25,
+      "question": "I don’t have a music _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "lesson",
+      "explanation": "Nghe câu → điền từ: \"I don’t have a music lesson.\". Đánh vần: L-E-S-S-O-N.",
+      "audio": "media/audio/8539fcada535be7ba1be.mp3"
+    },
+    {
+      "id": 26,
+      "question": "My sister is _ _ _ _ _ _ _ than my mother.",
+      "options": [],
+      "answer": "slimmer",
+      "explanation": "Nghe câu → điền từ: \"My sister is slimmerthan my mother.\". Đánh vần: S-L-I-M-M-E-R.",
+      "audio": "media/audio/5a241cf0ef0867321088.mp3"
+    },
+    {
+      "id": 27,
+      "question": "My dad is a _ _ _ _ _ _ man.",
+      "options": [],
+      "answer": "police",
+      "explanation": "Nghe câu → điền từ: \"My dad is a policeman.\". Đánh vần: P-O-L-I-C-E.",
+      "audio": "media/audio/930d592d9a26322fbdfc.mp3"
+    },
+    {
+      "id": 28,
+      "question": "I go swimming every _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"I go swimming every Mondayafternoon.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/cdf44e45aad21c9e8d92.mp3"
+    },
+    {
+      "id": 29,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/7a20f76329db0f9ab2fd.mp3"
+    },
+    {
+      "id": 30,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/7a20f76329db0f9ab2fd.mp3"
+    },
+    {
+      "id": 31,
+      "question": "After school, he goes home and he has _ _ _ _ _ with his family.",
+      "options": [],
+      "answer": "lunch",
+      "explanation": "Nghe câu → điền từ: \"After school, he goes home and he has lunchwith his family.\". Đánh vần: L-U-N-C-H.",
+      "audio": "media/audio/9eca638b82d29cdb0dbf.mp3"
+    },
+    {
+      "id": 32,
+      "question": "Thanks for your _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "answers",
+      "explanation": "Nghe câu → điền từ: \"Thanks for your answers.\". Đánh vần: A-N-S-W-E-R-S.",
+      "audio": "media/audio/9955afe05f2c66ce143c.mp3"
+    },
+    {
+      "id": 33,
+      "question": "_ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "sixteenth",
+      "explanation": "Nghe → điền từ: SIXTEENTH. Đánh vần: S-I-X-T-E-E-N-T-H.",
+      "audio": "media/audio/242ebde0e3b40956166e.mp3"
+    },
+    {
+      "id": 34,
+      "question": "I _ _ _ _ _ _ to my CDs.",
+      "options": [],
+      "answer": "listen",
+      "explanation": "Nghe câu → điền từ: \"I listento my CDs.\" (nghe). Đánh vần: L-I-S-T-E-N.",
+      "audio": "media/audio/06ea90475a370b2b2980.mp3"
+    },
+    {
+      "id": 35,
+      "question": "He’s a _ _ _ _ _ _ . He works at night.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works at night.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/491a90b2c019e6260049.mp3"
+    },
+    {
+      "id": 36,
+      "question": "We’re going to go to the _ _ _ _ _ _ tonight.",
+      "options": [],
+      "answer": "cinema",
+      "explanation": "Nghe câu → điền từ: \"We’re going to go to the cinematonight.\". Đánh vần: C-I-N-E-M-A.",
+      "audio": "media/audio/662f9f74aa83c232d98f.mp3"
+    },
+    {
+      "id": 37,
+      "question": "There is a clock on the table and another on the _ _ _ _ .",
+      "options": [],
+      "answer": "wall",
+      "explanation": "Nghe câu → điền từ: \"There is a clock on the table and another on the wall.\". Đánh vần: W-A-L-L.",
+      "audio": "media/audio/38e4ae1968d41a5d73f4.mp3"
+    },
+    {
+      "id": 38,
+      "question": "_ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "hospital",
+      "explanation": "Nghe → điền từ: HOSPITAL. Đánh vần: H-O-S-P-I-T-A-L.",
+      "audio": "media/audio/7df3215ed98892f7c4ee.mp3"
+    },
+    {
+      "id": 39,
+      "question": "Scott speaks _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "English",
+      "explanation": "Nghe câu → điền từ: \"Scott speaks English.\" (tiếng Anh). Đánh vần: E-N-G-L-I-S-H.",
+      "audio": "media/audio/d4c406e474a3d124c86e.mp3"
+    },
+    {
+      "id": 40,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/e46cea5dce418de43585.mp3"
+    },
+    {
+      "id": 41,
+      "question": "It’s the fifth of _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "October",
+      "explanation": "Nghe câu → điền từ: \"It’s the fifth of October.\". Đánh vần: O-C-T-O-B-E-R.",
+      "audio": "media/audio/c5110b17ab095616ab58.mp3"
+    },
+    {
+      "id": 42,
+      "question": "He’s talking to his _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "friends",
+      "explanation": "Nghe câu → điền từ: \"He’s talking to his friends.\". Đánh vần: F-R-I-E-N-D-S.",
+      "audio": "media/audio/bb9bd4e2a73ace7e9845.mp3"
+    },
+    {
+      "id": 43,
+      "question": "Many fish and other little animals live in the water near the _ _ _ _ _ .",
+      "options": [],
+      "answer": "beach",
+      "explanation": "Nghe câu → điền từ: \"Many fish and other little animals live in the water near the beach.\". Đánh vần: B-E-A-C-H.",
+      "audio": "media/audio/bc6c802d0b97e4052935.mp3"
+    },
+    {
+      "id": 44,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A.",
+      "audio": "media/audio/0fb7a4330a24f3a0f9ea.mp3"
+    },
+    {
+      "id": 45,
+      "question": "Mai is in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "kitchen",
+      "explanation": "Nghe câu → điền từ: \"Mai is in the kitchen.\". Đánh vần: K-I-T-C-H-E-N.",
+      "audio": "media/audio/b5e72d2e795da597090a.mp3"
+    },
+    {
+      "id": 46,
+      "question": "_ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "sixteenth",
+      "explanation": "Nghe → điền từ: SIXTEENTH. Đánh vần: S-I-X-T-E-E-N-T-H.",
+      "audio": "media/audio/242ebde0e3b40956166e.mp3"
+    },
+    {
+      "id": 47,
+      "question": "Lynda comes from _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sydney",
+      "explanation": "Nghe câu → điền từ: \"Lynda comes from sydney.\". Đánh vần: S-Y-D-N-E-Y.",
+      "audio": "media/audio/016a3ec593f648898f59.mp3"
+    },
+    {
+      "id": 48,
+      "question": "Someone’s in the _ _ _ _ _ _ room.",
+      "options": [],
+      "answer": "living",
+      "explanation": "Nghe câu → điền từ: \"Someone’s in the livingroom.\". Đánh vần: L-I-V-I-N-G.",
+      "audio": "media/audio/5378eb923be7ba322861.mp3"
+    },
+    {
+      "id": 49,
+      "question": "Her grandmother lives on the _ _ _ _ _ _ floor.",
+      "options": [],
+      "answer": "second",
+      "explanation": "Nghe câu → điền từ: \"Her grandmother lives on the secondfloor.\". Đánh vần: S-E-C-O-N-D.",
+      "audio": "media/audio/11eb407d266b851fb092.mp3"
+    },
+    {
+      "id": 50,
+      "question": "_ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "twentieth",
+      "explanation": "Nghe → điền từ: TWENTIETH. Đánh vần: T-W-E-N-T-I-E-T-H.",
+      "audio": "media/audio/bc077e4d941cd913a3bd.mp3"
+    },
+    {
+      "id": 51,
+      "question": "She goes running at seven _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "fifteen",
+      "explanation": "Nghe câu → điền từ: \"She goes running at seven fifteen.\". Đánh vần: F-I-F-T-E-E-N.",
+      "audio": "media/audio/bce73469fcd225fd250f.mp3"
+    },
+    {
+      "id": 52,
+      "question": "She goes running at seven _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "fifteen",
+      "explanation": "Nghe câu → điền từ: \"She goes running at seven fifteen.\". Đánh vần: F-I-F-T-E-E-N.",
+      "audio": "media/audio/bce73469fcd225fd250f.mp3"
+    },
+    {
+      "id": 53,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/c45be542c3f8652312db.mp3"
+    },
+    {
+      "id": 54,
+      "question": "Billy doesn’t like _ _ _ _ _ _ nts.",
+      "options": [],
+      "answer": "elepha",
+      "explanation": "Nghe câu → điền từ: \"Billy doesn’t like elephants.\". Đánh vần: E-L-E-P-H-A.",
+      "audio": "media/audio/c5c7ee376c7fa323e977.mp3"
+    },
+    {
+      "id": 55,
+      "question": "What have we got on _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "Monday",
+      "explanation": "Nghe câu → điền từ: \"What have we got on Monday?.\". Đánh vần: M-O-N-D-A-Y.",
+      "audio": "media/audio/e46cea5dce418de43585.mp3"
+    },
+    {
+      "id": 56,
+      "question": "The _ _ _ _ _ _ works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"The doctorworks in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/ad8f78676f27c472528c.mp3"
+    },
+    {
+      "id": 57,
+      "question": "I learn at _ _ _ _ _ _ in the afternoon.",
+      "options": [],
+      "answer": "school",
+      "explanation": "Nghe câu → điền từ: \"I learn at schoolin the afternoon.\" (trường). Đánh vần: S-C-H-O-O-L.",
+      "audio": "media/audio/ffd73e312369cbbfd2b1.mp3"
+    },
+    {
+      "id": 58,
+      "question": "Thanks for your _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "answers",
+      "explanation": "Nghe câu → điền từ: \"Thanks for your answers.\". Đánh vần: A-N-S-W-E-R-S.",
+      "audio": "media/audio/9955afe05f2c66ce143c.mp3"
+    },
+    {
+      "id": 59,
+      "question": "_ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "pharmacy",
+      "explanation": "Nghe → điền từ: PHARMACY. Đánh vần: P-H-A-R-M-A-C-Y.",
+      "audio": "media/audio/9e8d820fb30b4e0c0de2.mp3"
+    },
+    {
+      "id": 60,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/b6fa707853d4802b30a6.mp3"
+    },
+    {
+      "id": 61,
+      "question": "There are _ _ _ _ _ _ girls in his class.",
+      "options": [],
+      "answer": "twelve",
+      "explanation": "Nghe câu → điền từ: \"There are twelvegirls in his class.\" (mười hai). Đánh vần: T-W-E-L-V-E.",
+      "audio": "media/audio/53bf74871a03d96358cf.mp3"
+    },
+    {
+      "id": 62,
+      "question": "Thanks for your _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "answers",
+      "explanation": "Nghe câu → điền từ: \"Thanks for your answers.\". Đánh vần: A-N-S-W-E-R-S.",
+      "audio": "media/audio/9955afe05f2c66ce143c.mp3"
+    },
+    {
+      "id": 63,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/b6fa707853d4802b30a6.mp3"
+    },
+    {
+      "id": 64,
+      "question": "Mai _ _ _ _ _ _ _ a big picture last weekend.",
+      "options": [],
+      "answer": "painted",
+      "explanation": "Nghe câu → điền từ: \"Mai painteda big picture last weekend.\". Đánh vần: P-A-I-N-T-E-D.",
+      "audio": "media/audio/7dc2de9cc9cf3c418067.mp3"
+    },
+    {
+      "id": 65,
+      "question": "I’m going to take a _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "camera",
+      "explanation": "Nghe câu → điền từ: \"I’m going to take a camera.\". Đánh vần: C-A-M-E-R-A.",
+      "audio": "media/audio/0fb7a4330a24f3a0f9ea.mp3"
+    },
+    {
+      "id": 66,
+      "question": "I don’t have a music _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "lesson",
+      "explanation": "Nghe câu → điền từ: \"I don’t have a music lesson.\". Đánh vần: L-E-S-S-O-N.",
+      "audio": "media/audio/8539fcada535be7ba1be.mp3"
+    },
+    {
+      "id": 67,
+      "question": "Someone’s in the _ _ _ _ _ _ room.",
+      "options": [],
+      "answer": "living",
+      "explanation": "Nghe câu → điền từ: \"Someone’s in the livingroom.\". Đánh vần: L-I-V-I-N-G.",
+      "audio": "media/audio/5378eb923be7ba322861.mp3"
+    },
+    {
+      "id": 68,
+      "question": "He’s a _ _ _ _ _ _ . He works in a hospital.",
+      "options": [],
+      "answer": "doctor",
+      "explanation": "Nghe câu → điền từ: \"He’s a doctor. He works in a hospital.\" (bác sĩ). Đánh vần: D-O-C-T-O-R.",
+      "audio": "media/audio/b6fa707853d4802b30a6.mp3"
+    },
+    {
+      "id": 69,
+      "question": "I _ _ _ _ _ _ chess with my father.",
+      "options": [],
+      "answer": "played",
+      "explanation": "Nghe câu → điền từ: \"I playedchess with my father.\". Đánh vần: P-L-A-Y-E-D.",
+      "audio": "media/audio/84d441b22fe84bcb5251.mp3"
+    },
+    {
+      "id": 70,
+      "question": "How old is her brother? – He’s _ _ _ _ _ _ years old.",
+      "options": [],
+      "answer": "eleven",
+      "explanation": "Nghe câu → điền từ: \"How old is her brother? – He’s elevenyears old.\" (mười một). Đánh vần: E-L-E-V-E-N.",
+      "audio": "media/audio/501bcf0cd1f6cffa8167.mp3"
+    },
+    {
+      "id": 71,
+      "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe câu → điền từ: \"In the afternoon she has got lessons in the library.\". Đánh vần: L-I-B-R-A-R-Y.",
+      "audio": "media/audio/eb4ebd9e4d512d3ea71e.mp3"
+    },
+    {
+      "id": 72,
+      "question": "The crab has two _ _ _ _ on top of its body. It can see big animals, and then it can run away.",
+      "options": [],
+      "answer": "eyes",
+      "explanation": "Nghe câu → điền từ: \"The crab has two eyeson top of its body. It can see big animals, and then it can run away.\". Đánh vần: E-Y-E-S.",
+      "audio": "media/audio/4738adffdb428fa379c4.mp3"
+    },
+    {
+      "id": 73,
+      "question": "He is from _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Singapore",
+      "explanation": "Nghe câu → điền từ: \"He is from Singapore.\". Đánh vần: S-I-N-G-A-P-O-R-E.",
+      "audio": "media/audio/ffd04c7ed69744cb50e9.mp3"
+    },
+    {
+      "id": 74,
+      "question": "Max does his _ _ _ _ _ _ _ _ after school.",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"Max does his homeworkafter school.\". Đánh vần: H-O-M-E-W-O-R-K.",
+      "audio": "media/audio/b857f698c043824140e0.mp3"
+    },
+    {
+      "id": 75,
+      "question": "They painted many beautiful _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "pictures",
+      "explanation": "Nghe câu → điền từ: \"They painted many beautiful pictures.\". Đánh vần: P-I-C-T-U-R-E-S.",
+      "audio": "media/audio/2df1687ce1c14770c5a2.mp3"
+    },
+    {
+      "id": 76,
+      "question": "Her _ _ _ _ _ _ _ _ _ food is ice-cream.",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Nghe câu → điền từ: \"Her favouritefood is ice-cream.\". Đánh vần: F-A-V-O-U-R-I-T-E.",
+      "audio": "media/audio/dd34526d9b9b7f2e40fd.mp3"
+    },
+    {
+      "id": 77,
+      "question": "After school, I do my _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"After school, I do my homework.\". Đánh vần: H-O-M-E-W-O-R-K.",
+      "audio": "media/audio/73930f98d291664372a4.mp3"
+    },
+    {
+      "id": 78,
+      "question": "I go _ _ _ _ _ _ _ _ every Monday.",
+      "options": [],
+      "answer": "swimming",
+      "explanation": "Nghe câu → điền từ: \"I go swimmingevery Monday.\" (bơi lội). Đánh vần: S-W-I-M-M-I-N-G.",
+      "audio": "media/audio/54639d0260a56b36401c.mp3"
+    },
+    {
+      "id": 79,
+      "question": "He likes _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E.",
+      "audio": "media/audio/d62d5ab05b90fb653b4e.mp3"
+    },
+    {
+      "id": 80,
+      "question": "Excuse me. Can I see that blue _ _ _ _ _ _ , please? - Here you are.",
+      "options": [],
+      "answer": "jumper",
+      "explanation": "Nghe câu → điền từ: \"Excuse me. Can I see that blue jumper, please? - Here you are.\". Đánh vần: J-U-M-P-E-R.",
+      "audio": "media/audio/2facbe590416a85fc1a2.mp3"
+    },
+    {
+      "id": 81,
+      "question": "It’s Billy’s _ _ _ _ _ _ _ _ tomorrow.",
+      "options": [],
+      "answer": "birthday",
+      "explanation": "Nghe câu → điền từ: \"It’s Billy’s birthdaytomorrow.\". Đánh vần: B-I-R-T-H-D-A-Y.",
+      "audio": "media/audio/cc3bbfde996115b4ad6b.mp3"
+    },
+    {
+      "id": 82,
+      "question": "He likes _ _ _ _ _ _ _ _ _ very much.",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolatevery much.\". Đánh vần: C-H-O-C-O-L-A-T-E.",
+      "audio": "media/audio/490536e1572dd35f9b77.mp3"
+    },
+    {
+      "id": 83,
+      "question": "HE GOES SWIMMING ON _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "SATURDAY",
+      "explanation": "Nghe câu → điền từ: \"HE GOES SWIMMING ON SATURDAY.\". Đánh vần: S-A-T-U-R-D-A-Y.",
+      "audio": "media/audio/38c873b002d1765a6df6.mp3"
+    },
+    {
+      "id": 84,
+      "question": "Linda has P.E. lesson on _ _ _ _ _ _ _ _ afternoon.",
+      "options": [],
+      "answer": "thursday",
+      "explanation": "Nghe câu → điền từ: \"Linda has P.E. lesson on thursdayafternoon.\". Đánh vần: T-H-U-R-S-D-A-Y.",
+      "audio": "media/audio/4176690b5e0375484a5c.mp3"
+    },
+    {
+      "id": 85,
+      "question": "This is the new _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"This is the new computer.\". Đánh vần: C-O-M-P-U-T-E-R.",
+      "audio": "media/audio/05a39fdf9baa8dad6244.mp3"
+    },
+    {
+      "id": 86,
+      "question": "The _ _ _ _ _ _ _ jumps out of the water, and little fish are scared.",
+      "options": [],
+      "answer": "dolphin",
+      "explanation": "Nghe câu → điền từ: \"The dolphinjumps out of the water, and little fish are scared.\". Đánh vần: D-O-L-P-H-I-N.",
+      "audio": "media/audio/25ff0f6229d4a71ec5b2.mp3"
+    },
+    {
+      "id": 87,
+      "question": "Can you play _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "football",
+      "explanation": "Nghe câu → điền từ: \"Can you play football?.\" (bóng đá). Đánh vần: F-O-O-T-B-A-L-L.",
+      "audio": "media/audio/b3773d273de364a84ffe.mp3"
+    },
+    {
+      "id": 88,
+      "question": "Her _ _ _ _ _ _ _ _ _ food is ice-cream.",
+      "options": [],
+      "answer": "favourite",
+      "explanation": "Nghe câu → điền từ: \"Her favouritefood is ice-cream.\". Đánh vần: F-A-V-O-U-R-I-T-E.",
+      "audio": "media/audio/dd34526d9b9b7f2e40fd.mp3"
+    },
+    {
+      "id": 89,
+      "question": "After school, I do my _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"After school, I do my homework.\". Đánh vần: H-O-M-E-W-O-R-K.",
+      "audio": "media/audio/73930f98d291664372a4.mp3"
+    },
+    {
+      "id": 90,
+      "question": "He likes _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E.",
+      "audio": "media/audio/d62d5ab05b90fb653b4e.mp3"
+    },
+    {
+      "id": 91,
+      "question": "SHE HAS A LOT OF FUN ON S_ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "ATURDAY",
+      "explanation": "Nghe câu → điền từ: \"SHE HAS A LOT OF FUN ON SATURDAY.\". Đánh vần: A-T-U-R-D-A-Y.",
+      "audio": "media/audio/f4bbd16dbbbe266a06b0.mp3"
+    },
+    {
+      "id": 92,
+      "question": "Bat Trang Primary School is in Bat Trang V_ _ _ _ _ _ .",
+      "options": [],
+      "answer": "illage",
+      "explanation": "Nghe câu → điền từ: \"Bat Trang Primary School is in Bat Trang Village.\". Đánh vần: I-L-L-A-G-E.",
+      "audio": "media/audio/243df46736942100fd65.mp3"
+    },
+    {
+      "id": 93,
+      "question": "The crab has two _ _ _ _ on top of its body. It can see big animals, and then it can run away.",
+      "options": [],
+      "answer": "eyes",
+      "explanation": "Nghe câu → điền từ: \"The crab has two eyeson top of its body. It can see big animals, and then it can run away.\". Đánh vần: E-Y-E-S.",
+      "audio": "media/audio/4738adffdb428fa379c4.mp3"
+    },
+    {
+      "id": 94,
+      "question": "Where are they from? – They’re from _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "america",
+      "explanation": "Nghe câu → điền từ: \"Where are they from? – They’re from america.\". Đánh vần: A-M-E-R-I-C-A.",
+      "audio": "media/audio/1f1e8b9881ddc4e20aa0.mp3"
+    },
+    {
+      "id": 95,
+      "question": "This is the new _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"This is the new computer.\". Đánh vần: C-O-M-P-U-T-E-R.",
+      "audio": "media/audio/4ded505ff1a540fa3c86.mp3"
+    },
+    {
+      "id": 96,
+      "question": "She’s a teacher. She works in a _ _ _ _ _ _ _ school.",
+      "options": [],
+      "answer": "primary",
+      "explanation": "Nghe câu → điền từ: \"She’s a teacher. She works in a primaryschool.\". Đánh vần: P-R-I-M-A-R-Y.",
+      "audio": "media/audio/62222b86a019a761630d.mp3"
+    },
+    {
+      "id": 97,
+      "question": "This is the new _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"This is the new computer.\". Đánh vần: C-O-M-P-U-T-E-R.",
+      "audio": "media/audio/05a39fdf9baa8dad6244.mp3"
+    },
+    {
+      "id": 98,
+      "question": "She is _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Japanese",
+      "explanation": "Nghe câu → điền từ: \"She is Japanese.\". Đánh vần: J-A-P-A-N-E-S-E.",
+      "audio": "media/audio/e9384be4564bb0351ec1.mp3"
+    },
+    {
+      "id": 99,
+      "question": "Max does his _ _ _ _ _ _ _ _ after school.",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"Max does his homeworkafter school.\". Đánh vần: H-O-M-E-W-O-R-K.",
+      "audio": "media/audio/b857f698c043824140e0.mp3"
+    },
+    {
+      "id": 100,
+      "question": "He likes _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"He likes chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E.",
+      "audio": "media/audio/d62d5ab05b90fb653b4e.mp3"
+    },
+    {
+      "id": 101,
+      "question": "In the afternoon she has got lessons in the _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "library",
+      "explanation": "Nghe câu → điền từ: \"In the afternoon she has got lessons in the library.\". Đánh vần: L-I-B-R-A-R-Y.",
+      "audio": "media/audio/eb4ebd9e4d512d3ea71e.mp3"
+    },
+    {
+      "id": 102,
+      "question": "After school, I do my _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "homework",
+      "explanation": "Nghe câu → điền từ: \"After school, I do my homework.\". Đánh vần: H-O-M-E-W-O-R-K.",
+      "audio": "media/audio/73930f98d291664372a4.mp3"
+    },
+    {
+      "id": 103,
+      "question": "She has three _ _ _ _ _ _ _ _ _ on her desk.",
+      "options": [],
+      "answer": "notebooks",
+      "explanation": "Nghe câu → điền từ: \"She has three notebookson her desk.\". Đánh vần: N-O-T-E-B-O-O-K-S.",
+      "audio": "media/audio/4d08bd5cf51e3c31704f.mp3"
+    },
+    {
+      "id": 104,
+      "question": "_ _ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "dictionary",
+      "explanation": "Nghe → điền từ: DICTIONARY. Đánh vần: D-I-C-T-I-O-N-A-R-Y.",
+      "audio": "media/audio/88eaad65721b0b6a03d8.mp3"
+    },
+    {
+      "id": 105,
+      "question": "Tony’s _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "Australian",
+      "explanation": "Nghe câu → điền từ: \"Tony’s Australian.\". Đánh vần: A-U-S-T-R-A-L-I-A-N.",
+      "audio": "media/audio/a3a943bec4a698974e49.mp3"
+    },
+    {
+      "id": 106,
+      "question": "There is a blue _ _ _ _ _ _ _ _ on the desk.",
+      "options": [],
+      "answer": "computer",
+      "explanation": "Nghe câu → điền từ: \"There is a blue computeron the desk.\". Đánh vần: C-O-M-P-U-T-E-R.",
+      "audio": "media/audio/109fbd3d2aa2b6f43306.mp3"
+    },
+    {
+      "id": 107,
+      "question": "I want a piece of _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"I want a piece of chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E.",
+      "audio": "media/audio/9c8f072ae0c4718ed4c5.mp3"
+    },
+    {
+      "id": 108,
+      "question": "What’s his _ _ _ _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "nationality",
+      "explanation": "Nghe câu → điền từ: \"What’s his nationality?.\".",
+      "audio": "media/audio/5c085a6e9c505f1bd731.mp3"
+    },
+    {
+      "id": 109,
+      "question": "I want a piece of _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "chocolate",
+      "explanation": "Nghe câu → điền từ: \"I want a piece of chocolate.\". Đánh vần: C-H-O-C-O-L-A-T-E.",
+      "audio": "media/audio/9c8f072ae0c4718ed4c5.mp3"
+    },
+    {
+      "id": 110,
+      "question": "_ _ _ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "celebration",
+      "explanation": "Nghe → điền từ: CELEBRATION. Đánh vần: C-E-L-E-B-R-A-T-I-O-N.",
+      "audio": "media/audio/45118e79a39a336eb796.mp3"
+    },
+    {
+      "id": 111,
+      "question": "_ _ _ _ _ _ _ _ _ _ _.",
+      "options": [],
+      "answer": "celebration",
+      "explanation": "Nghe → điền từ: CELEBRATION. Đánh vần: C-E-L-E-B-R-A-T-I-O-N.",
+      "audio": "media/audio/45118e79a39a336eb796.mp3"
+    },
+    {
+      "id": 112,
+      "question": "She has three _ _ _ _ _ _ _ _ _ on her desk.",
+      "options": [],
+      "answer": "notebooks",
+      "explanation": "Nghe câu → điền từ: \"She has three notebookson her desk.\". Đánh vần: N-O-T-E-B-O-O-K-S.",
+      "audio": "media/audio/8c1afee1191e307f6407.mp3"
+    },
+    {
+      "id": 113,
+      "question": "Is your brother a doctor or an _ _ _ _ _ _ _ _ ?",
+      "options": [],
+      "answer": "engineer",
+      "explanation": "Nghe câu → điền từ: \"Is your brother a doctor or an engineer?.\". Đánh vần: E-N-G-I-N-E-E-R.",
+      "audio": "media/audio/3f69c2366ebd6ada9613.mp3"
+    },
+    {
+      "id": 114,
+      "question": "She has three _ _ _ _ _ _ _ _ _ on her desk.",
+      "options": [],
+      "answer": "notebooks",
+      "explanation": "Nghe câu → điền từ: \"She has three notebookson her desk.\". Đánh vần: N-O-T-E-B-O-O-K-S.",
+      "audio": "media/audio/4d08bd5cf51e3c31704f.mp3"
+    },
+    {
+      "id": 115,
+      "question": "She tells her friend to come to her house at7 o’clock on _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "saturday",
+      "explanation": "Nghe câu → điền từ: \"She tells her friend to come to her house at7 o’clock on saturday.\". Đánh vần: S-A-T-U-R-D-A-Y.",
+      "audio": "media/audio/fda531f87fa29982c543.mp3"
+    },
+    {
+      "id": 116,
+      "question": "She tells her friend to come to her house at7 o’clock on _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "saturday",
+      "explanation": "Nghe câu → điền từ: \"She tells her friend to come to her house at7 o’clock on saturday.\". Đánh vần: S-A-T-U-R-D-A-Y.",
+      "audio": "media/audio/fda531f87fa29982c543.mp3"
+    },
+    {
+      "id": 117,
+      "question": "My grandparents’ house is big and _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "comfortable",
+      "explanation": "Nghe câu → điền từ: \"My grandparents’ house is big and comfortable.\".",
+      "audio": "media/audio/8303901ccdc8b9bd6260.mp3"
+    },
+    {
+      "id": 118,
+      "question": "He would like some _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "sandwiches",
+      "explanation": "Nghe câu → điền từ: \"He would like some sandwiches.\" (bánh mì kẹp). Đánh vần: S-A-N-D-W-I-C-H-E-S.",
+      "audio": "media/audio/bc06eeb136e23dc618bb.mp3"
+    },
+    {
+      "id": 119,
+      "question": "My grandparents’ house is big and _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "comfortable",
+      "explanation": "Nghe câu → điền từ: \"My grandparents’ house is big and comfortable.\".",
+      "audio": "media/audio/8303901ccdc8b9bd6260.mp3"
+    },
+    {
+      "id": 120,
+      "question": "My grandparents’ house is big and _ _ _ _ _ _ _ _ _ _ _ .",
+      "options": [],
+      "answer": "comfortable",
+      "explanation": "Nghe câu → điền từ: \"My grandparents’ house is big and comfortable.\".",
+      "audio": "media/audio/8303901ccdc8b9bd6260.mp3"
+    },
+    {
+      "id": 121,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. hair",
+        "B. scare",
+        "C. chair",
+        "D. share"
+      ],
+      "answer": "B. scare",
+      "explanation": "Nghe → tích đáp án B: \"scare\".",
+      "audio": "media/audio/013c010fd24ff806c813.mp3"
+    },
+    {
+      "id": 122,
+      "question": "What does Phong have at the breakfast? - ...",
+      "options": [
+        "A. Eggs",
+        "B. Breads with milk",
+        "C. Noodle",
+        "D. Rice"
+      ],
+      "answer": "B. Breads with milk",
+      "explanation": "Nghe và chọn đáp án B: Breads with milk.",
+      "audio": "media/audio/b238531e78c23639718e.mp3"
+    },
+    {
+      "id": 123,
+      "question": "Joe likes … and … .",
+      "options": [
+        "A. basketball – swimming",
+        "B. badminton – fishing",
+        "C. volleyball – cooking",
+        "D. football - jogging"
+      ],
+      "answer": "A. basketball – swimming",
+      "explanation": "Nghe và chọn đáp án A: basketball – swimming.",
+      "audio": "media/audio/c06688aeac0b4a6dd383.mp3"
+    },
+    {
+      "id": 124,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. green",
+        "B. blue",
+        "C. black",
+        "D. white"
+      ],
+      "answer": "D. white",
+      "explanation": "Nghe và chọn đáp án D: \"white\" (trắng).",
+      "audio": "media/audio/7d7f2dea58b187f73c43.mp3"
+    },
+    {
+      "id": 125,
+      "question": "What is she going to show? - ...",
+      "options": [
+        "A. Some Indonesian mates",
+        "B. Some Indonesian masks",
+        "C. Some Indian masks",
+        "D. A mask"
+      ],
+      "answer": "B. Some Indonesian masks",
+      "explanation": "Nghe và chọn đáp án B: Some Indonesian masks.",
+      "audio": "media/audio/04f7edee780dc682ac9c.mp3"
+    },
+    {
+      "id": 126,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. pot",
+        "B. mop",
+        "C. hot",
+        "D. box"
+      ],
+      "answer": "C. hot",
+      "explanation": "Nghe → tích đáp án C: \"hot\".",
+      "audio": "media/audio/74aa16213eac9e30fada.mp3"
+    },
+    {
+      "id": 127,
+      "question": "The children come to the computer room every … and …",
+      "options": [
+        "A. Tuesday - Wednesday",
+        "B. Monday - Thursday",
+        "C. Tuesday – Thursday",
+        "D. Monday - Wednesday"
+      ],
+      "answer": "C. Tuesday – Thursday",
+      "explanation": "Nghe và chọn đáp án C: Tuesday – Thursday.",
+      "audio": "media/audio/0420da5e64269c7e15ee.mp3"
+    },
+    {
+      "id": 128,
+      "question": "Where are the keys?",
+      "options": [
+        "A. They are on the table.",
+        "B. They are under the car.",
+        "C. They are in the car.",
+        "D. They are in the living room."
+      ],
+      "answer": "B. They are under the car.",
+      "explanation": "Nghe và chọn đáp án B: They are under the car..",
+      "audio": "media/audio/bbd52d4d8fa7bf58b7ec.mp3"
+    },
+    {
+      "id": 129,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. fries",
+        "B. fire",
+        "C. five",
+        "D. field"
+      ],
+      "answer": "A. fries",
+      "explanation": "Nghe → tích đáp án A: \"fries\".",
+      "audio": "media/audio/95bf018742b46a5247f6.mp3"
+    },
+    {
+      "id": 130,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. classroom",
+        "B. classmate",
+        "C. skateboard",
+        "D. milkshake"
+      ],
+      "answer": "B. classmate",
+      "explanation": "Nghe → tích đáp án B: \"classmate\".",
+      "audio": "media/audio/25a49cdfd816efd2af67.mp3"
+    },
+    {
+      "id": 131,
+      "question": "An anaconda is _______.",
+      "options": [
+        "A. a snake",
+        "B. a fish",
+        "C. a big cat",
+        "D. a bird"
+      ],
+      "answer": "A. a snake",
+      "explanation": "Nghe và chọn đáp án A: a snake.",
+      "audio": "media/audio/934caaaba4e0774b7797.mp3"
+    },
+    {
+      "id": 132,
+      "question": "The girl has to do the washing-up on ___.",
+      "options": [
+        "A. Tuesdays and Wednesdays",
+        "B. Tuesdays and Fridays",
+        "C. Tuesdays and Thursdays",
+        "D. Mondays and Thursdays"
+      ],
+      "answer": "C. Tuesdays and Thursdays",
+      "explanation": "Nghe và chọn đáp án C: Tuesdays and Thursdays.",
+      "audio": "media/audio/666894367c18ba65bf1e.mp3"
+    },
+    {
+      "id": 133,
+      "question": "What is Sam doing?",
+      "options": [
+        "A. He is washing the carrots.",
+        "B. He is cooking carrots.",
+        "C. He is counting the carrots.",
+        "D. He is peeling the carrots."
+      ],
+      "answer": "C. He is counting the carrots.",
+      "explanation": "Nghe và chọn đáp án C: He is counting the carrots..",
+      "audio": "media/audio/7ab48f07cf6a0fd67a5b.mp3"
+    },
+    {
+      "id": 134,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. eighty",
+        "B. angry",
+        "C. honey",
+        "D. hungry"
+      ],
+      "answer": "D. hungry",
+      "explanation": "Nghe và chọn đáp án D: \"hungry\".",
+      "audio": "media/audio/eedcaf5560e0c881a872.mp3"
+    },
+    {
+      "id": 135,
+      "question": "What has the woman got? - ...",
+      "options": [
+        "A. A bowl of pineapples",
+        "B. A red skirt",
+        "C. A bowl of apple",
+        "D. A pineapples"
+      ],
+      "answer": "A. A bowl of pineapples",
+      "explanation": "Nghe và chọn đáp án A: A bowl of pineapples.",
+      "audio": "media/audio/fffb17f8d422bacca213.mp3"
+    },
+    {
+      "id": 136,
+      "question": "Sam is … the steps and Amy is … flowers.",
+      "options": [
+        "A. brushing – watering",
+        "B. brushing – carrying",
+        "C. walking – buying",
+        "D. checking –planting"
+      ],
+      "answer": "B. brushing – carrying",
+      "explanation": "Nghe và chọn đáp án B: brushing – carrying.",
+      "audio": "media/audio/ffcfbbac12fd4df11fb5.mp3"
+    },
+    {
+      "id": 137,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. slim",
+        "B. christmas",
+        "C. class",
+        "D. salad"
+      ],
+      "answer": "D. salad",
+      "explanation": "Nghe và chọn đáp án D: \"salad\".",
+      "audio": "media/audio/56866791ab933124ca9c.mp3"
+    },
+    {
+      "id": 138,
+      "question": "What is Sam doing?",
+      "options": [
+        "A. He is washing the carrots.",
+        "B. He is cooking carrots.",
+        "C. He is counting the carrots.",
+        "D. He is peeling the carrots."
+      ],
+      "answer": "C. He is counting the carrots.",
+      "explanation": "Nghe và chọn đáp án C: He is counting the carrots..",
+      "audio": "media/audio/7ab48f07cf6a0fd67a5b.mp3"
+    },
+    {
+      "id": 139,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. green",
+        "B. blue",
+        "C. black",
+        "D. white"
+      ],
+      "answer": "D. white",
+      "explanation": "Nghe và chọn đáp án D: \"white\" (trắng).",
+      "audio": "media/audio/f5c8c3bb0a8bf8c5690f.mp3"
+    },
+    {
+      "id": 140,
+      "question": "An anaconda is _______.",
+      "options": [
+        "A. a snake",
+        "B. a fish",
+        "C. a big cat",
+        "D. a bird"
+      ],
+      "answer": "A. a snake",
+      "explanation": "Nghe và chọn đáp án A: a snake.",
+      "audio": "media/audio/934caaaba4e0774b7797.mp3"
+    },
+    {
+      "id": 141,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. map",
+        "B. shop",
+        "C. mop",
+        "D. rope"
+      ],
+      "answer": "C. mop",
+      "explanation": "Nghe → tích đáp án C: \"mop\".",
+      "audio": "media/audio/c5fb8697a0a7a4c54d82.mp3"
+    },
+    {
+      "id": 142,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sandals",
+        "B. student",
+        "C. science",
+        "D. seafood"
+      ],
+      "answer": "C. science",
+      "explanation": "Nghe → tích đáp án C: \"science\".",
+      "audio": "media/audio/4c23ce50aaa6d4a7ff9b.mp3"
+    },
+    {
+      "id": 143,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. a board",
+        "B. a park",
+        "C. a bus",
+        "D. a bat"
+      ],
+      "answer": "C. a bus",
+      "explanation": "Nghe → tích đáp án C: \"a bus\".",
+      "audio": "media/audio/3e791e236657e1eb3391.mp3"
+    },
+    {
+      "id": 144,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sad",
+        "B. star",
+        "C. cat",
+        "D. car"
+      ],
+      "answer": "B. star",
+      "explanation": "Nghe → tích đáp án B: \"star\".",
+      "audio": "media/audio/77f3638229045eb73655.mp3"
+    },
+    {
+      "id": 145,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He is Vietnamese.",
+        "B. She is Vietnamese.",
+        "C. I’m Vietnamese.",
+        "D. We are Vietnamese."
+      ],
+      "answer": "C. I’m Vietnamese.",
+      "explanation": "Nghe → tích đáp án C: \"I’m Vietnamese.\".",
+      "audio": "media/audio/8389f4f4d3a41781285a.mp3"
+    },
+    {
+      "id": 146,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. angry",
+        "B. happy",
+        "C. baby",
+        "D. ninety"
+      ],
+      "answer": "A. angry",
+      "explanation": "Nghe → tích đáp án A: \"angry\".",
+      "audio": "media/audio/8018d35488af47c9bc92.mp3"
+    },
+    {
+      "id": 147,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. sandals",
+        "B. student",
+        "C. science",
+        "D. seafood"
+      ],
+      "answer": "C. science",
+      "explanation": "Nghe → tích đáp án C: \"science\".",
+      "audio": "media/audio/4c23ce50aaa6d4a7ff9b.mp3"
+    },
+    {
+      "id": 148,
+      "question": "What is Sam doing?",
+      "options": [
+        "A. He is washing the carrots.",
+        "B. He is cooking carrots.",
+        "C. He is counting the carrots.",
+        "D. He is peeling the carrots."
+      ],
+      "answer": "C. He is counting the carrots.",
+      "explanation": "Nghe và chọn đáp án C: He is counting the carrots..",
+      "audio": "media/audio/7ab48f07cf6a0fd67a5b.mp3"
+    },
+    {
+      "id": 149,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. a cake",
+        "B. date",
+        "C. curly",
+        "D. club"
+      ],
+      "answer": "A. a cake",
+      "explanation": "Nghe → tích đáp án A: \"a cake\".",
+      "audio": "media/audio/24408bbc2382c948f2b0.mp3"
+    },
+    {
+      "id": 150,
+      "question": "What class are you in? – I’m in Class _____.",
+      "options": [
+        "A. 4A",
+        "B. 4B",
+        "C. 4C",
+        "D. 4D"
+      ],
+      "answer": "A. 4A",
+      "explanation": "Nghe và chọn đáp án A: 4A.",
+      "audio": "media/audio/250aace8eb7979330736.mp3"
+    },
+    {
+      "id": 151,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. a lake",
+        "B. a cake",
+        "C. a snake",
+        "D. black"
+      ],
+      "answer": "A. a lake",
+      "explanation": "Nghe → tích đáp án A: \"a lake\".",
+      "audio": "media/audio/700a770a6a3df52fab0a.mp3"
+    },
+    {
+      "id": 152,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He’s five.",
+        "B. He’s nine.",
+        "C. He’s fine.",
+        "D. He’s find."
+      ],
+      "answer": "B. He’s nine.",
+      "explanation": "Nghe → tích đáp án B: \"He’s nine.\".",
+      "audio": "media/audio/dcb4d530d96c7d6af515.mp3"
+    },
+    {
+      "id": 153,
+      "question": "Where are the children in the summer camp? - ...",
+      "options": [
+        "A. A cultural camp",
+        "B. A summer show",
+        "C. A cultural show",
+        "D. A camp"
+      ],
+      "answer": "C. A cultural show",
+      "explanation": "Nghe và chọn đáp án C: A cultural show.",
+      "audio": "media/audio/599eaa12bfe7c27b6c42.mp3"
+    },
+    {
+      "id": 154,
+      "question": "The children come to the computer room every … and …",
+      "options": [
+        "A. Tuesday - Wednesday",
+        "B. Monday - Thursday",
+        "C. Tuesday – Thursday",
+        "D. Monday - Wednesday"
+      ],
+      "answer": "C. Tuesday – Thursday",
+      "explanation": "Nghe và chọn đáp án C: Tuesday – Thursday.",
+      "audio": "media/audio/0420da5e64269c7e15ee.mp3"
+    },
+    {
+      "id": 155,
+      "question": "What does he do on Thursday?",
+      "options": [
+        "A. He studies Art on Thursday.",
+        "B. He studies English on Thursday.",
+        "C. He studies Maths on Thursday.",
+        "D. He studies Music on Thursday."
+      ],
+      "answer": "C. He studies Maths on Thursday.",
+      "explanation": "Nghe và chọn đáp án C: He studies Maths on Thursday..",
+      "audio": "media/audio/69cd26888d5ac09f0645.mp3"
+    },
+    {
+      "id": 156,
+      "question": "Bill is wearing … and …",
+      "options": [
+        "A. red T-shirt – blue jeans",
+        "B. blue T-shirt – red jeans",
+        "C. red shirt – blue trousers",
+        "D. blue shirt – red trousers"
+      ],
+      "answer": "A. red T-shirt – blue jeans",
+      "explanation": "Nghe và chọn đáp án A: red T-shirt – blue jeans.",
+      "audio": "media/audio/7cab29ec8af5bde28670.mp3"
+    },
+    {
+      "id": 157,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Mary’s from England.",
+        "B. Mary’s from Thailand.",
+        "C. Mary’s from Holland.",
+        "D. Mary’s from Poland."
+      ],
+      "answer": "A. Mary’s from England.",
+      "explanation": "Nghe → tích đáp án A: \"Mary’s from England.\".",
+      "audio": "media/audio/cba85a340c841beff416.mp3"
+    },
+    {
+      "id": 158,
+      "question": "I’m sitting ___ a train looking out ___ the rain.",
+      "options": [
+        "A. on/of",
+        "B. at / on",
+        "C. on/at",
+        "D. on/in"
+      ],
+      "answer": "C. on/at",
+      "explanation": "Nghe và chọn đáp án C: on/at.",
+      "audio": "media/audio/9a49fe034c8239c35638.mp3"
+    },
+    {
+      "id": 159,
+      "question": "I’m sitting ___ a train looking out ___ the rain.",
+      "options": [
+        "A. on/of",
+        "B. at / on",
+        "C. on/at",
+        "D. on/in"
+      ],
+      "answer": "C. on/at",
+      "explanation": "Nghe và chọn đáp án C: on/at.",
+      "audio": "media/audio/9a49fe034c8239c35638.mp3"
+    },
+    {
+      "id": 160,
+      "question": "Bill is wearing … and …",
+      "options": [
+        "A. red T-shirt – blue jeans",
+        "B. blue T-shirt – red jeans",
+        "C. red shirt – blue trousers",
+        "D. blue shirt – red trousers"
+      ],
+      "answer": "A. red T-shirt – blue jeans",
+      "explanation": "Nghe và chọn đáp án A: red T-shirt – blue jeans.",
+      "audio": "media/audio/7cab29ec8af5bde28670.mp3"
+    },
+    {
+      "id": 161,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I like drawing.",
+        "B. I like gardening.",
+        "C. I like dancing.",
+        "D. I like skating."
+      ],
+      "answer": "C. I like dancing.",
+      "explanation": "Nghe → tích đáp án C: \"I like dancing.\".",
+      "audio": "media/audio/bb29d57132e2cdc6ed1e.mp3"
+    },
+    {
+      "id": 162,
+      "question": "What time does she get up?",
+      "options": [
+        "A. She gets up at7.15",
+        "B. She gets up at8.15",
+        "C. She gets up at7.30",
+        "D. She gets up at8.30"
+      ],
+      "answer": "C. She gets up at7.30",
+      "explanation": "Đáp án đúng: She gets up at 7.30.",
+      "audio": "media/audio/085927bc413aee4cbba2.mp3"
+    },
+    {
+      "id": 163,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. It’s7:30 o’clock.",
+        "B. It’s7:13 o’clock.",
+        "C. It’s8:30 o’clock.",
+        "D. It’s8:13 o’clock."
+      ],
+      "answer": "B. It’s7:13 o’clock.",
+      "explanation": "Nghe → đáp án đúng: \"It’s 7:13 o’clock.\".",
+      "audio": "media/audio/46508ac6d00bc957c80c.mp3"
+    },
+    {
+      "id": 164,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. swimming pool",
+        "B. orange juice",
+        "C. cheese sandwich",
+        "D. sweets shop"
+      ],
+      "answer": "C. cheese sandwich",
+      "explanation": "Nghe → tích đáp án C: \"cheese sandwich\".",
+      "audio": "media/audio/d16c868b67858e234fd0.mp3"
+    },
+    {
+      "id": 165,
+      "question": "Listen and tick the word(s) you hear:",
+      "options": [
+        "A. a board",
+        "B. a park",
+        "C. a bus",
+        "D. a bat"
+      ],
+      "answer": "C. a bus",
+      "explanation": "Nghe → tích đáp án C: \"a bus\".",
+      "audio": "media/audio/9cff9676aed5b55db2b8.mp3"
+    },
+    {
+      "id": 166,
+      "question": "What does he do on Thursday?",
+      "options": [
+        "A. He studies Art on Thursday.",
+        "B. He studies English on Thursday.",
+        "C. He studies Maths on Thursday.",
+        "D. He studies Music on Thursday."
+      ],
+      "answer": "C. He studies Maths on Thursday.",
+      "explanation": "Nghe và chọn đáp án C: He studies Maths on Thursday..",
+      "audio": "media/audio/69cd26888d5ac09f0645.mp3"
+    },
+    {
+      "id": 167,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I like drawing.",
+        "B. I like gardening.",
+        "C. I like dancing.",
+        "D. I like skating."
+      ],
+      "answer": "C. I like dancing.",
+      "explanation": "Nghe → tích đáp án C: \"I like dancing.\".",
+      "audio": "media/audio/bb29d57132e2cdc6ed1e.mp3"
+    },
+    {
+      "id": 168,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Where is Kate’s birthday party?",
+        "B. When is Kate’s holiday?",
+        "C. When is Kate’s birthday?",
+        "D. What is the date today?"
+      ],
+      "answer": "C. When is Kate’s birthday?",
+      "explanation": "Nghe → tích đáp án C: \"When is Kate’s birthday?\".",
+      "audio": "media/audio/027e3b99ac05aa3418ff.mp3"
+    },
+    {
+      "id": 169,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. It’s her birthday today.",
+        "B. It’s my birthday today.",
+        "C. It’s his birthday today.",
+        "D. It’s his birthday."
+      ],
+      "answer": "B. It’s my birthday today.",
+      "explanation": "Nghe → tích đáp án B: \"It’s my birthday today.\".",
+      "audio": "media/audio/e73003b3df3f58802e3c.mp3"
+    },
+    {
+      "id": 170,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. This is my pencil.",
+        "B. This is my pen case.",
+        "C. This is my pen.",
+        "D. This is my ball."
+      ],
+      "answer": "C. This is my pen.",
+      "explanation": "Nghe → tích đáp án C: \"This is my pen.\".",
+      "audio": "media/audio/77b00647d0f235489b13.mp3"
+    },
+    {
+      "id": 171,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He can speak English.",
+        "B. He can’t speak English.",
+        "C. She can speak English.",
+        "D. She can’t speak English."
+      ],
+      "answer": "A. He can speak English.",
+      "explanation": "Nghe → tích đáp án A: \"He can speak English.\".",
+      "audio": "media/audio/b2ef7aab936d022c6bd7.mp3"
+    },
+    {
+      "id": 172,
+      "question": "Choose the FALSE statement.",
+      "options": [
+        "A. Molly likes elephants.",
+        "B. There are eight elephants at the zoo.",
+        "C. There are two young elephants.",
+        "D. The young elephants are cute."
+      ],
+      "answer": "B. There are eight elephants at the zoo.",
+      "explanation": "Nghe và chọn đáp án B: There are eight elephants at the zoo..",
+      "audio": "media/audio/7d1d858fd89d9ac96e33.mp3"
+    },
+    {
+      "id": 173,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. It’s her birthday today.",
+        "B. It’s my birthday today.",
+        "C. It’s his birthday today.",
+        "D. It’s his birthday."
+      ],
+      "answer": "B. It’s my birthday today.",
+      "explanation": "Nghe → tích đáp án B: \"It’s my birthday today.\".",
+      "audio": "media/audio/e73003b3df3f58802e3c.mp3"
+    },
+    {
+      "id": 174,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. He can speak English.",
+        "B. He can’t speak English.",
+        "C. She can speak English.",
+        "D. She can’t speak English."
+      ],
+      "answer": "A. He can speak English.",
+      "explanation": "Nghe → tích đáp án A: \"He can speak English.\".",
+      "audio": "media/audio/b2ef7aab936d022c6bd7.mp3"
+    },
+    {
+      "id": 175,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I’ve got two rulers",
+        "B. I’ve got two erasers.",
+        "C. I’ve got two scissors.",
+        "D. I’ve got two eggs."
+      ],
+      "answer": "B. I’ve got two erasers.",
+      "explanation": "Nghe → tích đáp án B: \"I’ve got two erasers.\".",
+      "audio": "media/audio/99dc6c023b673ba54ace.mp3"
+    },
+    {
+      "id": 176,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. This is my pencil.",
+        "B. This is my pen case.",
+        "C. This is my pen.",
+        "D. This is my ball."
+      ],
+      "answer": "C. This is my pen.",
+      "explanation": "Nghe → tích đáp án C: \"This is my pen.\".",
+      "audio": "media/audio/77b00647d0f235489b13.mp3"
+    },
+    {
+      "id": 177,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Can you play badminton?",
+        "B. Can you play football?",
+        "C. Do you play badminton?",
+        "D. Do you play football?"
+      ],
+      "answer": "A. Can you play badminton?",
+      "explanation": "Nghe → tích đáp án A: \"Can you play badminton?\".",
+      "audio": "media/audio/16acf5bbab85eb7f950f.mp3"
+    },
+    {
+      "id": 178,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. She can ride a bicycle.",
+        "B. She can ski a board.",
+        "C. She can’t ride a bicycle.",
+        "D. She can fly a kite."
+      ],
+      "answer": "C. She can’t ride a bicycle.",
+      "explanation": "Nghe → tích đáp án C: \"She can’t ride a bicycle.\".",
+      "audio": "media/audio/436a5c4e3feb22d1bde0.mp3"
+    },
+    {
+      "id": 179,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I can draw a dog.",
+        "B. I can draw a fish.",
+        "C. I can draw a cat.",
+        "D. I can draw a coat."
+      ],
+      "answer": "C. I can draw a cat.",
+      "explanation": "Nghe → tích đáp án C: \"I can draw a cat.\".",
+      "audio": "media/audio/90e5b2bcf7ff6671c62b.mp3"
+    },
+    {
+      "id": 180,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. We are late. Hurry up!",
+        "B. They are late. Stand up!",
+        "C. He is late.Get up!",
+        "D. You are late. Shut up!"
+      ],
+      "answer": "A. We are late. Hurry up!",
+      "explanation": "Nghe → tích đáp án A: \"We are late. Hurry up!\".",
+      "audio": "media/audio/9c31192ef6be04834d4b.mp3"
+    },
+    {
+      "id": 181,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you want some grape?",
+        "B. Do you want some grapes?",
+        "C. Do you want some chips?",
+        "D. Do you want some great?"
+      ],
+      "answer": "B. Do you want some grapes?",
+      "explanation": "Nghe → tích đáp án B: \"Do you want some grapes?\".",
+      "audio": "media/audio/cbc3b39d0d15c36f1c99.mp3"
+    },
+    {
+      "id": 182,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. What do you keep, Tony?",
+        "B. Where do you live, Tony?",
+        "C. What do you like, Tony?",
+        "D."
+      ],
+      "answer": "B. Where do you live, Tony?",
+      "explanation": "Nghe → tích đáp án B: \"Where do you live, Tony?\".",
+      "audio": "media/audio/1cd9791b7605bad1660c.mp3"
+    },
+    {
+      "id": 183,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. I would like a cake.",
+        "B. I would like a banana.",
+        "C. I would like a candy.",
+        "D. I would like a biscuit."
+      ],
+      "answer": "B. I would like a banana.",
+      "explanation": "Nghe → tích đáp án B: \"I would like a banana.\".",
+      "audio": "media/audio/181f015168a70a949842.mp3"
+    },
+    {
+      "id": 184,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. These are our school bags.",
+        "B. Those are our school bags.",
+        "C. This is my school bus.",
+        "D. That is my school board."
+      ],
+      "answer": "B. Those are our school bags.",
+      "explanation": "Nghe → tích đáp án B: \"Those are our school bags.\".",
+      "audio": "media/audio/736a5fd50607c042fa77.mp3"
+    },
+    {
+      "id": 185,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. My birthday is in September.",
+        "B. His birthday is in December.",
+        "C. My birthday is in October.",
+        "D. His birthday is in August."
+      ],
+      "answer": "C. My birthday is in October.",
+      "explanation": "Nghe → tích đáp án C: \"My birthday is in October.\".",
+      "audio": "media/audio/8aa95866a9b2b5851736.mp3"
+    },
+    {
+      "id": 186,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Where is your school bag?",
+        "B. Where is your school bus?",
+        "C. Where is your school yard?",
+        "D. Where is your school lab?"
+      ],
+      "answer": "B. Where is your school bus?",
+      "explanation": "Nghe → tích đáp án B: \"Where is your school bus?\".",
+      "audio": "media/audio/161c86efcc49b1a27606.mp3"
+    },
+    {
+      "id": 187,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you want some grape?",
+        "B. Do you want some grapes?",
+        "C. Do you want some chips?",
+        "D. Do you want some great?"
+      ],
+      "answer": "B. Do you want some grapes?",
+      "explanation": "Nghe → tích đáp án B: \"Do you want some grapes?\".",
+      "audio": "media/audio/cbc3b39d0d15c36f1c99.mp3"
+    },
+    {
+      "id": 188,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you want some grape?",
+        "B. Do you want some grapes?",
+        "C. Do you want some chips?",
+        "D. Do you want some great?"
+      ],
+      "answer": "B. Do you want some grapes?",
+      "explanation": "Nghe → tích đáp án B: \"Do you want some grapes?\".",
+      "audio": "media/audio/cbc3b39d0d15c36f1c99.mp3"
+    },
+    {
+      "id": 189,
+      "question": "When do you have PE? – I have it on _____.",
+      "options": [
+        "A. Tuesdays",
+        "B. Thursdays",
+        "C. A and B are correct.",
+        "D. A and B are incorrect."
+      ],
+      "answer": "C. A and B are correct.",
+      "explanation": "Nghe và chọn đáp án C: A and B are correct..",
+      "audio": "media/audio/4bb7e5de10c2dfa6e5b0.mp3"
+    },
+    {
+      "id": 190,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. They go to pet at10.",
+        "B. They go to bed at11.",
+        "C. They go to bet at10.",
+        "D. They go to lab at11."
+      ],
+      "answer": "B. They go to bed at11.",
+      "explanation": "Nghe → đáp án đúng: \"They go to bed at 11.\".",
+      "audio": "media/audio/9c87aefd80bf8a774dba.mp3"
+    },
+    {
+      "id": 191,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Let’s go for a talk now.",
+        "B. Let’s go for a walk now.",
+        "C. How about talking now?",
+        "D. Let’s take a shower now."
+      ],
+      "answer": "B. Let’s go for a walk now.",
+      "explanation": "Nghe → tích đáp án B: \"Let’s go for a walk now.\".",
+      "audio": "media/audio/09bca896d5996572fda8.mp3"
+    },
+    {
+      "id": 192,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. Do you like cooking? Yes, I do.",
+        "B. Do you like cooking? No, I don’t.",
+        "C. Do you like dancing? Yes, I do.",
+        "D. Do you like drawing? No, I don’t."
+      ],
+      "answer": "B. Do you like cooking? No, I don’t.",
+      "explanation": "Nghe → tích đáp án B: \"Do you like cooking? No, I don’t.\".",
+      "audio": "media/audio/206bc16a3f4bbe4c8b35.mp3"
+    },
+    {
+      "id": 193,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. My grandparents’ house is big and colorful.",
+        "B. My grandparents’ house is big and comfortable.",
+        "C. My grandparents’ house is nice and comfortable.",
+        "D. My grandparents’ house is thick and enjoyable."
+      ],
+      "answer": "B. My grandparents’ house is big and comfortable.",
+      "explanation": "Nghe → tích đáp án B: \"My grandparents’ house is big and comfortable.\".",
+      "audio": "media/audio/53274942db1f37c8fe1a.mp3"
+    },
+    {
+      "id": 194,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. There are three books under the table.",
+        "B. There are three boats on the table.",
+        "C. There are three books on the table.",
+        "D. There are three boxes on the table."
+      ],
+      "answer": "C. There are three books on the table.",
+      "explanation": "Nghe → tích đáp án C: \"There are three books on the table.\".",
+      "audio": "media/audio/0a735e9c2b46a2945577.mp3"
+    },
+    {
+      "id": 195,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. There are three books under the table.",
+        "B. There are three boats on the table.",
+        "C. There are three books on the table.",
+        "D. There are three boxes on the table."
+      ],
+      "answer": "C. There are three books on the table.",
+      "explanation": "Nghe → tích đáp án C: \"There are three books on the table.\".",
+      "audio": "media/audio/0a735e9c2b46a2945577.mp3"
+    },
+    {
+      "id": 196,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. My grandparents’ house is big and colorful.",
+        "B. My grandparents’ house is big and comfortable.",
+        "C. My grandparents’ house is nice and comfortable.",
+        "D. My grandparents’ house is thick and enjoyable."
+      ],
+      "answer": "B. My grandparents’ house is big and comfortable.",
+      "explanation": "Nghe → tích đáp án B: \"My grandparents’ house is big and comfortable.\".",
+      "audio": "media/audio/53274942db1f37c8fe1a.mp3"
+    },
+    {
+      "id": 197,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. How many tables are there in your classroom?",
+        "B. How many people are there in your room?",
+        "C. How many students are there in your classroom?",
+        "D. How many people are there in your classroom?"
+      ],
+      "answer": "C. How many students are there in your classroom?",
+      "explanation": "Nghe → tích đáp án C: \"How many students are there in your classroom?\".",
+      "audio": "media/audio/0c990193f70ba7ce9e5d.mp3"
+    },
+    {
+      "id": 198,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. How many tables are there in your classroom?",
+        "B. How many people are there in your room?",
+        "C. How many students are there in your classroom?",
+        "D. How many people are there in your classroom?"
+      ],
+      "answer": "C. How many students are there in your classroom?",
+      "explanation": "Nghe → tích đáp án C: \"How many students are there in your classroom?\".",
+      "audio": "media/audio/0c990193f70ba7ce9e5d.mp3"
+    },
+    {
+      "id": 199,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. We’re cooking dinner on Saturday evening.",
+        "B. We’re going out for dinner on Saturday evening.",
+        "C. We’re going out for a party on Sunday evening.",
+        "D. We’re going for a walk on Saturday evening."
+      ],
+      "answer": "B. We’re going out for dinner on Saturday evening.",
+      "explanation": "Nghe → tích đáp án B: \"We’re going out for dinner on Saturday evening.\".",
+      "audio": "media/audio/4706b324b91b7fb9effb.mp3"
+    },
+    {
+      "id": 200,
+      "question": "Nghe và chọn đáp án đúng:",
+      "options": [
+        "A. There is a clock on the school wall.",
+        "B. There is a knock on the school gate.",
+        "C. There is a frog on the school wall.",
+        "D. There is a dog at the school gate."
+      ],
+      "answer": "A. There is a clock on the school wall.",
+      "explanation": "Nghe → tích đáp án A: \"There is a clock on the school wall.\".",
+      "audio": "media/audio/b699ec0399b85882ea47.mp3"
+    }
+  ],
+  "part_B": [],
+  "part_C": []
+}

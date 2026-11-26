@@ -1,0 +1,32 @@
+name: Migrate IOE media
+
+on:
+  push:
+    branches:
+      - codex/ioe-media-refactor-20261126
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Move JSON and images and download question audio
+        run: |
+          python scripts/migrate_media.py
+          python scripts/download_audio.py
+          python scripts/verify_media.py
+      - name: Commit the media files to this branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Move IOE question media into dedicated files"
+            git push
+          fi
