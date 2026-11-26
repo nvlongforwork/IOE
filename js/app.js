@@ -216,7 +216,7 @@
 
         const topic = mode.split('-')[1];
         appState.topicNum = topic;
-        const fileName = `media/json/lop${grade}/json${grade}.vong${round}.${topic}.json`;
+        const fileName = `media/json/lop${grade}/vong${round}/cd${topic}.json`;
 
         const qs = await fetchQuestions(fileName, qCount);
         if (qs && qs.length>0) {

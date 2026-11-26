@@ -27,7 +27,7 @@ for path in sorted((ROOT / "media" / "json").glob("**/*.json")):
 for grade in range(3, 10):
     for round_number in range(1, 5):
         for topic in range(1, 6):
-            path = ROOT / "media" / "json" / f"lop{grade}" / f"json{grade}.vong{round_number}.{topic}.json"
+            path = ROOT / "media" / "json" / f"lop{grade}" / f"vong{round_number}" / f"cd{topic}.json"
             if not path.is_file():
                 missing.append(("expected question set", "json", str(path)))
 

@@ -9,7 +9,8 @@
 - `css/styles.css`: các kiểu giao diện bổ sung.
 - `js/app.js`: xử lý bài thi, chấm điểm và giao diện.
 - `tailwind.config.cjs` và `css/tailwind.input.css`: cấu hình và nguồn để biên dịch lại CSS.
-- `media/json/lop3` đến `media/json/lop9`: 140 bộ câu hỏi theo lớp, vòng thi và chuyên đề.
+- `media/json/lop<lớp>/vong<vòng>/cd<chuyên đề>.json`: 140 bộ câu hỏi, chia từ lớn
+  đến nhỏ theo lớp, vòng thi rồi chuyên đề (ví dụ `media/json/lop3/vong2/cd4.json`).
 - `media/images`: ảnh minh họa của câu hỏi, kể cả các ảnh trước đây nhúng trong JSON.
 - `media/audio`: các MP3 dùng trong câu hỏi; `sources.json` ghi nguồn gốc tải về.
 
