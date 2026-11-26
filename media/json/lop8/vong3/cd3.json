@@ -1257,10 +1257,10 @@
     },
     {
       "id": 180,
-      "question": "I would like to speak with Mr. Parker. – Sorry, Mr. Parker is out. He will call you … this evening.",
+      "question": "I would like to speak with Mr. Parker. – Sorry, Mr. Parker is out. He will call you _ _ _ _ evening.",
       "options": [],
-      "answer": "Ø",
-      "explanation": "Đáp án “Ø” phù hợp với tình huống xin lỗi/thu hút sự chú ý. Câu đáp này thể hiện thái độ lịch sự và đúng mục đích giao tiếp."
+      "answer": "this",
+      "explanation": "Dùng \"this evening\" (tối nay). Cụm chỉ thời gian này không cần giới từ đứng trước."
     },
     {
       "id": 181,

@@ -122,8 +122,8 @@
       "id": 13,
       "question": "There is a scarf with red and blue _ _ _ _ _ _ _ on the snowman.",
       "options": [],
-      "answer": "I",
-      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “I”. Câu hoàn chỉnh là “There is a scarf with red and blue I on the snowman.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: IOE Lớp 6, đề 1, câu 69.",
+      "answer": "stripes",
+      "explanation": "Nghe file gốc, nhận diện từ hoặc cụm từ còn thiếu và điền “stripes”. Câu hoàn chỉnh là “There is a scarf with red and blue stripes on the snowman.”. Kiểm tra cả chính tả, dạng từ và nghĩa của câu sau khi điền. Nguồn: stripesOE Lớp 6, đề 1, câu 69.",
       "audio": "media/audio/lop5/3ba476ab0c35ac67117b.mp3"
     },
     {

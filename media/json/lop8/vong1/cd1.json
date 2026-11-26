@@ -11,10 +11,10 @@
     },
     {
       "id": 2,
-      "question": "I arrived _____ home at ten fifteen last night.",
+      "question": "I arrived home _ _ ten fifteen last night.",
       "options": [],
-      "answer": "Ø",
-      "explanation": "The missing word/part is “Ø”. It completes “I arrived____home at ten fifteen last night.” with the intended meaning and natural English usage."
+      "answer": "at",
+      "explanation": "Dùng giới từ \"at\" với giờ cụ thể: \"at ten fifteen\". Lưu ý \"arrive home\" không cần giới từ trước \"home\"."
     },
     {
       "id": 3,
