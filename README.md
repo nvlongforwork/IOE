@@ -5,9 +5,10 @@
 ## Cấu trúc
 
 - `index.html`: các màn hình và thành phần giao diện.
-- `css/styles.css`: CSS của ứng dụng.
+- `css/tailwind.css`: CSS đã biên dịch, được trình duyệt tải trực tiếp.
+- `css/styles.css`: các kiểu giao diện bổ sung.
 - `js/app.js`: xử lý bài thi, chấm điểm và giao diện.
-- `js/tailwind-config.js`: cấu hình màu và phông chữ Tailwind.
+- `tailwind.config.cjs` và `css/tailwind.input.css`: cấu hình và nguồn để biên dịch lại CSS.
 - `media/json/lop3` đến `media/json/lop9`: 140 bộ câu hỏi theo lớp, vòng thi và chuyên đề.
 - `media/images`: ảnh minh họa của câu hỏi, kể cả các ảnh trước đây nhúng trong JSON.
 - `media/audio`: các MP3 dùng trong câu hỏi; `sources.json` ghi nguồn gốc tải về.
@@ -23,9 +24,13 @@ python -m http.server 8000
 Sau đó mở `http://localhost:8000/`. Khi triển khai từ repository lên
 Vercel, chỉ cần phục vụ thư mục gốc dưới dạng static site.
 
-Hai thư viện giao diện bên ngoài vẫn được tải từ CDN: Tailwind CSS, Font
-Awesome; tính năng lưu ảnh kết quả dùng html2canvas và phông chữ dùng Google
-Fonts. Nội dung bài thi, ảnh và âm thanh được lưu ngay trong repository.
+Khi sửa các lớp giao diện, chạy `npm install` rồi `npm run build:css` để tạo
+lại `css/tailwind.css`. Bản triển khai chỉ cần phục vụ các tệp tĩnh, không
+cần chạy npm trên máy chủ.
+
+Font Awesome vẫn được tải từ CDN; tính năng lưu ảnh kết quả dùng html2canvas
+và phông chữ dùng Google Fonts. CSS Tailwind được lưu trong repository và
+không còn phụ thuộc CDN Tailwind khi chạy.
 
 ## Kiểm tra dữ liệu
 
