@@ -85,9 +85,14 @@
     {
       "id": 11,
       "question": "What woke everyone up?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. the noisy sound",
+        "B. the coffee smell",
+        "C. the cock",
+        "D. the alarm clock"
+      ],
+      "answer": "D. the alarm clock",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. the alarm clock”.",
       "audio": "media/audio/lop9/b7e80f6a4166967648c7.mp3"
     },
     {
@@ -205,9 +210,14 @@
     {
       "id": 26,
       "question": "Why were Duc’s parents disappointed? - ...",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Because he was punished at school.",
+        "B. Because he didn’t finish homework.",
+        "C. Because he didn’t attend to class.",
+        "D. Because he failed the final test."
+      ],
+      "answer": "D. Because he failed the final test.",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. Because he failed the final test.”.",
       "audio": "media/audio/lop9/8d52cb52cab1b282e7e7.mp3"
     },
     {
@@ -245,9 +255,14 @@
     {
       "id": 31,
       "question": "What does Marika often do in the winter?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Go snow boarding",
+        "B. Go sightseeing",
+        "C. Go skating",
+        "D. Both A&C are correct"
+      ],
+      "answer": "D. Both A&C are correct",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. Both A&C are correct”.",
       "audio": "media/audio/lop9/aaa6b2eba984706d5b6c.mp3"
     },
     {
@@ -317,9 +332,14 @@
     {
       "id": 40,
       "question": "What did she put on at her cousin’s wedding?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. T-shirt and jeans",
+        "B. Big jeans",
+        "A. pink T-shirt",
+        "A. A shiny dress"
+      ],
+      "answer": "A. A shiny dress",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “A. A shiny dress”.",
       "audio": "media/audio/lop9/50616679f5584af08038.mp3"
     },
     {
@@ -389,9 +409,14 @@
     {
       "id": 49,
       "question": "Who were believed to make people ill in Ancient Greece?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Evil spirits.",
+        "B. Angry gods.",
+        "C. Beasts.",
+        "D. Both evil spirits and angry gods."
+      ],
+      "answer": "D. Both evil spirits and angry gods.",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. Both evil spirits and angry gods.”.",
       "audio": "media/audio/lop9/e2c45baedcb943b24e47.mp3"
     },
     {
@@ -445,9 +470,14 @@
     {
       "id": 56,
       "question": "What time is the bus going to arrive at Loch Ness?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. At 3:00.",
+        "B. At 7:30.",
+        "C. At 8:30.",
+        "D. At 11:30."
+      ],
+      "answer": "D. At 11:30.",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. At 11:30.”.",
       "audio": "media/audio/lop9/8976faf44c5362e655df.mp3"
     },
     {

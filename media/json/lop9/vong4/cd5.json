@@ -13,17 +13,27 @@
     {
       "id": 2,
       "question": "How many per cents of oil DOES NOT come from under the oceans?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. 12%",
+        "B. 20%",
+        "C. 68%",
+        "D. 80%"
+      ],
+      "answer": "D. 80%",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. 80%”.",
       "audio": "media/audio/lop9/de64d53f3d4aad15ef76.mp3"
     },
     {
       "id": 3,
       "question": "How long does it take to have a ride on the London Eye?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. 90 minutes",
+        "B. 60 minutes",
+        "C. 40 minutes",
+        "D. 30 minutes"
+      ],
+      "answer": "D. 30 minutes",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. 30 minutes”.",
       "audio": "media/audio/lop9/29dfe6cb422f5dca658c.mp3"
     },
     {
@@ -77,9 +87,14 @@
     {
       "id": 10,
       "question": "What time does the librarian recommend that Amir returns to meet the subject librarian?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. At around 12.15",
+        "B. At around 12.30",
+        "C. At around 1.00",
+        "D. At around 2.00"
+      ],
+      "answer": "D. At around 2.00",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. At around 2.00”.",
       "audio": "media/audio/lop9/ee710602744d46de994b.mp3"
     },
     {
@@ -325,9 +340,14 @@
     {
       "id": 41,
       "question": "Which statement is true?",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. The girl doesn’t wear a poppy sometimes on Poppy Day.",
+        "B. Her father is in the army.",
+        "C. Neither the government nor ordinary people help ex-soldiers and their family.",
+        "D. The money from poppy sales is spent on taking care of ex-soldiers."
+      ],
+      "answer": "D. The money from poppy sales is spent on taking care of ex-soldiers.",
+      "explanation": "Nghe file ghi âm và chọn phương án đúng. Đáp án: “D. The money from poppy sales is spent on taking care of ex-soldiers.”.",
       "audio": "media/audio/lop9/c19fd9b8103a09c20738.mp3"
     },
     {
