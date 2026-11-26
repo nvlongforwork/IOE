@@ -128,11 +128,11 @@
       "options": [
         "A. r<u>ea</u>d",
         "B. sp<u>ea</u>k",
-        "C. br<u>ea</u>k time",
+        "C. cl<u>ea</u>n",
         "D. br<u>ea</u>kfast"
       ],
       "answer": "D. breakfast",
-      "explanation": "read/speak đọc /iː/; break time đọc /eɪ/; breakfast có 'ea' đọc /e/ → breakfast khác âm."
+      "explanation": "read, speak, clean đều có \"ea\" đọc /iː/ giống PLEASE; breakfast có \"ea\" đọc /e/ → breakfast khác âm."
     },
     {
       "id": 12,
@@ -923,8 +923,8 @@
         "C. pork",
         "D. milk"
       ],
-      "answer": "A. lemon",
-      "explanation": "rice, pork, milk là thực phẩm/đồ ăn uống; lemon là trái cây → lemon khác loại."
+      "answer": "D. milk",
+      "explanation": "lemon, rice, pork là đồ ăn; milk là đồ uống → milk khác nhóm."
     },
     {
       "id": 78,
@@ -995,7 +995,7 @@
       "question": "I’d like a cup of ... .",
       "options": [
         "A. tea",
-        "B. beer",
+        "B. milk",
         "C. water",
         "D. coffee"
       ],

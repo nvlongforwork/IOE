@@ -524,7 +524,7 @@
       "options": [
         "A. water",
         "B. milk",
-        "C. beer",
+        "C. juice",
         "D. pizza"
       ],
       "answer": "D. pizza",
@@ -587,8 +587,8 @@
         "C. ugly",
         "D. pretty"
       ],
-      "answer": "B. nice",
-      "explanation": "beautiful/ugly/pretty đều là tính từ ngoại hình; nice thường tả tính cách → nice khác nhóm."
+      "answer": "C. ugly",
+      "explanation": "beautiful, nice, pretty đều mang nghĩa khen; ugly mang nghĩa trái ngược → ugly khác nhóm."
     },
     {
       "id": 50,
@@ -1154,7 +1154,7 @@
         "A. milk",
         "B. orange juice",
         "C. water",
-        "D. beer"
+        "D. tea"
       ],
       "answer": "C. water",
       "explanation": "Hình là ly nước (water); đáp án C.",
@@ -1243,7 +1243,7 @@
       "question": "I’m thirsty. I want some ... .",
       "options": [
         "A. water",
-        "B. beer",
+        "B. milk",
         "C. orange juice",
         "D. coffee"
       ],
@@ -1256,7 +1256,7 @@
       "question": "Would you like some ...?",
       "options": [
         "A. coffee",
-        "B. beer",
+        "B. tea",
         "C. milk",
         "D. water"
       ],

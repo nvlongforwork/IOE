@@ -282,13 +282,13 @@
       "id": 24,
       "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
-        "A. b<u>o</u>w",
-        "B. st<u>o</u>ve",
-        "C. Latin<u>o</u>",
-        "D. d<u>o</u>ve"
+        "A. h<u>o</u>me",
+        "B. n<u>o</u>se",
+        "C. g<u>o</u>",
+        "D. c<u>o</u>me"
       ],
-      "answer": "D. dove",
-      "explanation": "\"o\" trong dove đọc /ʌ/, còn bow/stove/Latino đọc /əʊ/ → dove khác âm."
+      "answer": "D. come",
+      "explanation": "\"o\" trong home, nose, go đọc /əʊ/; \"o\" trong come đọc /ʌ/ → come khác âm."
     },
     {
       "id": 25,
@@ -320,11 +320,11 @@
       "options": [
         "A. r<u>ea</u>d",
         "B. sp<u>ea</u>k",
-        "C. br<u>ea</u>k time",
+        "C. cl<u>ea</u>n",
         "D. br<u>ea</u>kfast"
       ],
       "answer": "D. breakfast",
-      "explanation": "\"ea\" trong breakfast đọc /ɛ/, còn read/speak/break time đọc /iː/ → breakfast khác âm."
+      "explanation": "read, speak, clean đều có \"ea\" đọc /iː/ giống PLEASE; breakfast có \"ea\" đọc /e/ → breakfast khác âm."
     },
     {
       "id": 28,
@@ -1160,7 +1160,7 @@
       "question": "I’d like a cup of ... .",
       "options": [
         "A. tea",
-        "B. beer",
+        "B. milk",
         "C. water",
         "D. coffee"
       ],

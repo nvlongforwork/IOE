@@ -684,10 +684,10 @@
     },
     {
       "id": 66,
-      "question": "I’m in _ _ _ _ _ 4A.",
+      "question": "I’m in c_ _ _ _ 4A.",
       "options": [],
-      "answer": "class",
-      "explanation": "\"_class_\" → \"class\" = lớp học; điền \"class\". \"I'm in class 4A.\""
+      "answer": "lass",
+      "explanation": "Ghép với \"c\" tạo thành \"class\" = lớp học. Câu hoàn chỉnh: \"I’m in class 4A.\""
     },
     {
       "id": 67,
