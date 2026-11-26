@@ -328,7 +328,7 @@
     },
     {
       "id": 28,
-      "question": "the second street and then turn right.",
+      "question": "_____ the second street and then turn right.",
       "options": [
         "A. Get",
         "B. Take",
@@ -1180,7 +1180,7 @@
     },
     {
       "id": 99,
-      "question": "are they? – They are 25.",
+      "question": "_____ are they? – They are 25.",
       "options": [
         "A. How many old",
         "B. How old",
@@ -1890,11 +1890,11 @@
       "options": [
         "A. iced",
         "B. cold",
-        "C. hot",
-        "D. cool"
+        "C. cool",
+        "D. warm"
       ],
       "answer": "A. iced",
-      "explanation": "“iced” là từ khác nhóm; các từ còn lại (“cold”, “hot”, “cool”) có điểm chung về nghĩa hoặc từ loại."
+      "explanation": "cold, cool, warm đều là tính từ gốc chỉ nhiệt độ; iced là dạng thêm đuôi -ed (ice + ed) → iced khác nhóm."
     },
     {
       "id": 196,
@@ -1914,11 +1914,11 @@
       "options": [
         "A. watch",
         "B. brush",
-        "C. swim",
-        "D. climb"
+        "C. wash",
+        "D. swim"
       ],
-      "answer": "C. swim",
-      "explanation": "“swim” là từ khác nhóm; các từ còn lại (“watch”, “brush”, “climb”) có điểm chung về nghĩa hoặc từ loại."
+      "answer": "D. swim",
+      "explanation": "watch, brush, wash khi chia ngôi thứ ba số ít đều thêm -es (watches, brushes, washes); swim chỉ thêm -s → swim khác nhóm."
     },
     {
       "id": 198,

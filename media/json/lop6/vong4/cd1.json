@@ -988,7 +988,7 @@
     },
     {
       "id": 83,
-      "question": "? – Yes, I’d like some bananas.",
+      "question": "_____ ? – Yes, I’d like some bananas.",
       "options": [
         "A. Can I help you",
         "B. Do you want some apples",
@@ -1800,7 +1800,7 @@
     },
     {
       "id": 185,
-      "question": "Phong Nha-Ke Bang National Park was recognised as UNESCO World Natural _ _ _ _ _ _ _ _ Site in 2003and 2015.",
+      "question": "Phong Nha-Ke Bang National Park was recognised as UNESCO World Natural _ _ _ _ _ _ _ _ Site in 2003 and 2015.",
       "answer": "Heritage",
       "explanation": "Điền “Heritage” để tạo từ/cụm từ đúng là “Heritage”. Khi hoàn chỉnh, câu là: “Phong Nha-Ke Bang National Park was recognised as UNESCO World Natural Heritage Site in 2003and 2015”; từ này phù hợp với nghĩa và cách viết chuẩn."
     },

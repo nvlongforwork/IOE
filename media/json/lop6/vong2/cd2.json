@@ -160,7 +160,7 @@
     },
     {
       "id": 14,
-      "question": "hungry? – Yes, they do.",
+      "question": "_____ hungry? – Yes, they do.",
       "options": [
         "A. Are they",
         "B. Do they feel",
@@ -352,7 +352,7 @@
     },
     {
       "id": 30,
-      "question": "was your vacation in Paris? – It was wonderful!",
+      "question": "_____ was your vacation in Paris? – It was wonderful!",
       "options": [
         "A. How",
         "B. What",
@@ -424,7 +424,7 @@
     },
     {
       "id": 36,
-      "question": "are the tickets? – Two dollars each.",
+      "question": "_____ are the tickets? – Two dollars each.",
       "options": [
         "A. How many",
         "B. How cost",
@@ -448,7 +448,7 @@
     },
     {
       "id": 38,
-      "question": "is this book? – It’s 3 dollars.",
+      "question": "_____ is this book? – It’s 3 dollars.",
       "options": [
         "A. How much",
         "B. How many",
@@ -508,7 +508,7 @@
     },
     {
       "id": 43,
-      "question": "oranges do you want? – A dozen, please.",
+      "question": "_____ oranges do you want? – A dozen, please.",
       "options": [
         "A. How many",
         "B. How much",
@@ -832,7 +832,7 @@
     },
     {
       "id": 70,
-      "question": "is your grandfather? – He is 90 years old.",
+      "question": "_____ is your grandfather? – He is 90 years old.",
       "options": [
         "A. How many",
         "B. How much",
@@ -940,7 +940,7 @@
     },
     {
       "id": 79,
-      "question": "does she want? – A cold drink.",
+      "question": "_____ does she want? – A cold drink.",
       "options": [
         "A. How",
         "B. What",
@@ -1228,7 +1228,7 @@
     },
     {
       "id": 103,
-      "question": "does she do? - She’s an engineer.",
+      "question": "_____ does she do? - She’s an engineer.",
       "options": [
         "A. When",
         "B. What",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": 111,
-      "question": "is it from your house to school? - About 2 kilometres.",
+      "question": "_____ is it from your house to school? - About 2 kilometres.",
       "options": [
         "A. How about",
         "B. How far",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": 123,
-      "question": "is it from your house to school? - About 2 kilometers.",
+      "question": "_____ is it from your house to school? - About 2 kilometers.",
       "options": [
         "A. How about",
         "B. How far",
@@ -1540,7 +1540,7 @@
     },
     {
       "id": 129,
-      "question": "do you think of Jim? – He is nice!",
+      "question": "_____ do you think of Jim? – He is nice!",
       "options": [
         "A. What",
         "B. How",
@@ -1588,7 +1588,7 @@
     },
     {
       "id": 133,
-      "question": "teaches you English? – Mrs Lien teaches us English.",
+      "question": "_____ teaches you English? – Mrs Lien teaches us English.",
       "options": [
         "A. Who",
         "B. What",
@@ -1600,7 +1600,7 @@
     },
     {
       "id": 134,
-      "question": "is the weather like today?- It’s cool.",
+      "question": "_____ is the weather like today?- It’s cool.",
       "options": [
         "A. What",
         "B. Why",
@@ -1684,7 +1684,7 @@
     },
     {
       "id": 141,
-      "question": "My Music class is ... 7.30AM.",
+      "question": "My Music class is ... 7.30 AM.",
       "options": [
         "A. at",
         "B. for",

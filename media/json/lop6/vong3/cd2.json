@@ -4,7 +4,7 @@
   "part_A": [
     {
       "id": 1,
-      "question": "? – Five thousand dong, please.",
+      "question": "_____ ? – Five thousand dong, please.",
       "options": [
         "A. How much is it?",
         "B. How about it?",
@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "question": "? – He’s a policeman.",
+      "question": "_____ ? – He’s a policeman.",
       "options": [
         "A. What does he do?",
         "B. Who he is?",
@@ -388,7 +388,7 @@
     },
     {
       "id": 33,
-      "question": "is your aunt’s address? - It’s on the table.",
+      "question": "_____ is your aunt’s address? - It’s on the table.",
       "options": [
         "A. Where",
         "B. How",
@@ -400,7 +400,7 @@
     },
     {
       "id": 34,
-      "question": "the second street and then turn right.",
+      "question": "_____ the second street and then turn right.",
       "options": [
         "A. Get",
         "B. Take",
@@ -556,7 +556,7 @@
     },
     {
       "id": 47,
-      "question": "do your sisters go to bed? – 10pm.",
+      "question": "_____ do your sisters go to bed? – 10 pm.",
       "options": [
         "A. What is the time",
         "B. What’s time",
@@ -616,7 +616,7 @@
     },
     {
       "id": 52,
-      "question": "does your brother work? - He works in Ho Chi Minh City.",
+      "question": "_____ does your brother work? - He works in Ho Chi Minh City.",
       "options": [
         "A. What",
         "B. Where",
@@ -640,7 +640,7 @@
     },
     {
       "id": 54,
-      "question": "noise when you are in class.",
+      "question": "_____ noise when you are in class.",
       "options": [
         "A. Makes",
         "B. Don’t make",
@@ -856,7 +856,7 @@
     },
     {
       "id": 72,
-      "question": "do we have for lunch? – Bread and beef.",
+      "question": "_____ do we have for lunch? – Bread and beef.",
       "options": [
         "A. Which",
         "B. What",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": 93,
-      "question": "will you do your homework?- I’ll do it in the afternoon.",
+      "question": "_____ will you do your homework?- I’ll do it in the afternoon.",
       "options": [
         "A. What",
         "B. When",
@@ -1144,7 +1144,7 @@
     },
     {
       "id": 96,
-      "question": "I help you? – Please carry this bag for me.",
+      "question": "_____ I help you? – Please carry this bag for me.",
       "options": [
         "A. Do",
         "B. Can",
@@ -1408,7 +1408,7 @@
     },
     {
       "id": 118,
-      "question": "? – Two, please.",
+      "question": "_____ ? – Two, please.",
       "options": [
         "A. What do you need?",
         "B. How many apples do you need?"
@@ -1514,7 +1514,7 @@
     },
     {
       "id": 127,
-      "question": "English books do you have? – 13 books.",
+      "question": "_____ English books do you have? – 13 books.",
       "options": [
         "A. How much",
         "B. How long",
@@ -1550,7 +1550,7 @@
     },
     {
       "id": 130,
-      "question": "? – Yes, I’d like some bananas.",
+      "question": "_____ ? – Yes, I’d like some bananas.",
       "options": [
         "A. Can I help you",
         "B. Do you want some apples",
@@ -1646,7 +1646,7 @@
     },
     {
       "id": 138,
-      "question": "go to the beach for our holiday.",
+      "question": "_____ go to the beach for our holiday.",
       "options": [
         "A. Let’s",
         "B. It’s",
