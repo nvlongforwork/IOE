@@ -846,27 +846,6 @@
 
     document.getElementById('btn-back-result').onclick = () => showScreen('screen-result');
 
-    document.getElementById('btn-save-result').onclick = async () => {
-        const btn = document.getElementById('btn-save-result');
-        btn.disabled = true;
-        btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Đang tạo...';
-        const btnRow = btn.parentElement;
-        btnRow.style.display = 'none';
-        try {
-        const card = document.getElementById('result-card');
-        const canvas = await html2canvas(card, { scale: 2, useCORS: true, backgroundColor: '#f9fafb' });
-        const link = document.createElement('a');
-        const name = (appState.studentName || 'ket-qua').replace(/\s+/g, '-');
-        link.download = `IOE-${name}-L${appState.grade}-V${appState.examRound}.png`;
-        link.href = canvas.toDataURL('image/png');
-        link.click();
-        } finally {
-        btnRow.style.display = '';
-        btn.disabled = false;
-        btn.innerHTML = '<i class="fas fa-download"></i> Lưu kết quả';
-        }
-    };
-
 // Bind UI actions in JavaScript instead of inline HTML event attributes.
 document.getElementById('mode-full').addEventListener('click', () => setQuizMode('full'));
 document.getElementById('mode-partial').addEventListener('click', () => setQuizMode('partial'));
