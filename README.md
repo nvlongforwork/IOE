@@ -14,8 +14,9 @@
 - `media/images/lop<lớp>/vong<vòng>/cd<chuyên đề>/`: ảnh minh họa của câu hỏi,
   chia cùng cách với câu hỏi. Ảnh dùng ở nhiều chuyên đề được nhân bản vào
   từng thư mục để mỗi chuyên đề là một bộ hoàn chỉnh.
-- `media/audio`: các MP3 dùng trong câu hỏi, để phẳng một thư mục vì phần lớn
-  file được nhiều lớp và vòng dùng lại; `sources.json` ghi nguồn gốc tải về.
+- `media/audio/lop<lớp>/`: các MP3 dùng trong câu hỏi, chia theo lớp. Bản ghi
+  dùng chung giữa các vòng của cùng một lớp chỉ lưu một lần; dùng chung giữa
+  nhiều lớp thì nhân bản vào từng lớp. `sources.json` ghi nguồn gốc tải về.
 
 Ứng dụng tải câu hỏi và tài nguyên qua đường dẫn từ thư mục gốc của website.
 Để chạy trên máy, hãy dùng một máy chủ HTTP thay vì mở `index.html`
