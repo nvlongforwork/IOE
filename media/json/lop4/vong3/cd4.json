@@ -213,10 +213,10 @@
         "A. h<u>o</u>me",
         "B. c<u>o</u>me",
         "C. s<u>o</u>me",
-        "D. m<u>o</u>m"
+        "D. s<u>o</u>n"
       ],
-      "answer": "A. home",
-      "explanation": "come/some/mom có 'o' đọc /ʌ/; home có 'o' đọc /oʊ/ → home khác âm."
+      "answer": "A. h<u>o</u>me",
+      "explanation": "come, some và son có “o” đọc /ʌ/, còn “home” đọc /əʊ/."
     },
     {
       "id": 19,
@@ -224,11 +224,11 @@
       "options": [
         "A. b<u>a</u>g",
         "B. b<u>a</u>nk",
-        "C. p<u>a</u>rents",
+        "C. h<u>a</u>nd",
         "D. pl<u>a</u>ce"
       ],
-      "answer": "D. place",
-      "explanation": "bag/bank/parents có 'a' đọc /æ/; place có 'a' đọc /eɪ/ → place khác âm."
+      "answer": "D. pl<u>a</u>ce",
+      "explanation": "bag, bank và hand có “a” đọc /æ/, còn “place” đọc /eɪ/."
     },
     {
       "id": 20,

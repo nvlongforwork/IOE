@@ -220,7 +220,7 @@
     },
     {
       "id": 19,
-      "question": "Which word has the underlined part pronounced like the letter ‘EA’ in “BEAR”?",
+      "question": "Choose the word that has the underlined part pronounced differently from the others:",
       "options": [
         "A. r<u>ea</u>ding",
         "B. w<u>ea</u>ther",
@@ -228,7 +228,7 @@
         "D. cl<u>ea</u>n"
       ],
       "answer": "B. w<u>ea</u>ther",
-      "explanation": "reading, meat và clean đều có “ea” đọc /iː/, còn “weather” đọc /e/."
+      "explanation": "reading, meat và clean có “ea” đọc /iː/, còn “weather” đọc /e/."
     },
     {
       "id": 20,
@@ -287,8 +287,8 @@
         "C. grandmoth<u>e</u>r",
         "D. b<u>e</u>droom"
       ],
-      "answer": "A. garden",
-      "explanation": "garden/grandmother/bedroom có 'a/e' đọc /ɑː/ hoặc /e/; these có 'e' đọc /iː/ giống âm /iː/ trong EVENING → garden là đáp án (phụ âm 'g' như âm đặc biệt hoặc theo đề gốc)."
+      "answer": "B. th<u>e</u>se",
+      "explanation": "“E” trong “EVENING” đọc /iː/. Chỉ “these” có “e” đọc /iː/; garden và grandmother đọc /ə/, bedroom đọc /e/."
     },
     {
       "id": 25,
