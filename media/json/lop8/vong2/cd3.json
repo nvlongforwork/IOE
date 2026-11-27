@@ -26,16 +26,26 @@
     {
       "id": 4,
       "question": "Which sentence is incorrect?",
-      "options": [],
-      "answer": "Thank for help me cleaning the car",
-      "explanation": "Đáp án “Thank for help me cleaning the car” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Thank for help me cleaning the car",
+        "B. Thanks for helping me clean the car",
+        "C. Thank you for helping me clean the car",
+        "D. I want to thank you for helping me clean the car"
+      ],
+      "answer": "A. Thank for help me cleaning the car",
+      "explanation": "Câu sai là “Thank for help me cleaning the car”: phải nói “Thanks for” hoặc “Thank you for”, và sau giới từ “for” phải dùng V-ing."
     },
     {
       "id": 5,
       "question": "Which part needs correction in the following sentence? Linda and me are going to participate in the music club.",
-      "options": [],
-      "answer": "me",
-      "explanation": "Đáp án “me” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Linda",
+        "B. me",
+        "C. are going to",
+        "D. participate in"
+      ],
+      "answer": "B. me",
+      "explanation": "Cụm “Linda and me” làm chủ ngữ nên phải dùng đại từ chủ ngữ “I”, viết “Linda and I”."
     },
     {
       "id": 6,
@@ -68,9 +78,14 @@
     {
       "id": 10,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "Look! Five birds are flying!",
-      "explanation": "Đáp án “Look! Five birds are flying!” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Look! Five birds are flying!",
+        "B. Look! Five birds is flying!",
+        "C. Look! Five bird are flying!",
+        "D. Look! Five birds are fly!"
+      ],
+      "answer": "A. Look! Five birds are flying!",
+      "explanation": "Chủ ngữ số nhiều “five birds” đi với “are”, và sau “are” phải dùng V-ing."
     },
     {
       "id": 11,

@@ -5,16 +5,26 @@
     {
       "id": 1,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "Nam has a flat nose and an oval face.",
-      "explanation": "Đáp án “Nam has a flat nose and an oval face.” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Nam has a flat nose and an oval face.",
+        "B. Nam has a flat nose and a oval face.",
+        "C. Nam have a flat nose and an oval face.",
+        "D. Nam has an flat nose and an oval face."
+      ],
+      "answer": "A. Nam has a flat nose and an oval face.",
+      "explanation": "Dùng “an” trước nguyên âm “oval” và “a” trước phụ âm “flat”; chủ ngữ số ít đi với “has”."
     },
     {
       "id": 2,
       "question": "Choose the correct response to the following exchange: Dr. Jonas can see you next Thursday. Do you prefer morning or afternoon?",
-      "options": [],
-      "answer": "Morning is best for me",
-      "explanation": "Đáp án “Morning is best for me” đúng vì theo sau cấu trúc này phải dùng đúng dạng động từ. Đây là điểm ngữ pháp nâng cao cần nhận diện theo cụm cố định."
+      "options": [
+        "A. Morning is best for me",
+        "B. Yes, I prefer",
+        "C. No, thank you very much",
+        "D. Next Thursday is a holiday"
+      ],
+      "answer": "A. Morning is best for me",
+      "explanation": "Câu hỏi lựa chọn “morning or afternoon?” cần câu trả lời nêu rõ một trong hai, không trả lời “yes” hoặc “no”."
     },
     {
       "id": 3,
@@ -40,9 +50,14 @@
     {
       "id": 6,
       "question": "Choose the part that needs correction in the following sentence: How about going to the park and play volleyball there?",
-      "options": [],
-      "answer": "play",
-      "explanation": "Đáp án “play” phản hồi phù hợp với lời đề nghị hoặc gợi ý trong câu hỏi. Nó thể hiện sự đồng tình hoặc đưa ra phản hồi tự nhiên cho hoạt động được đề xuất."
+      "options": [
+        "A. How about",
+        "B. going",
+        "C. to the park",
+        "D. play"
+      ],
+      "answer": "D. play",
+      "explanation": "Hai hoạt động cùng đi sau “How about” phải cùng dạng V-ing, nên viết “playing volleyball”."
     },
     {
       "id": 8,
@@ -54,9 +69,14 @@
     {
       "id": 9,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "I have a stomach ache, so I don't want to eat anything",
-      "explanation": "Đáp án “I have a stomach ache, so I don't want to eat anything” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. I have a stomach ache, so I don’t want to eat anything",
+        "B. I have a stomach ache, so I don’t want eat anything",
+        "C. I have a stomach ache, so I doesn’t want to eat anything",
+        "D. I have a stomach ache, so I don’t want to eating anything"
+      ],
+      "answer": "A. I have a stomach ache, so I don’t want to eat anything",
+      "explanation": "Sau “want” phải dùng “to + động từ nguyên mẫu”, và chủ ngữ “I” đi với “don’t”."
     },
     {
       "id": 10,
@@ -142,10 +162,15 @@
     },
     {
       "id": 21,
-      "question": ".“Do you want to visit London?”, said Mai.",
-      "options": [],
-      "answer": "Mai asked me if I wanted to visit London",
-      "explanation": "Đáp án “Mai asked me if I wanted to visit London” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "question": "“Do you want to visit London?” said Mai.",
+      "options": [
+        "A. Mai asked me if I wanted to visit London",
+        "B. Mai asked me if I want to visit London",
+        "C. Mai asked me do I want to visit London",
+        "D. Mai told me to visit London"
+      ],
+      "answer": "A. Mai asked me if I wanted to visit London",
+      "explanation": "Câu hỏi tường thuật dùng “ask + if” và phải lùi thì, nên “want” đổi thành “wanted”; không giữ lại trật tự câu hỏi."
     },
     {
       "id": 22,
@@ -164,9 +189,14 @@
     {
       "id": 24,
       "question": "“I would study Japanese if I were you,” my friend said.",
-      "options": [],
-      "answer": "My friend advised me to study Japanese",
-      "explanation": "Đáp án “My friend advised me to study Japanese” đúng vì câu có cấu trúc điều kiện/giả định. Dạng động từ phải thể hiện đúng mối quan hệ giữa điều kiện và kết quả."
+      "options": [
+        "A. My friend advised me to study Japanese",
+        "B. My friend advised me studying Japanese",
+        "C. My friend advised me not to study Japanese",
+        "D. My friend asked me if I studied Japanese"
+      ],
+      "answer": "A. My friend advised me to study Japanese",
+      "explanation": "Câu “I would study Japanese if I were you” là lời khuyên nên tường thuật bằng “advise somebody to do something”."
     },
     {
       "id": 25,
@@ -199,9 +229,14 @@
     {
       "id": 29,
       "question": "They have decorated the tree with coloured balls.",
-      "options": [],
-      "answer": "The tree has been decorated with coloured balls.",
-      "explanation": "Đáp án “The tree has been decorated with coloured balls.” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. The tree has been decorated with coloured balls.",
+        "B. The tree have been decorated with coloured balls.",
+        "C. The tree was decorated with coloured balls.",
+        "D. The tree has decorated with coloured balls."
+      ],
+      "answer": "A. The tree has been decorated with coloured balls.",
+      "explanation": "Thể bị động của hiện tại hoàn thành là “has been + quá khứ phân từ”, giữ nguyên thì của câu gốc."
     },
     {
       "id": 30,
@@ -332,9 +367,14 @@
     {
       "id": 48,
       "question": "Choose the part that needs correction in the following sentence: She wishes he will stop interrupting her whenever she speaks.",
-      "options": [],
-      "answer": "will stop",
-      "explanation": "Đáp án “will stop” đúng vì câu có cấu trúc điều kiện/giả định. Dạng động từ phải thể hiện đúng mối quan hệ giữa điều kiện và kết quả."
+      "options": [
+        "A. She wishes",
+        "B. will stop",
+        "C. interrupting her",
+        "D. whenever she speaks"
+      ],
+      "answer": "B. will stop",
+      "explanation": "Sau “wish” diễn tả mong muốn ở hiện tại phải lùi một thì, nên viết “would stop”."
     },
     {
       "id": 49,
@@ -717,9 +757,14 @@
     {
       "id": 103,
       "question": "Nobody told me about the change of the plan.",
-      "options": [],
-      "answer": "I did not know anything about the change of the plan",
-      "explanation": "Đáp án “I did not know anything about the change of the plan” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. I did not know anything about the change of the plan",
+        "B. I did not know something about the change of the plan",
+        "C. Nobody knew anything about the change of the plan",
+        "D. I told nobody about the change of the plan"
+      ],
+      "answer": "A. I did not know anything about the change of the plan",
+      "explanation": "“Nobody told me” nghĩa là tôi không được ai cho biết, nên tôi không biết gì cả. Câu phủ định dùng “anything”, không dùng “something”."
     },
     {
       "id": 104,
@@ -824,10 +869,15 @@
     },
     {
       "id": 117,
-      "question": "She said: ’’I’m going to the movie tomorrow.’’.",
-      "options": [],
-      "answer": "She said that she was going to the movie the following day",
-      "explanation": "Đáp án “She said that she was going to the movie the following day” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "question": "She said: “I’m going to the movie tomorrow.”",
+      "options": [
+        "A. She said that she was going to the movie the following day",
+        "B. She said that she was going to the movie tomorrow",
+        "C. She said that she is going to the movie the following day",
+        "D. She said that I was going to the movie the following day"
+      ],
+      "answer": "A. She said that she was going to the movie the following day",
+      "explanation": "Câu tường thuật lùi thì “am going” thành “was going”, đổi “tomorrow” thành “the following day”, và đổi “I” thành “she”."
     },
     {
       "id": 118,

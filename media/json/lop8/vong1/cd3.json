@@ -96,16 +96,26 @@
     {
       "id": 14,
       "question": "Which part needs correction in the following sentence? I was drying the dishes when I was dropped the plate.",
-      "options": [],
-      "answer": "was dropped",
-      "explanation": "Đáp án “was dropped” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. I was drying",
+        "B. the dishes",
+        "C. when",
+        "D. was dropped"
+      ],
+      "answer": "D. was dropped",
+      "explanation": "Hành động làm rơi đĩa do chính người nói thực hiện nên phải dùng thể chủ động “dropped”, không dùng thể bị động “was dropped”."
     },
     {
       "id": 15,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "Put down your gun and put up your hands",
-      "explanation": "Đáp án “Put down your gun and put up your hands” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Put down your gun and put up your hands",
+        "B. Put down your gun and puts up your hands",
+        "C. Put down you gun and put up you hands",
+        "D. Putting down your gun and put up your hands"
+      ],
+      "answer": "A. Put down your gun and put up your hands",
+      "explanation": "Câu mệnh lệnh dùng động từ nguyên mẫu không chia, và “your” mới là tính từ sở hữu đứng trước danh từ."
     },
     {
       "id": 16,
@@ -418,30 +428,50 @@
     {
       "id": 60,
       "question": "Choose the INCORRECT word or phrase in the following sentence: It is greatly to be with you on such a lovely day.",
-      "options": [],
-      "answer": "greatly",
-      "explanation": "Đáp án “greatly” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. It is",
+        "B. greatly",
+        "C. to be with you",
+        "D. such a lovely day"
+      ],
+      "answer": "B. greatly",
+      "explanation": "Sau động từ “to be” cần một tính từ, nên phải dùng “great”, không dùng trạng từ “greatly”."
     },
     {
       "id": 61,
       "question": "Jim speaks Spanish better than Noah.",
-      "options": [],
-      "answer": "Noah doesn’t speak Spanish so well as Jim",
-      "explanation": "Đáp án “Noah doesn’t speak Spanish so well as Jim” hoàn thành đúng cấu trúc so sánh. Cần chọn dạng từ phù hợp sau “than” hoặc trong mẫu “as … as”."
+      "options": [
+        "A. Noah doesn’t speak Spanish so well as Jim",
+        "B. Noah doesn’t speak Spanish as better as Jim",
+        "C. Noah speaks Spanish so well as Jim",
+        "D. Jim doesn’t speak Spanish so well as Noah"
+      ],
+      "answer": "A. Noah doesn’t speak Spanish so well as Jim",
+      "explanation": "Câu gốc nói Jim giỏi hơn, nên viết lại thành Noah không giỏi bằng Jim. Trong mẫu “so … as” phải dùng trạng từ nguyên dạng “well”, không dùng “better”."
     },
     {
       "id": 62,
       "question": "Liz plans to apply for a job in Manhattan.",
-      "options": [],
-      "answer": "Liz is going to apply for a job in Manhattan",
-      "explanation": "Đáp án “Liz is going to apply for a job in Manhattan” là dạng thì đúng; dấu hiệu thời gian trong câu cho biết hành động liên hệ với hiện tại hay chỉ xảy ra trong quá khứ."
+      "options": [
+        "A. Liz is going to apply for a job in Manhattan",
+        "B. Liz went to apply for a job in Manhattan",
+        "C. Liz has applied for a job in Manhattan",
+        "D. Liz is applying for a job in Manhattan yesterday"
+      ],
+      "answer": "A. Liz is going to apply for a job in Manhattan",
+      "explanation": "“plan to do something” là dự định sắp tới, nên viết lại bằng “be going to”. Các phương án còn lại đổi sang quá khứ hoặc đã hoàn thành, sai nghĩa."
     },
     {
       "id": 63,
       "question": "I last saw them a long time ago.",
-      "options": [],
-      "answer": "I haven’t seen them for a long time",
-      "explanation": "Đáp án “I haven’t seen them for a long time” là dạng thì đúng; dấu hiệu thời gian trong câu cho biết hành động liên hệ với hiện tại hay chỉ xảy ra trong quá khứ."
+      "options": [
+        "A. I haven’t seen them for a long time",
+        "B. I haven’t seen them since a long time",
+        "C. I didn’t see them for a long time ago",
+        "D. I have seen them for a long time"
+      ],
+      "answer": "A. I haven’t seen them for a long time",
+      "explanation": "Khoảng thời gian kéo dài dùng “for”, không dùng “since”; và câu phủ định hiện tại hoàn thành mới diễn tả việc đã lâu không gặp."
     },
     {
       "id": 64,
@@ -509,9 +539,14 @@
     {
       "id": 73,
       "question": "Choose the part that needs correction in the following sentence: The police asked him what has happened in his room the night before.",
-      "options": [],
-      "answer": "has happened",
-      "explanation": "Đáp án “has happened” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. The police asked",
+        "B. him",
+        "C. has happened",
+        "D. the night before"
+      ],
+      "answer": "C. has happened",
+      "explanation": "Câu tường thuật trong quá khứ phải lùi thì, nên “has happened” đổi thành “had happened”."
     },
     {
       "id": 74,

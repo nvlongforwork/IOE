@@ -4,24 +4,39 @@
   "part_A": [
     {
       "id": 1,
-      "question": "Which part needs correction in the following sentence? This is the first timeI visited a famous place in Hanoi.",
-      "options": [],
-      "answer": "visited",
-      "explanation": "Đáp án “visited” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "question": "Which part needs correction in the following sentence? This is the first time I visited a famous place in Hanoi.",
+      "options": [
+        "A. This is",
+        "B. the first time",
+        "C. visited",
+        "D. a famous place"
+      ],
+      "answer": "C. visited",
+      "explanation": "Sau cấu trúc “This is the first time” phải dùng thì hiện tại hoàn thành, nên viết “have visited”."
     },
     {
       "id": 2,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "We shouldn’t throw trash on the street",
-      "explanation": "Đáp án “We shouldn’t throw trash on the street” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. We shouldn’t throw trash on the street",
+        "B. We shouldn’t throwing trash on the street",
+        "C. We shouldn’t to throw trash on the street",
+        "D. We don’t should throw trash on the street"
+      ],
+      "answer": "A. We shouldn’t throw trash on the street",
+      "explanation": "Sau động từ khiếm khuyết “should” phải dùng động từ nguyên mẫu không “to”, và “should” tự phủ định bằng “shouldn’t”."
     },
     {
       "id": 3,
       "question": "Which part needs correction in the following sentence? They asked me don’t talk during the discussion.",
-      "options": [],
-      "answer": "don’t talk",
-      "explanation": "Đáp án “don’t talk” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. They asked",
+        "B. me",
+        "C. don’t talk",
+        "D. during the discussion"
+      ],
+      "answer": "C. don’t talk",
+      "explanation": "Câu tường thuật dạng mệnh lệnh phủ định dùng “not to + động từ nguyên mẫu”, nên viết “not to talk”."
     },
     {
       "id": 4,
@@ -47,65 +62,110 @@
     {
       "id": 7,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "They fly kites when they have free time.",
-      "explanation": "Đáp án “They fly kites when they have free time.” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. They fly kites when they have free time.",
+        "B. They flies kites when they have free time.",
+        "C. They fly kites when they has free time.",
+        "D. They are fly kites when they have free time."
+      ],
+      "answer": "A. They fly kites when they have free time.",
+      "explanation": "Chủ ngữ “they” là số nhiều nên động từ không thêm “-s” ở thì hiện tại đơn."
     },
     {
       "id": 8,
       "question": "Which sentence is incorrect?",
-      "options": [],
-      "answer": "Most of the time he studies and reading books",
-      "explanation": "Đáp án “Most of the time he studies and reading books” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Most of the time he studies and reading books",
+        "B. Most of the time he studies and reads books",
+        "C. Most of the time he is studying and reading books",
+        "D. Most of the time he studies or reads books"
+      ],
+      "answer": "A. Most of the time he studies and reading books",
+      "explanation": "Câu sai là “he studies and reading books”: hai động từ nối bằng “and” phải cùng dạng."
     },
     {
       "id": 9,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "My mother warned me not to touch the hot cooker",
-      "explanation": "Đáp án “My mother warned me not to touch the hot cooker” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. My mother warned me not to touch the hot cooker",
+        "B. My mother warned me not touch the hot cooker",
+        "C. My mother warned me don’t touch the hot cooker",
+        "D. My mother warned to me not to touch the hot cooker"
+      ],
+      "answer": "A. My mother warned me not to touch the hot cooker",
+      "explanation": "Cấu trúc tường thuật lời cảnh báo phủ định là “warn somebody not to + động từ nguyên mẫu”."
     },
     {
       "id": 10,
-      "question": "Can I borrow you marker, Giang?, said Tung.",
-      "options": [],
-      "answer": "Tung wanted Giang to lend him her marker.",
-      "explanation": "Đáp án “Tung wanted Giang to lend him her marker.” đáp đúng chức năng đề nghị/xin phép. Cách trả lời này thể hiện đồng ý, từ chối hoặc phản hồi lịch sự theo ngữ cảnh."
+      "question": "“Can I borrow your marker, Giang?” said Tung.",
+      "options": [
+        "A. Tung wanted Giang to lend him her marker.",
+        "B. Tung wanted Giang to borrow him her marker.",
+        "C. Giang wanted Tung to lend her his marker.",
+        "D. Tung wanted to lend Giang his marker."
+      ],
+      "answer": "A. Tung wanted Giang to lend him her marker.",
+      "explanation": "Người cho vay là Giang nên dùng “lend”; “borrow” là đi vay. Tung là người hỏi vay nên Tung muốn Giang cho mình vay bút."
     },
     {
       "id": 11,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "I’m hungry",
-      "explanation": "I’d like some meat and rice. Đáp án “I’m hungry. I’d like some meat and rice” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. I’m hungry. I’d like some meat and rice",
+        "B. I’m hungry. I’d like some meats and rices",
+        "C. I’m hungry. I’d like to some meat and rice",
+        "D. I’m hunger. I’d like some meat and rice"
+      ],
+      "answer": "A. I’m hungry. I’d like some meat and rice",
+      "explanation": "“meat” và “rice” là danh từ không đếm được nên không thêm “-s”; sau “would like” dùng ngay danh từ; và tính từ đúng là “hungry”, không phải danh từ “hunger”."
     },
     {
       "id": 12,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "The drugstore is next to the bakery and the park",
-      "explanation": "Đáp án “The drugstore is next to the bakery and the park” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. The drugstore is next to the bakery and the park",
+        "B. The drugstore is next the bakery and the park",
+        "C. The drugstore is next to the bakery and park the",
+        "D. The drugstore are next to the bakery and the park"
+      ],
+      "answer": "A. The drugstore is next to the bakery and the park",
+      "explanation": "Cụm giới từ đúng là “next to”, và chủ ngữ số ít “the drugstore” đi với “is”."
     },
     {
       "id": 13,
       "question": "Which of the following sentences is correct?",
-      "options": [],
-      "answer": "She and her father took him and me to lunch.",
-      "explanation": "Đáp án “She and her father took him and me to lunch.” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. She and her father took him and me to lunch.",
+        "B. Her and her father took he and I to lunch.",
+        "C. She and her father took he and me to lunch.",
+        "D. Her and her father took him and me to lunch."
+      ],
+      "answer": "A. She and her father took him and me to lunch.",
+      "explanation": "Chủ ngữ dùng đại từ chủ ngữ “she”, còn tân ngữ sau động từ “took” dùng đại từ tân ngữ “him” và “me”."
     },
     {
       "id": 14,
       "question": "Which sentence is correct?",
-      "options": [],
-      "answer": "Friday is the busiest day of the week",
-      "explanation": "Đáp án “Friday is the busiest day of the week” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "options": [
+        "A. Friday is the busiest day of the week",
+        "B. Friday is the busyest day of the week",
+        "C. Friday is the busier day of the week",
+        "D. Friday is busiest day of the week"
+      ],
+      "answer": "A. Friday is the busiest day of the week",
+      "explanation": "So sánh nhất của “busy” là “busiest” (đổi “y” thành “i”), và phải có mạo từ “the” trước dạng so sánh nhất."
     },
     {
       "id": 15,
-      "question": "’’No bicycles against glass please’’. Which sentence has the closest meaning to the sentence above?",
-      "options": [],
-      "answer": "Do not leave your bike touching the window",
-      "explanation": "Đáp án “Do not leave your bike touching the window” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
+      "question": "“No bicycles against glass please”. Which sentence has the closest meaning to the sentence above?",
+      "options": [
+        "A. Do not leave your bike touching the window",
+        "B. Do not ride your bike near the window",
+        "C. Please put your bike against the glass",
+        "D. Bicycles are not sold in this shop"
+      ],
+      "answer": "A. Do not leave your bike touching the window",
+      "explanation": "Biển báo yêu cầu không dựng xe đạp tựa vào kính, tức là không để xe chạm vào cửa kính."
     },
     {
       "id": 16,
@@ -362,16 +422,26 @@
     {
       "id": 52,
       "question": "My cousin is 15 years old. She can’t drive a motorbike.",
-      "options": [],
-      "answer": "My cousin is too young to drive a motorbike",
-      "explanation": "Đáp án “My cousin is too young to drive a motorbike” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. My cousin is too young to drive a motorbike",
+        "B. My cousin is so young that she can drive a motorbike",
+        "C. My cousin is young enough to drive a motorbike",
+        "D. My cousin is too old to drive a motorbike"
+      ],
+      "answer": "A. My cousin is too young to drive a motorbike",
+      "explanation": "Cấu trúc “too + tính từ + to do something” diễn tả quá … nên không thể làm được. “young enough to” lại mang nghĩa ngược lại."
     },
     {
       "id": 53,
       "question": "“Phone him tomorrow,” she said to me.",
-      "options": [],
-      "answer": "She told me to phone him the following day",
-      "explanation": "Đáp án “She told me to phone him the following day” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. She told me to phone him the following day",
+        "B. She told me to phone him tomorrow",
+        "C. She told me phone him the following day",
+        "D. She asked me if I phoned him the following day"
+      ],
+      "answer": "A. She told me to phone him the following day",
+      "explanation": "Câu tường thuật phải đổi “tomorrow” thành “the following day”, và dùng “tell somebody to do something”."
     },
     {
       "id": 54,
@@ -1041,9 +1111,14 @@
     {
       "id": 149,
       "question": "Choose the INCORRECT word or phrase in the following sentence: I’d would like you to meet some very special people.",
-      "options": [],
-      "answer": "I’d would",
-      "explanation": "Đáp án “I’d would” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. I’d would",
+        "B. like you",
+        "C. to meet",
+        "D. very special people"
+      ],
+      "answer": "A. I’d would",
+      "explanation": "“I’d” đã là dạng viết tắt của “I would”, nên không được viết thêm “would” lần nữa."
     },
     {
       "id": 150,
@@ -1398,9 +1473,14 @@
     {
       "id": 200,
       "question": "People have used the Internet all over the world.",
-      "options": [],
-      "answer": "The Internet has been used all over the world.",
-      "explanation": "Đáp án “The Internet has been used all over the world.” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. The Internet has been used all over the world.",
+        "B. The Internet have been used all over the world.",
+        "C. The Internet was used all over the world.",
+        "D. The Internet has used all over the world."
+      ],
+      "answer": "A. The Internet has been used all over the world.",
+      "explanation": "Thể bị động của hiện tại hoàn thành là “has/have been + quá khứ phân từ”; chủ ngữ số ít “the Internet” đi với “has”."
     }
   ],
   "part_B": [],

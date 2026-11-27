@@ -1402,10 +1402,15 @@
     },
     {
       "id": 200,
-      "question": "The opposite of ’’sensible’’ is:",
-      "options": [],
-      "answer": "unreasonable",
-      "explanation": "“unreasonable” has the opposite meaning to “the given word”, so it is the correct antonym."
+      "question": "The opposite of “sensible” is:",
+      "options": [
+        "A. sensitive",
+        "B. reasonable",
+        "C. unreasonable",
+        "D. responsible"
+      ],
+      "answer": "C. unreasonable",
+      "explanation": "“sensible” nghĩa là biết suy xét, nên từ trái nghĩa là “unreasonable”. “reasonable” là từ đồng nghĩa, còn “sensitive” và “responsible” mang nghĩa khác hẳn."
     }
   ],
   "part_B": [],
