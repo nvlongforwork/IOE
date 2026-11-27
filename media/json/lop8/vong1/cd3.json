@@ -656,9 +656,14 @@
     {
       "id": 89,
       "question": "I have a toothache. - ...",
-      "options": [],
-      "answer": "You should go to the dentist",
-      "explanation": "Đáp án “You should go to the dentist” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "options": [
+        "A. You should go to the dentist",
+        "B. You should go to the dentist yesterday",
+        "C. You should went to the dentist",
+        "D. You should going to the dentist"
+      ],
+      "answer": "A. You should go to the dentist",
+      "explanation": "Sau “should” phải dùng động từ nguyên mẫu không “to”, nên viết “should go”; và lời khuyên nói về việc sắp làm, không dùng “yesterday”."
     },
     {
       "id": 90,

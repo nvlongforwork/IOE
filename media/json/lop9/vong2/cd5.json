@@ -245,9 +245,14 @@
     {
       "id": 31,
       "question": "How old is her brother?",
-      "options": [],
-      "answer": "14",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “14”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. 40",
+        "B. 4",
+        "C. 14",
+        "D. 41"
+      ],
+      "answer": "C. 14",
+      "explanation": "Đáp án: B. 14",
       "audio": "media/audio/lop9/b0a6aac9266a2f0c4ca1.mp3"
     },
     {

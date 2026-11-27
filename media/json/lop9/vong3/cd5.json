@@ -13,17 +13,27 @@
     {
       "id": 2,
       "question": "What is the woman’s name?",
-      "options": [],
-      "answer": "Jenny",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Jenny”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Julie",
+        "B. Jenny",
+        "C. Jane",
+        "D. Joe"
+      ],
+      "answer": "B. Jenny",
+      "explanation": "Đáp án: B. Jenny",
       "audio": "media/audio/lop9/234f927976329c5532e5.mp3"
     },
     {
       "id": 3,
       "question": "What’s the weather going to be like?",
-      "options": [],
-      "answer": "sunny",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “sunny”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. snowy",
+        "B. rainy",
+        "C. sunny",
+        "D. foggy"
+      ],
+      "answer": "C. sunny",
+      "explanation": "Đáp án: C. sunny",
       "audio": "media/audio/lop9/3dd6a39b1056281760ec.mp3"
     },
     {
@@ -45,17 +55,27 @@
     {
       "id": 6,
       "question": "What time does her flight depart?",
-      "options": [],
-      "answer": "10 a.m.",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “10 a.m.”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. 10 a.m.",
+        "B. 11 a.m.",
+        "C. 8 a.m.",
+        "D. 11:50 a.m."
+      ],
+      "answer": "A. 10 a.m.",
+      "explanation": "Đáp án: A. 10 a.m.",
       "audio": "media/audio/lop9/4e0b3829fea538dfd5f5.mp3"
     },
     {
       "id": 7,
       "question": "What colour is snowshoe hares’ fur in the spring?",
-      "options": [],
-      "answer": "gray",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “gray”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. white",
+        "B. gray",
+        "C. green",
+        "D. black"
+      ],
+      "answer": "B. gray",
+      "explanation": "Đáp án: B. gray",
       "audio": "media/audio/lop9/17981e4d6cafa4de4763.mp3"
     },
     {
@@ -69,9 +89,14 @@
     {
       "id": 9,
       "question": "How long does ‘Tour de France’ last?",
-      "options": [],
-      "answer": "23 days",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “23 days”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. 20 days",
+        "B. 23 days",
+        "C. 30 days",
+        "D. 35 days"
+      ],
+      "answer": "B. 23 days",
+      "explanation": "Đáp án: B. 23 days",
       "audio": "media/audio/lop9/14d1aa2b8a20456a98f3.mp3"
     },
     {
@@ -114,33 +139,53 @@
     {
       "id": 14,
       "question": "What time will Matt be at Susie’s house?",
-      "options": [],
-      "answer": "3:45",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “3:45”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. 4:15",
+        "B. 3:15",
+        "C. 3:45",
+        "D. 4:05"
+      ],
+      "answer": "C. 3:45",
+      "explanation": "Đáp án: C. 3:45",
       "audio": "media/audio/lop9/43c940cc9a3694f0d28d.mp3"
     },
     {
       "id": 15,
       "question": "What have humans been fascinated by? - ....",
-      "options": [],
-      "answer": "Outer space",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Outer space”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Outer space",
+        "B. Wider space",
+        "C. Outdoor activities",
+        "D. Magnificent places"
+      ],
+      "answer": "A. Outer space",
+      "explanation": "Đáp án: A. Outer space",
       "audio": "media/audio/lop9/d32b2701e56ca57c1e02.mp3"
     },
     {
       "id": 16,
       "question": "How did Peter feel about the news? - ....",
-      "options": [],
-      "answer": "Indifferent",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Indifferent”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Excited",
+        "B. Disappointed",
+        "C. Indifferent",
+        "D. Patient"
+      ],
+      "answer": "C. Indifferent",
+      "explanation": "Đáp án: C. Indifferent",
       "audio": "media/audio/lop9/5054e0668e3d2da491d1.mp3"
     },
     {
       "id": 17,
       "question": "Listen and tick:",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. English is a compulsory subject at high school in my city.",
+        "B. English is a compulsory subject at secondary school in my city.",
+        "C. English is an optional subject at high school in my city.",
+        "D. Maths is a compulsory subject at high school in my city."
+      ],
+      "answer": "A. English is a compulsory subject at high school in my city.",
+      "explanation": "Đáp án: D. English is a compulsory subject at high school in my city. | Chú ý: A: high, (không phải 'secondary') | B: compulsory, a, (không phải 'an'), (không phải 'optional')",
       "audio": "media/audio/lop9/8c45279ae102bf04b094.mp3"
     },
     {
@@ -154,41 +199,66 @@
     {
       "id": 19,
       "question": "How long had they lived in Hanoi?",
-      "options": [],
-      "answer": "for 9 years",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “for 9 years”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. for 3 years",
+        "B. for 5 years",
+        "C. for 9 years",
+        "D. for 10 years"
+      ],
+      "answer": "C. for 9 years",
+      "explanation": "Đáp án: C. for 9 years",
       "audio": "media/audio/lop9/36449939adffba6cee17.mp3"
     },
     {
       "id": 20,
       "question": "What is the one thing the girl wants to eat while they are reading?",
-      "options": [],
-      "answer": "Cookies",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Cookies”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Cookies",
+        "B. Ice-cream",
+        "C. Bananas",
+        "D. Lollipops"
+      ],
+      "answer": "A. Cookies",
+      "explanation": "Đáp án: A. Cookies",
       "audio": "media/audio/lop9/a0f0b13916c58f38986a.mp3"
     },
     {
       "id": 21,
       "question": "What don’t animals born in zoos know? - ....",
-      "options": [],
-      "answer": "Wild life",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Wild life”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. How to get food themselves",
+        "B. Other animals",
+        "C. Wild life",
+        "D. Natural habitat"
+      ],
+      "answer": "C. Wild life",
+      "explanation": "Đáp án: C. Wild life",
       "audio": "media/audio/lop9/f80c3e4d58f72938be3b.mp3"
     },
     {
       "id": 22,
       "question": "What does Hoa suggest? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Having dinner with a hilarious person",
+        "B. Having dinner at a gorgeous restaurant",
+        "C. Having dinner with a famous person",
+        "D. Having dinner at a famous restaurant"
+      ],
+      "answer": "D. Having dinner at a famous restaurant",
+      "explanation": "Đáp án: D. Having dinner at a famous restaurant",
       "audio": "media/audio/lop9/ff70cea7dbcbf733e41e.mp3"
     },
     {
       "id": 23,
       "question": "Where did the policemen force him to go? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. To the railway station",
+        "B. To the tax station",
+        "C. To the petrol station",
+        "D. To the police station"
+      ],
+      "answer": "D. To the police station",
+      "explanation": "Đáp án: D. To the police station",
       "audio": "media/audio/lop9/2431746967e044d0f799.mp3"
     },
     {
@@ -202,9 +272,14 @@
     {
       "id": 25,
       "question": "What type of cuisine does she like?",
-      "options": [],
-      "answer": "American",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “American”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. American",
+        "B. English",
+        "C. Canadian",
+        "D. Japanese"
+      ],
+      "answer": "A. American",
+      "explanation": "Đáp án: A. American",
       "audio": "media/audio/lop9/2fd6c330dd11ba6797fd.mp3"
     },
     {
@@ -223,9 +298,14 @@
     {
       "id": 27,
       "question": "What are scientists thinking of? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. How to reduce the price of electricity",
+        "B. How to rise the sea level to produce electricity",
+        "C. How to produce electricity in the fall",
+        "D. How to use the rise and fall of the tide to produce electricity"
+      ],
+      "answer": "D. How to use the rise and fall of the tide to produce electricity",
+      "explanation": "Đáp án: D. How to use the rise and fall of the tide to produce electricity",
       "audio": "media/audio/lop9/00f06d4660c50a2a086e.mp3"
     },
     {
@@ -239,9 +319,14 @@
     {
       "id": 29,
       "question": "When is the garbage collected?",
-      "options": [],
-      "answer": "On Friday",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “On Friday”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. On Friday",
+        "B. On Thursday",
+        "C. On Tuesday",
+        "D. On Monday"
+      ],
+      "answer": "A. On Friday",
+      "explanation": "Đáp án: A. On Friday",
       "audio": "media/audio/lop9/0cdac418cc041c44c0df.mp3"
     },
     {
@@ -268,25 +353,40 @@
     {
       "id": 32,
       "question": "Where is the woman from originally?",
-      "options": [],
-      "answer": "Argentina",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Argentina”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Argentina",
+        "B. the United States",
+        "C. Chile",
+        "D. American"
+      ],
+      "answer": "A. Argentina",
+      "explanation": "Đáp án: A. Argentina",
       "audio": "media/audio/lop9/60db583e718db8d9df8e.mp3"
     },
     {
       "id": 33,
       "question": "What is she always complaining about? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Going to school every day",
+        "B. Taking her children to school",
+        "C. Working near a primary school",
+        "D. Collecting the children from school"
+      ],
+      "answer": "D. Collecting the children from school",
+      "explanation": "Đáp án: D. Collecting the children from school",
       "audio": "media/audio/lop9/3892b709b385ed1f8560.mp3"
     },
     {
       "id": 34,
       "question": "What does the girl refuse to tell the caller?",
-      "options": [],
-      "answer": "Her name",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Her name”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Her age",
+        "B. Her name",
+        "C. Her address",
+        "D. Her phone number"
+      ],
+      "answer": "B. Her name",
+      "explanation": "Đáp án: B. Her name",
       "audio": "media/audio/lop9/577b68fa5cf60a9fb036.mp3"
     },
     {
@@ -300,9 +400,14 @@
     {
       "id": 36,
       "question": "What are Sherpas’s jobs? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Guides or workers in the mountains",
+        "B. Guides or climbers in the mountains",
+        "C. Porters in the mountains",
+        "D. Guides or reporters in the mountains"
+      ],
+      "answer": "D. Guides or reporters in the mountains",
+      "explanation": "Đáp án: C. Guides or reporters in the mountains",
       "audio": "media/audio/lop9/86eb619e8fb789feb266.mp3"
     },
     {
@@ -316,17 +421,27 @@
     {
       "id": 38,
       "question": "What do doctors put on wounds to help them heal quickly?",
-      "options": [],
-      "answer": "Honey.",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Honey.”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Sugar.",
+        "B. Salt water.",
+        "C. Honey.",
+        "D. Pepper."
+      ],
+      "answer": "C. Honey.",
+      "explanation": "Đáp án: C. Honey.",
       "audio": "media/audio/lop9/a0205103fc3631310498.mp3"
     },
     {
       "id": 39,
       "question": "What did the man do last month? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. He ate too much chips for his holiday.",
+        "B. He went on a trip to the seaside.",
+        "C. He spent two days watching the sunrise.",
+        "D. He had a two-day trip to the countryside."
+      ],
+      "answer": "D. He had a two-day trip to the countryside.",
+      "explanation": "Đáp án: D. He had a two-day trip to the countryside.",
       "audio": "media/audio/lop9/8f192d849f73221164ba.mp3"
     },
     {
@@ -361,17 +476,27 @@
     {
       "id": 43,
       "question": "What did the boy get from his uncle?",
-      "options": [],
-      "answer": "Some money.",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Some money.”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. jacket.",
+        "B. Some money.",
+        "A. VCD.",
+        "D. Two movie tickets."
+      ],
+      "answer": "B. Some money.",
+      "explanation": "Đáp án: B. Some money.",
       "audio": "media/audio/lop9/01a248fd6fa88b3e2364.mp3"
     },
     {
       "id": 44,
       "question": "When’s Wendy’s birthday?",
-      "options": [],
-      "answer": "It’s on Monday.",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “It’s on Monday.”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. It’s on Saturday.",
+        "B. It’s on Sunday.",
+        "C. It’s on Monday.",
+        "D. It’s on Tuesday."
+      ],
+      "answer": "C. It’s on Monday.",
+      "explanation": "Đáp án: C. It’s on Monday.",
       "audio": "media/audio/lop9/1c249467e251f7e190fe.mp3"
     },
     {
@@ -385,25 +510,40 @@
     {
       "id": 46,
       "question": "What are there on New Year’s Eve? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. A lot of lucky money",
+        "A. A lot of candies",
+        "A. A lot of lucky wishes",
+        "A. A lot of parties"
+      ],
+      "answer": "A. A lot of parties",
+      "explanation": "Đáp án: A. A lot of parties",
       "audio": "media/audio/lop9/69a9b32819a62456348b.mp3"
     },
     {
       "id": 47,
       "question": "How will the teacher be if we all work hard? - ....",
-      "options": [],
-      "answer": "Energized",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Energized”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Satisfied",
+        "B. Happy",
+        "C. Energized",
+        "D. Easy-going"
+      ],
+      "answer": "C. Energized",
+      "explanation": "Đáp án: C. Energized",
       "audio": "media/audio/lop9/da8b15b5247516e67fbc.mp3"
     },
     {
       "id": 48,
       "question": "How long does it take to drive from London to Edinburgh? - ....",
-      "options": [],
-      "answer": "Six hours",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Six hours”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. One hour",
+        "B. Three hours",
+        "C. Six hours",
+        "D. Nine hours"
+      ],
+      "answer": "C. Six hours",
+      "explanation": "Đáp án: C. Six hours",
       "audio": "media/audio/lop9/eaaa55d8f5d475ff328a.mp3"
     },
     {
@@ -422,9 +562,14 @@
     {
       "id": 50,
       "question": "What does David always choose when renting a video?",
-      "options": [],
-      "answer": "a comedy",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “a comedy”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. a comedy",
+        "B. a horror movie",
+        "C. a drama series",
+        "D. a detective movie"
+      ],
+      "answer": "A. a comedy",
+      "explanation": "Đáp án: A. a comedy",
       "audio": "media/audio/lop9/783f9b037420b2cabf7d.mp3"
     },
     {
@@ -454,17 +599,27 @@
     {
       "id": 54,
       "question": "What does local agricultural production include? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Rice, sugar canes, fruits and tea",
+        "B. Rice, fruits, vegetables and wheat",
+        "C. Rice, sugar canes, fruits and vegetables",
+        "D. Rice, other grains, fruit, vegetables and tea"
+      ],
+      "answer": "D. Rice, other grains, fruit, vegetables and tea",
+      "explanation": "Đáp án: D. Rice, other grains, fruit, vegetables and tea",
       "audio": "media/audio/lop9/8c01c3305b9eca26c47d.mp3"
     },
     {
       "id": 55,
       "question": "How can we send messages and pictures to friends? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. By sending emails",
+        "B. By making phone calls",
+        "C. By faxing to friends",
+        "D. By using a cell phone"
+      ],
+      "answer": "D. By using a cell phone",
+      "explanation": "Đáp án: D. By using a cell phone",
       "audio": "media/audio/lop9/0e82f0d35cc5809e0ced.mp3"
     },
     {
@@ -483,25 +638,40 @@
     {
       "id": 57,
       "question": "What can kill sea animals and vegetation? - ....",
-      "options": [],
-      "answer": "Chemical wastes",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chemical wastes”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Poisons",
+        "B. Garbage",
+        "C. Chemical wastes",
+        "D. Polluted air"
+      ],
+      "answer": "C. Chemical wastes",
+      "explanation": "Đáp án: C. Chemical wastes",
       "audio": "media/audio/lop9/3edacf5babb9a6ddb76b.mp3"
     },
     {
       "id": 58,
       "question": "What has led to the increase in the amount of garbage? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. The increase of immigrants",
+        "B. The increase of tourists",
+        "C. The increase of birthrate",
+        "D. The increase of adventurers"
+      ],
+      "answer": "D. The increase of adventurers",
+      "explanation": "Đáp án: D. The increase of adventurers",
       "audio": "media/audio/lop9/b65d0a9e7dfbcfe3f6f9.mp3"
     },
     {
       "id": 59,
       "question": "What has the special expedition been organized to do? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Clean up the beaches",
+        "B. Recylce waste",
+        "C. Filter water",
+        "D. Clean up tons of garbage"
+      ],
+      "answer": "D. Clean up tons of garbage",
+      "explanation": "Đáp án: D. Clean up tons of garbage",
       "audio": "media/audio/lop9/5e80cf476e157c99abcd.mp3"
     },
     {
