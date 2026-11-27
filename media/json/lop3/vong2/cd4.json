@@ -720,7 +720,7 @@
         "D. No, I like."
       ],
       "answer": "C. Yes, I do.",
-      "explanation": "Chọn “Yes, I do.” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Do you like cats? – Yes, I do.”. Nguồn đối chiếu: đề IOE gốc số 10, câu 121."
+      "explanation": "Câu hỏi “Do you like…?” trả lời ngắn bằng “Yes, I do.” hoặc “No, I don’t.”, không dùng “am” hay “I’m not”."
     },
     {
       "id": 61,
@@ -744,7 +744,7 @@
         "D. Yes, it’s me."
       ],
       "answer": "A. Yes, I am.",
-      "explanation": "Chọn “Yes, I am.” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Are you happy? – Yes, I am.”. Nguồn đối chiếu: đề IOE gốc số 20, câu 13."
+      "explanation": "Câu hỏi “Are you…?” trả lời ngắn bằng “Yes, I am.”; câu trả lời ngắn phải có đủ chủ ngữ “I” và động từ “am”."
     },
     {
       "id": 63,
@@ -972,7 +972,7 @@
         "D. A goldfish"
       ],
       "answer": "B. A butterfly",
-      "explanation": "Chọn “A butterfly” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What animal can fly? – A butterfly”. Nguồn đối chiếu: đề IOE gốc số 19, câu 50."
+      "explanation": "Bướm (“butterfly”) bay được; ếch, hổ và cá vàng không bay được."
     },
     {
       "id": 82,
@@ -1116,7 +1116,7 @@
         "D. pink"
       ],
       "answer": "C. orange",
-      "explanation": "Chọn “orange” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “Which is a kind of fruit? – orange”. Nguồn đối chiếu: đề IOE gốc số 10, câu 5."
+      "explanation": "“Orange” vừa là màu da cam vừa là quả cam, nên đây là từ chỉ trái cây; blue, green và pink chỉ là màu."
     },
     {
       "id": 94,
@@ -1932,7 +1932,7 @@
         "D. I have a doll, a dog and a goldfish."
       ],
       "answer": "B. I have a doll, a teddy bear and a yo-yo.",
-      "explanation": "Chọn “I have a doll, a teddy bear and a yo-yo.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What toys do you have? – I have a doll, a teddy bear and a yo-yo.”. Nguồn đối chiếu: đề IOE gốc số 30, câu 134."
+      "explanation": "Câu hỏi “What toys…?” hỏi về đồ chơi, nên câu trả lời phải kể toàn đồ chơi: búp bê, gấu bông và yo-yo. Các câu khác có lẫn con vật như dog, cat, rabbit, goldfish."
     },
     {
       "id": 162,
@@ -2256,7 +2256,7 @@
         "D. They are on bag."
       ],
       "answer": "C. They're in the bag.",
-      "explanation": "Chọn “They're in the bag.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “Where are your pens and pencils? – They're in the bag.”. Nguồn đối chiếu: đề IOE gốc số 28, câu 82."
+      "explanation": "Bút nằm bên trong cặp nên dùng giới từ “in”, và câu phải có động từ “are” (viết tắt là “They’re”)."
     },
     {
       "id": 189,

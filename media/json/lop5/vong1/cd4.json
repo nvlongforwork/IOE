@@ -407,7 +407,7 @@
       "question": "This sign says, “You … swim in this river.”",
       "options": [],
       "answer": "mustn’t",
-      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “This sign says, “You … swim in this river.”, đáp án phù hợp là “mustn’t”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 9, câu 200.",
+      "explanation": "Biển báo cấm tắm ở sông, nên dùng “mustn’t” để diễn tả điều không được làm.",
       "image": "media/images/lop5/vong1/cd4/lop5_cd4_v1_image51.jpg"
     },
     {
@@ -1630,13 +1630,13 @@
       "id": 178,
       "question": "Choose the word that has the underlined part pronounced differently:",
       "options": [
-        "A. r<u>ea</u>d",
+        "A. m<u>ea</u>t",
         "B. h<u>ea</u>d",
         "C. w<u>ea</u>ther",
         "D. r<u>ea</u>dy"
       ],
-      "answer": "A. r<u>ea</u>d",
-      "explanation": "Đọc “read” là /red/; ba từ còn lại lần lượt là “head” /hed/, “weather” /weðɜ/ và “ready” /rediː/. Phần gạch chân “ea” trong “read” tạo âm khác với cùng phần chữ trong ba từ còn lại; vì vậy chọn từ này, không chỉ dựa vào cách viết giống nhau. Nguồn đối chiếu: IOE Lớp 5, đề 8, câu 142."
+      "answer": "A. m<u>ea</u>t",
+      "explanation": "head, weather, ready đều có “ea” đọc /e/, còn “meat” đọc /iː/."
     },
     {
       "id": 179,

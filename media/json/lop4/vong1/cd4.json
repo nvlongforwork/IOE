@@ -20,11 +20,11 @@
       "options": [
         "A. Br<u>ea</u>d",
         "B. Cl<u>ea</u>n",
-        "C. R<u>ea</u>d",
+        "C. T<u>ea</u>m",
         "D. M<u>ea</u>t"
       ],
       "answer": "A. Bread",
-      "explanation": "\"ea\" trong Bread đọc /ɛ/ (ngắn), còn Clean/Read/Meat đọc /iː/ → Bread khác âm."
+      "explanation": "clean, team, meat đều có “ea” đọc /iː/, còn “Bread” đọc /e/."
     },
     {
       "id": 3,
@@ -318,13 +318,13 @@
       "id": 27,
       "question": "Which word has the underlined part pronounced DIFFERENTLY from EA in 'PLEASE'?",
       "options": [
-        "A. r<u>ea</u>d",
+        "A. m<u>ea</u>t",
         "B. sp<u>ea</u>k",
         "C. cl<u>ea</u>n",
         "D. br<u>ea</u>kfast"
       ],
       "answer": "D. breakfast",
-      "explanation": "read, speak, clean đều có \"ea\" đọc /iː/ giống PLEASE; breakfast có \"ea\" đọc /e/ → breakfast khác âm."
+      "explanation": "meat, speak, clean đều có “ea” đọc /iː/, còn “breakfast” đọc /e/."
     },
     {
       "id": 28,

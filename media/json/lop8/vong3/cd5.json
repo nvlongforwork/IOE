@@ -1145,13 +1145,13 @@
       "id": 114,
       "question": "Find the word which has a different sound in the part underlined:",
       "options": [
-        "A. what",
-        "B. where",
-        "C. whole",
-        "D. why"
+        "A. <u>wh</u>at",
+        "B. <u>wh</u>ere",
+        "C. <u>wh</u>ole",
+        "D. <u>wh</u>y"
       ],
-      "answer": "C. whole",
-      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "answer": "C. <u>wh</u>ole",
+      "explanation": "what, where và why đều có “wh” đọc /w/, còn trong “whole” thì “wh” đọc /h/.",
       "audio": ""
     },
     {

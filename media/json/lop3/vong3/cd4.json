@@ -324,7 +324,7 @@
         "D. No, they are."
       ],
       "answer": "C. Yes, they are.",
-      "explanation": "Chọn “Yes, they are.” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Are those your pencil sharpeners? – Yes, they are.”. Nguồn đối chiếu: đề IOE gốc số 40, câu 41."
+      "explanation": "Chủ ngữ “those” là số nhiều nên trả lời ngắn bằng “Yes, they are.” hoặc “No, they aren’t.”, không dùng “it”."
     },
     {
       "id": 28,
@@ -480,7 +480,7 @@
         "D. No, they not."
       ],
       "answer": "B. Yes, they are.",
-      "explanation": "Chọn “Yes, they are.” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Are Philip and Tony watching TV? – Yes, they are.”. Nguồn đối chiếu: đề IOE gốc số 37, câu 49."
+      "explanation": "Chủ ngữ là hai người (Philip và Tony) nên trả lời ngắn bằng “Yes, they are.”, không dùng “he”."
     },
     {
       "id": 41,
@@ -660,7 +660,7 @@
         "D. Yes, I don’t."
       ],
       "answer": "C. Yes, I do.",
-      "explanation": "Chọn “Yes, I do.” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Do you like music? – Yes, I do.”. Nguồn đối chiếu: đề IOE gốc số 22, câu 170."
+      "explanation": "Câu hỏi “Do you like…?” trả lời ngắn bằng “Yes, I do.”. “Yes, I don’t.” tự mâu thuẫn vì vừa đồng ý vừa phủ định."
     },
     {
       "id": 56,
@@ -1020,7 +1020,7 @@
         "D. Is brown."
       ],
       "answer": "B. It is brown.",
-      "explanation": "Chọn “It is brown.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What colour is your teddy bear? – It is brown.”. Nguồn đối chiếu: đề IOE gốc số 14, câu 139."
+      "explanation": "Câu trả lời phải có động từ “is”: “It is brown.” (hoặc “It’s brown.”). “Its” là tính từ sở hữu, không phải “it is”."
     },
     {
       "id": 86,

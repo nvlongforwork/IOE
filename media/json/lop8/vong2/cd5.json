@@ -1280,13 +1280,13 @@
       "id": 134,
       "question": "Find the word which has a different sound in the part underlined.",
       "options": [
-        "A. unique",
-        "B. mosquito",
-        "C. mosque",
-        "D. question"
+        "A. uni<u>qu</u>e",
+        "B. mos<u>qu</u>ito",
+        "C. mos<u>qu</u>e",
+        "D. <u>qu</u>estion"
       ],
-      "answer": "A. unique",
-      "explanation": "Câu này kiểm tra cách dùng từ hoặc cấu trúc ngữ pháp trong ngữ cảnh; đáp án trên là phương án đúng theo đáp án gốc.",
+      "answer": "D. <u>qu</u>estion",
+      "explanation": "unique, mosquito và mosque đều có “qu” đọc /k/, còn trong “question” thì “qu” đọc /kw/.",
       "audio": ""
     },
     {

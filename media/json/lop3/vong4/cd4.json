@@ -552,7 +552,7 @@
         "D. Hen"
       ],
       "answer": "C. Dog",
-      "explanation": "Chọn “Dog” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “Which animal has four legs? – Dog”. Nguồn đối chiếu: đề IOE gốc số 26, câu 169."
+      "explanation": "Chó (“dog”) có bốn chân; gà, vịt và gà mái đều có hai chân."
     },
     {
       "id": 47,
@@ -2157,10 +2157,10 @@
         "A. Santa Claus flying over the town.",
         "B. Santa Claus is riding his sleigh.",
         "C. Santa Claus is ride a reindeer.",
-        "D. Santa Claus is walking in the sky."
+        "D. Santa Claus walk in the sky."
       ],
       "answer": "B. Santa Claus is riding his sleigh.",
-      "explanation": "Chọn “Santa Claus is riding his sleigh.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “Which sentence is correct? – Santa Claus is riding his sleigh.”. Nguồn đối chiếu: đề IOE gốc số 21, câu 40."
+      "explanation": "Thì hiện tại tiếp diễn là “is/are + V-ing”. “Santa Claus flying” thiếu “is”, “is ride” sai dạng động từ, và “walk in the sky” cũng thiếu “is”."
     },
     {
       "id": 181,

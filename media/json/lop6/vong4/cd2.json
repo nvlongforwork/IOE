@@ -60,7 +60,7 @@
         "D. every day"
       ],
       "answer": "C. ironing",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: Remember to wash and ironing your clothes every day”. Đây là dấu hiệu thói quen nên dùng hiện tại đơn; động từ phải hòa hợp với chủ ngữ. Vì vậy dùng “ironing”."
+      "explanation": "Hai động từ cùng đi sau “Remember to” phải cùng dạng nguyên mẫu, nên viết “to wash and iron”, không dùng “ironing”."
     },
     {
       "id": 6,
@@ -72,7 +72,7 @@
         "D. It’s drink my favorite"
       ],
       "answer": "B. It’s my favorite drink",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “It’s my favorite drink”."
+      "explanation": "Trật tự đúng là “tính từ sở hữu + tính từ + danh từ”: “my favorite drink”."
     },
     {
       "id": 7,
@@ -96,7 +96,7 @@
         "D. in"
       ],
       "answer": "C. higher",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: It is one of the higher mountains in the world”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “higher”."
+      "explanation": "Cấu trúc “one of the + so sánh nhất” nên phải viết “the highest”, không dùng dạng so sánh hơn “higher”."
     },
     {
       "id": 9,
@@ -108,7 +108,7 @@
         "D. stupid"
       ],
       "answer": "C. boring",
-      "explanation": "Hoàn chỉnh câu: “Choose the word(s) OPPOSITE in meaning to “interesting” in the following sentence: “I watched an interesting film last night.””. Dấu hiệu thời gian quá khứ yêu cầu thì quá khứ đơn; dùng dạng quá khứ của động từ hoặc “was/were”. Vì vậy dùng “boring”."
+      "explanation": "“interesting” là thú vị, nên từ trái nghĩa là “boring” (nhàm chán). “wonderful” lại là từ đồng nghĩa."
     },
     {
       "id": 10,
@@ -120,7 +120,7 @@
         "D. It’s Tuesday"
       ],
       "answer": "D. It’s Tuesday",
-      "explanation": "Hoàn chỉnh câu: “What day is it today?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “It’s Tuesday”."
+      "explanation": "Câu hỏi “What day is it today?” hỏi thứ trong tuần, nên trả lời “Tuesday”. “the fourth of February” là ngày tháng, “Women’s Day” là tên ngày lễ."
     },
     {
       "id": 11,
@@ -132,7 +132,7 @@
         "D. My favorite vegetable are lettuce"
       ],
       "answer": "A. Lettuce is my favorite vegetable",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Lettuce is my favorite vegetable”."
+      "explanation": "Trật tự đúng là “my favorite vegetable”, và chủ ngữ “Lettuce” số ít nên dùng “is”."
     },
     {
       "id": 12,
@@ -252,7 +252,7 @@
         "D. How many is your hat?"
       ],
       "answer": "A. How much is your hat?",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How much is your hat?”."
+      "explanation": "Hỏi giá dùng “How much is…?”. “hat” là số ít nên dùng “is”, và “how many” chỉ dùng để hỏi số lượng."
     },
     {
       "id": 22,
@@ -432,7 +432,7 @@
         "D. They don’t needs any help"
       ],
       "answer": "A. They don’t need any help",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “They don’t need any help”."
+      "explanation": "Câu phủ định dùng “any”, không dùng “some”; chủ ngữ “They” số nhiều nên dùng “don’t” và động từ để nguyên mẫu “need”."
     },
     {
       "id": 37,
@@ -480,7 +480,7 @@
         "D. Mark up often stays late"
       ],
       "answer": "A. Mark often stays up late",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Mark often stays up late”."
+      "explanation": "Trạng từ tần suất “often” đứng trước động từ thường: “often stays up late”."
     },
     {
       "id": 41,
@@ -576,11 +576,11 @@
         "D. Where your brother John does work?"
       ],
       "answer": "A. Where does your brother John work?",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Where does your brother John work?”."
+      "explanation": "Câu hỏi với “does” thì động từ chính để nguyên mẫu: “does… work?”."
     },
     {
       "id": 49,
-      "question": "Choose the part that needs correction in the following sentence: They won’t going to Times Squareto welcomethe New Year.",
+      "question": "Choose the part that needs correction in the following sentence: They won’t going to Times Square to welcome the New Year.",
       "options": [
         "A. won’t",
         "B. Times Square",
@@ -588,7 +588,7 @@
         "D. the"
       ],
       "answer": "A. won’t",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: They won’t going to Times Squareto welcomethe New Year”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “won’t”."
+      "explanation": "“won’t” là “will not”, sau đó phải dùng động từ nguyên mẫu. Câu này có “going to” nên phải viết “aren’t going to”."
     },
     {
       "id": 50,
@@ -600,7 +600,7 @@
         "D. John was found this film boring"
       ],
       "answer": "A. John found this film boring",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “John found this film boring”."
+      "explanation": "Cấu trúc “find something + tính từ” nên viết “found this film boring”. “bored” là cảm giác của người, không dùng cho bộ phim."
     },
     {
       "id": 51,
@@ -720,7 +720,7 @@
         "D. How do we are going to travel?"
       ],
       "answer": "A. How are we going to travel?",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How are we going to travel?”."
+      "explanation": "Câu hỏi với từ hỏi “How” phải đảo trợ động từ lên trước chủ ngữ: “How are we going to travel?”."
     },
     {
       "id": 61,
@@ -732,7 +732,7 @@
         "D. We needs two boxes of tea"
       ],
       "answer": "A. We need two boxes of tea",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “We need two boxes of tea”."
+      "explanation": "“box” số nhiều là “boxes”; “tea” là danh từ không đếm được nên không thêm “-s”; chủ ngữ “We” dùng “need”."
     },
     {
       "id": 62,
@@ -744,7 +744,7 @@
         "D. How often do she visit you?"
       ],
       "answer": "A. How often does she visit you?",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How often does she visit you?”."
+      "explanation": "Trật tự đúng là “How often + does + chủ ngữ + động từ nguyên mẫu”; chủ ngữ “she” số ít nên dùng “does”."
     },
     {
       "id": 63,
@@ -756,7 +756,7 @@
         "D. We musts keep our school clean"
       ],
       "answer": "A. We must keep our school clean",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “We must keep our school clean”."
+      "explanation": "Sau động từ khiếm khuyết “must” phải dùng động từ nguyên mẫu không “to”: “must keep”."
     },
     {
       "id": 64,
@@ -828,7 +828,7 @@
         "D. What is the road length of?"
       ],
       "answer": "A. What is the length of the road?",
-      "explanation": "Hoàn chỉnh câu: “How long is the road?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “What is the length of the road?”."
+      "explanation": "“How long…?” hỏi độ dài, viết lại thành “What is the length of…?”. “the long” sai vì phải dùng danh từ “length”."
     },
     {
       "id": 70,
@@ -840,7 +840,7 @@
         "D. large"
       ],
       "answer": "D. large",
-      "explanation": "Hoàn chỉnh câu: “Choose the word(s) OPPOSITE in meaning to “narrow” in the following sentence: “The road is so narrow that there are often traffic jams there.””. Đây là dấu hiệu thói quen nên dùng hiện tại đơn; động từ phải hòa hợp với chủ ngữ. Vì vậy dùng “large”."
+      "explanation": "“narrow” là hẹp, nên từ trái nghĩa là “large” (rộng). “small” là nhỏ, không phải nghĩa trái của hẹp."
     },
     {
       "id": 71,
@@ -936,7 +936,7 @@
         "D. Not stay up late tonight"
       ],
       "answer": "A. Don’t stay up late tonight",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Don’t stay up late tonight”."
+      "explanation": "Câu mệnh lệnh phủ định là “Don’t + động từ nguyên mẫu”: “Don’t stay up late”."
     },
     {
       "id": 79,
@@ -984,7 +984,7 @@
         "D. milk"
       ],
       "answer": "B. likes",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: She would likes some milk and bananas”. Sau “would like” dùng “to + động từ nguyên mẫu” khi nói về mong muốn. Vì vậy dùng “likes”."
+      "explanation": "Sau “would” phải dùng động từ nguyên mẫu, nên viết “would like”, không chia thành “likes”."
     },
     {
       "id": 83,
@@ -996,7 +996,7 @@
         "D. She wants fresh a glass of milk"
       ],
       "answer": "A. She wants a glass of fresh milk",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “She wants a glass of fresh milk”."
+      "explanation": "Tính từ “fresh” đứng ngay trước danh từ nó bổ nghĩa: “a glass of fresh milk”."
     },
     {
       "id": 84,
@@ -1008,7 +1008,7 @@
         "D. Do she like black or white coffee?"
       ],
       "answer": "A. Does she like black or white coffee?",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Does she like black or white coffee?”."
+      "explanation": "Câu hỏi với “Does” thì động từ chính để nguyên mẫu; chủ ngữ “she” số ít nên dùng “Does”, không dùng “Do”."
     },
     {
       "id": 85,
@@ -1092,7 +1092,7 @@
         "D. this"
       ],
       "answer": "C. using",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: My father has taught me how using this machine”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “using”."
+      "explanation": "Sau “how” trong câu gián tiếp phải dùng “to + động từ nguyên mẫu”, nên viết “how to use”."
     },
     {
       "id": 92,
@@ -1104,7 +1104,7 @@
         "D. I doesn’t want to meet them"
       ],
       "answer": "A. I don’t want to meet them",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “I don’t want to meet them”."
+      "explanation": "Sau “want” phải dùng “to + động từ nguyên mẫu”; chủ ngữ “I” dùng “don’t”."
     },
     {
       "id": 93,
@@ -1116,7 +1116,7 @@
         "D. Do the party start at seven?"
       ],
       "answer": "A. Does the party start at seven?",
-      "explanation": "Hoàn chỉnh câu: “The party / start / seven?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Does the party start at seven?”."
+      "explanation": "Từ các từ gợi ý, câu hỏi đúng là “Does the party start at seven?”: chủ ngữ số ít dùng “does”, động từ theo sau để nguyên mẫu, và cần giới từ “at” trước giờ."
     },
     {
       "id": 94,
@@ -1152,7 +1152,7 @@
         "D. I’m hungry. I’d likes some chicken"
       ],
       "answer": "A. I’m hungry. I’d like some chicken",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “I’m hungry. I’d like some chicken”."
+      "explanation": "Sau “would like” dùng ngay danh từ, không thêm “to”: “I’d like some chicken”."
     },
     {
       "id": 97,
@@ -1164,7 +1164,7 @@
         "D. In the end"
       ],
       "answer": "D. In the end",
-      "explanation": "Hoàn chỉnh câu: “Choose the word(s) CLOSEST in meaning to the underlined word/phrase in the following sentence: Finally, Alice helped the White Queen defeat the Red Queen”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “In the end”."
+      "explanation": "“Finally” nghĩa là cuối cùng, đồng nghĩa với “In the end”. “Firstly” là đầu tiên, nghĩa trái ngược."
     },
     {
       "id": 98,
@@ -1200,7 +1200,7 @@
         "D. She wanted me don’t wash those jeans"
       ],
       "answer": "A. She wanted me not to wash those jeans",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “She wanted me to not wash those jeans”."
+      "explanation": "Cấu trúc “want somebody not to do something” nên viết “not to wash”; “to not wash” sai trật tự."
     },
     {
       "id": 101,
@@ -1296,7 +1296,7 @@
         "D. see"
       ],
       "answer": "A. Although",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: Although she has a toothache, she has to go to see a dentist”. Liên từ được chọn phải thể hiện đúng quan hệ bổ sung, đối lập, lựa chọn hoặc nguyên nhân–kết quả giữa hai vế. Vì vậy dùng “Although”."
+      "explanation": "Hai mệnh đề cùng chiều nghĩa (đau răng nên phải đi khám) nên dùng “Because”, không dùng “Although” vì từ này chỉ sự trái ngược."
     },
     {
       "id": 109,
@@ -1308,7 +1308,7 @@
         "D. went to"
       ],
       "answer": "A. came back",
-      "explanation": "Hoàn chỉnh câu: “Choose the word(s) CLOSEST in meaning to “returned to” in the following sentence: “Phuong returned to Hanoi yesterday”. Dấu hiệu thời gian quá khứ yêu cầu thì quá khứ đơn; dùng dạng quá khứ của động từ hoặc “was/were”. Vì vậy dùng “came back”."
+      "explanation": "“returned to” nghĩa là trở về, đồng nghĩa với “came back”. “left for” là rời đi, nghĩa trái ngược."
     },
     {
       "id": 110,
@@ -1356,7 +1356,7 @@
         "D. The policeman’s job are difficult"
       ],
       "answer": "A. The policeman’s job is difficult",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Ngữ cảnh chỉ mức độ cao nhất hoặc đối tượng xác định nên dùng “the” với dạng so sánh nhất/cụm danh từ xác định. Vì vậy dùng “The policeman’s job is difficult”."
+      "explanation": "“policeman’s” là dạng sở hữu đúng, và chủ ngữ “job” số ít nên dùng “is”."
     },
     {
       "id": 114,
@@ -1368,7 +1368,7 @@
         "D. to"
       ],
       "answer": "A. have",
-      "explanation": "Hoàn chỉnh câu: “Choose the part that needs correction in the following sentence: She have never been to Canada”. Đây là dấu hiệu thói quen nên dùng hiện tại đơn; động từ phải hòa hợp với chủ ngữ. Vì vậy dùng “have”."
+      "explanation": "Chủ ngữ “She” là số ít nên dùng “has”, không dùng “have”."
     },
     {
       "id": 115,
@@ -1392,7 +1392,7 @@
         "D. Henry late for school was yesterday"
       ],
       "answer": "A. Henry was late for school yesterday",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Henry was late for school yesterday”."
+      "explanation": "“late for school” là cụm cố định, dùng giới từ “for”."
     },
     {
       "id": 117,
@@ -1416,7 +1416,7 @@
         "D. We have breakfast at 6 every mornings"
       ],
       "answer": "A. We have breakfast at 6 every morning",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “We have breakfast at 6 every morning”."
+      "explanation": "Chủ ngữ “We” dùng “have”; giờ đi với giới từ “at”; và “every morning” luôn ở dạng số ít."
     },
     {
       "id": 119,
@@ -1428,7 +1428,7 @@
         "D. How much do a loaf of bread cost?"
       ],
       "answer": "A. How much does a loaf of bread cost?",
-      "explanation": "Hoàn chỉnh câu: “What is the price of a loaf of bread?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “How much does a loaf of bread cost?”."
+      "explanation": "“What is the price of…?” hỏi giá, viết lại thành “How much does… cost?”. Chủ ngữ “a loaf of bread” là số ít nên dùng “does”, không dùng “do” hay “how many”."
     },
     {
       "id": 120,
@@ -1452,7 +1452,7 @@
         "D. Mr. Jones travel to work by train"
       ],
       "answer": "A. Mr. Jones travels to work by train",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Mr. Jones travels to work by train”."
+      "explanation": "Chủ ngữ “Mr. Jones” số ít nên dùng “travels”; “to work” không thêm “-s”; phương tiện viết “by train” không có mạo từ."
     },
     {
       "id": 122,
@@ -1512,7 +1512,7 @@
         "D. You never join us for lunch"
       ],
       "answer": "A. Would you like to join us for lunch?",
-      "explanation": "Hoàn chỉnh câu: “Why don’t you join us for lunch?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Let’s join us for lunch”."
+      "explanation": "“Why don’t you…?” là lời mời, viết lại thành “Would you like to…?”. “must” là bắt buộc, “never” là phủ định, đều sai sắc thái."
     },
     {
       "id": 127,
@@ -1548,7 +1548,7 @@
         "D. I’m hungry. I’d liking some meat and rice"
       ],
       "answer": "A. I’m hungry. I’d like some meat and rice",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “I’m hungry. I’d like some meat and rice”."
+      "explanation": "Sau “would like” dùng ngay danh từ, không thêm “to”: “I’d like some meat and rice”."
     },
     {
       "id": 130,
@@ -1560,7 +1560,7 @@
         "D. less"
       ],
       "answer": "D. less",
-      "explanation": "Hoàn chỉnh câu: “Choose the word(s) OPPOSITE in meaning to “more” in the following sentence: If you practise speaking English more, you can improve your English speaking skills”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “less”."
+      "explanation": "“more” là nhiều hơn, nên từ trái nghĩa là “less” (ít hơn). “fewer” cũng nghĩa ít hơn nhưng chỉ dùng với danh từ đếm được."
     },
     {
       "id": 131,
@@ -1572,7 +1572,7 @@
         "D. I has some bread and milk for breakfast"
       ],
       "answer": "A. I have some bread and milk for breakfast",
-      "explanation": "Hoàn chỉnh câu: “Which sentence is correct?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “I have some bread and milk for breakfast”."
+      "explanation": "Trật tự câu tiếng Anh là “chủ ngữ + động từ + tân ngữ”; chủ ngữ “I” dùng “have”, không dùng “has”."
     },
     {
       "id": 132,
@@ -1644,7 +1644,7 @@
         "D. Does your class has fifty students?"
       ],
       "answer": "A. Does your class have fifty students?",
-      "explanation": "Hoàn chỉnh câu: “Are there fifty students in your class?”. Căn cứ vào vị trí của chỗ trống, nghĩa câu và cấu trúc đi kèm để chọn đúng dạng từ. Vì vậy dùng “Does your class have fifty students?”."
+      "explanation": "“Are there…?” viết lại thành “Does your class have…?”. Sau “does” phải dùng động từ nguyên mẫu “have”, không dùng “has”."
     },
     {
       "id": 138,

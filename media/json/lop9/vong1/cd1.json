@@ -941,7 +941,7 @@
       "question": "Choose a correct reply of the following expression: “Do you want this one _ _ that one?” – “I don’t mind. You choose.”",
       "options": [],
       "answer": "or",
-      "explanation": "Điền or để hoàn chỉnh ý: “Choose a correct reply of the following expression: “Do you want this one or that one?’ - ’I don’t mind. You choose’.”. Từ này phù hợp với ngữ cảnh và cụm từ đi kèm; các chữ cái đã cho cùng số ô trống cũng khớp với đáp án."
+      "explanation": "Câu hỏi nêu hai lựa chọn nên nối bằng “or”: “Do you want this one or that one?”. Chỗ trống có 2 ô, khớp với 2 chữ cái."
     },
     {
       "id": 114,

@@ -204,7 +204,7 @@
         "D. Yes, I do."
       ],
       "answer": "D. Yes, I do.",
-      "explanation": "Chọn “Yes, I do.” vì khi đặt vào chỗ trống, câu có nghĩa tự nhiên và đúng cấu trúc; các lựa chọn còn lại không phù hợp ngữ cảnh. Câu hoàn chỉnh: “Do you like goldfish? – Yes, I do.”. Nguồn đối chiếu: đề IOE gốc số 3, câu 151."
+      "explanation": "Câu hỏi bắt đầu bằng “Do you…” nên trả lời ngắn bằng “Yes, I do.” hoặc “No, I don’t.”, không dùng “am”, “can” hay “is”."
     },
     {
       "id": 18,
@@ -1080,7 +1080,7 @@
         "D. It’s two years old."
       ],
       "answer": "B. It’s white.",
-      "explanation": "Chọn “It’s white.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What colour is your skirt? – It’s white.”. Nguồn đối chiếu: đề IOE gốc số 7, câu 91."
+      "explanation": "Câu hỏi “What colour…?” hỏi về màu sắc nên phải trả lời bằng một màu. “new”, “fine” và “two years old” không phải màu."
     },
     {
       "id": 91,
@@ -1452,7 +1452,7 @@
         "D. Dog"
       ],
       "answer": "C. Bird",
-      "explanation": "Chọn “Bird” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “Which animal has ONLY two legs? – Bird”. Nguồn đối chiếu: đề IOE gốc số 24, câu 177."
+      "explanation": "Chim (“bird”) có hai chân; mèo, hổ và chó đều có bốn chân."
     },
     {
       "id": 122,
@@ -1488,7 +1488,7 @@
         "D. I’m fine, thank."
       ],
       "answer": "C. I’m a teacher.",
-      "explanation": "Chọn “I’m a teacher.” vì từ này có đúng vai trò chủ ngữ, tân ngữ hoặc sở hữu tại vị trí chỗ trống. Câu hoàn chỉnh: “Are you a student or a teacher? – I’m a teacher.”. Nguồn đối chiếu: đề IOE gốc số 18, câu 116."
+      "explanation": "Câu hỏi lựa chọn “…a student or a teacher?” phải trả lời bằng một trong hai, không trả lời “Yes” hay “No”."
     },
     {
       "id": 125,
@@ -1968,7 +1968,7 @@
         "D. A yo-yo."
       ],
       "answer": "D. A yo-yo.",
-      "explanation": "Chọn “A yo-yo.” vì từ này hoàn chỉnh câu hỏi và phù hợp với loại thông tin cần trả lời. Câu hoàn chỉnh: “What toy do you like? – A yo-yo.”. Nguồn đối chiếu: đề IOE gốc số 35, câu 78."
+      "explanation": "Câu hỏi “What toy…?” hỏi về đồ chơi. Yo-yo là đồ chơi, còn “Tom and Jerry” là phim, “gold fish” và “a rabbit” là con vật."
     },
     {
       "id": 165,

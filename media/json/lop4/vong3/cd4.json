@@ -126,13 +126,13 @@
       "id": 11,
       "question": "Which word has the underlined part pronounced DIFFERENTLY from EA in 'PLEASE'?",
       "options": [
-        "A. r<u>ea</u>d",
+        "A. m<u>ea</u>t",
         "B. sp<u>ea</u>k",
         "C. cl<u>ea</u>n",
         "D. br<u>ea</u>kfast"
       ],
       "answer": "D. breakfast",
-      "explanation": "read, speak, clean đều có \"ea\" đọc /iː/ giống PLEASE; breakfast có \"ea\" đọc /e/ → breakfast khác âm."
+      "explanation": "meat, speak, clean đều có “ea” đọc /iː/, còn “breakfast” đọc /e/."
     },
     {
       "id": 12,
@@ -318,13 +318,13 @@
       "id": 27,
       "question": "Which word has ’ea’ pronounced as ’ea’ in 'leaf'?",
       "options": [
-        "A. h<u>ea</u>rt",
+        "A. n<u>ea</u>r",
         "B. tr<u>ea</u>t",
-        "C. br<u>ea</u>k",
+        "C. h<u>ea</u>r",
         "D. y<u>ea</u>r"
       ],
-      "answer": "B. treat",
-      "explanation": "Câu hỏi: 'ea' đọc như 'ea' trong leaf (/iː/)? heart /ɑː/; break /eɪ/; year /ɪə/; treat /iː/ → treat."
+      "answer": "B. tr<u>ea</u>t",
+      "explanation": "near, hear và year đều có “ea” đọc /ɪə/, còn “treat” đọc /iː/."
     },
     {
       "id": 28,
