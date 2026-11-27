@@ -526,16 +526,29 @@
         updateProgress();
     }
 
+    // Bàn phím của học sinh gõ ra dấu lược thẳng ' và dấu ngoặc kép thẳng ",
+    // còn đề lại dùng dấu cong ’ “ ”. Quy về một dạng trước khi so, nếu không
+    // câu như "mustn’t" sẽ bị chấm sai dù học sinh trả lời đúng.
+    function normalizeTyped(txt) {
+        return String(txt)
+            .replace(/[‘’ʼ´`]/g, "'")
+            .replace(/[“”]/g, '"')
+            .replace(/[–—]/g, '-')
+            .replace(/\s+/g, ' ')
+            .trim()
+            .toLowerCase();
+    }
+
     function getFillAnswer(txt) {
         const m = txt.match(/^(.*?)\s*\(/);
-        return (m ? m[1] : txt).trim().toLowerCase();
+        return normalizeTyped(m ? m[1] : txt);
     }
 
     function isAnswerCorrect(q) {
         const a = appState.answers[q.id];
         if (a===undefined) return false;
         if (q.options&&q.options.length>0) { const strip=s=>s.replace(/<[^>]+>/g,''); return strip(a)===strip(q.correct); }
-        return a.trim().toLowerCase()===getFillAnswer(q.correct);
+        return normalizeTyped(a)===getFillAnswer(q.correct);
     }
 
     function updateAnsweredCount() {

@@ -565,9 +565,14 @@
     {
       "id": 46,
       "question": "How much kerosene a week do they buy? - ....",
-      "options": [],
-      "answer": "Chọn ý D",
-      "explanation": "Mở liên kết audio và nghe lại câu hỏi. Đáp án là “Chọn ý D”, đúng với thông tin được nêu trong phần nghe; cần chú ý từ khóa hỏi trong câu để chọn chi tiết chính xác.",
+      "options": [
+        "A. Over fourteen liters",
+        "B. Over four liters",
+        "C. Over forty liters",
+        "D. Over fourteen gallons"
+      ],
+      "answer": "A. Over fourteen liters",
+      "explanation": "Câu hỏi hỏi về lượng dầu mua mỗi tuần nên đáp án phải là một mức số lượng. Bản ghi cho biết họ mua hơn mười bốn lít một tuần.",
       "audio": "media/audio/lop9/3a53c519824606c77c09.mp3"
     },
     {

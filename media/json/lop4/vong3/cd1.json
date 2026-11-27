@@ -284,7 +284,7 @@
     },
     {
       "id": 41,
-      "question": "Mi: What is your favou_ _ _ _ film? - Tom: I like ’’Tom & Jerry’’.",
+      "question": "Mi: What is your favou_ _ _ _ film? - Tom: I like “Tom & Jerry”.",
       "options": [],
       "answer": "rite",
       "explanation": "\"favourite film\" = bộ phim yêu thích."
@@ -902,7 +902,7 @@
     },
     {
       "id": 105,
-      "question": ".. is it from here to your school? – About 100 metres.",
+      "question": "... is it from here to your school? – About 100 metres.",
       "options": [
         "A. How often",
         "B. How long",

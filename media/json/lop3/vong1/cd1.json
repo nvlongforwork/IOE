@@ -417,10 +417,10 @@
     },
     {
       "id": 60,
-      "question": "Unscramble this word: ’’YBEDOGO’’ -> ’’GOOD_ _ _ ’’.",
+      "question": "Unscramble this word: “YBEDOGO” -> “GOOD_ _ _ ”.",
       "options": [],
       "answer": "BYE",
-      "explanation": "Điền “BYE” vào phần còn thiếu để ghép thành từ “GOODBYE”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Unscramble this word: ’’YBEDOGO’’ -> ’’GOODBYE’’”."
+      "explanation": "Điền “BYE” vào phần còn thiếu để ghép thành từ “GOODBYE”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Unscramble this word: “YBEDOGO” -> “GOODBYE””."
     },
     {
       "id": 61,
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 139,
-      "question": "this a pencil?",
+      "question": "... this a pencil?",
       "options": [
         "A. Are",
         "B. You",

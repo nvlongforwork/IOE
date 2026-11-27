@@ -88,10 +88,10 @@
     },
     {
       "id": 13,
-      "question": "Unscramble this word: ’’RYRALIB’’ -> ’’_ _ BRARY’’.",
+      "question": "Unscramble this word: “RYRALIB” -> “_ _ BRARY”.",
       "options": [],
       "answer": "LI",
-      "explanation": "Điền “LI” vào phần còn thiếu để ghép thành từ “LIBRARY”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Unscramble this word: ’’RYRALIB’’ -> ’’LIBRARY’’”."
+      "explanation": "Điền “LI” vào phần còn thiếu để ghép thành từ “LIBRARY”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Unscramble this word: “RYRALIB” -> “LIBRARY””."
     },
     {
       "id": 14,
@@ -214,10 +214,10 @@
     },
     {
       "id": 31,
-      "question": "Let’s s_ y ’’Hello’’ to Tom.",
+      "question": "Let’s s_ y “Hello” to Tom.",
       "options": [],
       "answer": "a",
-      "explanation": "Điền “a” vào phần còn thiếu để ghép thành từ “say”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Let’s say ’’Hello’’ to Tom”."
+      "explanation": "Điền “a” vào phần còn thiếu để ghép thành từ “say”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “Let’s say “Hello” to Tom”."
     },
     {
       "id": 32,
@@ -1562,7 +1562,7 @@
     },
     {
       "id": 180,
-      "question": "your name?",
+      "question": "... your name?",
       "options": [
         "A. What",
         "B. What’s",

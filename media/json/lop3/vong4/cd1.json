@@ -67,10 +67,10 @@
     },
     {
       "id": 10,
-      "question": "How do you spell the wo_ _ ’’MONKEY’’?",
+      "question": "How do you spell the wo_ _ “MONKEY”?",
       "options": [],
       "answer": "rd",
-      "explanation": "Điền “rd” vào phần còn thiếu để ghép thành từ “word”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “How do you spell the word’’MONKEY’’?”."
+      "explanation": "Điền “rd” vào phần còn thiếu để ghép thành từ “word”. Từ này được viết đúng chính tả; câu hoàn chỉnh là “How do you spell the word“MONKEY”?”."
     },
     {
       "id": 11,
@@ -1678,7 +1678,7 @@
     },
     {
       "id": 188,
-      "question": "When the teacher wants my class not to talk, she says: ’’…’’.",
+      "question": "When the teacher wants my class not to talk, she says: “…”.",
       "options": [
         "A. Be quiet!",
         "B. Come here!",
@@ -1686,7 +1686,7 @@
         "D. Stand up!"
       ],
       "answer": "A. Be quiet!",
-      "explanation": "Trong ngữ cảnh cụ thể của câu “When the teacher wants my class not to talk, she says: ’’Be quiet!’’”, “Be quiet!” có đúng nghĩa và đúng vị trí từ loại; các lựa chọn còn lại không tạo được cách diễn đạt tự nhiên tương đương."
+      "explanation": "Trong ngữ cảnh cụ thể của câu “When the teacher wants my class not to talk, she says: “Be quiet!””, “Be quiet!” có đúng nghĩa và đúng vị trí từ loại; các lựa chọn còn lại không tạo được cách diễn đạt tự nhiên tương đương."
     },
     {
       "id": 189,

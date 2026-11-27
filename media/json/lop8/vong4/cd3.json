@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "question": "Thang: Would you mind _ _  I used your computer for an hour? – Nguyen: Please do.",
+      "question": "Thang: Would you mind _ _ I used your computer for an hour? – Nguyen: Please do.",
       "options": [],
       "answer": "if",
       "explanation": "Đáp án “if” đáp đúng chức năng đề nghị/xin phép. Cách trả lời này thể hiện đồng ý, từ chối hoặc phản hồi lịch sự theo ngữ cảnh."
@@ -61,7 +61,7 @@
     },
     {
       "id": 8,
-      "question": "Would you mind showing _ _ _  to operate this machine?",
+      "question": "Would you mind showing _ _ _ to operate this machine?",
       "options": [],
       "answer": "how",
       "explanation": "Đáp án “how” đáp đúng chức năng đề nghị/xin phép. Cách trả lời này thể hiện đồng ý, từ chối hoặc phản hồi lịch sự theo ngữ cảnh."
@@ -118,12 +118,12 @@
       "question": "Thu: “Did your flat mate ... the house?” – Nam: “No, never.”",
       "options": [
         "A. use to clean",
-        "B. used to clean",
+        "B. uses to clean",
         "C. used to cleaning",
         "D. use to cleaning"
       ],
       "answer": "A. use to clean",
-      "explanation": "Sau trợ động từ “did” phải dùng dạng nguyên mẫu, nên viết “Did your flat mate use to clean…?”, không dùng “used to”."
+      "explanation": "Sau trợ động từ “did” phải dùng động từ nguyên mẫu không chia, nên viết “Did your flat mate use to clean…?”."
     },
     {
       "id": 16,

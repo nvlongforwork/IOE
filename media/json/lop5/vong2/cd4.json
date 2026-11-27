@@ -572,10 +572,10 @@
     },
     {
       "id": 72,
-      "question": "I love ’’Snow White and Seven Dw_ _ _ s’’ best.",
+      "question": "I love “Snow White and Seven Dw_ _ _ s” best.",
       "options": [],
       "answer": "arf",
-      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I love ’’Snow White and Seven Dw_ _ _ s’’ best.”, đáp án phù hợp là “arf”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 23, câu 149.",
+      "explanation": "Hình gốc là dữ kiện trực tiếp của câu. Đối chiếu hình với yêu cầu “I love “Snow White and Seven Dw_ _ _ s” best.”, đáp án phù hợp là “arf”. Sau khi chọn, đọc lại toàn bộ yêu cầu để kiểm tra nghĩa và chính tả. Nguồn đối chiếu: IOE Lớp 5, đề 23, câu 149.",
       "image": "media/images/lop5/vong2/cd4/lop5_cd4_v2_image72.jpg"
     },
     {
@@ -1763,12 +1763,12 @@
       "question": "Pick out the word which has the stress pattern different from that of the other words:",
       "options": [
         "A. Holiday",
-        "B. Underground",
+        "B. Banana",
         "C. Basketball",
         "D. Television"
       ],
-      "answer": "B. Underground",
-      "explanation": "“Underground” có mẫu trọng âm /ʌndɜɡraʊnd/. So sánh âm tiết được nhấn của bốn phương án: chỉ “Underground” có vị trí nhấn theo yêu cầu/khác với ba từ còn lại. Nguồn đối chiếu: IOE Lớp 5, đề 41, câu 21."
+      "answer": "B. Banana",
+      "explanation": "Holiday, Basketball và Television đều nhấn âm tiết thứ nhất, còn “Banana” nhấn âm tiết thứ hai."
     },
     {
       "id": 190,
@@ -1820,7 +1820,7 @@
     },
     {
       "id": 194,
-      "question": "Choose the word that has different stress pattern:",
+      "question": "Choose the word that has a different vowel sound:",
       "options": [
         "A. pork",
         "B. go",
@@ -1828,7 +1828,7 @@
         "D. cold"
       ],
       "answer": "A. pork",
-      "explanation": "“pork” có mẫu trọng âm /pɔrk/. So sánh âm tiết được nhấn của bốn phương án: chỉ “pork” có vị trí nhấn theo yêu cầu/khác với ba từ còn lại. Nguồn đối chiếu: IOE Lớp 6, đề 4, câu 161."
+      "explanation": "go, nose và cold đều có nguyên âm /əʊ/, còn “pork” đọc /ɔː/."
     },
     {
       "id": 195,
@@ -1856,15 +1856,15 @@
     },
     {
       "id": 197,
-      "question": "Choose the word that has different stress pattern:",
+      "question": "Choose the word that has a different vowel sound:",
       "options": [
         "A. your",
         "B. four",
         "C. hour",
         "D. pour"
       ],
-      "answer": "D. pour",
-      "explanation": "“pour” có mẫu trọng âm /pɔr/. So sánh âm tiết được nhấn của bốn phương án: chỉ “pour” có vị trí nhấn theo yêu cầu/khác với ba từ còn lại. Nguồn đối chiếu: IOE Lớp 6, đề 5, câu 104."
+      "answer": "C. hour",
+      "explanation": "your, four và pour đều có nguyên âm /ɔː/, còn “hour” đọc /aʊə/ nên khác ba từ kia."
     },
     {
       "id": 198,
@@ -1895,12 +1895,12 @@
       "question": "Which word is stressed on the first syllable?",
       "options": [
         "A. traffic",
-        "B. armchair",
+        "B. balloon",
         "C. unload",
         "D. routine"
       ],
       "answer": "A. traffic",
-      "explanation": "“traffic” được nhấn ở âm tiết thứ nhất (dạng đọc: /træfɪk/). Đề hỏi từ có trọng âm ở âm 1 nên chọn phương án này; các từ còn lại có vị trí nhấn khác. Nguồn đối chiếu: IOE Lớp 6, đề 6, câu 117."
+      "explanation": "“traffic” nhấn âm tiết thứ nhất, còn balloon, unload và routine đều nhấn âm tiết thứ hai."
     }
   ],
   "part_B": [],

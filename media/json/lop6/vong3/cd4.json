@@ -280,15 +280,15 @@
     },
     {
       "id": 24,
-      "question": "The stress of “weekend” is on the ... syllable.",
+      "question": "The stress of “banana” is on the ... syllable.",
       "options": [
-        "A. one",
-        "B. first",
-        "C. second",
-        "D. two"
+        "A. first",
+        "B. second",
+        "C. third",
+        "D. fourth"
       ],
-      "answer": "B. first",
-      "explanation": "Xác định vị trí trọng âm/số âm tiết của các phương án; lựa chọn đúng là “B. first”, đúng với yêu cầu của câu hỏi."
+      "answer": "B. second",
+      "explanation": "“banana” đọc /bəˈnɑːnə/, nhấn vào âm tiết thứ hai."
     },
     {
       "id": 25,
@@ -544,7 +544,7 @@
     },
     {
       "id": 46,
-      "question": "How many syllables are there in the word ’’population’’?",
+      "question": "How many syllables are there in the word “population”?",
       "options": [
         "A. four",
         "B. three",
@@ -832,7 +832,7 @@
     },
     {
       "id": 70,
-      "question": "Ảnh: ’’Pokemon’’ is a famous Japanese _ _ _ _ _ _ _ in the world.",
+      "question": "Ảnh: “Pokemon” is a famous Japanese _ _ _ _ _ _ _ in the world.",
       "options": [],
       "answer": "cartoon",
       "explanation": "Quan sát đúng hình gốc kèm theo câu hỏi và đối chiếu ngữ cảnh. Từ/cụm từ phù hợp là “cartoon”.",
@@ -1868,7 +1868,7 @@
     },
     {
       "id": 168,
-      "question": "Ảnh: ’’Pokemon’’ is a famous Japanese _ _ _ _ _ _ _ in the world.",
+      "question": "Ảnh: “Pokemon” is a famous Japanese _ _ _ _ _ _ _ in the world.",
       "options": [],
       "answer": "cartoon",
       "explanation": "Quan sát đúng hình gốc kèm theo câu hỏi và đối chiếu ngữ cảnh. Từ/cụm từ phù hợp là “cartoon”.",
