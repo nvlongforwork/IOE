@@ -95,10 +95,15 @@
     },
     {
       "id": 15,
-      "question": "Thu: “Did your flat mate ... the house?” – Nam: “No, never.”“Pána:”use to clean             B. used to clean                        C. used to cleaning                 D. use to cleaning.",
-      "options": [],
-      "answer": "use to clean",
-      "explanation": "Đáp án “use to clean” đúng vì theo sau cấu trúc này phải dùng đúng dạng động từ. Đây là điểm ngữ pháp nâng cao cần nhận diện theo cụm cố định."
+      "question": "Thu: “Did your flat mate ... the house?” – Nam: “No, never.”",
+      "options": [
+        "A. use to clean",
+        "B. used to clean",
+        "C. used to cleaning",
+        "D. use to cleaning"
+      ],
+      "answer": "A. use to clean",
+      "explanation": "Sau trợ động từ “did” phải dùng dạng nguyên mẫu, nên viết “Did your flat mate use to clean…?”, không dùng “used to”."
     },
     {
       "id": 16,
@@ -137,7 +142,7 @@
     },
     {
       "id": 21,
-      "question": ".“Do you want to visit London?\\\", said Mai.",
+      "question": ".“Do you want to visit London?”, said Mai.",
       "options": [],
       "answer": "Mai asked me if I wanted to visit London",
       "explanation": "Đáp án “Mai asked me if I wanted to visit London” trả lời đúng trọng tâm của câu hỏi trong tình huống giao tiếp này. Nội dung và cách diễn đạt phù hợp với thông tin mà người hỏi cần biết."
@@ -732,10 +737,15 @@
     },
     {
       "id": 106,
-      "question": "She said: \\\"One day I will be able to continue my studies.\\\"“Pána:”She said she would be able to continue her studies one day.                B. She said she would be able to continue my studies.                      C. She said I would be able to continue my studies.                       D. She said she will be able to continue her studies.",
-      "options": [],
-      "answer": "She said she would be able to continue her studies one day",
-      "explanation": "Đáp án “She said she would be able to continue her studies one day” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "question": "She said: “One day I will be able to continue my studies.”",
+      "options": [
+        "A. She said she would be able to continue her studies one day.",
+        "B. She said she would be able to continue my studies.",
+        "C. She said I would be able to continue my studies.",
+        "D. She said she will be able to continue her studies."
+      ],
+      "answer": "A. She said she would be able to continue her studies one day.",
+      "explanation": "Câu tường thuật lùi thì “will” thành “would”, đổi “my studies” thành “her studies” và “one day” được giữ lại."
     },
     {
       "id": 107,
@@ -767,10 +777,15 @@
     },
     {
       "id": 111,
-      "question": "She said: \\\"One day I will be able to continue my studies.\\\".",
-      "options": [],
-      "answer": "She said she would be able to continue her studies one day",
-      "explanation": "Đáp án “She said she would be able to continue her studies one day” là lựa chọn đúng vì phù hợp đồng thời với cấu trúc ngữ pháp và ý nghĩa của câu."
+      "question": "She said: “One day I will be able to continue my studies.”",
+      "options": [
+        "A. She said she would be able to continue her studies one day.",
+        "B. She said she would be able to continue my studies.",
+        "C. She said I would be able to continue my studies.",
+        "D. She said she will be able to continue her studies."
+      ],
+      "answer": "A. She said she would be able to continue her studies one day.",
+      "explanation": "Câu tường thuật lùi thì “will” thành “would”, đổi “my studies” thành “her studies” và “one day” được giữ lại."
     },
     {
       "id": 112,

@@ -1327,10 +1327,15 @@
     },
     {
       "id": 190,
-      "question": "“Don’t forget. We are invited out to dinner tonight.” – “___”“Pána:”Oh, I almost forgot.                        B. It’s so unforgettable.               C. OK, I’ll try it first.             D. I remember you.",
-      "options": [],
-      "answer": "Oh, I almost forgot",
-      "explanation": "The missing word/part is “Oh, I almost forgot”. It completes ““Don’t forget. We are invited out to dinner tonight.” – “____”“Pána:”Oh, I almost forgot. B. It’s so unforgettable. C. OK, I’ll try it first. D. I remember you.” with the intended meaning and natural English usage."
+      "question": "“Don’t forget. We are invited out to dinner tonight.” – “___”",
+      "options": [
+        "A. Oh, I almost forgot.",
+        "B. It’s so unforgettable.",
+        "C. OK, I’ll try it first.",
+        "D. I remember you."
+      ],
+      "answer": "A. Oh, I almost forgot.",
+      "explanation": "Lời nhắc “Don’t forget” cần một phản hồi thừa nhận mình suýt quên, nên “Oh, I almost forgot.” là câu đáp tự nhiên nhất."
     },
     {
       "id": 191,
